@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>1000</sentences><tokens>22822</tokens><words>23287</words><fused>465</fused></total>
+  </size>
+  <lemmas unique="3" /><!-- el, de, a -->
+  <forms unique="5938" /><!-- de, el, ,, ., la, en, a, que, y, los, se, un, las, una, por -->
+  <fusions unique="61" /><!-- del, al, verlo, beneficiarse, convirtiéndose, hacerlo, recuperarlo, adminiéndolo, alejarse, aplicándolo, centrarse, centrándose, comprometerse, concentrase, convertirse -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="14">
+    <tag name="ADJ">1474</tag><!-- _ -->
+    <tag name="ADP">4225</tag><!-- _, de, a -->
+    <tag name="ADV">909</tag><!-- _ -->
+    <tag name="AUX">289</tag><!-- _ -->
+    <tag name="CCONJ">582</tag><!-- _ -->
+    <tag name="DET">3356</tag><!-- _, el -->
+    <tag name="NOUN">4822</tag><!-- _ -->
+    <tag name="NUM">435</tag><!-- _ -->
+    <tag name="PRON">1017</tag><!-- _ -->
+    <tag name="PROPN">1236</tag><!-- _ -->
+    <tag name="PUNCT">2291</tag><!-- _ -->
+    <tag name="SYM">21</tag><!-- _ -->
+    <tag name="VERB">2610</tag><!-- _ -->
+    <tag name="X">20</tag><!-- _ -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="23">
+    <feat name="Aspect" value="Imp" upos="AUX,VERB">1707</feat><!-- es, está, era, son, puede, ser, tiene, estaba, están, hacer -->
+    <feat name="Aspect" value="Perf" upos="AUX,VERB">780</feat><!-- fue, ha, había, dijo, fueron, han, habían, afirmó, convirtió, declaró -->
+    <feat name="Case" value="Acc" upos="PRON">60</feat><!-- lo, la, le, les, nos, los, me, You, las -->
+    <feat name="Case" value="Dat" upos="PRON">48</feat><!-- le, les, me, nos, lo, te -->
+    <feat name="Case" value="Nom" upos="PRON">36</feat><!-- el, ella, ellos, yo, él, lo, Ya, You, usted -->
+    <feat name="Foreign" value="Yes" upos="X">1</feat><!-- maiorum -->
+    <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">4538</feat><!-- la, las, una, su, que, esta, sus, guerra, parte, ciudad -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">6984</feat><!-- el, los, un, que, lo, su, años, este, año, lugar -->
+    <feat name="Mood" value="Cnd" upos="AUX,VERB">54</feat><!-- podría, sería, debería, podrían, aplicaría, estaría, serían, asistiría, ayudaría, conocerían -->
+    <feat name="Mood" value="Imp" upos="VERB">2</feat><!-- Don, Knuck -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">1744</feat><!-- es, fue, ha, está, había, era, dijo, son, puede, tiene -->
+    <feat name="Mood" value="Sub" upos="AUX,VERB">110</feat><!-- sea, hayan, hubiera, fueran, fuese, escogiera, haya, hubiese, produzcan, sean -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,PRON,PROPN,VERB">3496</feat><!-- los, las, que, se, sus, años, son, fueron, millones, han -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,PRON,PROPN,VERB">10500</feat><!-- el, la, un, se, una, su, que, es, lo, fue -->
+    <feat name="Person" value="1" upos="AUX,PRON,VERB">129</feat><!-- me, nos, yo, estamos, nuestro, debemos, he, mi, creo, hemos -->
+    <feat name="Person" value="2" upos="PRON,VERB">19</feat><!-- You, te, tienes, Buck, Don, Knew, Knuck, Terminas, Ya, habéis -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">2501</feat><!-- se, su, es, fue, ha, sus, está, había, lo, le -->
+    <feat name="Polarity" value="Neg" upos="ADV">128</feat><!-- no, nunca, t, tampoco -->
+    <feat name="Tense" value="Fut" upos="AUX,VERB">43</feat><!-- será, habrá, tendrá, hará, reducirá, Evaluaremos, Jugarán, asistirán, cambiará, contendrán -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">1049</feat><!-- fue, ha, había, era, dijo, fueron, estaba, han, habían, estaban -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">762</feat><!-- es, está, son, puede, tiene, están, hay, hace, tienen, pueden -->
+    <feat name="Voice" value="Act" upos="AUX,VERB">2078</feat><!-- es, ha, está, era, había, fue, dijo, tiene, son, estaba -->
+    <feat name="Voice" value="Pass" upos="AUX,VERB">218</feat><!-- fue, fueron, ha, había, ser, puede, son, habían, pueden, conoce -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="40">
+    <dep name="acl">165</dep>
+    <dep name="acl:relcl">243</dep>
+    <dep name="advcl">119</dep>
+    <dep name="advmod">843</dep>
+    <dep name="amod">1308</dep>
+    <dep name="appos">320</dep>
+    <dep name="aux">375</dep>
+    <dep name="aux:pass">94</dep>
+    <dep name="case">3702</dep>
+    <dep name="cc">565</dep>
+    <dep name="cc:preconj">12</dep>
+    <dep name="ccomp">149</dep>
+    <dep name="compound:prt">318</dep>
+    <dep name="conj">652</dep>
+    <dep name="cop">289</dep>
+    <dep name="csubj">40</dep>
+    <dep name="csubj:pass">16</dep>
+    <dep name="dep">4</dep>
+    <dep name="det">3486</dep>
+    <dep name="det:predet">31</dep>
+    <dep name="discourse">105</dep>
+    <dep name="fixed">379</dep>
+    <dep name="flat">1</dep>
+    <dep name="flat:name">210</dep>
+    <dep name="goeswith">23</dep>
+    <dep name="iobj">49</dep>
+    <dep name="mark">271</dep>
+    <dep name="nmod">1803</dep>
+    <dep name="nsubj">1189</dep>
+    <dep name="nsubj:pass">165</dep>
+    <dep name="nummod">192</dep>
+    <dep name="obj">790</dep>
+    <dep name="obl">1550</dep>
+    <dep name="obl:tmod">68</dep>
+    <dep name="orphan">5</dep>
+    <dep name="parataxis">106</dep>
+    <dep name="punct">2292</dep>
+    <dep name="root">1000</dep>
+    <dep name="vocative">2</dep>
+    <dep name="xcomp">356</dep>
+  </deps>
+</treebank>
