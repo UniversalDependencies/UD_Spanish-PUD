@@ -8494,9 +8494,9 @@
 # text_en = London’s landmark South Bank Tower commissioned interior designer Rachel Winham to design the show apartment.
 1	La	_	DET	DT	Gender=Fem|Number=Sing	5	det	_	_
 2	emblemática	_	ADJ	JJ	Gender=Fem|Number=Sing	5	amod	_	_
-3	South	_	NOUN	NN	Number=Sing	5	flat:name	_	Proper=True
+3	South	_	NOUN	NN	Number=Sing	8	nsubj	_	Proper=True
 4	Bank	_	NOUN	NN	Number=Sing	3	flat:name	_	Proper=True
-5	Tower	_	NOUN	NN	Number=Sing	8	nsubj	_	Proper=True
+5	Tower	_	NOUN	NN	Number=Sing	3	flat:name	_	Proper=True
 6	de	_	ADP	IN	_	7	case	_	_
 7	Londres	_	PROPN	NNP	Number=Sing	5	nmod	_	_
 8	contrató	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
@@ -27940,9 +27940,9 @@
 11	su	_	PRON	DTP$	Gender=Fem|Number=Sing|Person=3	12	det	_	_
 12	productora	_	NOUN	NN	Gender=Fem|Number=Sing	9	obl	_	_
 13	The	_	DET	DT	Number=Sing	16	det	_	Proper=True
-14	Rocket	_	NOUN	NN	Number=Sing	16	flat:name	_	Proper=True
+14	Rocket	_	NOUN	NN	Number=Sing	12	appos	_	Proper=True
 15	Record	_	NOUN	NN	Number=Sing	14	flat:name	_	Proper=True
-16	Company	_	NOUN	NN	Number=Sing	12	appos	_	Proper=True|SpaceAfter=No
+16	Company	_	NOUN	NN	Number=Sing	14	flat:name	_	Proper=True|SpaceAfter=No
 17	,	_	PUNCT	,	_	18	punct	_	_
 18	Kiki	_	PROPN	NNP	Gender=Fem|Number=Sing	7	appos	_	_
 19	Dee	_	PROPN	NNP	Gender=Fem|Number=Sing	18	flat:name	_	SpaceAfter=No
