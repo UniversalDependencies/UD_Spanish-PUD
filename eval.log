@@ -3,8 +3,8 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Spanish-PUD:
-commit 35a6ed7ddba78a4bac0c24a180238263d98ec63d
-Merge: c5c7812 ca702f0
+commit 8bc574554dd747e6bf56638f6beb409a20b075aa
+Merge: 489fc4a fac87b8
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 23287 of 23287 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.2957905299022.
