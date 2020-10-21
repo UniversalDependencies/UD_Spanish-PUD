@@ -36,6 +36,9 @@ employ ten-fold cross-validation.
 
 # Changelog
 
+* 2020-11-15 v2.7
+  * Subordinating conjunctions separated from prepositions (based on the
+    'mark' deprel).
 * 2017-11-15 v2.1
   * First official release after it was used as a surprise dataset in the
     CoNLL 2017 shared task.

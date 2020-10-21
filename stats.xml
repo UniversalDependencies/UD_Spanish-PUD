@@ -14,9 +14,9 @@
   <forms unique="5938" /><!-- de, el, ,, ., la, en, a, que, y, los, se, un, las, una, por -->
   <fusions unique="61" /><!-- del, al, verlo, beneficiarse, convirtiéndose, hacerlo, recuperarlo, adminiéndolo, alejarse, aplicándolo, centrarse, centrándose, comprometerse, concentrase, convertirse -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
-  <tags unique="14">
+  <tags unique="15">
     <tag name="ADJ">1474</tag><!-- _ -->
-    <tag name="ADP">4225</tag><!-- _, de, a -->
+    <tag name="ADP">3967</tag><!-- _, de, a -->
     <tag name="ADV">909</tag><!-- _ -->
     <tag name="AUX">756</tag><!-- _, ser, poder, haber, tener -->
     <tag name="CCONJ">582</tag><!-- _ -->
@@ -26,6 +26,7 @@
     <tag name="PRON">1058</tag><!-- _, él, yo, tú -->
     <tag name="PROPN">1234</tag><!-- _ -->
     <tag name="PUNCT">2291</tag><!-- _ -->
+    <tag name="SCONJ">258</tag><!-- _ -->
     <tag name="SYM">21</tag><!-- _ -->
     <tag name="VERB">2143</tag><!-- _, ser, estar, poder, tener, acabar, haber, llevar, seguir, soler -->
     <tag name="X">20</tag><!-- _ -->
