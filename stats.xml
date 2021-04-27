@@ -80,7 +80,7 @@
     <feat name="Voice" value="Pass" upos="AUX,VERB">218</feat><!-- fue, fueron, ha, había, ser, puede, son, habían, pueden, conoce -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="40">
+  <deps unique="39">
     <dep name="acl">109</dep>
     <dep name="acl:relcl">243</dep>
     <dep name="advcl">175</dep>
@@ -99,8 +99,7 @@
     <dep name="csubj">40</dep>
     <dep name="csubj:pass">16</dep>
     <dep name="dep">4</dep>
-    <dep name="det">3486</dep>
-    <dep name="det:predet">31</dep>
+    <dep name="det">3517</dep>
     <dep name="discourse">105</dep>
     <dep name="fixed">379</dep>
     <dep name="flat">1</dep>
