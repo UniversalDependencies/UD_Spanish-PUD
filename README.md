@@ -36,6 +36,8 @@ employ ten-fold cross-validation.
 
 # Changelog
 
+* 2021-05-15 v2.8
+  * Removed the det:predet subtype, it is not needed in Spanish.
 * 2020-11-15 v2.7
   * Subordinating conjunctions separated from prepositions (based on the
     'mark' deprel).
