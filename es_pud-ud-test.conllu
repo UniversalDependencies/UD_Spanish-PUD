@@ -9652,9 +9652,9 @@
 # sent_id = n01142008
 # text = Tengo que felicitar a Andy, llegar a ser número 1 del mundo es un logro increíble, dijo el estadounidense.
 # text_en = "I have to congratulate Andy -- to get to No. 1 in the world that's an incredible achievement," the American said.
-1	Tengo	tener	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
-2	que	_	ADP	IN	_	1	fixed	_	_
-3	felicitar	_	VERB	VB	Aspect=Imp|VerbForm=Fin	0	root	_	_
+1	Tengo	tener	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	que	que	SCONJ	IN	_	3	mark	_	_
+3	felicitar	felicitar	VERB	VB	Aspect=Imp|VerbForm=Fin	1	xcomp	_	_
 4	a	_	ADP	IN	_	5	case	_	_
 5	Andy	_	PROPN	NNP	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
 6	,	_	PUNCT	,	_	17	punct	_	_
@@ -9669,13 +9669,13 @@
 14	mundo	_	NOUN	NN	Gender=Masc|Number=Sing	10	nmod	_	_
 15	es	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	cop	_	_
 16	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-17	logro	_	NOUN	NN	Gender=Masc|Number=Sing	3	parataxis	_	_
+17	logro	_	NOUN	NN	Gender=Masc|Number=Sing	1	parataxis	_	_
 18	increíble	_	ADJ	JJ	Gender=Masc|Number=Sing	17	amod	_	SpaceAfter=No
 19	,	_	PUNCT	,	_	20	punct	_	_
-20	dijo	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+20	dijo	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	_
 21	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	estadounidense	_	NOUN	NN	Gender=Masc|Number=Sing	20	nsubj	_	SpaceAfter=No|Proper=True
-23	.	_	PUNCT	.	_	3	punct	_	_
+23	.	_	PUNCT	.	_	1	punct	_	_
 
 # newdoc id = n01143
 # sent_id = n01143003
