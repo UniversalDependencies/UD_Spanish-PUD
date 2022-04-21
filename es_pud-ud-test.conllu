@@ -1276,7 +1276,7 @@
 1	Desafortunadamente	desafortunadamente	ADV	RB	_	8	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	_	_
 3	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-4	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	8	advmod	_	_
+4	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
 5	más	_	ADV	RBR	Degree=Cmp	4	advmod	_	_
 6	son	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
 7	unos	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
@@ -1330,7 +1330,7 @@
 13	21	21	NUM	CD	Gender=Masc|NumType=Card	11	obl:tmod	_	_
 14	de	de	ADP	IN	_	15	case	_	_
 15	octubre	octubre	NOUN	NN	Gender=Masc|Number=Sing	13	nmod	_	_
-16	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	17	advmod	_	_
+16	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	17	obl	_	_
 17	cerraron	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	acl:relcl	_	_
 18	sitios	_	NOUN	NN	Gender=Masc|Number=Plur	17	nsubj	_	_
 19	web	web	NOUN	NN	Gender=Fem|Number=Sing	18	nmod	_	_
@@ -2742,7 +2742,7 @@
 21	,	,	PUNCT	,	_	23	punct	_	_
 22	que	_	PRON	REL	Gender=Fem|Number=Plur|PronType=Int,Rel	23	nsubj	_	_
 23	ven	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	acl:relcl	_	_
-24	día	día	NOUN	NN	Gender=Masc|Number=Sing	23	advmod	_	_
+24	día	día	NOUN	NN	Gender=Masc|Number=Sing	23	obl	_	_
 25	tras	tras	ADP	IN	_	26	case	_	_
 26	día	día	NOUN	NN	Gender=Masc|Number=Sing	24	nmod	_	_
 27	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
@@ -2758,7 +2758,7 @@
 2	viendo	_	VERB	VBG	Aspect=Imp|VerbForm=Fin	0	root	_	_
 3	como	como	ADV	WRB	_	23	advmod	_	_
 4	cada	_	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	5	det	_	_
-5	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	7	advmod	_	_
+5	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
 6	más	_	ADV	RBR	Degree=Cmp	7	advmod	_	_
 7	países	_	NOUN	NN	Gender=Masc|Number=Plur	23	nsubj	_	_
 8	y	y	CCONJ	CC	_	14	cc	_	SpaceAfter=No
@@ -3115,7 +3115,7 @@
 32	15 000	15 000	NUM	CD	Gender=Masc|NumType=Card	33	nummod	_	_
 33	dólares	_	NOUN	NN	Gender=Masc|Number=Plur	22	conj	_	_
 34	cada	cada	DET	DT	Gender=Masc|Number=Sing|PronType=Tot	35	det	_	_
-35	uno	uno	NOUN	NN	Gender=Masc|Number=Sing	33	advmod	_	SpaceAfter=No
+35	uno	uno	NOUN	NN	Gender=Masc|Number=Sing	33	obl	_	SpaceAfter=No
 36	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = n01043014
@@ -4458,7 +4458,7 @@
 16	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	17	iobj	_	_
 17	preocupa	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 18	cada	_	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	19	det	_	_
-19	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	17	advmod	_	_
+19	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	17	obl	_	_
 20	más	_	ADV	RBR	Degree=Cmp	17	advmod	_	_
 21	algo	algo	NOUN	NN	Gender=Masc|Number=Sing	17	nsubj	_	_
 22	más	_	ADV	RBR	Degree=Cmp	23	advmod	_	_
@@ -5655,7 +5655,7 @@
 # text = Cada vez más gente se está pasando al crédito… aunque por ahora pedir dinero prestado sea cómodo, un repentino cambio de las circunstancias podría producir problemas de endeudamiento.
 # text_en = “More people are turning to credit … While this borrowing might be manageable now, a sudden change in circumstances could lead to debt problems.”
 1	Cada	_	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	2	det	_	_
-2	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	7	advmod	_	_
+2	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
 3	más	_	ADV	RBR	Degree=Cmp	4	advmod	_	_
 4	gente	gente	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	compound:prt	_	_
@@ -5817,7 +5817,7 @@
 13	en	en	ADP	IN	_	15	case	_	_
 14	cualquier	cualquier	DET	DT	Gender=Masc|Number=Sing|PronType=Ind	15	det	_	_
 15	momento	momento	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	_
-16	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	18	advmod	_	_
+16	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	18	obl	_	_
 17	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	obj	_	_
 18	desee	_	VERB	VBC	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	acl:relcl	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	9	punct	_	_
@@ -5911,7 +5911,7 @@
 5	esto	esto	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	6	nsubj	_	_
 6	merece	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
 7	cada	_	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	8	det	_	_
-8	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	6	advmod	_	_
+8	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	6	obl	_	_
 9	más	_	ADV	RBR	Degree=Cmp	10	advmod	_	_
 10	atención	atención	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	1	punct	_	_
@@ -6416,7 +6416,7 @@
 27	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	28	compound:prt	_	_
 28	cuestionarán	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	16	acl:relcl	_	_
 29	públicamente	públicamente	ADV	RB	_	28	advmod	_	_
-30	unos	_	NOUN	NN	Gender=Masc|Number=Plur	28	advmod	_	_
+30	unos	_	NOUN	NN	Gender=Masc|Number=Plur	28	obl	_	_
 31	a	a	ADP	IN	_	32	case	_	_
 32	otros	_	NOUN	NN	Gender=Masc|Number=Plur	30	nmod	_	_
 33	acerca	acerca	ADV	RB	_	36	case	_	_
@@ -7108,7 +7108,7 @@
 15	hacer	_	VERB	VB	Aspect=Imp|VerbForm=Fin|Voice=Act	20	csubj	_	_
 16	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	obj	_	_
 17	tres	_	NUM	CD	Gender=Fem|NumType=Card	18	nummod	_	_
-18	veces	_	NOUN	NN	Gender=Fem|Number=Plur	15	advmod	_	_
+18	veces	_	NOUN	NN	Gender=Fem|Number=Plur	15	obl	_	_
 19	seguidas	_	ADJ	JJ	Gender=Fem|Number=Plur	18	amod	_	_
 20	indica	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
 21	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
@@ -8633,7 +8633,7 @@
 12	en	en	ADP	IN	_	13	case	_	_
 13	términos	_	NOUN	NN	Gender=Masc|Number=Plur	11	obl	_	_
 14	de	de	ADP	IN	_	16	case	_	_
-15	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	16	advmod	_	_
+15	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	16	obl	_	_
 16	seguros	_	NOUN	NN	Gender=Masc|Number=Plur	13	nmod	_	_
 17	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	16	acl:relcl	_	_
 18	estamos	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	17	cop	_	_
@@ -9779,7 +9779,7 @@
 2	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 3	y	y	CCONJ	CC	_	4	cc	_	_
 4	otra	_	DET	DT	Gender=Fem|Number=Sing|PronType=Ind	2	conj	_	_
-5	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	1	advmod	_	_
+5	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	1	obl	_	_
 6	en	en	ADP	IN	_	8	case	_	_
 7	mi	mi	PRON	DTP$	Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
 8	cobertizo	cobertizo	NOUN	NN	Gender=Masc|Number=Sing	1	obl	_	_
@@ -12512,7 +12512,7 @@
 17	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	det	_	_
 18	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	22	obl	_	_
 19	muchas	_	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	20	det	_	_
-20	veces	_	NOUN	NN	Gender=Fem|Number=Plur	22	advmod	_	_
+20	veces	_	NOUN	NN	Gender=Fem|Number=Plur	22	obl	_	_
 21	no	_	ADV	RB	Polarity=Neg	22	advmod	_	_
 22	alcanza	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
 23	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
@@ -13430,7 +13430,7 @@
 19	a	a	ADP	INDT	_	21	case	_	_
 20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	momento	momento	NOUN	NN	Gender=Masc|Number=Sing	15	obl	_	_
-22	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	25	advmod	_	_
+22	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	25	obl	_	_
 23	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
 24	europeos	_	NOUN	NN	Gender=Masc|Number=Plur	25	nsubj	_	Proper=True
 25	llegaron	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	21	acl:relcl	_	_
@@ -14770,7 +14770,7 @@
 10	y	y	CCONJ	CC	_	11	cc	_	_
 11	solicitó	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
 12	varias	_	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	13	det	_	_
-13	veces	_	NOUN	NN	Gender=Fem|Number=Plur	11	advmod	_	_
+13	veces	_	NOUN	NN	Gender=Fem|Number=Plur	11	obl	_	_
 14	regresar	_	VERB	VB	Aspect=Imp|VerbForm=Fin|Voice=Act	11	xcomp	_	_
 15	a	a	ADP	IN	_	16	case	_	_
 16	Roma	Roma	PROPN	NNP	Number=Sing	14	obl	_	SpaceAfter=No
@@ -14916,7 +14916,7 @@
 39	cuales	_	PRON	REL	Gender=Fem|Number=Plur|PronType=Int,Rel	36	nmod	_	_
 40	tenía	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	acl:relcl	_	_
 41	3	3	NUM	CD	Gender=Masc|NumType=Card	42	nummod	_	_
-42	metros	_	NOUN	NN	Gender=Masc|Number=Plur	40	advmod	_	_
+42	metros	_	NOUN	NN	Gender=Masc|Number=Plur	40	obl	_	_
 43	de	de	ADP	IN	_	44	case	_	_
 44	alto	alto	NOUN	NN	Gender=Masc|Number=Sing	42	nmod	_	SpaceAfter=No
 45	,	,	PUNCT	,	_	48	punct	_	_
@@ -15369,7 +15369,7 @@
 3	ha	_	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	_
 4	casado	_	VERB	VBN	VerbForm=Fin	0	root	_	_
 5	tres	_	NUM	CD	Gender=Fem|NumType=Card	6	nummod	_	_
-6	veces	_	NOUN	NN	Gender=Fem|Number=Plur	4	advmod	_	SpaceAfter=No
+6	veces	_	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	4	punct	_	_
 
 # newdoc id = w01069
@@ -18412,7 +18412,7 @@
 12	1988	1988	NUM	CD	Gender=Masc|NumType=Card	10	nmod	_	_
 13	y	y	CCONJ	CC	_	17	cc	_	_
 14	otra	_	DET	DT	Gender=Fem|Number=Sing|PronType=Ind	15	det	_	_
-15	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	17	advmod	_	_
+15	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	17	obl	_	_
 16	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	19	19	NUM	CD	Gender=Masc|NumType=Card	8	conj	_	_
 18	de	de	ADP	IN	_	19	case	_	_
@@ -19151,7 +19151,7 @@
 4	y	y	CCONJ	CC	_	5	cc	_	_
 5	expulsado	_	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	3	conj	_	_
 6	dos	_	NUM	CD	Gender=Fem|NumType=Card	7	nummod	_	_
-7	veces	_	NOUN	NN	Gender=Fem|Number=Plur	9	advmod	_	_
+7	veces	_	NOUN	NN	Gender=Fem|Number=Plur	9	obl	_	_
 8	más	_	ADV	RBR	Degree=Cmp	7	advmod	_	_
 9	antes	antes	ADV	RB	_	3	advmod	_	_
 10	de	de	ADP	IN	_	17	case	_	_
@@ -20991,7 +20991,7 @@
 # text = Esta vez le llegó, pero se negó a creer que ella ya no quería estar casada con él.
 # text_en = This time it reached him, but he refused to believe that she no longer wanted to be married to him.
 1	Esta	_	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
-2	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	4	advmod	_	_
+2	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
 3	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
 4	llegó	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	8	punct	_	_
@@ -25352,7 +25352,7 @@
 11	fue	ser	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	12	aux:pass	_	_
 12	reconocido	_	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	4	conj	_	_
 13	múltiples	_	ADJ	JJ	Gender=Fem|Number=Plur	14	amod	_	_
-14	veces	_	NOUN	NN	Gender=Fem|Number=Plur	12	advmod	_	_
+14	veces	_	NOUN	NN	Gender=Fem|Number=Plur	12	obl	_	_
 15	durante	durante	ADP	IN	_	17	case	_	_
 16	sus	_	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
 17	estancias	_	NOUN	NN	Gender=Fem|Number=Plur	12	obl	_	SpaceAfter=No
@@ -25818,7 +25818,7 @@
 19	y	y	CCONJ	CC	_	20	cc	_	_
 20	viajó	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	_
 21	muchas	_	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	22	det	_	_
-22	veces	_	NOUN	NN	Gender=Fem|Number=Plur	20	advmod	_	_
+22	veces	_	NOUN	NN	Gender=Fem|Number=Plur	20	obl	_	_
 23	a	a	ADP	IN	_	24	case	_	_
 24	Israel	Israel	PROPN	NNP	Number=Sing	20	obl	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	11	punct	_	_
@@ -27698,7 +27698,7 @@
 22	sus	_	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	23	det	_	_
 23	tierras	_	NOUN	NN	Gender=Fem|Number=Plur	21	obj	_	_
 24	cada	_	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	25	det	_	_
-25	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	21	advmod	_	_
+25	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	21	obl	_	_
 26	más	_	ADV	RBR	Degree=Cmp	21	advmod	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	3	punct	_	_
 
