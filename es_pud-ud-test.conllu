@@ -1118,12 +1118,12 @@
 # text = A veces es como un súper poder.
 # text_en = It's like a super power sometimes.
 1	A	a	ADP	IN	_	3	advmod	_	_
-2	veces	_	NOUN	NN	Gender=Fem|Number=Plur	1	fixed	_	_
-3	es	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	1	fixed	_	_
+3	es	ser	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	como	como	ADP	IN	_	6	case	_	_
 5	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	súper	súper	X	AFX	_	3	obl	_	_
-7	poder	poder	NOUN	NN	Gender=Masc|Number=Sing	6	goeswith	_	SpaceAfter=No
+6	súper	superpoder	NOUN	NN	Gender=Masc|Number=Sing|Typo=Yes	3	obl	_	CorrectForm=superpoder
+7	poder	_	NOUN	NN	_	6	goeswith	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = n01018040
@@ -3968,13 +3968,13 @@
 # sent_id = n01055008
 # text = Estas comparecencias de la Radio-televisión y la Comisión canadienses de las telecomunicaciones (CRTC) tienen como propósito obtener respuestas de las industrias interesadas y del público.
 # text_en = The purpose of these CRTC hearings is to field responses from industry stakeholders and the public.
-1	Estas	_	DET	DT	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
-2	comparecencias	_	NOUN	NN	Gender=Fem|Number=Plur	18	nsubj	_	_
+1	Estas	este	DET	DT	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
+2	comparecencias	comparecencia	NOUN	NN	Gender=Fem|Number=Plur	18	nsubj	_	_
 3	de	de	ADP	IN	_	5	case	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	Radio	radio	X	AFX	_	2	nmod	_	SpaceAfter=No|Proper=True
+5	Radio	radio	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No|Proper=True
 6	-	-	PUNCT	-	_	7	punct	_	SpaceAfter=No|Proper=True
-7	televisión	televisión	NOUN	NN	Gender=Fem|Number=Sing	5	goeswith	_	Proper=True
+7	televisión	televisión	NOUN	NN	Gender=Fem|Number=Sing	5	conj	_	Proper=True
 8	y	y	CCONJ	CC	_	10	cc	_	Proper=True
 9	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	Proper=True
 10	Comisión	comisión	NOUN	NN	Gender=Fem|Number=Sing	5	conj	_	Proper=True
@@ -23735,10 +23735,10 @@
 15	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	decisión	decisión	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
 17-18	del	_	_	_	_	_	_	_	_
-17	de	de	ADP	INDT	_	19	case	_	_
-18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
-19	ex	ex	X	AFX	_	16	nmod	_	_
-20	ministro	ministro	NOUN	NN	Gender=Masc|Number=Sing	19	goeswith	_	_
+17	de	de	ADP	INDT	_	20	case	_	_
+18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+19	ex	ex	ADJ	JJ	_	20	amod	_	_
+20	ministro	ministro	NOUN	NN	Gender=Masc|Number=Sing	16	nmod	_	_
 21	de	de	ADP	IN	_	22	case	_	_
 22	abandonar	_	VERB	VB	Aspect=Imp|VerbForm=Fin|Voice=Act	16	xcomp	_	_
 23	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
