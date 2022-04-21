@@ -1123,7 +1123,7 @@
 4	como	como	ADP	IN	_	6	case	_	_
 5	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	súper	superpoder	NOUN	NN	Gender=Masc|Number=Sing|Typo=Yes	3	obl	_	CorrectForm=superpoder
-7	poder	_	NOUN	NN	_	6	goeswith	_	SpaceAfter=No
+7	poder	_	X	NN	_	6	goeswith	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = n01018040
