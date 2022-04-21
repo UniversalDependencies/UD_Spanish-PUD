@@ -1000,8 +1000,8 @@
 4	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	experto	experto	NOUN	NN	Gender=Masc|Number=Sing	8	nsubj	_	_
 6	en	en	ADP	IN	_	7	case	_	_
-7	viajes	_	NOUN	NN	Gender=Masc|Number=Plur	5	nmod	_	_
-8	advirtió	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	viajes	viaje	NOUN	NN	Gender=Masc|Number=Plur	5	nmod	_	_
+8	advirtió	advirtir	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 9	que	que	SCONJ	IN	_	20	mark	_	_
 10	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	acceso	acceso	NOUN	NN	Gender=Masc|Number=Sing	20	nsubj	_	_
@@ -1009,11 +1009,11 @@
 13	internet	internet	NOUN	NN	Number=Sing	11	nmod	_	_
 14	durante	durante	ADP	IN	_	16	case	_	_
 15	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
-16	vuelos	_	NOUN	NN	Gender=Masc|Number=Plur	11	nmod	_	_
-17	no	_	ADV	RB	Polarity=Neg	20	advmod	_	_
-18	solía	soler	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	aux	_	_
-19	ser	_	AUX	VB	Aspect=Imp|VerbForm=Fin	20	cop	_	_
-20	fiable	fiable	ADJ	JJ	Gender=Masc|Number=Sing	8	ccomp	_	_
+16	vuelos	vuelo	NOUN	NN	Gender=Masc|Number=Plur	11	nmod	_	_
+17	no	no	ADV	RB	Polarity=Neg	20	advmod	_	_
+18	solía	soler	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	ccomp	_	_
+19	ser	ser	AUX	VB	Aspect=Imp|VerbForm=Inf	20	cop	_	_
+20	fiable	fiable	ADJ	JJ	Gender=Masc|Number=Sing	18	xcomp	_	_
 21	y	y	CCONJ	CC	_	25	cc	_	_
 22	que	que	SCONJ	IN	_	25	mark	_	_
 23	era	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	25	cop	_	_
@@ -1563,32 +1563,32 @@
 # text = Esto establecerá nuevos límites en la naturaleza de los cambios ambientales que afectaron a la Tierra y que hizo que muchas especies, no solo los dinosaurios, cayeran en el olvido.
 # text_en = This will put new limits on the nature of the environmental changes that overtook the Earth and sent so many species - not just the dinosaurs - into oblivion.
 1	Esto	esto	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
-2	establecerá	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
-3	nuevos	_	ADJ	JJ	Gender=Masc|Number=Plur	4	amod	_	_
-4	límites	_	NOUN	NN	Gender=Masc|Number=Plur	2	obj	_	_
+2	establecerá	establecer	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+3	nuevos	nuevo	ADJ	JJ	Gender=Masc|Number=Plur	4	amod	_	_
+4	límites	límite	NOUN	NN	Gender=Masc|Number=Plur	2	obj	_	_
 5	en	en	ADP	IN	_	7	case	_	_
 6	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	naturaleza	naturaleza	NOUN	NN	Gender=Fem|Number=Sing	2	obl	_	_
 8	de	de	ADP	IN	_	10	case	_	_
 9	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
-10	cambios	_	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	_
-11	ambientales	_	ADJ	JJ	Gender=Masc|Number=Plur	10	amod	_	_
-12	que	_	PRON	REL	Gender=Masc|Number=Plur|PronType=Int,Rel	13	nsubj	_	_
-13	afectaron	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	acl:relcl	_	_
+10	cambios	cambio	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	_
+11	ambientales	ambiental	ADJ	JJ	Gender=Masc|Number=Plur	10	amod	_	_
+12	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Int,Rel	13	nsubj	_	_
+13	afectaron	afectar	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	acl:relcl	_	_
 14	a	a	ADP	IN	_	16	case	_	_
 15	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	Tierra	tierra	NOUN	NN	Gender=Fem|Number=Sing	13	obl	_	Proper=True
 17	y	y	CCONJ	CC	_	19	cc	_	_
-18	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	19	mark	_	_
-19	hizo	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	_
+18	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	19	nsubj	_	_
+19	hizo	hacer	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	_
 20	que	que	SCONJ	IN	_	29	mark	_	_
-21	muchas	_	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	22	det	_	_
-22	especies	_	NOUN	NN	Gender=Fem|Number=Plur	29	nsubj	_	SpaceAfter=No
+21	muchas	mucho	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	22	det	_	_
+22	especies	especie	NOUN	NN	Gender=Fem|Number=Plur	29	nsubj	_	SpaceAfter=No
 23	,	,	PUNCT	,	_	27	punct	_	_
-24	no	_	ADV	RB	Polarity=Neg	25	advmod	_	_
+24	no	no	ADV	RB	Polarity=Neg	25	advmod	_	_
 25	solo	solo	ADV	RB	_	27	advmod	_	_
 26	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
-27	dinosaurios	_	NOUN	NN	Gender=Masc|Number=Plur	22	appos	_	SpaceAfter=No
+27	dinosaurios	dinosaurio	NOUN	NN	Gender=Masc|Number=Plur	22	appos	_	SpaceAfter=No
 28	,	,	PUNCT	,	_	27	punct	_	_
 29	cayeran	_	VERB	VBC	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	ccomp	_	_
 30	en	en	ADP	IN	_	32	case	_	_
@@ -2102,7 +2102,7 @@
 8	de	de	ADP	IN	_	10	case	_	_
 9	que	que	SCONJ	IN	_	10	mark	_	_
 10	hubo	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	xcomp	_	_
-11	"	"	ADP	IN	_	13	punct	_	SpaceAfter=No
+11	"	"	PUNCT	''	_	13	punct	_	SpaceAfter=No
 12	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	intercambio	intercambio	NOUN	NN	Gender=Masc|Number=Sing	10	obj	_	_
 14	de	de	ADP	IN	_	15	case	_	_
@@ -4044,25 +4044,25 @@
 # text = Al fin y al cabo, internet no es un lujo, es una herramienta esencial.
 # text_en = After all, the internet is not a luxury; it is an essential tool.
 1-2	Al	_	_	_	_	_	_	_	_
-1	A	a	ADP	INDT	_	13	discourse	_	_
-2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-3	fin	fin	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	_
-4	y	y	CCONJ	CC	_	1	fixed	_	_
+1	A	a	ADP	INDT	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	fin	fin	NOUN	NN	Gender=Masc|Number=Sing	13	obl	_	_
+4	y	y	CCONJ	CC	_	7	cc	_	_
 5-6	al	_	_	_	_	_	_	_	_
-5	a	a	ADP	INDT	_	1	fixed	_	_
+5	a	a	ADP	INDT	_	7	case	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	cabo	cabo	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
-8	,	,	PUNCT	,	_	13	punct	_	_
+7	cabo	cabo	NOUN	NN	Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	3	punct	_	_
 9	internet	internet	NOUN	NN	Number=Sing	13	nsubj	_	_
-10	no	_	ADV	RB	Polarity=Neg	13	advmod	_	_
-11	es	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	_
+10	no	no	ADV	RB	Polarity=Neg	13	advmod	_	_
+11	es	ser	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	_
 12	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	lujo	lujo	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 14	,	,	PUNCT	,	_	17	punct	_	_
-15	es	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	cop	_	_
+15	es	ser	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	cop	_	_
 16	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	herramienta	herramienta	NOUN	NN	Gender=Fem|Number=Sing	13	parataxis	_	_
-18	esencial	_	ADJ	JJ	Gender=Fem|Number=Sing	17	amod	_	SpaceAfter=No
+18	esencial	esencial	ADJ	JJ	Gender=Fem|Number=Sing	17	amod	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	13	punct	_	_
 
 # newdoc id = n01057
@@ -8458,16 +8458,16 @@
 # sent_id = n01125009
 # text = Tras haber dejado de ser un recuerdo de los años 70, la lanilla - o la crucial importancia de cubrir una superficie - vuelve a estar en auge.
 # text_en = No longer a throwback to the Seventies, flock – or coating a surface is material – is flying again.
-1	Tras	tras	ADP	IN	_	7	case	_	_
-2	haber	_	AUX	VB	Aspect=Perf|VerbForm=Fin|Voice=Act	7	aux	_	_
-3	dejado	_	AUX	VBN	VerbForm=Fin	7	aux	_	_
-4	de	de	ADP	IN	_	3	fixed	_	_
-5	ser	_	AUX	VB	Aspect=Imp|VerbForm=Fin	7	cop	_	_
+1	Tras	tras	ADP	IN	_	3	case	_	_
+2	haber	haber	AUX	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	3	aux	_	_
+3	dejado	dejar	VERB	VBN	VerbForm=Part	25	advcl	_	_
+4	de	de	ADP	IN	_	7	mark	_	_
+5	ser	ser	AUX	VB	Aspect=Imp|VerbForm=Fin	7	cop	_	_
 6	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	recuerdo	recuerdo	NOUN	NN	Gender=Masc|Number=Sing	27	xcomp	_	_
+7	recuerdo	recuerdo	NOUN	NN	Gender=Masc|Number=Sing	3	xcomp	_	_
 8	de	de	ADP	IN	_	10	case	_	_
 9	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
-10	años	_	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	_
+10	años	año	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	_
 11	70	70	NUM	CD	Gender=Masc|NumType=Card	10	appos	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	7	punct	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
@@ -8475,19 +8475,19 @@
 15	-	-	PUNCT	-	_	19	punct	_	_
 16	o	o	CCONJ	CC	_	19	cc	_	_
 17	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
-18	crucial	_	ADJ	JJ	Gender=Fem|Number=Sing	19	amod	_	_
+18	crucial	crucial	ADJ	JJ	Gender=Fem|Number=Sing	19	amod	_	_
 19	importancia	importancia	NOUN	NN	Gender=Fem|Number=Sing	14	conj	_	_
 20	de	de	ADP	IN	_	21	case	_	_
-21	cubrir	_	VERB	VB	Aspect=Imp|VerbForm=Fin|Voice=Act	19	xcomp	_	_
+21	cubrir	cubrir	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	19	acl	_	_
 22	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	superficie	superficie	NOUN	NN	Gender=Fem|Number=Sing	21	obj	_	_
 24	-	-	PUNCT	-	_	19	punct	_	_
-25	vuelve	volver	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	aux	_	_
-26	a	a	ADP	IN	_	25	fixed	_	_
-27	estar	_	VERB	VB	Aspect=Imp|VerbForm=Fin	0	root	_	_
+25	vuelve	volver	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+26	a	a	ADP	IN	_	29	mark	_	_
+27	estar	estar	AUX	VB	Aspect=Imp|VerbForm=Inf	29	cop	_	_
 28	en	en	ADP	IN	_	29	case	_	_
-29	auge	auge	NOUN	NN	Gender=Masc|Number=Sing	27	obl	_	SpaceAfter=No
-30	.	.	PUNCT	.	_	27	punct	_	_
+29	auge	auge	NOUN	NN	Gender=Masc|Number=Sing	25	xcomp	_	SpaceAfter=No
+30	.	.	PUNCT	.	_	25	punct	_	_
 
 # sent_id = n01125016
 # text = La emblemática South Bank Tower de Londres contrató a la diseñadora de interiores Rachel Winham para diseñar el apartamento piloto.
@@ -10609,22 +10609,22 @@
 1	En	en	ADP	IN	_	2	case	_	_
 2	1912	1912	NUM	CD	Gender=Masc|NumType=Card	4	obl	_	_
 3	fue	ser	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	4	aux:pass	_	_
-4	fundada	_	VERB	VBN	Gender=Fem|Number=Sing|VerbForm=Fin	0	root	_	_
+4	fundada	fundar	VERB	VBN	Gender=Fem|Number=Sing|VerbForm=Fin	0	root	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-6	primera	_	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	_
+6	primera	primero	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	_
 7	compañía	compañía	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj:pass	_	_
 8	de	de	ADP	IN	_	9	case	_	_
-9	películas	_	NOUN	NN	Gender=Fem|Number=Plur	7	nmod	_	_
+9	películas	película	NOUN	NN	Gender=Fem|Number=Plur	7	nmod	_	_
 10	(	(	PUNCT	(	_	11	punct	_	SpaceAfter=No
 11	Athina	Athina	PROPN	NNP	Number=Sing	7	appos	_	_
-12	Film	film	NOUN	NN	Number=Sing	11	flat:name	_	SpaceAfter=No|Proper=True
+12	Film	Film	PROPN	NNP	Number=Sing	11	flat:name	_	SpaceAfter=No|Proper=True
 13	)	)	PUNCT	)	_	11	punct	_	_
 14	y	y	CCONJ	CC	_	16	cc	_	_
 15	en	en	ADP	IN	_	16	case	_	orig_deprel=obl
-16	1916	1916	NUM	CD	Gender=Masc|NumType=Card	2	conj	_	SpaceAfter=No
+16	1916	1916	NUM	CD	Gender=Masc|NumType=Card	4	conj	_	SpaceAfter=No
 17	,	,	PUNCT	,	_	18	punct	_	_
-18	Asty	Asty	PROPN	NNP	Number=Sing	15	orphan	_	_
-19	Film	film	NOUN	NN	Number=Sing	18	flat:name	_	SpaceAfter=No|orig_deprel=nsubj:pass|Proper=True
+18	Asty	Asty	PROPN	NNP	Number=Sing	16	orphan	_	_
+19	Film	Film	PROPN	NNP	Number=Sing	18	flat:name	_	SpaceAfter=No|orig_deprel=nsubj:pass|Proper=True
 20	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = w01006081
@@ -11159,14 +11159,14 @@
 4	de	de	ADP	IN	_	5	case	_	_
 5	Cáucaso	Cáucaso	PROPN	NNP	Number=Sing	2	nmod	_	_
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	compound:prt	_	_
-7	conoce	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+7	conoce	conocer	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
 8	como	como	ADP	IN	_	9	case	_	_
 9	Ciscaucasia	Ciscaucasia	PROPN	NNP	Number=Sing	7	obl	_	_
 10	y	y	CCONJ	CC	_	12	cc	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-12	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	7	orphan	_	orig_deprel=nsubj:pass
+12	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	7	conj	_	_
 13	sur	sur	NOUN	NN	Gender=Masc|Number=Sing	12	appos	_	_
-14	como	como	ADP	IN	_	15	case	_	orig_deprel=obl
+14	como	como	ADP	IN	_	15	case	_	_
 15	Transcaucásica	Transcaucásica	PROPN	NNP	Number=Sing	12	orphan	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	7	punct	_	_
 
@@ -16357,16 +16357,16 @@
 11	Iglesia	iglesia	NOUN	NN	Gender=Fem|Number=Sing	8	nmod	_	Proper=True
 12	católica	_	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	Proper=True
 13	y	y	CCONJ	CC	_	23	cc	_	_
-14	teóricamente	teóricamente	ADV	RB	_	21	advmod	_	_
-15	cualquier	_	DET	DT	Gender=Fem|Number=Sing|PronType=Ind	16	det	_	_
+14	teóricamente	teóricamente	ADV	RB	_	23	advmod	_	_
+15	cualquier	cualquier	DET	DT	Gender=Fem|Number=Sing|PronType=Ind	16	det	_	_
 16	persona	persona	NOUN	NN	Gender=Fem|Number=Sing	23	nsubj	_	_
-17	bautizada	_	VERB	VBN	Gender=Fem|Number=Sing|VerbForm=Fin	16	acl	_	_
+17	bautizada	bautizar	VERB	VBN	Gender=Fem|Number=Sing|VerbForm=Part	16	acl	_	_
 18	a	a	ADP	IN	_	20	case	_	_
 19	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	fuerza	fuerza	NOUN	NN	Gender=Fem|Number=Sing	17	obl	_	_
 21	podía	poder	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	23	aux	_	_
 22	legalmente	legalmente	ADV	RB	_	23	advmod	_	_
-23	volver	_	VERB	VB	Aspect=Imp|VerbForm=Fin	5	conj	_	_
+23	volver	volver	VERB	VB	Aspect=Imp|VerbForm=Fin	5	conj	_	_
 24-25	al	_	_	_	_	_	_	_	_
 24	a	a	ADP	INDT	_	26	case	_	_
 25	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
@@ -17822,14 +17822,14 @@
 # sent_id = w01102040
 # text = De Gaulle había dado instrucciones para que no hubiese excesivas muestras de afecto público hacia Churchill ni tampoco premios oficiales sin su consentimiento previo.
 # text_en = De Gaulle had instructed that there be no excessive displays of public affection towards Churchill and no official awards without his prior agreement.
-1	De	De	PROPN	NNP	Gender=Masc|Number=Sing	4	case	_	_
+1	De	De	PROPN	NNP	Gender=Masc|Number=Sing	4	nsubj	_	_
 2	Gaulle	Gaulle	PROPN	NNP	Gender=Masc|Number=Sing	1	flat:name	_	_
-3	había	_	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	_
-4	dado	_	VERB	VBN	VerbForm=Fin	0	root	_	_
-5	instrucciones	_	NOUN	NN	Gender=Fem|Number=Plur	4	obj	_	_
+3	había	haber	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	_
+4	dado	dar	VERB	VBN	VerbForm=Part	0	root	_	_
+5	instrucciones	instrucción	NOUN	NN	Gender=Fem|Number=Plur	4	obj	_	_
 6	para	para	ADP	IN	_	9	case	_	_
 7	que	que	ADP	IN	_	6	fixed	_	_
-8	no	_	ADV	RB	Polarity=Neg	9	advmod	_	_
+8	no	no	ADV	RB	Polarity=Neg	9	advmod	_	_
 9	hubiese	_	VERB	VBC	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	_
 10	excesivas	_	ADJ	JJ	Gender=Fem|Number=Plur	11	amod	_	_
 11	muestras	_	NOUN	NN	Gender=Fem|Number=Plur	9	obj	_	_
@@ -18730,7 +18730,7 @@
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	total	total	NOUN	NN	Gender=Masc|Number=Sing	22	nsubj:pass	_	_
 8	de	de	ADP	IN	_	9	case	_	_
-9	ventas	_	NOUN	NN	Gender=Fem|Number=Plur	7	nmod	_	_
+9	ventas	venta	NOUN	NN	Gender=Fem|Number=Plur	7	nmod	_	_
 10	de	de	ADP	IN	_	12	case	_	_
 11	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Proper=True
 12	poder	poder	NOUN	NN	Gender=Masc|Number=Sing	9	nmod	_	Proper=True
@@ -18739,18 +18739,18 @@
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	ahora	ahora	NOUN	NN	Gender=Masc|Number=Sing	12	nmod	_	Proper=True
 16	y	y	CCONJ	CC	_	19	cc	_	_
-17	Una	una	NOUN	NN	Gender=Fem|Number=Sing	19	det	_	Proper=True
-18	nueva	_	ADJ	JJ	Gender=Fem|Number=Sing	19	amod	_	Proper=True
+17	Una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	Proper=True
+18	nueva	nuevo	ADJ	JJ	Gender=Fem|Number=Sing	19	amod	_	Proper=True
 19	tierra	tierra	NOUN	NN	Gender=Fem|Number=Sing	12	conj	_	Proper=True
 20	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	22	compound:prt	_	_
-21	había	_	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	22	aux	_	_
-22	estimado	_	VERB	VBN	VerbForm=Fin	0	root	_	_
+21	había	haber	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	22	aux	_	_
+22	estimado	estimar	VERB	VBN	VerbForm=Part	0	root	_	_
 23	en	en	ADP	IN	_	25	case	_	_
 24	tres	tres	NUM	CD	Gender=Masc|NumType=Card	25	nummod	_	_
-25	millones	_	NOUN	NN	Gender=Masc|Number=Plur	22	obl	_	_
+25	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	22	obl	_	_
 26	y	y	CCONJ	CC	_	28	cc	_	_
 27	cinco	cinco	NUM	CD	Gender=Masc|NumType=Card	28	nummod	_	_
-28	millones	_	NOUN	NN	Gender=Masc|Number=Plur	25	conj	_	_
+28	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	25	conj	_	_
 29	respectivamente	respectivamente	ADV	RB	_	22	advmod	_	SpaceAfter=No
 30	.	.	PUNCT	.	_	22	punct	_	_
 
@@ -21785,18 +21785,18 @@
 # text_en = The witching hour starts up at least by the time the scary organ is played, such as in the 60s hit Monster Mash.
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	hora	hora	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	_
-3	bruja	_	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	_
-4	empieza	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	bruja	brujo	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	_
+4	empieza	empezar	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5-6	al	_	_	_	_	_	_	_	_
-5	a	a	ADP	INDT	_	4	advmod	_	_
+5	a	a	ADP	INDT	_	7	case	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	menos	_	ADV	RBR	Degree=Cmp	5	fixed	_	_
+7	menos	menos	ADV	RBR	Degree=Cmp	4	advmod	_	_
 8	en	en	ADP	IN	_	10	case	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	momento	momento	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	_
 11	en	en	ADP	IN	_	12	case	_	_
 12	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	13	obl	_	_
-13	suena	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	_	_
+13	suena	sonar	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	_	_
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 15	escalofriante	escalofriante	ADJ	JJ	Gender=Masc|Number=Sing	16	amod	_	_
 16	órgano	órgano	NOUN	NN	Gender=Masc|Number=Sing	13	nsubj	_	SpaceAfter=No
