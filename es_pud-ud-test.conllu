@@ -1148,16 +1148,16 @@
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	curso	curso	NOUN	NN	Gender=Masc|Number=Sing	7	nsubj	_	_
 3	de	de	ADP	IN	_	5	case	_	_
-4	10	_	NUM	CD	Gender=Fem|NumType=Card	5	nummod	_	_
-5	semanas	_	NOUN	NN	Gender=Fem|Number=Plur	2	nmod	_	_
-6	está	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
-7	acreditado	_	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	_
+4	10	10	NUM	CD	Gender=Fem|NumType=Card	5	nummod	_	_
+5	semanas	semana	NOUN	NN	Gender=Fem|Number=Plur	2	nmod	_	_
+6	está	estar	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
+7	acreditado	acreditar	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	_
 8	por	por	ADP	IN	_	10	case	_	_
 9	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	agencia	agencia	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
 11	de	de	ADP	IN	_	12	case	_	_
 12	espionaje	espionaje	NOUN	NN	Gender=Masc|Number=Sing	10	nmod	_	_
-13	británica	_	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	Proper=True
+13	británica	británico	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	Proper=True
 14	GCHQ	GCHQ	PROPN	NNP	Number=Sing	10	appos	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	7	punct	_	_
 
@@ -10659,9 +10659,9 @@
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	tratado	tratado	NOUN	NN	Gender=Masc|Number=Sing	12	nsubj:pass	_	_
-8	franco	franco	X	AFX	_	7	amod	_	SpaceAfter=No|Proper=True
-9	-	-	PUNCT	-	_	10	punct	_	SpaceAfter=No
-10	monegasco	monegasco	ADJ	JJ	Gender=Masc|Number=Sing	8	goeswith	_	Proper=True
+8	franco	franco	ADJ	AFX	Hyph=Yes	10	compound	_	SpaceAfter=No|Proper=True
+9	-	-	PUNCT	-	_	8	punct	_	SpaceAfter=No
+10	monegasco	monegasco	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	Proper=True
 11	fue	ser	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	12	aux:pass	_	_
 12	firmado	_	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	14	punct	_	_
@@ -11876,9 +11876,9 @@
 7	a	a	ADP	INDT	_	9	case	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	ejército	ejército	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	_
-10	austro	austro	X	AFX	_	9	amod	_	SpaceAfter=No|Proper=True
-11	-	-	PUNCT	-	_	12	punct	_	SpaceAfter=No
-12	prusiano	prusiano	ADJ	JJ	Gender=Masc|Number=Sing	10	goeswith	_	SpaceAfter=No|Proper=True
+10	austro	austro	ADJ	AFX	Hyph=Yes	12	compound	_	SpaceAfter=No|Proper=True
+11	-	-	PUNCT	-	_	10	punct	_	SpaceAfter=No
+12	prusiano	prusiano	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No|Proper=True
 13	,	,	PUNCT	,	_	22	punct	_	_
 14	y	y	CCONJ	CC	_	22	cc	_	_
 15	casi	casi	ADV	RB	_	16	advmod	_	_
