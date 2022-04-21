@@ -7668,10 +7668,10 @@
 5	fondos	_	NOUN	NN	Gender=Masc|Number=Plur	2	obl	_	_
 6	de	de	ADP	IN	_	7	case	_	_
 7	renta	renta	NOUN	NN	Gender=Fem|Number=Sing	5	nmod	_	_
-8	y	y	CCONJ	CC	_	9	cc	_	_
-9	multi	multi	X	AFX	_	7	conj	_	SpaceAfter=No
-10	-	-	PUNCT	-	_	11	punct	_	SpaceAfter=No
-11	estrategia	estrategia	NOUN	NN	Gender=Fem|Number=Sing	9	goeswith	_	_
+8	y	y	CCONJ	CC	_	11	cc	_	_
+9	multi	multi	ADJ	AFX	Hyph=Yes	11	compound	_	SpaceAfter=No
+10	-	-	PUNCT	-	_	9	punct	_	SpaceAfter=No
+11	estrategia	estrategia	NOUN	NN	Gender=Fem|Number=Sing	7	conj	_	_
 12	con	con	ADP	IN	_	14	case	_	_
 13	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	objetivo	objetivo	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	_
@@ -19013,8 +19013,8 @@
 35	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	36	compound:prt	_	_
 36	encontraba	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	29	conj	_	_
 37	en	en	ADP	IN	_	38	case	_	_
-38	EE.	EE.	PROPN	NNP	Number=Sing	36	obl	_	_
-39	UU	uu	NOUN	_	_	38	goeswith	_	SpaceAfter=No
+38	EE.	estado	NOUN	NN	Abbr=Yes|Gender=Masc|Number=Plur	36	obl	_	_
+39	UU	unido	ADJ	JJ	Abbr=Yes|Gender=Masc|Number=Plur	38	amod	_	SpaceAfter=No
 40	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = w01122064
@@ -20082,12 +20082,12 @@
 20	por	por	ADP	IN	_	21	case	_	_
 21	Rian	Rian	PROPN	NNP	Gender=Masc|Number=Sing	19	obl	_	_
 22	Johnson	Johnson	PROPN	NNP	Gender=Masc|Number=Sing	21	flat:name	_	_
-23	y	y	CCONJ	CC	_	24	cc	_	_
-24	co	co	X	AFX	_	19	conj	_	SpaceAfter=No
-25	-	-	PUNCT	-	_	26	punct	_	SpaceAfter=No
-26	protagonizada	_	VERB	VBN	Gender=Fem|Number=Sing|VerbForm=Fin	24	goeswith	_	_
+23	y	y	CCONJ	CC	_	26	cc	_	_
+24	co	co	ADJ	AFX	Hyph=Yes	26	compound	_	SpaceAfter=No
+25	-	-	PUNCT	-	_	24	punct	_	SpaceAfter=No
+26	protagonizada	protagonizar	VERB	VBN	Gender=Fem|Number=Sing|VerbForm=Fin	19	conj	_	_
 27	por	por	ADP	IN	_	28	case	_	_
-28	Bruce	Bruce	PROPN	NNP	Gender=Masc|Number=Sing	24	obl	_	_
+28	Bruce	Bruce	PROPN	NNP	Gender=Masc|Number=Sing	26	obl	_	_
 29	Willis	Willis	PROPN	NNP	Gender=Masc|Number=Sing	28	flat:name	_	_
 30	y	y	CCONJ	CC	_	31	cc	_	_
 31	Joseph	Joseph	PROPN	NNP	Gender=Masc|Number=Sing	28	conj	_	_
