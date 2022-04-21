@@ -14948,7 +14948,7 @@
 3	exacto	exacto	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	_
 4	de	de	ADP	IN	_	6	case	_	_
 5	esos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	6	det	_	_
-6	megalitos	_	NOUN	NN	Gender=Masc|Number=Plur	2	nmod	_	_
+6	megalitos	megalito	NOUN	NN	Gender=Masc|Number=Plur	2	nmod	_	_
 7	aún	aún	ADV	RB	_	9	advmod	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	compound:prt	_	_
 9	debate	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
@@ -14973,10 +14973,10 @@
 27	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	Bronce	bronce	NOUN	NN	Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No|Proper=True
 29	,	,	PUNCT	,	_	31	punct	_	_
-30	ca.	ca.	X	FW	_	31	advmod	_	_
+30	ca.	ca.	ADV	FW	Abbr=Yes	31	advmod	_	_
 31	1600	1600	NUM	CD	Gender=Masc|NumType=Card	16	obl:tmod	_	_
-32	a.	a.	ADV	RB	_	31	advmod	_	_
-33	C	c	ADV	_	_	32	goeswith	_	SpaceAfter=No
+32	a.	antes	ADV	RB	Abbr=Yes	31	advmod	_	_
+33	C	Cristo	PROPN	NNP	Abbr=Yes|Gender=Masc|Number=Sing	32	obl	_	SpaceAfter=No
 34	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = w01065020
