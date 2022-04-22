@@ -705,7 +705,7 @@
 # sent_id = n01011017
 # text = Voy a ir a la cárcel de todas formas; espero que mereciese la pena.
 # text_en = "I'm going to jail either way, hope it was worth it."
-1	Voy	ir	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+1	Voy	ir	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	a	a	ADP	IN	_	3	mark	_	_
 3	ir	ir	VERB	VB	VerbForm=Inf	1	xcomp	_	_
 4	a	a	ADP	IN	_	6	case	_	_
@@ -8933,18 +8933,18 @@
 # sent_id = n01132006
 # text = Son las elecciones, por supuesto, no "Juego de tronos".
 # text_en = It's the election, of course, not "Game of Thrones."
-1	son	ser	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+1	Son	ser	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
 2	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 3	elecciones	_	NOUN	NN	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	5	punct	_	_
 5	por	por	ADP	IN	_	3	discourse	_	_
 6	supuesto	supuesto	NOUN	NN	Gender=Masc|Number=Sing	5	fixed	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	10	punct	_	_
-8	no	_	ADV	RB	Polarity=Neg	10	advmod	_	_
+8	no	no	ADV	RB	Polarity=Neg	10	advmod	_	_
 9	"	"	PUNCT	``	_	10	punct	_	SpaceAfter=No
 10	Juego	juego	NOUN	NN	Gender=Masc|Number=Sing	3	appos	_	Proper=True
 11	de	de	ADP	IN	_	12	case	_	Proper=True
-12	tronos	_	NOUN	NN	Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No|Proper=True
+12	tronos	trono	NOUN	NN	Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No|Proper=True
 13	"	"	PUNCT	''	_	10	punct	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	3	punct	_	_
 
