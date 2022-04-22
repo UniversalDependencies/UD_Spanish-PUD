@@ -6892,7 +6892,7 @@
 30	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	31	det	_	_
 31	pupas	pupa	NOUN	NN	Gender=Fem|Number=Plur	33	nsubj:pass	_	_
 32	son	ser	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	33	aux:pass	_	_
-33	consideradas	considerar	AUX	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	26	parataxis	_	_
+33	consideradas	considerar	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	26	parataxis	_	_
 34	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	35	det	_	_
 35	delicia	delicia	NOUN	NN	Gender=Fem|Number=Sing	33	xcomp	_	SpaceAfter=No
 36	)	)	PUNCT	)	_	33	punct	_	SpaceAfter=No
@@ -24115,12 +24115,12 @@
 17	de	de	ADP	IN	_	19	case	_	_
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Int,Rel	25	obl	_	_
-20	Fátima	Fátima	PROPN	NNP	Gender=Fem|Number=Sing	25	nsubj	_	_
+20	Fátima	Fátima	PROPN	NNP	Gender=Fem|Number=Sing	23	nsubj	_	_
 21	Báñez	Báñez	PROPN	NNP	Gender=Fem|Number=Sing	20	flat:name	_	_
-22	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	25	compound:prt	_	_
-23	siente	sentir	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	cop	_	_
+22	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	23	expl:pv	_	_
+23	siente	sentir	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl:relcl	_	_
 24	más	_	ADV	RBR	Degree=Cmp	25	advmod	_	_
-25	orgullosa	orgulloso	ADJ	JJ	Gender=Fem|Number=Sing	16	acl:relcl	_	SpaceAfter=No
+25	orgullosa	orgulloso	ADJ	JJ	Gender=Fem|Number=Sing	23	xcomp	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = n05002020
