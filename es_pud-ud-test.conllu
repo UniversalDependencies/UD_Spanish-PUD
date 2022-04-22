@@ -121,13 +121,13 @@
 # sent_id = n01002032
 # text = No me complace tener que presionarles, pero el futuro de la república recae en ustedes, dijo al público que estaba reunido en un campo de deportes en la Universidad de Carolina del Norte.
 # text_en = “So I hate to put a little pressure on you, but the fate of the republic rests on your shoulders,” he told the crowd gathered on a sports field at the University of North Carolina.
-1	No	_	ADV	RB	Polarity=Neg	3	advmod	_	_
-2	me	_	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	iobj	_	_
-3	complace	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	tener	tener	AUX	VB	VerbForm=Inf	6	aux	_	_
-5	que	que	ADP	IN	_	4	fixed	_	_
+1	No	no	ADV	RB	Polarity=Neg	3	advmod	_	_
+2	me	yo	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	iobj	_	_
+3	complace	complacer	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	tener	tener	VERB	VB	VerbForm=Inf	3	csubj	_	_
+5	que	que	ADP	IN	_	6	mark	_	_
 6-7	presionarles	_	_	_	_	_	_	_	SpaceAfter=No
-6	presionar	presionar	VERB	VB	VerbForm=Inf	3	csubj	_	_
+6	presionar	presionar	VERB	VB	VerbForm=Inf	4	xcomp	_	_
 7	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
 8	,	,	PUNCT	,	_	15	punct	_	_
 9	pero	pero	CCONJ	CC	_	15	cc	_	_
@@ -1748,7 +1748,7 @@
 # text = Todavía da un poco de asco la idea de comprar y de llevar puestas las partes del cuerpo de otra persona, afirma.
 # text_en = "There is still a 'yuk' factor to the whole idea of buying and wearing other people's body parts," she says.
 1	Todavía	todavía	ADV	RB	_	2	advmod	_	_
-2	da	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	da	dar	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	poco	poco	NOUN	NN	Gender=Masc|Number=Sing	2	obj	_	_
 5	de	de	ADP	IN	_	6	case	_	_
@@ -1759,19 +1759,19 @@
 10	comprar	comprar	VERB	VB	VerbForm=Inf	8	xcomp	_	_
 11	y	y	CCONJ	CC	_	14	cc	_	_
 12	de	de	ADP	IN	_	14	case	_	_
-13	llevar	llevar	AUX	VB	VerbForm=Inf	14	aux	_	_
-14	puestas	_	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Fin	10	conj	_	_
+13	llevar	llevar	VERB	VB	VerbForm=Inf	10	conj	_	_
+14	puestas	poner	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Part	13	xcomp	_	_
 15	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
-16	partes	_	NOUN	NN	Gender=Fem|Number=Plur	14	obj	_	_
+16	partes	parte	NOUN	NN	Gender=Fem|Number=Plur	13	obj	_	_
 17-18	del	_	_	_	_	_	_	_	_
 17	de	de	ADP	INDT	_	19	case	_	_
-18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+18	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	cuerpo	cuerpo	NOUN	NN	Gender=Masc|Number=Sing	16	nmod	_	_
 20	de	de	ADP	IN	_	22	case	_	_
-21	otra	_	DET	DT	Gender=Fem|Number=Sing|PronType=Ind	22	det	_	_
+21	otra	otro	DET	DT	Gender=Fem|Number=Sing|PronType=Ind	22	det	_	_
 22	persona	persona	NOUN	NN	Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
 23	,	,	PUNCT	,	_	24	punct	_	_
-24	afirma	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	SpaceAfter=No
+24	afirma	afirmar	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = n01025040
@@ -5957,14 +5957,14 @@
 15	hay	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
 16	alguien	alguien	NOUN	NN	Gender=Masc|Number=Sing	15	obj	_	_
 17	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	18	nsubj	_	_
-18	tiene	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl:relcl	_	_
+18	tiene	tener	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl:relcl	_	_
 19	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	amor	amor	NOUN	NN	Gender=Masc|Number=Sing	18	obj	_	_
 21	propio	propio	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	_
 22	necesario	necesario	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	_
-23	para	para	ADP	IN	_	25	case	_	_
-24	seguir	seguir	AUX	VB	VerbForm=Inf	25	aux	_	_
-25	protestando	_	VERB	VBG	Aspect=Imp|VerbForm=Fin	22	xcomp	_	_
+23	para	para	ADP	IN	_	24	mark	_	_
+24	seguir	seguir	VERB	VB	VerbForm=Inf	22	advcl	_	_
+25	protestando	protestar	VERB	VBG	Aspect=Imp|VerbForm=Fin	24	xcomp	_	_
 26	contra	contra	ADP	IN	_	27	case	_	_
 27	ello	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	obl	_	SpaceAfter=No
 28	.	.	PUNCT	.	_	2	punct	_	_
@@ -7225,7 +7225,7 @@
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	señora	señora	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	_
 3	Hopley	Hopley	PROPN	NNP	Gender=Fem|Number=Sing	2	appos	_	_
-4	añadió	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	añadió	añadir	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 5	:	:	PUNCT	:	_	16	punct	_	_
 6	"	"	PUNCT	``	_	16	punct	_	SpaceAfter=No
 7	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
@@ -7235,10 +7235,10 @@
 10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	riesgo	riesgo	NOUN	NN	Gender=Masc|Number=Sing	8	nmod	_	_
 12	político	político	ADJ	JJ	Gender=Masc|Number=Sing	11	amod	_	_
-13	no	_	ADV	RB	Polarity=Neg	16	advmod	_	_
-14	debe	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	aux	_	_
-15	pasar	pasar	AUX	VB	VerbForm=Inf	16	cop	_	_
-16	desapercibido	desapercibido	ADJ	JJ	Gender=Masc|Number=Sing	4	ccomp	_	SpaceAfter=No
+13	no	no	ADV	RB	Polarity=Neg	15	advmod	_	_
+14	debe	deber	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	aux	_	_
+15	pasar	pasar	VERB	VB	VerbForm=Inf	4	ccomp	_	_
+16	desapercibido	desapercibido	ADJ	JJ	Gender=Masc|Number=Sing	15	xcomp	_	SpaceAfter=No
 17	"	"	PUNCT	''	_	16	punct	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -7395,12 +7395,12 @@
 # text = Las empresas habían esperado empezar a contratar en julio, inmediatamente después de la votación del Brexit, pero sin embargo han conseguido continuar creciendo de forma constante.
 # text_en = Businesses had expected to start contracting in July, immediately after the Brexit vote, but instead have managed to keep growing steadily.
 1	Las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
-2	empresas	_	NOUN	NN	Gender=Fem|Number=Plur	4	nsubj	_	_
-3	habían	_	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	_
-4	esperado	_	VERB	VBN	VerbForm=Fin	0	root	_	_
-5	empezar	empezar	AUX	VB	VerbForm=Inf	7	aux	_	_
-6	a	a	ADP	IN	_	5	fixed	_	_
-7	contratar	contratar	VERB	VB	VerbForm=Inf	4	xcomp	_	_
+2	empresas	empresa	NOUN	NN	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	habían	haber	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	_
+4	esperado	esperar	VERB	VBN	VerbForm=Fin	0	root	_	_
+5	empezar	empezar	VERB	VB	VerbForm=Inf	4	xcomp	_	_
+6	a	a	ADP	IN	_	7	mark	_	_
+7	contratar	contratar	VERB	VB	VerbForm=Inf	5	xcomp	_	_
 8	en	en	ADP	IN	_	9	case	_	_
 9	julio	julio	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	12	punct	_	_
@@ -7417,13 +7417,13 @@
 20	pero	pero	CCONJ	CC	_	24	cc	_	_
 21	sin	sin	ADP	IN	_	24	discourse	_	_
 22	embargo	embargo	NOUN	NN	Gender=Masc|Number=Sing	21	fixed	_	_
-23	han	_	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	24	aux	_	_
-24	conseguido	_	VERB	VBN	VerbForm=Fin	4	conj	_	_
-25	continuar	continuar	AUX	VB	VerbForm=Inf	26	aux	_	_
-26	creciendo	_	VERB	VBG	Aspect=Imp|VerbForm=Fin	24	xcomp	_	_
+23	han	haber	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	24	aux	_	_
+24	conseguido	conseguir	VERB	VBN	VerbForm=Fin	4	conj	_	_
+25	continuar	continuar	VERB	VB	VerbForm=Inf	24	xcomp	_	_
+26	creciendo	crecer	VERB	VBG	Aspect=Imp|VerbForm=Fin	25	xcomp	_	_
 27	de	de	ADP	IN	_	28	case	_	_
 28	forma	forma	NOUN	NN	Gender=Fem|Number=Sing	26	obl	_	_
-29	constante	_	ADJ	JJ	Gender=Fem|Number=Sing	28	amod	_	SpaceAfter=No
+29	constante	constante	ADJ	JJ	Gender=Fem|Number=Sing	28	amod	_	SpaceAfter=No
 30	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = n01108005
@@ -9658,16 +9658,16 @@
 4	a	a	ADP	IN	_	5	case	_	_
 5	Andy	Andy	PROPN	NNP	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	17	punct	_	_
-7	llegar	llegar	AUX	VB	VerbForm=Inf	10	aux	_	_
-8	a	a	ADP	IN	_	7	fixed	_	_
+7	llegar	llegar	VERB	VB	VerbForm=Inf	17	csubj	_	_
+8	a	a	ADP	IN	_	10	mark	_	_
 9	ser	ser	AUX	VB	VerbForm=Inf	10	cop	_	_
-10	número	número	NOUN	NN	Gender=Masc|Number=Sing	17	csubj	_	_
+10	número	número	NOUN	NN	Gender=Masc|Number=Sing	7	xcomp	_	_
 11	1	1	NUM	CD	Gender=Masc|NumType=Card	10	appos	_	_
 12-13	del	_	_	_	_	_	_	_	_
 12	de	de	ADP	INDT	_	14	case	_	_
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	mundo	mundo	NOUN	NN	Gender=Masc|Number=Sing	10	nmod	_	_
-15	es	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	cop	_	_
+15	es	ser	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	cop	_	_
 16	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	logro	logro	NOUN	NN	Gender=Masc|Number=Sing	1	parataxis	_	_
 18	increíble	increíble	ADJ	JJ	Gender=Masc|Number=Sing	17	amod	_	SpaceAfter=No
@@ -10235,29 +10235,29 @@
 # sent_id = n01150051
 # text = Dice que la arquitectura no será de ayuda para los muertos, pero que ayuda a mantener viva su memoria entre los vivos.
 # text_en = "Architecture won't help deceased people, but it helps to keep their memories alive among the living," he says.
-1	Dice	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+1	Dice	decir	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	que	que	SCONJ	IN	_	6	mark	_	_
 3	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	arquitectura	arquitectura	NOUN	NN	Gender=Fem|Number=Sing	6	nsubj	_	_
-5	no	_	ADV	RB	Polarity=Neg	6	advmod	_	_
-6	será	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+5	no	no	ADV	RB	Polarity=Neg	6	advmod	_	_
+6	será	ser	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	_
 7	de	de	ADP	IN	_	8	case	_	_
 8	ayuda	ayuda	NOUN	NN	Gender=Fem|Number=Sing	6	obl	_	_
 9	para	para	ADP	IN	_	11	case	_	_
 10	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
-11	muertos	_	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	SpaceAfter=No
+11	muertos	muerto	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	15	punct	_	_
 13	pero	pero	CCONJ	CC	_	15	cc	_	_
 14	que	que	SCONJ	IN	_	15	mark	_	_
-15	ayuda	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
-16	a	a	ADP	IN	_	18	case	_	_
-17	mantener	mantener	AUX	VB	VerbForm=Inf	18	cop	_	_
-18	viva	_	ADJ	JJ	Gender=Fem|Number=Sing	15	xcomp	_	_
-19	su	_	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
-20	memoria	memoria	NOUN	NN	Gender=Fem|Number=Sing	18	obj	_	_
+15	ayuda	ayudar	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+16	a	a	ADP	IN	_	17	mark	_	_
+17	mantener	mantener	VERB	VB	VerbForm=Inf	15	xcomp	_	_
+18	viva	vivo	ADJ	JJ	Gender=Fem|Number=Sing	17	xcomp	_	_
+19	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
+20	memoria	memoria	NOUN	NN	Gender=Fem|Number=Sing	17	obj	_	_
 21	entre	entre	ADP	IN	_	23	case	_	_
 22	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
-23	vivos	_	NOUN	NN	Gender=Masc|Number=Plur	18	obl	_	SpaceAfter=No
+23	vivos	vivo	NOUN	NN	Gender=Masc|Number=Plur	17	obl	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	1	punct	_	_
 
 # newdoc id = w01001
@@ -18798,7 +18798,7 @@
 2	último	último	ADJ	JJ	Gender=Masc|Number=Sing	3	amod	_	_
 3	libro	libro	NOUN	NN	Gender=Masc|Number=Sing	7	nsubj	_	_
 4	de	de	ADP	IN	_	6	case	_	_
-5	no	_	ADV	RB	Polarity=Neg	6	advmod	_	_
+5	no	no	ADV	RB	Polarity=Neg	6	advmod	_	_
 6	ficción	ficción	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	_
 7	es	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 8	acerca	acerca	ADV	RB	_	10	case	_	_
@@ -18817,7 +18817,7 @@
 # text_en = She found the transition to fiction easy, explaining, "Every book is a learning curve, and you have to keep an open mind."
 1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	compound:prt	_	_
 2	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
-3	hizo	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	hizo	hacer	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 4	fácil	fácil	ADV	RB	_	3	advmod	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	transición	transición	NOUN	NN	Gender=Fem|Number=Sing	3	nsubj:pass	_	_
@@ -18825,23 +18825,23 @@
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	ficción	ficción	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	11	punct	_	_
-11	explicó	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	SpaceAfter=No
+11	explicó	explicar	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	SpaceAfter=No
 12	:	:	PUNCT	:	_	18	punct	_	_
 13	"	"	PUNCT	``	_	18	punct	_	SpaceAfter=No
 14	Cada	cada	DET	DT	Gender=Masc|Number=Sing|PronType=Tot	15	det	_	_
 15	libro	libro	NOUN	NN	Gender=Masc|Number=Sing	18	nsubj	_	_
-16	es	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	_	_
+16	es	ser	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	_	_
 17	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	curva	curva	NOUN	NN	Gender=Fem|Number=Sing	11	ccomp	_	_
 19	de	de	ADP	IN	_	20	case	_	_
 20	aprendizaje	aprendizaje	NOUN	NN	Gender=Masc|Number=Sing	18	nmod	_	_
 21	y	y	CCONJ	CC	_	27	cc	_	_
-22	tienes	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	27	aux	_	_
-23	que	que	ADP	IN	_	22	fixed	_	_
-24	mantener	mantener	AUX	VB	VerbForm=Inf	27	cop	_	_
+22	tienes	tener	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	18	conj	_	_
+23	que	que	ADP	IN	_	24	mark	_	_
+24	mantener	mantener	VERB	VB	VerbForm=Inf	22	xcomp	_	_
 25	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
-26	mente	mente	NOUN	NN	Gender=Fem|Number=Sing	27	obj	_	_
-27	abierta	_	ADJ	JJ	Gender=Fem|Number=Sing	18	conj	_	SpaceAfter=No
+26	mente	mente	NOUN	NN	Gender=Fem|Number=Sing	24	obj	_	_
+27	abierta	abierto	ADJ	JJ	Gender=Fem|Number=Sing	26	amod	_	SpaceAfter=No
 28	"	"	PUNCT	''	_	18	punct	_	SpaceAfter=No
 29	.	.	PUNCT	.	_	3	punct	_	_
 
