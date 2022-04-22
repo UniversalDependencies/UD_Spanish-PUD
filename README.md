@@ -37,7 +37,7 @@ employ ten-fold cross-validation.
 # Changelog
 
 * 2022-05-15 v2.10
-  * Fixed features of infinitives.
+  * Fixed features of infinitives and gerunds.
   * Added lemmas in some obvious cases where they correspond to the surface
     form.
   * Fixed validation errors.
