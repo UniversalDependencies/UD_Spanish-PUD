@@ -26575,7 +26575,7 @@
 31	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = w03010100
-# text = Durante las vacaciones el empezó una aventura extramarital con una chica joven, adminiéndolo poco después.
+# text = Durante las vacaciones el empezó una aventura extramarital con una chica joven, admitiéndolo poco después.
 # text_en = During the holiday, he began an extra-marital affair with the young girl, which he admitted shortly after.
 1	Durante	durante	ADP	IN	_	3	case	_	_
 2	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
