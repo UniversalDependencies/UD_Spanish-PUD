@@ -27662,10 +27662,10 @@
 6	gracia	gracia	NOUN	NN	Gender=Fem|Number=Sing	4	nmod	_	_
 7	y	y	CCONJ	CC	_	8	cc	_	_
 8	propagandístico	propagandístico	ADJ	JJ	Gender=Masc|Number=Sing	6	conj	_	_
-9	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	10	nsubj	_	_
+9	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	10	obj	_	_
 10	necesitaban	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	_
 11	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
-12	colonos	_	NOUN	NN	Gender=Masc|Number=Plur	10	nsubj	_	_
+12	colonos	colono	NOUN	NN	Gender=Masc|Number=Plur	10	nsubj	_	_
 13	para	para	ADP	IN	_	15	case	_	_
 14	su	_	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
 15	independencia	independencia	NOUN	NN	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
