@@ -19060,37 +19060,8 @@
 
 # newdoc id = w01124
 # sent_id = w01124011
-# text = Luego de su despido, Peniston tomó el rol de Glinda, la bruja buena, en la producción de teatro musical The Wiz.
-# text_en = After its progress had stalled in the Billboard 200 at No. 96, Thought 'Ya Knew climbed to No. 31 in the UK, but the album charted for only two weeks in the UK.
-1	Luego	luego	ADV	RB	_	7	advmod	_	_
-2	de	de	ADP	IN	_	4	case	_	_
-3	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
-4	despido	despido	NOUN	NN	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
-5	,	,	PUNCT	,	_	1	punct	_	_
-6	Peniston	Peniston	PROPN	NNP	Gender=Fem|Number=Sing	7	nsubj	_	_
-7	tomó	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-8	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	rol	rol	NOUN	NN	Gender=Masc|Number=Sing	7	obj	_	_
-10	de	de	ADP	IN	_	11	case	_	_
-11	Glinda	Glinda	PROPN	NNP	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
-12	,	,	PUNCT	,	_	14	punct	_	_
-13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
-14	bruja	bruja	NOUN	NN	Gender=Fem|Number=Sing	11	appos	_	_
-15	buena	_	ADJ	JJ	Gender=Fem|Number=Sing	14	amod	_	SpaceAfter=No
-16	,	,	PUNCT	,	_	19	punct	_	_
-17	en	en	ADP	IN	_	19	case	_	_
-18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
-19	producción	producción	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
-20	de	de	ADP	IN	_	21	case	_	_
-21	teatro	teatro	NOUN	NN	Gender=Masc|Number=Sing	19	nmod	_	_
-22	musical	musical	ADJ	JJ	Gender=Masc|Number=Sing	21	amod	_	_
-23	The	the	DET	DT	Number=Sing|PronType=Ind	24	det	_	Proper=True
-24	Wiz	wiz	NOUN	NN	Number=Sing	19	appos	_	SpaceAfter=No|Proper=True
-25	.	.	PUNCT	.	_	7	punct	_	_
-
-# sent_id = w01124049
 # text = Luego de que su progreso se estancara en el puesto n.° 96 en el Billboard 200, Thought 'Ya Knew ascendió al puesto n.° 31 en el Reino Unido, pero el álbum estuvo en los rankings solo por dos semanas en el Reino Unido.
-# text_en = Following her dismissal, Peniston took playing as Glinda the Good Witch in a theatrical production of musical play The Wiz.
+# text_en = After its progress had stalled in the Billboard 200 at No. 96, Thought 'Ya Knew climbed to No. 31 in the UK, but the album charted for only two weeks in the UK.
 1	Luego	luego	ADV	RB	_	22	advmod	_	_
 2	de	de	ADP	IN	_	7	case	_	_
 3	que	que	SCONJ	IN	_	7	mark	_	_
@@ -19108,11 +19079,11 @@
 15	Billboard	Billboard	PROPN	NNP	Number=Sing	10	nmod	_	_
 16	200	200	NUM	CD	Gender=Masc|NumType=Card	15	flat:name	_	SpaceAfter=No|Proper=True
 17	,	,	PUNCT	,	_	1	punct	_	_
-18	Thought	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	22	nsubj	_	Proper=True
+18	Thought	think	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	22	nsubj	_	Proper=True
 19	'	'	PUNCT	-	_	20	punct	_	SpaceAfter=No|Proper=True
-20	Ya	ya	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Ind	21	nsubj	_	Proper=True
-21	Knew	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	18	ccomp	_	Proper=True
-22	ascendió	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+20	Ya	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Ind	21	nsubj	_	Proper=True
+21	Knew	know	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	18	ccomp	_	Proper=True
+22	ascendió	ascender	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 23-24	al	_	_	_	_	_	_	_	_
 23	a	a	ADP	INDT	_	25	case	_	_
 24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
@@ -19127,19 +19098,48 @@
 33	pero	pero	CCONJ	CC	_	36	cc	_	_
 34	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
 35	álbum	álbum	NOUN	NN	Gender=Masc|Number=Sing	36	nsubj	_	_
-36	estuvo	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	22	conj	_	_
+36	estuvo	estar	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	22	conj	_	_
 37	en	en	ADP	IN	_	39	case	_	_
 38	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	39	det	_	_
-39	rankings	_	NOUN	NN	Gender=Masc|Number=Plur	36	obl	_	_
+39	rankings	ranking	NOUN	NN	Gender=Masc|Number=Plur	36	obl	_	_
 40	solo	solo	ADV	RB	_	43	advmod	_	_
 41	por	por	ADP	IN	_	43	case	_	_
-42	dos	_	NUM	CD	Gender=Fem|NumType=Card	43	nummod	_	_
-43	semanas	_	NOUN	NN	Gender=Fem|Number=Plur	36	obl	_	_
+42	dos	dos	NUM	CD	Gender=Fem|NumType=Card	43	nummod	_	_
+43	semanas	semana	NOUN	NN	Gender=Fem|Number=Plur	36	obl	_	_
 44	en	en	ADP	IN	_	46	case	_	_
 45	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	46	det	_	_
 46	Reino	reino	NOUN	NN	Gender=Masc|Number=Sing	36	obl	_	Proper=True
 47	Unido	unido	ADJ	JJ	Gender=Masc|Number=Sing	46	amod	_	SpaceAfter=No|Proper=True
 48	.	.	PUNCT	.	_	22	punct	_	_
+
+# sent_id = w01124049
+# text = Luego de su despido, Peniston tomó el rol de Glinda, la bruja buena, en la producción de teatro musical The Wiz.
+# text_en = Following her dismissal, Peniston took playing as Glinda the Good Witch in a theatrical production of musical play The Wiz.
+1	Luego	luego	ADV	RB	_	7	advmod	_	_
+2	de	de	ADP	IN	_	4	case	_	_
+3	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
+4	despido	despido	NOUN	NN	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+5	,	,	PUNCT	,	_	1	punct	_	_
+6	Peniston	Peniston	PROPN	NNP	Gender=Fem|Number=Sing	7	nsubj	_	_
+7	tomó	tomar	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	rol	rol	NOUN	NN	Gender=Masc|Number=Sing	7	obj	_	_
+10	de	de	ADP	IN	_	11	case	_	_
+11	Glinda	Glinda	PROPN	NNP	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	,	_	14	punct	_	_
+13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	bruja	bruja	NOUN	NN	Gender=Fem|Number=Sing	11	appos	_	_
+15	buena	bueno	ADJ	JJ	Gender=Fem|Number=Sing	14	amod	_	SpaceAfter=No
+16	,	,	PUNCT	,	_	19	punct	_	_
+17	en	en	ADP	IN	_	19	case	_	_
+18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	producción	producción	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
+20	de	de	ADP	IN	_	21	case	_	_
+21	teatro	teatro	NOUN	NN	Gender=Masc|Number=Sing	19	nmod	_	_
+22	musical	musical	ADJ	JJ	Gender=Masc|Number=Sing	21	amod	_	_
+23	The	the	DET	DT	Number=Sing|PronType=Ind	24	det	_	Proper=True
+24	Wiz	wiz	NOUN	NN	Number=Sing	19	appos	_	SpaceAfter=No|Proper=True
+25	.	.	PUNCT	.	_	7	punct	_	_
 
 # newdoc id = w01125
 # sent_id = w01125034
@@ -27662,10 +27662,10 @@
 6	gracia	gracia	NOUN	NN	Gender=Fem|Number=Sing	4	nmod	_	_
 7	y	y	CCONJ	CC	_	8	cc	_	_
 8	propagandístico	propagandístico	ADJ	JJ	Gender=Masc|Number=Sing	6	conj	_	_
-9	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	10	nsubj	_	_
+9	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	10	obj	_	_
 10	necesitaban	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	_
 11	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
-12	colonos	_	NOUN	NN	Gender=Masc|Number=Plur	10	nsubj	_	_
+12	colonos	colono	NOUN	NN	Gender=Masc|Number=Plur	10	nsubj	_	_
 13	para	para	ADP	IN	_	15	case	_	_
 14	su	_	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
 15	independencia	independencia	NOUN	NN	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No

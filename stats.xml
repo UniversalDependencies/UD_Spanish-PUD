@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>1000</sentences><tokens>22822</tokens><words>23287</words><fused>465</fused></test>
   </size>
-  <lemmas unique="3559" /><!-- el, de, ,, ., en, a, él, uno, y, que, ser, por, con, haber, para -->
+  <lemmas unique="3565" /><!-- el, de, ,, ., en, a, él, uno, y, que, ser, por, con, haber, para -->
   <forms unique="5936" /><!-- de, el, ,, ., la, en, a, que, y, los, se, un, las, una, por -->
   <fusions unique="61" /><!-- del, al, verlo, beneficiarse, convirtiéndose, hacerlo, recuperarlo, admitiéndolo, alejarse, aplicándolo, centrarse, centrándose, comprometerse, concentrase, convertirse -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -118,10 +118,10 @@
     <dep name="iobj">49</dep>
     <dep name="mark">290</dep>
     <dep name="nmod">1802</dep>
-    <dep name="nsubj">1191</dep>
+    <dep name="nsubj">1190</dep>
     <dep name="nsubj:pass">165</dep>
     <dep name="nummod">192</dep>
-    <dep name="obj">790</dep>
+    <dep name="obj">791</dep>
     <dep name="obl">1588</dep>
     <dep name="obl:agent">2</dep>
     <dep name="obl:tmod">68</dep>
