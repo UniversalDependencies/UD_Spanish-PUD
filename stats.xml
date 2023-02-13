@@ -122,8 +122,8 @@
     <dep name="nsubj:pass">165</dep>
     <dep name="nummod">192</dep>
     <dep name="obj">791</dep>
-    <dep name="obl">1588</dep>
-    <dep name="obl:agent">2</dep>
+    <dep name="obl">1528</dep>
+    <dep name="obl:agent">62</dep>
     <dep name="obl:tmod">68</dep>
     <dep name="orphan">4</dep>
     <dep name="parataxis">106</dep>

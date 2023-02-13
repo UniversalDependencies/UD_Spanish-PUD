@@ -1154,7 +1154,7 @@
 7	acreditado	acreditar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 8	por	por	ADP	IN	_	10	case	_	_
 9	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	agencia	agencia	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
+10	agencia	agencia	NOUN	NN	Gender=Fem|Number=Sing	7	obl:agent	_	_
 11	de	de	ADP	IN	_	12	case	_	_
 12	espionaje	espionaje	NOUN	NN	Gender=Masc|Number=Sing	10	nmod	_	_
 13	británica	británico	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	Proper=True
@@ -1863,7 +1863,7 @@
 9	ha	haber	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	aux	_	_
 10	decantado	decantar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 11	por	por	ADP	IN	_	12	case	_	_
-12	multas	_	NOUN	NN	Gender=Fem|Number=Plur	10	obl	_	_
+12	multas	_	NOUN	NN	Gender=Fem|Number=Plur	10	obl:agent	_	_
 13	poco	poco	ADV	RB	_	14	advmod	_	_
 14	convencionales	_	ADJ	JJ	Gender=Fem|Number=Plur	12	amod	_	_
 15	con	con	ADP	IN	_	16	case	_	_
@@ -6929,7 +6929,7 @@
 8	alcance	alcance	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	_
 9	realizada	realizar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_
 10	por	por	ADP	IN	_	11	case	_	_
-11	Pekín	Pekín	PROPN	NNP	Number=Sing	9	obl	_	_
+11	Pekín	Pekín	PROPN	NNP	Number=Sing	9	obl:agent	_	_
 12	desde	desde	ADP	IN	_	14	case	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	cesión	cesión	NOUN	NN	Gender=Fem|Number=Sing	9	obl	_	_
@@ -6984,7 +6984,7 @@
 8	está	estar	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
 9	liderado	liderar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	_
 10	por	por	ADP	IN	_	11	case	_	_
-11	legisladores	_	NOUN	NN	Gender=Masc|Number=Plur	9	obl	_	_
+11	legisladores	_	NOUN	NN	Gender=Masc|Number=Plur	9	obl:agent	_	_
 12	favorables	_	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	_
 13	a	a	ADP	IN	_	14	case	_	_
 14	Pekín	Pekín	PROPN	NNP	Number=Sing	12	obl	_	SpaceAfter=No
@@ -7665,7 +7665,7 @@
 2	seguido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 3	por	por	ADP	IN	_	5	case	_	_
 4	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
-5	fondos	_	NOUN	NN	Gender=Masc|Number=Plur	2	obl	_	_
+5	fondos	_	NOUN	NN	Gender=Masc|Number=Plur	2	obl:agent	_	_
 6	de	de	ADP	IN	_	7	case	_	_
 7	renta	renta	NOUN	NN	Gender=Fem|Number=Sing	5	nmod	_	_
 8	y	y	CCONJ	CC	_	11	cc	_	_
@@ -7723,7 +7723,7 @@
 17	causado	causar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl	_	_
 18	por	por	ADP	IN	_	20	case	_	_
 19	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
-20	caída	caída	NOUN	NN	Gender=Fem|Number=Sing	17	obl	_	_
+20	caída	caída	NOUN	NN	Gender=Fem|Number=Sing	17	obl:agent	_	_
 21	de	de	ADP	IN	_	23	case	_	_
 22	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	libra	libra	NOUN	NN	Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
@@ -7825,7 +7825,7 @@
 4	realizada	realizar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	_
 5	por	por	ADP	IN	_	7	case	_	_
 6	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	genio	genio	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	_
+7	genio	genio	NOUN	NN	Gender=Masc|Number=Sing	4	obl:agent	_	_
 8	y	y	CCONJ	CC	_	10	cc	_	_
 9	muchas	_	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	10	det	_	_
 10	horas	_	NOUN	NN	Gender=Fem|Number=Plur	3	conj	_	_
@@ -7892,7 +7892,7 @@
 7	resultado	resultar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 8	heridos	herir	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	7	xcomp	_	_
 9	por	por	ADP	IN	_	10	case	_	_
-10	causa	causa	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
+10	causa	causa	NOUN	NN	Gender=Fem|Number=Sing	8	obl:agent	_	_
 11-12	del	_	_	_	_	_	_	_	_
 11	de	de	ADP	INDT	_	14	case	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
@@ -8404,7 +8404,7 @@
 4	actos	_	NOUN	NN	Gender=Masc|Number=Plur	9	nsubj	_	_
 5	realizados	realizar	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	acl	_	_
 6	por	por	ADP	IN	_	7	case	_	_
-7	Cotton	Cotton	PROPN	NNP	Gender=Fem|Number=Sing	5	obl	_	_
+7	Cotton	Cotton	PROPN	NNP	Gender=Fem|Number=Sing	5	obl:agent	_	_
 8	no	_	ADV	RB	Polarity=Neg	9	advmod	_	_
 9	sucedieron	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 10	debido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	case	_	_
@@ -8451,7 +8451,7 @@
 9	preocupado	preocupar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
 10	por	por	ADP	IN	_	12	case	_	_
 11	mucho	mucho	DET	DT	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	12	det	_	_
-12	tiempo	tiempo	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+12	tiempo	tiempo	NOUN	NN	Gender=Masc|Number=Sing	9	obl:agent	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	3	punct	_	_
 
 # newdoc id = n01125
@@ -8908,7 +8908,7 @@
 9	por	por	ADP	IN	_	12	case	_	_
 10	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 11	gran	gran	ADJ	JJ	Gender=Masc|Number=Sing	12	amod	_	_
-12	número	número	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	_
+12	número	número	NOUN	NN	Gender=Masc|Number=Sing	8	obl:agent	_	_
 13	de	de	ADP	IN	_	14	case	_	_
 14	abstenciones	_	NOUN	NN	Gender=Fem|Number=Plur	12	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	,	_	20	punct	_	_
@@ -9021,7 +9021,7 @@
 10	barajadas	barajar	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	9	acl	_	_
 11	por	por	ADP	IN	_	13	case	_	_
 12	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
-13	medios	_	NOUN	NN	Gender=Masc|Number=Plur	10	obl	_	_
+13	medios	_	NOUN	NN	Gender=Masc|Number=Plur	10	obl:agent	_	_
 14	de	de	ADP	IN	_	15	case	_	_
 15	comunicación	comunicación	NOUN	NN	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	17	punct	_	_
@@ -9108,7 +9108,7 @@
 12	acumulada	acumular	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	acl	_	_
 13	por	por	ADP	IN	_	15	case	_	_
 14	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
-15	gobiernos	_	NOUN	NN	Gender=Masc|Number=Plur	12	obl	_	_
+15	gobiernos	_	NOUN	NN	Gender=Masc|Number=Plur	12	obl:agent	_	_
 16	locales	_	ADJ	JJ	Gender=Masc|Number=Plur	15	amod	_	_
 17	en	en	ADP	IN	_	18	case	_	_
 18	China	China	PROPN	NNP	Number=Sing	12	obl	_	SpaceAfter=No
@@ -9902,7 +9902,7 @@
 16	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	CNN	CNN	PROPN	NNP	Gender=Fem|Number=Sing	14	obl	_	_
 18	por	por	ADP	IN	_	19	case	_	_
-19	qué	qué	PRON	WP	PronType=Int,Rel	22	obl	_	_
+19	qué	qué	PRON	WP	PronType=Int,Rel	22	obl:agent	_	_
 20	México	México	PROPN	NNP	Number=Sing	22	nsubj	_	_
 21	ha	haber	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	22	aux	_	_
 22	decidido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	ccomp	_	_
@@ -10212,7 +10212,7 @@
 # text_en = Designed by Juan Carlos Salas, the award-winning building has a sculptural appearance and every detail carries meaning.
 1	Diseñado	diseñar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	_
 2	por	por	ADP	IN	_	3	case	_	_
-3	Juan	Juan	PROPN	NNP	Gender=Masc|Number=Sing	1	obl	_	_
+3	Juan	Juan	PROPN	NNP	Gender=Masc|Number=Sing	1	obl:agent	_	_
 4	Carlos	Carlos	PROPN	NNP	Gender=Masc|Number=Sing	3	flat:name	_	_
 5	Salas	Salas	PROPN	NNP	Gender=Masc|Number=Sing	3	flat:name	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	1	punct	_	_
@@ -10644,7 +10644,7 @@
 12	,	,	PUNCT	,	_	13	punct	_	_
 13	dirigida	_	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	acl	_	_
 14	por	por	ADP	IN	_	15	case	_	_
-15	Yannis	Yannis	PROPN	NNP	Gender=Masc|Number=Sing	13	obl	_	_
+15	Yannis	Yannis	PROPN	NNP	Gender=Masc|Number=Sing	13	obl:agent	_	_
 16	Smaragdis	Smaragdis	PROPN	NNP	Gender=Masc|Number=Sing	15	flat:name	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -11260,7 +11260,7 @@
 1	Formada	formar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	20	acl	_	_
 2	por	por	ADP	IN	_	4	case	_	_
 3	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
-4	fuerzas	_	NOUN	NN	Gender=Fem|Number=Plur	1	obl	_	_
+4	fuerzas	_	NOUN	NN	Gender=Fem|Number=Plur	1	obl:agent	_	_
 5	globales	_	ADJ	JJ	Gender=Fem|Number=Plur	4	amod	_	_
 6	de	de	ADP	IN	_	8	case	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
@@ -11541,7 +11541,7 @@
 16	influenciadas	influenciar	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	conj	_	_
 17	por	por	ADP	IN	_	19	case	_	_
 18	esa	_	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	19	det	_	_
-19	proximidad	proximidad	NOUN	NN	Gender=Fem|Number=Sing	16	obl	_	_
+19	proximidad	proximidad	NOUN	NN	Gender=Fem|Number=Sing	16	obl:agent	_	_
 20-21	al	_	_	_	_	_	_	_	_
 20	a	a	ADP	INDT	_	22	case	_	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
@@ -11708,7 +11708,7 @@
 6	protegido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_
 7	por	por	ADP	IN	_	9	case	_	_
 8	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	superficie	superficie	NOUN	NN	Gender=Fem|Number=Sing	6	obl	_	_
+9	superficie	superficie	NOUN	NN	Gender=Fem|Number=Sing	6	obl:agent	_	_
 10	rocosa	_	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	_
 11	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	12	nsubj	_	_
 12	empieza	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
@@ -11859,7 +11859,7 @@
 31	por	por	ADP	IN	_	34	case	_	_
 32	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
 33	avanzado	avanzado	ADJ	JJ	Gender=Masc|Number=Sing	34	amod	_	_
-34	ejército	ejército	NOUN	NN	Gender=Masc|Number=Sing	30	obl	_	_
+34	ejército	ejército	NOUN	NN	Gender=Masc|Number=Sing	30	obl:agent	_	_
 35	alemán	alemán	ADJ	JJ	Gender=Masc|Number=Sing	34	amod	_	SpaceAfter=No|Proper=True
 36	.	.	PUNCT	.	_	11	punct	_	_
 
@@ -12004,7 +12004,7 @@
 5	transportados	transportar	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	acl	_	_
 6	por	por	ADP	IN	_	8	case	_	_
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	Danubio	Danubio	PROPN	NNP	Gender=Masc|Number=Sing	5	obl	_	_
+8	Danubio	Danubio	PROPN	NNP	Gender=Masc|Number=Sing	5	obl:agent	_	_
 9	incrementó	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 10	a	a	ADP	IN	_	13	case	_	_
 11	unas	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
@@ -14045,7 +14045,7 @@
 13	administrados	administrar	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	ccomp	_	_
 14	por	por	ADP	IN	_	16	case	_	_
 15	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-16	manchú	manchú	NOUN	NN	Gender=Masc|Number=Sing	13	obl	_	Proper=True
+16	manchú	manchú	NOUN	NN	Gender=Masc|Number=Sing	13	obl:agent	_	Proper=True
 17	durante	durante	ADP	IN	_	19	case	_	_
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	dinastía	dinastía	NOUN	NN	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
@@ -14083,7 +14083,7 @@
 2	área	área	NOUN	NN	Gender=Fem|Number=Sing	8	nsubj	_	_
 3	controlada	controlar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
 4	por	por	ADP	IN	_	5	case	_	_
-5	Bogd	Bogd	PROPN	NNP	Gender=Masc|Number=Sing	3	obl	_	_
+5	Bogd	Bogd	PROPN	NNP	Gender=Masc|Number=Sing	3	obl:agent	_	_
 6	Khaan	Khaan	PROPN	NNP	Gender=Masc|Number=Sing	5	flat:name	_	_
 7	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	compound:prt	_	_
 8	correspondía	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -14989,7 +14989,7 @@
 5	destruida	_	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	por	por	ADP	IN	_	8	case	_	_
 7	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	incendio	incendio	NOUN	NN	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+8	incendio	incendio	NOUN	NN	Gender=Masc|Number=Sing	5	obl:agent	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	13	punct	_	_
 10	presuntamente	presuntamente	ADV	RB	_	13	advmod	_	_
 11-12	al	_	_	_	_	_	_	_	_
@@ -15182,7 +15182,7 @@
 22	seguidos	_	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	11	advcl	_	_
 23	por	por	ADP	IN	_	25	case	_	_
 24	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
-25	enlace	enlace	NOUN	NN	Gender=Masc|Number=Sing	22	obl	_	_
+25	enlace	enlace	NOUN	NN	Gender=Masc|Number=Sing	22	obl:agent	_	_
 26	a	a	ADP	IN	_	28	case	_	_
 27	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	28	det	_	_
 28	imágenes	_	NOUN	NN	Gender=Fem|Number=Plur	25	nmod	_	_
@@ -15734,7 +15734,7 @@
 12	dividida	_	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 13	por	por	ADP	IN	_	15	case	_	_
 14	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
-15	romanos	_	NOUN	NN	Gender=Masc|Number=Plur	12	obl	_	Proper=True
+15	romanos	_	NOUN	NN	Gender=Masc|Number=Plur	12	obl:agent	_	Proper=True
 16	en	en	ADP	IN	_	18	case	_	_
 17	dos	_	NUM	CD	Gender=Fem|NumType=Card	18	nummod	_	_
 18	partes	_	NOUN	NN	Gender=Fem|Number=Plur	12	obl	_	_
@@ -15781,7 +15781,7 @@
 5	tanto	tanto	ADV	RB	_	4	advmod	_	_
 6	por	por	ADP	IN	_	8	case	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	belleza	belleza	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
+8	belleza	belleza	NOUN	NN	Gender=Fem|Number=Sing	4	obl:agent	_	_
 9-10	del	_	_	_	_	_	_	_	_
 9	de	de	ADP	INDT	_	11	case	_	_
 10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
@@ -16068,7 +16068,7 @@
 12	perdidas	_	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	11	acl	_	_
 13	por	por	ADP	IN	_	15	case	_	_
 14	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-15	rebelión	rebelión	NOUN	NN	Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
+15	rebelión	rebelión	NOUN	NN	Gender=Fem|Number=Sing	12	obl:agent	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	25	punct	_	_
 17	y	y	CCONJ	CC	_	25	cc	_	_
 18	por	por	ADP	IN	_	25	discourse	_	_
@@ -16389,7 +16389,7 @@
 10	protegida	_	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 11	por	por	ADP	IN	_	13	case	_	_
 12	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-13	rio	rio	NOUN	NN	Gender=Masc|Number=Sing	10	obl	_	_
+13	rio	rio	NOUN	NN	Gender=Masc|Number=Sing	10	obl:agent	_	_
 14	Mesta	Mesta	PROPN	NNP	Gender=Masc|Number=Sing	13	appos	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	10	punct	_	_
 
@@ -16468,7 +16468,7 @@
 28	protegido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	22	advcl	_	_
 29	por	por	ADP	IN	_	31	case	_	_
 30	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
-31	fuerza	fuerza	NOUN	NN	Gender=Fem|Number=Sing	28	obl	_	_
+31	fuerza	fuerza	NOUN	NN	Gender=Fem|Number=Sing	28	obl:agent	_	_
 32	conjunta	_	ADJ	JJ	Gender=Fem|Number=Sing	31	amod	_	_
 33	de	de	ADP	IN	_	34	case	_	_
 34	atenianos	_	NOUN	NN	Gender=Masc|Number=Plur	31	nmod	_	SpaceAfter=No|Proper=True
@@ -16786,7 +16786,7 @@
 8	ejército	ejército	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
 9	reclutado	reclutar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	_
 10	por	por	ADP	IN	_	11	case	_	_
-11	Venecia	Venecia	PROPN	NNP	Number=Sing	9	obl	_	_
+11	Venecia	Venecia	PROPN	NNP	Number=Sing	9	obl:agent	_	_
 12	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	compound:prt	_	_
 13	emprendió	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 14	desde	desde	ADP	IN	_	15	case	_	_
@@ -16983,7 +16983,7 @@
 7	domesticados	domesticar	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	_
 8	por	por	ADP	IN	_	10	case	_	_
 9	primera	_	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	_
-10	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
+10	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	7	obl:agent	_	_
 11	en	en	ADP	IN	_	13	case	_	_
 12	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	sudeste	sudeste	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
@@ -19206,7 +19206,7 @@
 17	conservadores	_	NOUN	NN	Gender=Masc|Number=Plur	12	nsubj	_	_
 18	liderados	liderar	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	17	acl	_	_
 19	por	por	ADP	IN	_	20	case	_	_
-20	Lord	lord	NOUN	NN	Gender=Masc|Number=Sing	18	obl	_	Proper=True
+20	Lord	lord	NOUN	NN	Gender=Masc|Number=Sing	18	obl:agent	_	Proper=True
 21	North	North	PROPN	NNP	Gender=Masc|Number=Sing	20	appos	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	6	punct	_	_
 
@@ -19366,7 +19366,7 @@
 21	,	,	PUNCT	,	_	22	punct	_	_
 22	protagonizado	protagonizar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	acl	_	_
 23	por	por	ADP	IN	_	24	case	_	_
-24	LaBeouf	LaBeouf	PROPN	NNP	Gender=Masc|Number=Sing	22	obl	_	SpaceAfter=No
+24	LaBeouf	LaBeouf	PROPN	NNP	Gender=Masc|Number=Sing	22	obl:agent	_	SpaceAfter=No
 25	,	,	PUNCT	,	_	30	punct	_	_
 26	en	en	ADP	IN	_	28	case	_	_
 27	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
@@ -19987,12 +19987,12 @@
 29	,	,	PUNCT	,	_	30	punct	_	_
 30	dirigida	_	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_
 31	por	por	ADP	IN	_	32	case	_	_
-32	Lasse	Lasse	PROPN	NNP	Gender=Masc|Number=Sing	30	obl	_	_
+32	Lasse	Lasse	PROPN	NNP	Gender=Masc|Number=Sing	30	obl:agent	_	_
 33	Hallström	Hallström	PROPN	NNP	Gender=Masc|Number=Sing	32	flat:name	_	_
 34	y	y	CCONJ	CC	_	35	cc	_	_
 35	coprotagonizada	coprotagonizar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	30	conj	_	_
 36	por	por	ADP	IN	_	37	case	_	_
-37	Ewan	Ewan	PROPN	NNP	Gender=Masc|Number=Sing	35	obl	_	_
+37	Ewan	Ewan	PROPN	NNP	Gender=Masc|Number=Sing	35	obl:agent	_	_
 38	McGregor	McGregor	PROPN	NNP	Gender=Masc|Number=Sing	37	flat:name	_	_
 39	y	y	CCONJ	CC	_	40	cc	_	_
 40	Kristin	Kristin	PROPN	NNP	Gender=Fem|Number=Sing	37	conj	_	_
@@ -20048,12 +20048,12 @@
 16	)	)	PUNCT	)	_	10	punct	_	_
 17	dirigida	_	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	_
 18	por	por	ADP	IN	_	19	case	_	_
-19	Nicholas	Nicholas	PROPN	NNP	Gender=Masc|Number=Sing	17	obl	_	_
+19	Nicholas	Nicholas	PROPN	NNP	Gender=Masc|Number=Sing	17	obl:agent	_	_
 20	Stoller	Stoller	PROPN	NNP	Gender=Masc|Number=Sing	19	flat:name	_	_
 21	y	y	CCONJ	CC	_	22	cc	_	_
 22	coprotagonizada	coprotagonizar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	17	conj	_	_
 23	por	por	ADP	IN	_	24	case	_	_
-24	Jason	Jason	PROPN	NNP	Gender=Masc|Number=Sing	22	obl	_	_
+24	Jason	Jason	PROPN	NNP	Gender=Masc|Number=Sing	22	obl:agent	_	_
 25	Segel	Segel	PROPN	NNP	Gender=Masc|Number=Sing	24	flat:name	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -20080,14 +20080,14 @@
 18	,	,	PUNCT	,	_	19	punct	_	_
 19	dirigida	dirigir	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	11	acl	_	_
 20	por	por	ADP	IN	_	21	case	_	_
-21	Rian	Rian	PROPN	NNP	Gender=Masc|Number=Sing	19	obl	_	_
+21	Rian	Rian	PROPN	NNP	Gender=Masc|Number=Sing	19	obl:agent	_	_
 22	Johnson	Johnson	PROPN	NNP	Gender=Masc|Number=Sing	21	flat:name	_	_
 23	y	y	CCONJ	CC	_	26	cc	_	_
 24	co	co	ADJ	AFX	Hyph=Yes	26	compound	_	SpaceAfter=No
 25	-	-	PUNCT	-	_	24	punct	_	SpaceAfter=No
 26	protagonizada	protagonizar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	19	conj	_	_
 27	por	por	ADP	IN	_	28	case	_	_
-28	Bruce	Bruce	PROPN	NNP	Gender=Masc|Number=Sing	26	obl	_	_
+28	Bruce	Bruce	PROPN	NNP	Gender=Masc|Number=Sing	26	obl:agent	_	_
 29	Willis	Willis	PROPN	NNP	Gender=Masc|Number=Sing	28	flat:name	_	_
 30	y	y	CCONJ	CC	_	31	cc	_	_
 31	Joseph	Joseph	PROPN	NNP	Gender=Masc|Number=Sing	28	conj	_	_
@@ -20691,7 +20691,7 @@
 25	,	,	PUNCT	,	_	26	punct	_	_
 26	interpretada	interpretar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	21	acl	_	_
 27	por	por	ADP	IN	_	28	case	_	_
-28	Audrey	Audrey	PROPN	NNP	Gender=Fem|Number=Sing	26	obl	_	_
+28	Audrey	Audrey	PROPN	NNP	Gender=Fem|Number=Sing	26	obl:agent	_	_
 29	Hepburn	Hepburn	PROPN	NNP	Gender=Fem|Number=Sing	28	flat:name	_	SpaceAfter=No
 30	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -21242,7 +21242,7 @@
 19	territorio	territorio	NOUN	NN	Gender=Masc|Number=Sing	15	nmod	_	_
 20	reivindicado	reivindicar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	19	acl	_	_
 21	por	por	ADP	IN	_	22	case	_	_
-22	Albania	Albania	PROPN	NNP	Number=Sing	20	obl	_	SpaceAfter=No
+22	Albania	Albania	PROPN	NNP	Number=Sing	20	obl:agent	_	SpaceAfter=No
 23	,	,	PUNCT	,	_	25	punct	_	_
 24	sin	sin	ADP	IN	_	25	case	_	_
 25	considerar	considerar	VERB	VB	VerbForm=Inf	14	xcomp	_	_
@@ -22305,7 +22305,7 @@
 # text_en = For the time being, the deal between Aoun and Hariri has brought the two enemy factions closer together.
 1	Por	por	ADP	IN	_	3	case	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	momento	momento	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+3	momento	momento	NOUN	NN	Gender=Masc|Number=Sing	12	obl:agent	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	acuerdo	acuerdo	NOUN	NN	Gender=Masc|Number=Sing	12	nsubj	_	_
@@ -23121,7 +23121,7 @@
 8	rechazada	rechazar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	acl:relcl	_	_
 9	por	por	ADP	IN	_	11	case	_	_
 10	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-11	tribunal	tribunal	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	_
+11	tribunal	tribunal	NOUN	NN	Gender=Masc|Number=Sing	8	obl:agent	_	_
 12	de	de	ADP	IN	_	13	case	_	_
 13	casación	casación	NOUN	NN	Gender=Fem|Number=Sing	11	nmod	_	_
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
@@ -23326,7 +23326,7 @@
 23	marcada	marcar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	22	advcl	_	_
 24	por	por	ADP	IN	_	26	case	_	_
 25	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
-26	persecución	persecución	NOUN	NN	Gender=Fem|Number=Sing	23	obl	_	_
+26	persecución	persecución	NOUN	NN	Gender=Fem|Number=Sing	23	obl:agent	_	_
 27	de	de	ADP	IN	_	29	case	_	_
 28	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	29	det	_	_
 29	padre	padre	NOUN	NN	Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
@@ -24046,7 +24046,7 @@
 # text_en = For the first time in the last six years the rate of unemployment has dropped below 20%, and there are already 600,000 more people employed than there were a year ago.
 1	Por	por	ADP	IN	_	3	case	_	_
 2	primera	_	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	_
-3	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	14	obl	_	_
+3	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	14	obl:agent	_	_
 4	en	en	ADP	IN	_	8	case	_	_
 5	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 6	últimos	_	ADJ	JJ	Gender=Masc|Number=Plur	8	amod	_	_
@@ -24714,7 +24714,7 @@
 17	fueron	ser	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	18	aux:pass	_	_
 18	tomados	tomar	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 19	por	por	ADP	IN	_	20	case	_	_
-20	jugadores	_	NOUN	NN	Gender=Masc|Number=Plur	18	obl	_	_
+20	jugadores	_	NOUN	NN	Gender=Masc|Number=Plur	18	obl:agent	_	_
 21	y	y	CCONJ	CC	_	22	cc	_	_
 22	empleados	_	NOUN	NN	Gender=Masc|Number=Plur	20	conj	_	_
 23	en	en	ADP	IN	_	24	case	_	_
@@ -24778,7 +24778,7 @@
 13	Reichenbach	Reichenbach	PROPN	NNP	Gender=Masc|Number=Sing	12	flat:name	_	_
 14	por	por	ADP	IN	_	16	case	_	_
 15	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-16	estado	estado	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	_
+16	estado	estado	NOUN	NN	Gender=Masc|Number=Sing	8	obl:agent	_	_
 17	de	de	ADP	IN	_	18	case	_	_
 18	Würtemberg	Würtemberg	PROPN	NNP	Number=Sing	16	nmod	_	SpaceAfter=No
 19	,	,	PUNCT	,	_	22	punct	_	_
@@ -25322,7 +25322,7 @@
 23-24	del	_	_	_	_	_	_	_	_
 23	de	de	ADP	INDT	_	21	fixed	_	_
 24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
-25	precio	precio	NOUN	NN	Gender=Masc|Number=Sing	20	obl	_	_
+25	precio	precio	NOUN	NN	Gender=Masc|Number=Sing	20	obl:agent	_	_
 26	persistentemente	persistentemente	ADV	RB	_	27	advmod	_	_
 27	alto	alto	ADJ	JJ	Gender=Masc|Number=Sing	25	amod	_	_
 28-29	del	_	_	_	_	_	_	_	_
@@ -25609,7 +25609,7 @@
 14	en	en	ADP	IN	_	15	case	_	_
 15	1632	1632	NUM	CD	Gender=Masc|NumType=Card	6	obl	_	_
 16	por	por	ADP	IN	_	17	case	_	_
-17	tropas	_	NOUN	NN	Gender=Fem|Number=Plur	6	obl	_	_
+17	tropas	_	NOUN	NN	Gender=Fem|Number=Plur	6	obl:agent	_	_
 18	suecas	_	ADJ	JJ	Gender=Fem|Number=Plur	17	amod	_	SpaceAfter=No|Proper=True
 19	.	.	PUNCT	.	_	6	punct	_	_
 
@@ -25853,7 +25853,7 @@
 15	Amistad	amistad	NOUN	NN	Gender=Fem|Number=Sing	11	nmod	_	Proper=True
 16	por	por	ADP	IN	_	18	case	_	_
 17	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
-18	postura	postura	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
+18	postura	postura	NOUN	NN	Gender=Fem|Number=Sing	8	obl:agent	_	_
 19	amistosa	_	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	_
 20	de	de	ADP	IN	_	22	case	_	_
 21	sus	_	PRON	DTP$	Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
@@ -25896,7 +25896,7 @@
 25	sobre	sobre	ADP	IN	_	28	discourse	_	_
 26	todo	todo	NOUN	NN	Gender=Masc|Number=Sing	25	fixed	_	_
 27	por	por	ADP	IN	_	28	case	_	_
-28	inmigrantes	_	NOUN	NN	Number=Plur	24	obl	_	_
+28	inmigrantes	_	NOUN	NN	Number=Plur	24	obl:agent	_	_
 29	o	o	CCONJ	CC	_	30	cc	_	_
 30	descendientes	_	NOUN	NN	Number=Plur	28	conj	_	_
 31	de	de	ADP	IN	_	32	case	_	_
@@ -26023,7 +26023,7 @@
 15	,	,	PUNCT	,	_	16	punct	_	_
 16	capitaneado	capitanear	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl	_	_
 17	por	por	ADP	IN	_	18	case	_	_
-18	don	don	NOUN	NN	Gender=Masc|Number=Sing	16	obl	_	_
+18	don	don	NOUN	NN	Gender=Masc|Number=Sing	16	obl:agent	_	_
 19	Ernesto	Ernesto	PROPN	NNP	Gender=Masc|Number=Sing	18	appos	_	_
 20	Shackleton	Shackleton	PROPN	NNP	Gender=Masc|Number=Sing	19	flat:name	_	SpaceAfter=No
 21	,	,	PUNCT	,	_	16	punct	_	_
@@ -26192,7 +26192,7 @@
 15	dictado	dictar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	acl	_	_
 16	por	por	ADP	IN	_	18	case	_	_
 17	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
-18	geografía	geografía	NOUN	NN	Gender=Fem|Number=Sing	15	obl	_	_
+18	geografía	geografía	NOUN	NN	Gender=Fem|Number=Sing	15	obl:agent	_	_
 19	griega	_	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	SpaceAfter=No|Proper=True
 20	:	:	PUNCT	:	_	28	punct	_	_
 21	cada	_	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	22	det	_	_
@@ -27416,7 +27416,7 @@
 10	por	por	ADP	IN	_	13	case	_	_
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 12	gran	gran	ADJ	JJ	Gender=Masc|Number=Sing	13	amod	_	_
-13	número	número	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	_
+13	número	número	NOUN	NN	Gender=Masc|Number=Sing	8	obl:agent	_	_
 14	de	de	ADP	IN	_	15	case	_	_
 15	judíos	_	NOUN	NN	Gender=Masc|Number=Plur	13	nmod	_	Proper=True
 16	conversos	_	ADJ	JJ	Gender=Masc|Number=Plur	15	amod	_	_
@@ -27469,7 +27469,7 @@
 13	desarrollados	desarrollar	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8	acl	_	_
 14	por	por	ADP	IN	_	16	case	_	_
 15	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-16	subducción	subducción	NOUN	NN	Gender=Fem|Number=Sing	13	obl	_	_
+16	subducción	subducción	NOUN	NN	Gender=Fem|Number=Sing	13	obl:agent	_	_
 17	de	de	ADP	IN	_	19	case	_	_
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	corteza	corteza	NOUN	NN	Gender=Fem|Number=Sing	16	nmod	_	_
@@ -27681,7 +27681,7 @@
 5	(	(	PUNCT	(	_	6	punct	_	SpaceAfter=No
 6	dirigidos	_	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	acl	_	_
 7	por	por	ADP	IN	_	8	case	_	_
-8	Joseph	Joseph	PROPN	NNP	Gender=Masc|Number=Sing	6	obl	_	_
+8	Joseph	Joseph	PROPN	NNP	Gender=Masc|Number=Sing	6	obl:agent	_	_
 9	Brant	Brant	PROPN	NNP	Gender=Masc|Number=Sing	8	flat:name	_	SpaceAfter=No
 10	)	)	PUNCT	)	_	6	punct	_	_
 11	a	a	ADP	IN	_	12	case	_	_
@@ -27711,7 +27711,7 @@
 4	mandada	mandar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	por	por	ADP	IN	_	7	case	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	general	general	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	_
+7	general	general	NOUN	NN	Gender=Masc|Number=Sing	4	obl:agent	_	_
 8	John	John	PROPN	NNP	Gender=Masc|Number=Sing	7	appos	_	_
 9	Burgoyne	Burgoyne	PROPN	NNP	Gender=Masc|Number=Sing	8	flat:name	_	_
 10	y	y	CCONJ	CC	_	11	cc	_	_
@@ -28019,7 +28019,7 @@
 8	Pompeyo	Pompeyo	PROPN	NNP	Gender=Masc|Number=Sing	6	nmod	_	_
 9	personalmente	personalmente	ADV	RB	_	3	advmod	_	_
 10	por	por	ADP	IN	_	11	case	_	_
-11	Curio	Curio	PROPN	NNP	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+11	Curio	Curio	PROPN	NNP	Gender=Masc|Number=Sing	3	obl:agent	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	19	punct	_	_
 13	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	19	nsubj	_	_
 14	en	en	ADP	IN	_	16	case	_	_
@@ -28045,7 +28045,7 @@
 8	fue	ser	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	9	aux:pass	_	_
 9	ocupado	ocupar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 10	por	por	ADP	IN	_	11	case	_	_
-11	Marco	Marco	PROPN	NNP	Gender=Masc|Number=Sing	9	obl	_	_
+11	Marco	Marco	PROPN	NNP	Gender=Masc|Number=Sing	9	obl:agent	_	_
 12	Antonio	Antonio	PROPN	NNP	Gender=Masc|Number=Sing	11	flat:name	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	16	punct	_	_
 14	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	16	nsubj	_	_
