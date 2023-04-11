@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>1000</sentences><tokens>22822</tokens><words>23287</words><fused>465</fused></test>
   </size>
-  <lemmas unique="3565" /><!-- el, de, ,, ., en, a, él, uno, y, que, ser, por, con, haber, para -->
+  <lemmas unique="3567" /><!-- el, de, ,, ., en, a, él, uno, y, que, ser, por, con, haber, para -->
   <forms unique="5936" /><!-- de, el, ,, ., la, en, a, que, y, los, se, un, las, una, por -->
   <fusions unique="61" /><!-- del, al, verlo, beneficiarse, convirtiéndose, hacerlo, recuperarlo, admitiéndolo, alejarse, aplicándolo, centrarse, centrándose, comprometerse, concentrase, convertirse -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -36,11 +36,11 @@
     <feat name="Abbr" value="Yes" upos="ADJ,ADV,NOUN,PROPN">33</feat><!-- a., C., C, d., EE., UU, ca. -->
     <feat name="Aspect" value="Imp" upos="AUX,VERB">1140</feat><!-- es, está, era, son, puede, tiene, estaba, están, hay, hace -->
     <feat name="Aspect" value="Perf" upos="AUX,VERB">773</feat><!-- fue, ha, había, dijo, fueron, han, habían, afirmó, convirtió, declaró -->
-    <feat name="Case" value="Acc" upos="PRON">102</feat><!-- lo, la, los, sí, You, las, mí -->
-    <feat name="Case" value="Acc,Dat" upos="PRON">331</feat><!-- se, me, nos, te, os -->
+    <feat name="Case" value="Acc" upos="PRON">105</feat><!-- lo, la, los, me, sí, You, las, mí, te -->
+    <feat name="Case" value="Acc,Dat" upos="PRON">323</feat><!-- se, me, nos, os, te -->
     <feat name="Case" value="Acc,Nom" upos="PRON">37</feat><!-- ellos, él, ella, ello, usted, ustedes -->
     <feat name="Case" value="Com" upos="PRON">1</feat><!-- consigo -->
-    <feat name="Case" value="Dat" upos="PRON">49</feat><!-- le, les -->
+    <feat name="Case" value="Dat" upos="PRON">54</feat><!-- le, les, me, nos -->
     <feat name="Case" value="Nom" upos="PRON">9</feat><!-- yo, Ya, You, tú -->
     <feat name="Definite" value="Def" upos="DET">2528</feat><!-- el, la, los, las -->
     <feat name="Definite" value="Ind" upos="DET">456</feat><!-- un, una, unos, unas -->
@@ -86,7 +86,7 @@
     <feat name="Voice" value="Pass" upos="AUX,VERB">211</feat><!-- fue, fueron, ha, había, puede, son, habían, pueden, conoce, aplicaría -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="45">
+  <deps unique="44">
     <dep name="acl">115</dep>
     <dep name="acl:relcl">244</dep>
     <dep name="advcl">179</dep>
@@ -98,12 +98,12 @@
     <dep name="case">3698</dep>
     <dep name="cc">566</dep>
     <dep name="cc:preconj">12</dep>
-    <dep name="ccomp">148</dep>
+    <dep name="ccomp">147</dep>
     <dep name="compound">4</dep>
     <dep name="compound:prt">313</dep>
     <dep name="conj">655</dep>
     <dep name="cop">273</dep>
-    <dep name="csubj">40</dep>
+    <dep name="csubj">41</dep>
     <dep name="csubj:pass">16</dep>
     <dep name="dep">4</dep>
     <dep name="det">3514</dep>
@@ -115,16 +115,15 @@
     <dep name="flat">1</dep>
     <dep name="flat:name">210</dep>
     <dep name="goeswith">1</dep>
-    <dep name="iobj">9</dep>
     <dep name="mark">290</dep>
     <dep name="nmod">1802</dep>
     <dep name="nsubj">1190</dep>
     <dep name="nsubj:pass">165</dep>
     <dep name="nummod">192</dep>
-    <dep name="obj">791</dep>
-    <dep name="obl">1528</dep>
+    <dep name="obj">793</dep>
+    <dep name="obl">1529</dep>
     <dep name="obl:agent">62</dep>
-    <dep name="obl:arg">40</dep>
+    <dep name="obl:arg">46</dep>
     <dep name="obl:tmod">68</dep>
     <dep name="orphan">4</dep>
     <dep name="parataxis">106</dep>
