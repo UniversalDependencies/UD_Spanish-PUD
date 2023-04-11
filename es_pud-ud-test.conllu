@@ -122,13 +122,13 @@
 # text = No me complace tener que presionarles, pero el futuro de la república recae en ustedes, dijo al público que estaba reunido en un campo de deportes en la Universidad de Carolina del Norte.
 # text_en = “So I hate to put a little pressure on you, but the fate of the republic rests on your shoulders,” he told the crowd gathered on a sports field at the University of North Carolina.
 1	No	no	ADV	RB	Polarity=Neg	3	advmod	_	_
-2	me	yo	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	iobj	_	_
+2	me	yo	PRON	PRP	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obj	_	_
 3	complace	complacer	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	tener	tener	VERB	VB	VerbForm=Inf	3	csubj	_	_
 5	que	que	ADP	IN	_	6	mark	_	_
 6-7	presionarles	_	_	_	_	_	_	_	SpaceAfter=No
 6	presionar	presionar	VERB	VB	VerbForm=Inf	4	xcomp	_	_
-7	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
+7	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	6	obl:arg	_	_
 8	,	,	PUNCT	,	_	15	punct	_	_
 9	pero	pero	CCONJ	CC	_	15	cc	_	_
 10	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
@@ -3540,8 +3540,8 @@
 14	,	,	PUNCT	,	_	18	punct	_	_
 15	este	este	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	16	det	_	_
 16	producto	producto	NOUN	NN	Gender=Masc|Number=Sing	18	nsubj	_	_
-17	te	tú	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	18	iobj	_	_
-18	hace	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+17	te	tú	PRON	PRP	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	18	obj	_	_
+18	hace	hacer	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
 19	dormir	dormir	VERB	VB	VerbForm=Inf	18	xcomp	_	_
 20	por	por	ADP	IN	_	22	case	_	_
 21	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
@@ -5277,8 +5277,8 @@
 2	que	que	ADP	IN	_	1	fixed	_	_
 3-4	hacerlo	_	_	_	_	_	_	_	_
 3	hacer	hacer	VERB	VB	VerbForm=Inf	0	root	_	_
-4	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	iobj	_	_
-5	frente	frente	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
+4	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	obj	_	_
+5	frente	frente	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	10	punct	_	_
 7	además	además	ADV	RB	_	10	discourse	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	7	punct	_	_
@@ -6089,13 +6089,13 @@
 # sent_id = n01087035
 # text = Me encantaron los colores tropicales, dice.
 # text_en = “I loved the tropical colours,” he says.
-1	Me	_	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	iobj	_	_
+1	Me	yo	PRON	PRP	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl:arg	_	_
 2	encantaron	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
-4	colores	_	NOUN	NN	Gender=Masc|Number=Plur	2	nsubj	_	_
-5	tropicales	_	ADJ	JJ	Gender=Masc|Number=Plur	4	amod	_	SpaceAfter=No
+4	colores	color	NOUN	NN	Gender=Masc|Number=Plur	2	nsubj	_	_
+5	tropicales	tropical	ADJ	JJ	Gender=Masc|Number=Plur	4	amod	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	7	punct	_	_
-7	dice	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	SpaceAfter=No
+7	dice	decir	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = n01087039
@@ -6217,8 +6217,8 @@
 # sent_id = n01090037
 # text = Me encanta jugar con eso y siempre estoy a la búsqueda de musas que encajen, ya que resulta muy interesante hacer una colección cuando encuentro alguna.
 # text_en = I love to play with that and I am always looking for muses that fit that bill because it is so interesting making a collection when I find one.
-1	Me	_	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	iobj	_	_
-2	encanta	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+1	Me	yo	PRON	PRP	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl:arg	_	_
+2	encanta	encantar	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	jugar	jugar	VERB	VB	VerbForm=Inf	2	csubj	_	_
 4	con	con	ADP	IN	_	5	case	_	_
 5	eso	eso	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	3	obl	_	_
@@ -6302,11 +6302,11 @@
 14	afirmó	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 15	:	:	PUNCT	:	_	18	punct	_	_
 16	"	"	PUNCT	``	_	18	punct	_	SpaceAfter=No
-17	me	_	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	18	iobj	_	_
-18	sorprendería	_	VERB	VBC	Aspect=Imp|Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	14	ccomp	_	_
+17	me	yo	PRON	PRP	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	18	obj	_	_
+18	sorprendería	sorprender	VERB	VBC	Aspect=Imp|Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	14	ccomp	_	_
 19	que	que	SCONJ	IN	_	21	mark	_	_
 20	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	21	compound:prt	_	_
-21	introduzca	_	VERB	VBC	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	18	ccomp	_	_
+21	introduzca	_	VERB	VBC	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	18	csubj	_	_
 22	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	prohibición	prohibición	NOUN	NN	Gender=Fem|Number=Sing	21	nsubj:pass	_	_
 24	o	o	CCONJ	CC	_	26	cc	_	_
@@ -22139,7 +22139,7 @@
 # text_en = I was asked by the officers, in their inimitably dumb way, whether I knew the writer Günter de Bruyn and whether we are intellectual relatives.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	oficiales	_	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
-3	me	_	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	iobj	_	_
+3	me	yo	PRON	PRP	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl:arg	_	_
 4	preguntaron	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	8	punct	_	_
 6	a	a	ADP	IN	_	8	case	_	_
@@ -23585,8 +23585,8 @@
 12	año	año	NOUN	NN	Gender=Masc|Number=Sing	9	nmod	_	_
 13	pasado	pasado	ADJ	JJ	Gender=Masc|Number=Sing	12	amod	_	_
 14	y	y	CCONJ	CC	_	16	cc	_	_
-15	nos	yo	PRON	PRP	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	16	iobj	_	_
-16	indican	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+15	nos	yo	PRON	PRP	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	16	obl:arg	_	_
+16	indican	indicar	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
 17	que	que	SCONJ	IN	_	20	mark	_	_
 18	nuestro	nuestro	PRON	DTP$	Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	19	det	_	_
 19	diésel	diésel	NOUN	NN	Gender=Masc|Number=Sing	20	nsubj	_	_
@@ -23666,10 +23666,10 @@
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	cierre	cierre	NOUN	NN	Gender=Masc|Number=Sing	14	nmod	_	_
 18	total	total	ADJ	JJ	Gender=Masc|Number=Sing	17	amod	_	_
-19	que	_	PRON	REL	Gender=Fem|Number=Sing|PronType=Int,Rel	24	obj	_	_
+19	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Int,Rel	24	obj	_	_
 20	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	banco	banco	NOUN	NN	Gender=Masc|Number=Sing	24	nsubj	_	_
-22	nos	yo	PRON	PRP	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	24	iobj	_	_
+22	nos	yo	PRON	PRP	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	24	obl:arg	_	_
 23	ha	haber	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	24	aux	_	_
 24	mostrado	mostrar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	acl:relcl	_	SpaceAfter=No
 25	"	"	PUNCT	''	_	14	punct	_	SpaceAfter=No
