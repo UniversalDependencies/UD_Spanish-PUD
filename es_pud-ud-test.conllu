@@ -1091,7 +1091,7 @@
 4	de	de	ADP	IN	_	6	case	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	gente	gente	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	_
-7	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	10	iobj	_	_
+7	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	10	obl:arg	_	_
 8	resultaría	_	AUX	VBC	Aspect=Imp|Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	10	cop	_	_
 9	más	_	ADV	RBR	Degree=Cmp	10	advmod	_	_
 10	útil	útil	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
@@ -1910,7 +1910,7 @@
 # sent_id = n01027041
 # text = Le pregunté después si entendía por qué la gente podía votar a Trump.
 # text_en = I asked her afterwards if she understood why people might vote for Trump.
-1	Le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
+1	Le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obl:arg	_	_
 2	pregunté	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	después	después	ADV	RB	_	2	advmod	_	_
 4	si	si	SCONJ	IN	_	5	mark	_	_
@@ -2005,7 +2005,7 @@
 # sent_id = n01029007
 # text = Le apasiona la guitarra y dio un concierto allí ese mismo año.
 # text_en = A keen guitarist, he played a concert there the same year.
-1	Le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
+1	Le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obl:arg	_	_
 2	apasiona	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	guitarra	guitarra	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
@@ -2661,7 +2661,7 @@
 # text = También le gustaría que el Consejo de Agentes de Propiedad Inmobiliaria de Ontario (RECO), que regula los agentes en la provincia, tuviese mayores competencias de aplicación e investigación.
 # text_en = He'd also like to see greater enforcement and investigative powers for the Real Estate Council of Ontario (RECO), which regulates agents in the province.
 1	También	también	ADV	RB	_	3	advmod	_	_
-2	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+2	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obl:arg	_	_
 3	gustaría	_	VERB	VBC	Aspect=Imp|Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
 4	que	que	SCONJ	IN	_	26	mark	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -4455,7 +4455,7 @@
 13	,	,	PUNCT	,	_	4	punct	_	_
 14	a	a	ADP	IN	_	15	case	_	_
 15	Karel	Karel	PROPN	NNP	Gender=Fem|Number=Sing	17	obl	_	_
-16	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	17	iobj	_	_
+16	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	17	obl:arg	_	_
 17	preocupa	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 18	cada	_	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	19	det	_	_
 19	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	17	obl	_	_
@@ -5149,7 +5149,7 @@
 11	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	frase	frase	NOUN	NN	Gender=Fem|Number=Sing	10	obj	_	_
 13	que	_	PRON	REL	Gender=Fem|Number=Sing|PronType=Int,Rel	16	nsubj	_	_
-14	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	16	iobj	_	_
+14	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	16	obl:arg	_	_
 15	hubiese	haber	AUX	VBC	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	aux	_	_
 16	encantado	encantar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	acl:relcl	_	_
 17	a	a	ADP	IN	_	18	case	_	_
@@ -7277,7 +7277,7 @@
 28	millones	_	NOUN	NN	Gender=Masc|Number=Plur	26	nmod	_	SpaceAfter=No
 29	,	,	PUNCT	,	_	32	punct	_	_
 30	y	y	CCONJ	CC	_	32	cc	_	_
-31	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	32	iobj	_	_
+31	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	32	obl:arg	_	_
 32	costaron	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	17	conj	_	_
 33	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	34	det	_	_
 34	trabajo	trabajo	NOUN	NN	Gender=Masc|Number=Sing	32	obj	_	_
@@ -8034,7 +8034,7 @@
 14	de	de	ADP	IN	_	15	case	_	_
 15	confrontación	confrontación	NOUN	NN	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	18	punct	_	_
-17	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	18	iobj	_	_
+17	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	18	obl:arg	_	_
 18	tiemblan	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	_
 19	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
 20	manos	_	NOUN	NN	Gender=Fem|Number=Plur	18	nsubj	_	SpaceAfter=No
@@ -8059,7 +8059,7 @@
 13	,	,	PUNCT	,	_	6	punct	_	_
 14	¿	¿	PUNCT	.	_	17	punct	_	SpaceAfter=No
 15	quién	quién	PRON	REL	Number=Sing|PronType=Int,Rel	17	nsubj	_	_
-16	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	17	iobj	_	_
+16	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	17	obl:arg	_	_
 17	echaría	_	VERB	VBC	Aspect=Imp|Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	culpa	culpa	NOUN	NN	Gender=Fem|Number=Sing	17	obj	_	SpaceAfter=No
@@ -9095,7 +9095,7 @@
 # text = Se le atribuye el ayudar a paliar la montaña de deuda acumulada por los gobiernos locales en China.
 # text_en = He is credited with helping efforts to tackle the mountain of debt accumulated by local governments in China.
 1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	compound:prt	_	_
-2	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+2	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obl:arg	_	_
 3	atribuye	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	ayudar	ayudar	VERB	VB	VerbForm=Inf	3	csubj:pass	_	_
@@ -9344,7 +9344,7 @@
 15	)	)	PUNCT	)	_	12	punct	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	4	punct	_	_
 17	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	compound:prt	_	_
-18	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	19	iobj	_	_
+18	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	19	obl:arg	_	_
 19	permiten	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
 20	ciertas	_	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	21	det	_	_
 21	libertades	_	NOUN	NN	Gender=Fem|Number=Plur	19	nsubj:pass	_	SpaceAfter=No
@@ -9686,7 +9686,7 @@
 3	de	de	ADP	IN	_	5	case	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	pareja	pareja	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	_
-6	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	7	iobj	_	_
+6	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	7	obl:arg	_	_
 7	dio	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 8	acceso	acceso	NOUN	NN	Gender=Masc|Number=Sing	7	obj	_	_
 9-10	al	_	_	_	_	_	_	_	_
@@ -9785,7 +9785,7 @@
 8	cobertizo	cobertizo	NOUN	NN	Gender=Masc|Number=Sing	1	obl	_	_
 9	y	y	CCONJ	CC	_	12	cc	_	_
 10	yo	yo	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
-11	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	12	iobj	_	_
+11	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	12	obl:arg	_	_
 12	decía	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
 13	en	en	ADP	IN	_	14	case	_	_
 14	broma	broma	NOUN	NN	Gender=Fem|Number=Sing	12	obl	_	_
@@ -9807,7 +9807,7 @@
 1	A	a	ADP	IN	_	2	case	_	_
 2	Snowman	Snowman	PROPN	NNP	Gender=Masc|Number=Sing	5	obl	_	_
 3	no	_	ADV	RB	Polarity=Neg	5	advmod	_	_
-4	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
+4	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	obl:arg	_	_
 5	importaba	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 6	que	que	SCONJ	IN	_	9	mark	_	_
 7	Johnny	Johnny	PROPN	NNP	Gender=Masc|Number=Sing	9	nsubj	_	_
@@ -11868,7 +11868,7 @@
 # text_en = This retreat came as a surprise to the Austro-Prussian army, and almost all of the Danish army succeeded in completing the evacuation.
 1	Esta	_	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
 2	retirada	retirada	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	_
-3	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
+3	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obl:arg	_	_
 4	vino	venir	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	sorpresa	sorpresa	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
@@ -13731,7 +13731,7 @@
 15	,	,	PUNCT	,	_	19	punct	_	_
 16	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
 17	cuales	_	PRON	REL	Gender=Masc|Number=Plur|PronType=Int,Rel	19	nsubj	_	_
-18	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	19	iobj	_	_
+18	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	19	obl:arg	_	_
 19	proporcionaron	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	acl:relcl	_	_
 20	información	información	NOUN	NN	Gender=Fem|Number=Sing	19	obj	_	_
 21	confidencial	_	ADJ	JJ	Gender=Fem|Number=Sing	20	amod	_	SpaceAfter=No
@@ -14840,7 +14840,7 @@
 12	,	,	PUNCT	,	_	17	punct	_	_
 13	y	y	CCONJ	CC	_	17	cc	_	_
 14	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	compound:prt	_	_
-15	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	17	iobj	_	_
+15	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	17	obl:arg	_	_
 16	había	haber	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	17	aux	_	_
 17	otorgado	otorgar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
 18	con	con	ADP	IN	_	20	case	_	_
@@ -16556,7 +16556,7 @@
 7	de	de	ADP	IN	_	9	case	_	_
 8	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	Romanov	_	PROPN	NNP	Gender=Masc|Number=Plur	6	nmod	_	_
-10	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	11	iobj	_	_
+10	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	11	obl:arg	_	_
 11	impedía	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 12	ver	ver	VERB	VB	VerbForm=Inf	11	xcomp	_	_
 13	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
@@ -17762,7 +17762,7 @@
 # sent_id = w01101084
 # text = Le ofrecieron varios guiones, comerciales de televisión y proyectos escénicos pero ninguno despertó su interés.
 # text_en = She was offered several scripts, television commercials, and stage projects, but none piqued her interest.
-1	Le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
+1	Le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obl:arg	_	_
 2	ofrecieron	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	varios	_	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	4	det	_	_
 4	guiones	_	NOUN	NN	Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
@@ -18000,7 +18000,7 @@
 21	en	en	ADP	IN	_	22	case	_	_
 22	inglés	inglés	NOUN	NN	Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No|Proper=True
 23	)	)	PUNCT	)	_	20	punct	_	_
-24	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	25	iobj	_	_
+24	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	25	obl:arg	_	_
 25	permite	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 26	a	a	ADP	IN	_	28	case	_	_
 27	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	28	det	_	_
@@ -18436,7 +18436,7 @@
 9	intelectuales	_	ADJ	JJ	Gender=Masc|Number=Plur	8	amod	_	_
 10	de	de	ADP	IN	_	11	case	_	_
 11	Oswald	Oswald	PROPN	NNP	Gender=Masc|Number=Sing	8	nmod	_	_
-12	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	13	iobj	_	_
+12	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	13	obl:arg	_	_
 13	pertenecían	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	xcomp	_	_
 14	a	a	ADP	IN	_	15	case	_	_
 15	Universal	Universal	PROPN	NNP	Number=Sing	13	obl	_	SpaceAfter=No
@@ -18816,7 +18816,7 @@
 # text = Se le hizo fácil la transición a la ficción, explicó: "Cada libro es una curva de aprendizaje y tienes que mantener la mente abierta".
 # text_en = She found the transition to fiction easy, explaining, "Every book is a learning curve, and you have to keep an open mind."
 1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	compound:prt	_	_
-2	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+2	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obl:arg	_	_
 3	hizo	hacer	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 4	fácil	fácil	ADV	RB	_	3	advmod	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
@@ -20136,7 +20136,7 @@
 5	en	en	ADP	IN	_	6	case	_	_
 6-7	darle	_	_	_	_	_	_	_	_
 6	dar	dar	VERB	VB	VerbForm=Inf	4	xcomp	_	_
-7	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	6	iobj	_	_
+7	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	6	obl:arg	_	_
 8	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	papel	papel	NOUN	NN	Gender=Masc|Number=Sing	6	obj	_	_
 10	a	a	ADP	IN	_	12	case	_	_
@@ -20217,7 +20217,7 @@
 19	frontera	frontera	NOUN	NN	Gender=Fem|Number=Sing	17	obj	_	SpaceAfter=No
 20	,	,	PUNCT	,	_	5	punct	_	_
 21	Chamberlain	Chamberlain	PROPN	NNP	Gender=Masc|Number=Sing	23	nsubj	_	_
-22	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	23	iobj	_	_
+22	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	23	obl:arg	_	_
 23	echó	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 24	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	culpa	culpa	NOUN	NN	Gender=Fem|Number=Sing	23	obj	_	_
@@ -20237,7 +20237,7 @@
 4	unos	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	guardias	_	NOUN	NN	Gender=Masc|Number=Plur	8	nsubj	_	_
 6	fronterizos	_	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
-7	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	8	iobj	_	_
+7	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	8	obl:arg	_	_
 8	dispararon	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 9	a	a	ADP	IN	_	11	case	_	_
 10	dos	dos	NUM	CD	Gender=Masc|NumType=Card	11	nummod	_	_
@@ -20353,7 +20353,7 @@
 12	Curie	Curie	PROPN	NNP	Gender=Fem|Number=Sing	10	flat:name	_	_
 13-14	sugiriéndole	_	_	_	_	_	_	_	_
 13	sugiriendo	sugerir	VERB	VBG	VerbForm=Ger	7	advcl	_	_
-14	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	13	iobj	_	_
+14	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	13	obl:arg	_	_
 15	que	que	SCONJ	IN	_	17	mark	_	_
 16	Rona	Rona	PROPN	NNP	Gender=Fem|Number=Sing	17	nsubj	_	_
 17	trabajara	_	VERB	VBC	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	ccomp	_	_
@@ -20393,7 +20393,7 @@
 17	Joliot	Joliot	PROPN	NNP	Gender=Fem|Number=Sing	21	nsubj	_	SpaceAfter=No
 18	-	-	PUNCT	-	_	19	punct	_	SpaceAfter=No|Proper=True
 19	Curie	Curie	PROPN	NNP	Gender=Fem|Number=Sing	17	flat:name	_	_
-20	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	21	iobj	_	_
+20	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	21	obl:arg	_	_
 21	permitió	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 22	venir	venir	VERB	VB	VerbForm=Inf	21	xcomp	_	_
 23	y	y	CCONJ	CC	_	24	cc	_	_
@@ -20828,7 +20828,7 @@
 2	creía	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	que	que	SCONJ	IN	_	7	mark	_	_
 4	Dios	Dios	PROPN	NNP	Gender=Masc|Number=Sing	7	nsubj	_	_
-5	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	7	iobj	_	_
+5	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	7	obl:arg	_	_
 6	había	haber	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	aux	_	_
 7	salvado	salvar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
@@ -20848,7 +20848,7 @@
 # text_en = Bloch is concerned to establish hope as the guiding principle of his Marxism and stresses the implied humanism inherent in mystical tradition.
 1	A	a	ADP	IN	_	2	case	_	_
 2	Bloch	Bloch	PROPN	NNP	Gender=Masc|Number=Sing	4	obl	_	_
-3	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
+3	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obl:arg	_	_
 4	interesaba	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	establecer	establecer	VERB	VB	VerbForm=Inf	4	xcomp	_	_
 6	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -20992,7 +20992,7 @@
 # text_en = This time it reached him, but he refused to believe that she no longer wanted to be married to him.
 1	Esta	_	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
 2	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
-3	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
+3	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obl:arg	_	_
 4	llegó	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	8	punct	_	_
 6	pero	pero	CCONJ	CC	_	8	cc	_	_
@@ -23007,7 +23007,7 @@
 # text_en = Are workers allowed to keep religious objects on their desks?
 1	¿	¿	PUNCT	.	_	4	punct	_	SpaceAfter=No
 2	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	compound:prt	_	_
-3	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	4	iobj	_	_
+3	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	4	obl:arg	_	_
 4	permite	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
 5	a	a	ADP	IN	_	7	case	_	_
 6	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
@@ -24158,7 +24158,7 @@
 # text = Defensa le permite continuar, por el momento, como secretaria general del partido.
 # text_en = The Minister of Defense has allowed her to remain General Secretary of the party for now.
 1	Defensa	defensa	NOUN	NN	Gender=Fem|Number=Sing	3	nsubj	_	Proper=True
-2	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+2	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obl:arg	_	_
 3	permite	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	continuar	continuar	VERB	VB	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	8	punct	_	_
@@ -24436,7 +24436,7 @@
 6	galope	galope	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
 7	de	de	ADP	IN	_	8	case	_	_
 8	espuma	espuma	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
-9	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	10	iobj	_	_
+9	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	10	obl:arg	_	_
 10	aniebla	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 11	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
 12	pupilas	_	NOUN	NN	Gender=Fem|Number=Plur	10	obj	_	_
@@ -25124,7 +25124,7 @@
 6	a	a	ADP	IN	_	7	case	_	_
 7	Rusia	Rusia	PROPN	NNP	Number=Sing	3	conj	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	compound:prt	_	_
-9	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	10	iobj	_	_
+9	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	10	obl:arg	_	_
 10	denegó	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	permiso	permiso	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj:pass	_	_
@@ -26532,7 +26532,7 @@
 26	,	,	PUNCT	,	_	27	punct	_	_
 27-28	pidiéndole	_	_	_	_	_	_	_	_
 27	pidiendo	pedir	VERB	VBG	VerbForm=Ger	20	advcl	_	_
-28	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	27	iobj	_	_
+28	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	27	obl:arg	_	_
 29	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	30	det	_	_
 30	apoyo	apoyo	NOUN	NN	Gender=Masc|Number=Sing	27	obj	_	_
 31	en	en	ADP	IN	_	32	case	_	_
@@ -27185,7 +27185,7 @@
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 2	viejo	viejo	ADJ	JJ	Gender=Masc|Number=Sing	3	amod	_	_
 3	hombre	hombre	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj	_	_
-4	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
+4	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	obl:arg	_	_
 5	dijo	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 6	que	que	SCONJ	IN	_	13	mark	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
@@ -27692,7 +27692,7 @@
 16	porque	porque	SCONJ	IN	_	21	mark	_	_
 17	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
 18	colonos	_	NOUN	NN	Gender=Masc|Number=Plur	21	nsubj	_	_
-19	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	21	iobj	_	_
+19	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	21	obl:arg	_	_
 20	estaban	estar	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	21	aux	_	_
 21	expropiando	expropriar	VERB	VBG	VerbForm=Ger	12	advcl	_	_
 22	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	23	det	_	_
@@ -28062,12 +28062,12 @@
 2	cuando	cuando	ADV	WRB	_	6	advmod	_	_
 3	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	Senado	senado	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	_
-5	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	6	iobj	_	_
+5	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	6	obl:arg	_	_
 6	contestó	contestar	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	31	advcl	_	_
 7	definitivamente	definitivamente	ADV	RB	_	6	advmod	_	_
 8-9	impidiéndole	_	_	_	_	_	_	_	_
 8	impidiendo	impedir	VERB	VBG	VerbForm=Ger	6	advcl	_	_
-9	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	8	iobj	_	_
+9	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	8	obl:arg	_	_
 10	concurrir	concurrir	VERB	VB	VerbForm=Inf	8	xcomp	_	_
 11-12	al	_	_	_	_	_	_	_	_
 11	a	a	ADP	INDT	_	13	case	_	_
@@ -28076,7 +28076,7 @@
 14	y	y	CCONJ	CC	_	15	cc	_	_
 15-16	poniéndole	_	_	_	_	_	_	_	_
 15	poniendo	poner	VERB	VBG	VerbForm=Ger	8	conj	_	_
-16	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	15	iobj	_	_
+16	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	15	obl:arg	_	_
 17	en	en	ADP	IN	_	19	case	_	_
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	disyuntiva	disyuntiva	NOUN	NN	Gender=Fem|Number=Sing	15	obl	_	_
