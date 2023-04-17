@@ -841,7 +841,7 @@
 1	Es	ser	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
 2	más	_	ADV	RBR	Degree=Cmp	3	advmod	_	_
 3	evidente	evidente	ADJ	JJ	Number=Sing	0	root	_	_
-4	cuando	cuando	ADV	WRB	_	12	advmod	_	_
+4	cuando	cuando	ADV	WRB	PronType=Rel	12	advmod	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	nombre	nombre	NOUN	NN	Gender=Masc|Number=Sing	12	nsubj	_	_
 7	de	de	ADP	IN	_	9	case	_	_
@@ -863,7 +863,7 @@
 2	en	en	ADP	IN	_	3	case	_	_
 3	2007	2007	NUM	CD	Gender=Masc|NumType=Card	24	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
-5	cuando	cuando	ADV	WRB	_	6	advmod	_	_
+5	cuando	cuando	ADV	WRB	PronType=Rel	6	advmod	_	_
 6	contaba	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	24	advcl	_	_
 7	con	con	ADP	IN	_	10	case	_	_
 8	su	_	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
@@ -1979,7 +1979,7 @@
 3	en	en	ADP	IN	_	5	case	_	_
 4	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	titulares	_	NOUN	NN	Gender=Masc|Number=Plur	2	obl	_	_
-6	cuando	cuando	ADV	WRB	_	7	advmod	_	_
+6	cuando	cuando	ADV	WRB	PronType=Rel	7	advmod	_	_
 7	describió	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	_
 8	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
 9	acciones	_	NOUN	NN	Gender=Fem|Number=Plur	7	obj	_	_
@@ -3372,7 +3372,7 @@
 19	de	de	ADP	INDT	_	21	case	_	_
 20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	Senado	senado	NOUN	NN	Gender=Masc|Number=Sing	18	nmod	_	_
-22	cuando	cuando	ADV	WRB	_	23	advmod	_	_
+22	cuando	cuando	ADV	WRB	PronType=Rel	23	advmod	_	_
 23	retiró	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	advcl	_	_
 24	todos	_	DET	PDT	Gender=Masc|Number=Plur|PronType=Tot	26	det	_	_
 25	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
@@ -3561,7 +3561,7 @@
 35	,	,	PUNCT	,	_	36	punct	_	_
 36	Colorado	Colorado	PROPN	NNP	Number=Sing	34	appos	_	SpaceAfter=No
 37	,	,	PUNCT	,	_	40	punct	_	_
-38	donde	donde	ADV	WRB	_	40	advmod	_	_
+38	donde	donde	ADV	WRB	PronType=Rel	40	advmod	_	_
 39	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	40	compound:prt	_	_
 40	vende	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	34	acl:relcl	_	_
 41	hierba	hierba	NOUN	NN	Gender=Fem|Number=Sing	40	nsubj:pass	_	_
@@ -3716,7 +3716,7 @@
 7	rutinaria	_	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	compound:prt	_	_
 9	complicó	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-10	cuando	cuando	ADV	WRB	_	13	advmod	_	_
+10	cuando	cuando	ADV	WRB	PronType=Rel	13	advmod	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 12	embarazada	_	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	_
 13	Margaret	Margaret	PROPN	NNP	Gender=Fem|Number=Sing	9	advcl	_	_
@@ -4202,7 +4202,7 @@
 8	en	en	ADP	IN	_	10	case	_	_
 9	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
 10	entorno	entorno	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	_
-11	cuando	cuando	ADV	WRB	_	13	advmod	_	_
+11	cuando	cuando	ADV	WRB	PronType=Rel	13	advmod	_	_
 12	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	compound:prt	_	_
 13	originaban	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	_
 14	conflictos	_	NOUN	NN	Gender=Masc|Number=Plur	13	nsubj	_	_
@@ -4411,7 +4411,7 @@
 # sent_id = n01061023
 # text = Cuando le imito, me siento poderoso, explicó John Di Domenico, el imitador de Donald Trump, en Slate el año pasado.
 # text_en = “When I’m playing him, I feel powerful,” the Donald Trump impersonator John Di Domenico explained to Slate last year.
-1	Cuando	cuando	ADV	WRB	_	3	advmod	_	_
+1	Cuando	cuando	ADV	WRB	PronType=Rel	3	advmod	_	_
 2	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
 3	imito	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
@@ -4685,7 +4685,7 @@
 21	a	a	ADP	INDT	_	23	case	_	_
 22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	faraón	faraón	NOUN	NN	Gender=Masc|Number=Sing	20	obl	_	_
-24	cuando	cuando	ADV	WRB	_	29	advmod	_	_
+24	cuando	cuando	ADV	WRB	PronType=Rel	29	advmod	_	_
 25	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	Nilo	Nilo	PROPN	NNP	Gender=Masc|Number=Sing	29	nsubj	_	_
 27	no	_	ADV	RB	Polarity=Neg	29	advmod	_	_
@@ -4872,7 +4872,7 @@
 11	North	north	NOUN	NN	Number=Sing	8	nmod	_	Proper=True
 12	Kesteven	Kesteven	PROPN	NNP	Number=Sing	11	flat:name	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	21	punct	_	_
-14	donde	donde	ADV	WRB	_	21	advmod	_	_
+14	donde	donde	ADV	WRB	PronType=Rel	21	advmod	_	_
 15	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 16	62	62	NUM	CD	Gender=Masc|NumType=Card	17	nummod	_	_
 17	%	%	SYM	SYM	_	21	nsubj	_	_
@@ -5990,7 +5990,7 @@
 14	irritando	irritar	VERB	VBG	VerbForm=Ger	2	conj	_	_
 15	te	tú	PRON	SE	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	14	compound:prt	_	_
 16	más	_	ADV	RBR	Degree=Cmp	14	advmod	_	_
-17	cuando	cuando	ADV	WRB	_	19	advmod	_	_
+17	cuando	cuando	ADV	WRB	PronType=Rel	19	advmod	_	_
 18	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	19	obj	_	_
 19	oyes	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	14	advcl	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	1	punct	_	_
@@ -6070,7 +6070,7 @@
 17	en	en	ADP	IN	_	18	case	_	_
 18	Glasgow	Glasgow	PROPN	NNP	Number=Sing	13	conj	_	SpaceAfter=No
 19	,	,	PUNCT	,	_	22	punct	_	_
-20	donde	donde	ADV	WRB	_	22	advmod	_	_
+20	donde	donde	ADV	WRB	PronType=Rel	22	advmod	_	_
 21	había	haber	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	22	aux	_	_
 22	estudiado	estudiar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18	acl:relcl	_	_
 23	diseño	diseño	NOUN	NN	Gender=Masc|Number=Sing	22	obj	_	_
@@ -6124,7 +6124,7 @@
 # text = Pero cuando sugiero que utilice a Frank de modelo, ella se rie.
 # text_en = But, when I suggest that she get Frank to model for her, she laughs.
 1	Pero	pero	CCONJ	CC	_	13	discourse	_	_
-2	cuando	cuando	ADV	WRB	_	3	advmod	_	_
+2	cuando	cuando	ADV	WRB	PronType=Rel	3	advmod	_	_
 3	sugiero	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	_
 4	que	que	SCONJ	IN	_	5	mark	_	_
 5	utilice	_	VERB	VBC	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
@@ -6241,7 +6241,7 @@
 22	hacer	hacer	VERB	VB	VerbForm=Inf	21	csubj	_	_
 23	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
 24	colección	colección	NOUN	NN	Gender=Fem|Number=Sing	22	obj	_	_
-25	cuando	cuando	ADV	WRB	_	26	advmod	_	_
+25	cuando	cuando	ADV	WRB	PronType=Rel	26	advmod	_	_
 26	encuentro	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	21	advcl	_	_
 27	alguna	alguna	NOUN	NN	Gender=Fem|Number=Sing	26	obj	_	SpaceAfter=No
 28	.	.	PUNCT	.	_	2	punct	_	_
@@ -6409,7 +6409,7 @@
 20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	día	día	NOUN	NN	Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	,	_	28	punct	_	_
-23	cuando	cuando	ADV	WRB	_	28	advmod	_	_
+23	cuando	cuando	ADV	WRB	PronType=Rel	28	advmod	_	_
 24	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
 25	países	_	NOUN	NN	Gender=Masc|Number=Plur	28	nsubj	_	_
 26	desarrollados	_	ADJ	JJ	Gender=Masc|Number=Plur	25	amod	_	_
@@ -7149,7 +7149,7 @@
 10	Andy	Andy	PROPN	NNP	Gender=Masc|Number=Sing	8	nmod	_	_
 11	era	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	xcomp	_	_
 12	así	así	ADV	RB	_	11	advmod	_	_
-13	cuando	cuando	ADV	WRB	_	14	advmod	_	_
+13	cuando	cuando	ADV	WRB	PronType=Rel	14	advmod	_	_
 14	jugó	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	advcl	_	_
 15	contra	contra	ADP	IN	_	16	case	_	_
 16	Benoît	Benoît	PROPN	NNP	Gender=Masc|Number=Sing	14	obl	_	_
@@ -7990,7 +7990,7 @@
 # text_en = Where does all her energy come from? Or that voice, which can blast out with a force to induce shockwaves?
 1	¿	¿	PUNCT	.	_	4	punct	_	SpaceAfter=No
 2	De	de	ADP	IN	_	3	case	_	_
-3	donde	donde	ADV	WRB	_	4	xcomp	_	_
+3	donde	donde	ADV	WRB	PronType=Rel	4	xcomp	_	_
 4	viene	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	toda	_	DET	PDT	Gender=Fem|Number=Sing|PronType=Tot	7	det	_	_
 6	su	_	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
@@ -8328,7 +8328,7 @@
 # sent_id = n01121032
 # text = Cuando murió Millican, dimos por hecho que tampoco volveríamos a ver al problemático y nervioso Odi.
 # text_en = When Millican died, we assumed that was the last we’d see of glitchy, twitchy Odi too.
-1	Cuando	cuando	ADV	WRB	_	2	advmod	_	_
+1	Cuando	cuando	ADV	WRB	PronType=Rel	2	advmod	_	_
 2	murió	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	_
 3	Millican	Millican	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	2	punct	_	_
@@ -9249,7 +9249,7 @@
 # text_en = "Loving" opens with Richard and Mildred already a couple, eliding over a courtship that would have been interesting to see, if only in brief.
 1	Loving	Loving	PROPN	NNP	Number=Sing	2	nsubj	_	_
 2	empieza	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	cuando	cuando	ADV	WRB	_	9	advmod	_	_
+3	cuando	cuando	ADV	WRB	PronType=Rel	9	advmod	_	_
 4	Richard	Richard	PROPN	NNP	Gender=Masc|Number=Sing	9	nsubj	_	_
 5	y	y	CCONJ	CC	_	6	cc	_	_
 6	Mildred	Mildred	PROPN	NNP	Gender=Fem|Number=Sing	4	conj	_	_
@@ -9313,7 +9313,7 @@
 5	de	de	ADP	IN	_	7	case	_	_
 6	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
 7	episodios	_	NOUN	NN	Gender=Masc|Number=Plur	4	nmod	_	_
-8	cuando	cuando	ADV	WRB	_	13	advmod	_	_
+8	cuando	cuando	ADV	WRB	PronType=Rel	13	advmod	_	_
 9	mi	mi	PRON	DTP$	Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
 10	teléfono	teléfono	NOUN	NN	Gender=Masc|Number=Sing	13	nsubj	_	_
 11	empezó	_	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	aux	_	_
@@ -9765,7 +9765,7 @@
 14	a	a	ADP	INDT	_	16	case	_	_
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	13	obl	_	_
-17	donde	donde	ADV	WRB	_	19	advmod	_	_
+17	donde	donde	ADV	WRB	PronType=Rel	19	advmod	_	_
 18	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	compound:prt	_	_
 19	sentía	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	acl:relcl	_	_
 20	en	en	ADP	IN	_	21	case	_	_
@@ -10188,7 +10188,7 @@
 # sent_id = n01150031
 # text = Cuando alguien muere de vejez en la India, se supone que es un motivo para celebrar.
 # text_en = When people die of old age in India, it is supposed to be a celebration.
-1	Cuando	cuando	ADV	WRB	_	3	advmod	_	_
+1	Cuando	cuando	ADV	WRB	PronType=Rel	3	advmod	_	_
 2	alguien	alguien	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	muere	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	_
 4	de	de	ADP	IN	_	5	case	_	_
@@ -11282,7 +11282,7 @@
 22	es	ser	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	cop	_	_
 23	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
-25	donde	donde	ADV	WRB	_	27	advmod	_	_
+25	donde	donde	ADV	WRB	PronType=Rel	27	advmod	_	_
 26	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	27	compound:prt	_	_
 27	encuentran	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	acl:relcl	_	_
 28	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
@@ -11670,7 +11670,7 @@
 # text_en = Later, when Augustus founded the Roman Empire, the Romans referred to the Mediterranean as Mare Nostrum ("Our Sea").
 1	Después	después	ADV	RB	_	13	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	,	_	5	punct	_	_
-3	cuando	cuando	ADV	WRB	_	5	advmod	_	_
+3	cuando	cuando	ADV	WRB	PronType=Rel	5	advmod	_	_
 4	Augusto	Augusto	PROPN	NNP	Gender=Masc|Number=Sing	5	nsubj	_	_
 5	fundó	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	acl:relcl	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
@@ -12124,7 +12124,7 @@
 6	en	en	ADP	IN	_	8	case	_	_
 7	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	zona	zona	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
-9	donde	donde	ADV	WRB	_	11	advmod	_	_
+9	donde	donde	ADV	WRB	PronType=Rel	11	advmod	_	_
 10	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	compound:prt	_	_
 11	disfruta	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:relcl	_	_
 12-13	del	_	_	_	_	_	_	_	_
@@ -12617,7 +12617,7 @@
 7	1000	1000	NUM	CD	Gender=Masc|NumType=Card	4	obl	_	_
 8	a.	antes	ADV	RB	Abbr=Yes	7	advmod	_	_
 9	C.	Cristo	PROPN	NNP	Abbr=Yes|Gender=Masc|Number=Sing	8	obl	_	_
-10	cuando	cuando	ADV	WRB	_	16	advmod	_	_
+10	cuando	cuando	ADV	WRB	PronType=Rel	16	advmod	_	_
 11	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
 12	melanesios	_	NOUN	NN	Gender=Masc|Number=Plur	16	nsubj	_	Proper=True
 13-14	del	_	_	_	_	_	_	_	_
@@ -12822,7 +12822,7 @@
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	hábitat	hábitat	NOUN	NN	Gender=Masc|Number=Sing	11	nmod	_	_
 16	natural	natural	ADJ	JJ	Gender=Masc|Number=Sing	15	amod	_	_
-17	cuando	cuando	ADV	WRB	_	20	advmod	_	_
+17	cuando	cuando	ADV	WRB	PronType=Rel	20	advmod	_	_
 18	este	este	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	20	nsubj:pass	_	_
 19	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	20	compound:prt	_	_
 20	destuye	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	7	advcl	_	SpaceAfter=No
@@ -13042,7 +13042,7 @@
 # text_en = It was here they stole a small canoe left by the Australian Aborigines of the region.
 1	Fue	ser	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	aquí	aquí	ADV	RB	_	1	advmod	_	_
-3	donde	donde	ADV	WRB	_	4	advmod	_	_
+3	donde	donde	ADV	WRB	PronType=Rel	4	advmod	_	_
 4	robaron	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	_
 5	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 6	pequeña	_	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	_
@@ -13168,7 +13168,7 @@
 19	pues	pues	SCONJ	IN	_	21	mark	_	_
 20	ahí	ahí	ADV	RB	_	21	nsubj	_	_
 21	es	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	_
-22	donde	donde	ADV	WRB	_	27	advmod	_	_
+22	donde	donde	ADV	WRB	PronType=Rel	27	advmod	_	_
 23	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
 24	finos	_	ADJ	JJ	Gender=Masc|Number=Plur	25	amod	_	_
 25	elementos	_	NOUN	NN	Gender=Masc|Number=Plur	27	nsubj:pass	_	_
@@ -13224,7 +13224,7 @@
 # sent_id = w01040104
 # text = Cuando caen al suelo, golpean otras partículas que probablemente son lanzadas al aire en su lugar, iniciando una reacción en cadena.
 # text_en = When they land, they strike other particles which may be jerked into the air in their turn, starting a chain reaction.
-1	Cuando	cuando	ADV	WRB	_	2	advmod	_	_
+1	Cuando	cuando	ADV	WRB	PronType=Rel	2	advmod	_	_
 2	caen	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
 3-4	al	_	_	_	_	_	_	_	_
 3	a	a	ADP	INDT	_	5	case	_	_
@@ -13603,7 +13603,7 @@
 11	hasta	hasta	ADP	IN	_	12	case	_	_
 12	1492	1492	NUM	CD	Gender=Masc|NumType=Card	5	obl	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	17	punct	_	_
-14	cuando	cuando	ADV	WRB	_	17	advmod	_	_
+14	cuando	cuando	ADV	WRB	PronType=Rel	17	advmod	_	_
 15	Cristóbal	Cristóbal	PROPN	NNP	Gender=Masc|Number=Sing	17	nsubj	_	_
 16	Colón	Colón	PROPN	NNP	Gender=Masc|Number=Sing	15	flat:name	_	_
 17	navegó	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	_
@@ -13831,7 +13831,7 @@
 15	gobierno	gobierno	NOUN	NN	Gender=Masc|Number=Sing	13	obj	_	_
 16	de	de	ADP	IN	_	17	case	_	_
 17	Koryo	Koryo	PROPN	NNP	Number=Sing	15	nmod	_	_
-18	cuando	cuando	ADV	WRB	_	24	advmod	_	_
+18	cuando	cuando	ADV	WRB	PronType=Rel	24	advmod	_	_
 19	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	dinastía	dinastía	NOUN	NN	Gender=Fem|Number=Sing	24	nsubj	_	_
 21	Yuan	Yuan	PROPN	NNP	Number=Sing	20	appos	_	_
@@ -14206,7 +14206,7 @@
 21	en	en	ADP	IN	_	22	case	_	_
 22	Tunip	Tunip	PROPN	NNP	Number=Sing	19	nmod	_	SpaceAfter=No
 23	,	,	PUNCT	,	_	30	punct	_	_
-24	donde	donde	ADV	WRB	_	30	advmod	_	_
+24	donde	donde	ADV	WRB	PronType=Rel	30	advmod	_	_
 25	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
 26	soldados	_	NOUN	NN	Gender=Masc|Number=Plur	30	nsubj	_	_
 27	egipcios	_	ADJ	JJ	Gender=Masc|Number=Plur	26	amod	_	Proper=True
@@ -14385,7 +14385,7 @@
 17	años	_	NOUN	NN	Gender=Masc|Number=Plur	14	obl:tmod	_	_
 18	siempre	siempre	ADV	RB	_	22	mark	_	_
 19	y	y	CCONJ	CC	_	18	fixed	_	_
-20	cuando	cuando	ADV	WRB	_	18	fixed	_	_
+20	cuando	cuando	ADV	WRB	PronType=Rel	18	fixed	_	_
 21	no	_	ADV	RB	Polarity=Neg	22	advmod	_	_
 22	hubiera	_	VERB	VBC	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	_
 23	nubes	_	NOUN	NN	Gender=Fem|Number=Plur	22	obj	_	_
@@ -14543,7 +14543,7 @@
 5	esto	esto	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	7	nsubj:pass	_	_
 6	fue	ser	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	aux:pass	_	_
 7	revertido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-8	cuando	cuando	ADV	WRB	_	10	advmod	_	_
+8	cuando	cuando	ADV	WRB	PronType=Rel	10	advmod	_	_
 9	Julian	Julian	PROPN	NNP	Gender=Masc|Number=Sing	10	nsubj	_	_
 10	murió	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	_
 11	en	en	ADP	IN	_	13	case	_	_
@@ -14741,7 +14741,7 @@
 11	de	de	ADP	IN	_	12	case	_	_
 12	Italia	Italia	PROPN	NNP	Number=Sing	10	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	18	punct	_	_
-14	donde	donde	ADV	WRB	_	18	advmod	_	_
+14	donde	donde	ADV	WRB	PronType=Rel	18	advmod	_	_
 15	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	medicina	medicina	NOUN	NN	Gender=Fem|Number=Sing	18	nsubj	_	_
 17	islámica	_	ADJ	JJ	Gender=Fem|Number=Sing	16	amod	_	Proper=True
@@ -15792,7 +15792,7 @@
 14	lago	lago	NOUN	NN	Gender=Masc|Number=Sing	11	nmod	_	_
 15	Rudyard	Rudyard	PROPN	NNP	Gender=Masc|Number=Sing	14	appos	_	_
 16	que	que	ADP	IN	_	24	case	_	_
-17	cuando	cuando	ADV	WRB	_	21	advmod	_	_
+17	cuando	cuando	ADV	WRB	PronType=Rel	21	advmod	_	_
 18	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
 19	primer	primer	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	_
 20	hijo	hijo	NOUN	NN	Gender=Masc|Number=Sing	21	nsubj	_	_
@@ -16225,7 +16225,7 @@
 20	Medio	medio	ADJ	JJ	Gender=Masc|Number=Sing	21	amod	_	Proper=True
 21	Oriente	oriente	NOUN	NN	Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No|Proper=True
 22	,	,	PUNCT	,	_	25	punct	_	_
-23	donde	donde	ADV	WRB	_	25	advmod	_	_
+23	donde	donde	ADV	WRB	PronType=Rel	25	advmod	_	_
 24	inicialmente	inicialmente	ADV	RB	_	25	advmod	_	_
 25	parecía	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	17	acl:relcl	_	_
 26	tener	tener	VERB	VB	VerbForm=Inf	25	xcomp	_	_
@@ -17315,7 +17315,7 @@
 22	pila	pila	NOUN	NN	Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
 23	,	,	PUNCT	,	_	27	punct	_	_
 24	tanto	tanto	ADV	RB	_	27	cc:preconj	_	_
-25	cuando	cuando	ADV	WRB	_	27	advmod	_	_
+25	cuando	cuando	ADV	WRB	PronType=Rel	27	advmod	_	_
 26	estaban	estar	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	27	cop	_	_
 27	vivos	_	ADJ	JJ	Gender=Masc|Number=Plur	17	advcl	_	_
 28	como	como	ADP	IN	_	30	cc	_	_
@@ -17719,7 +17719,7 @@
 6	reuniones	_	NOUN	NN	Gender=Fem|Number=Plur	2	obl	_	_
 7	de	de	ADP	IN	_	8	case	_	_
 8	negocios	_	NOUN	NN	Gender=Masc|Number=Plur	6	nmod	_	_
-9	donde	donde	ADV	WRB	_	10	advmod	_	_
+9	donde	donde	ADV	WRB	PronType=Rel	10	advmod	_	_
 10	consultó	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
 11	con	con	ADP	IN	_	12	case	_	_
 12	científicos	_	NOUN	NN	Gender=Masc|Number=Plur	10	obl	_	_
@@ -18629,7 +18629,7 @@
 6	Universidad	universidad	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	Proper=True
 7	de	de	ADP	IN	_	8	case	_	Proper=True
 8	Edimburgo	Edimburgo	PROPN	NNP	Number=Sing	6	nmod	_	_
-9	donde	donde	ADV	WRB	_	10	advmod	_	_
+9	donde	donde	ADV	WRB	PronType=Rel	10	advmod	_	_
 10	escribió	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
 11	críticas	_	NOUN	NN	Gender=Fem|Number=Plur	10	obj	_	_
 12	teatrales	_	ADJ	JJ	Gender=Fem|Number=Plur	11	amod	_	_
@@ -20562,7 +20562,7 @@
 # sent_id = w01142013
 # text = Cuando su hija Cecily se casó con Plantagenet, el tercer duque de York y tuvo varios hijos, incluyendo a Eduardo IV y Ricardo III, Juana se convirtió en abuela de dos reyes ingleses de la Casa de York.
 # text_en = When their daughter Cecily married Richard Plantagenet, the 3rd Duke of York, and had several offspring, including Edward IV and Richard III, Joan became the grandmother of two York kings of England.
-1	Cuando	cuando	ADV	WRB	_	6	advmod	_	_
+1	Cuando	cuando	ADV	WRB	PronType=Rel	6	advmod	_	_
 2	su	_	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	hija	hija	NOUN	NN	Gender=Fem|Number=Sing	6	nsubj	_	_
 4	Cecily	Cecily	PROPN	NNP	Gender=Fem|Number=Sing	3	appos	_	_
@@ -20934,7 +20934,7 @@
 7	"	"	PUNCT	``	_	8	punct	_	SpaceAfter=No
 8	Stephen	Stephen	PROPN	NNP	Number=Sing	6	appos	_	SpaceAfter=No
 9	"	"	PUNCT	''	_	8	punct	_	_
-10	cuando	cuando	ADV	WRB	_	12	advmod	_	_
+10	cuando	cuando	ADV	WRB	PronType=Rel	12	advmod	_	_
 11	Kesha	Kesha	PROPN	NNP	Gender=Fem|Number=Sing	12	nsubj	_	_
 12	tenia	tener	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	_
 13	16	16	NUM	CD	Gender=Masc|NumType=Card	12	obj	_	SpaceAfter=No
@@ -21914,7 +21914,7 @@
 6	de	de	ADP	IN	_	7	case	_	_
 7	2015	2015	NUM	CD	Gender=Masc|NumType=Card	5	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	14	punct	_	_
-9	cuando	cuando	ADV	WRB	_	14	advmod	_	_
+9	cuando	cuando	ADV	WRB	PronType=Rel	14	advmod	_	_
 10	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	ejército	ejército	NOUN	NN	Gender=Masc|Number=Sing	14	nsubj	_	_
 12	de	de	ADP	IN	_	13	case	_	_
@@ -22837,7 +22837,7 @@
 21	550	550	NUM	CD	Gender=Masc|NumType=Card	15	nmod	_	SpaceAfter=No
 22	)	)	PUNCT	)	_	21	punct	_	SpaceAfter=No
 23	,	,	PUNCT	,	_	28	punct	_	_
-24	donde	donde	ADV	WRB	_	28	advmod	_	_
+24	donde	donde	ADV	WRB	PronType=Rel	28	advmod	_	_
 25	330	330	NUM	CD	Gender=Masc|NumType=Card	26	nummod	_	_
 26	votos	_	NOUN	NN	Gender=Masc|Number=Plur	28	nsubj:pass	_	_
 27	son	ser	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	28	aux:pass	_	_
@@ -25668,7 +25668,7 @@
 21	in	in	PROPN	NNP	Number=Sing	20	flat:name	_	_
 22	Südbaden	Südbaden	PROPN	NNP	Number=Sing	20	flat:name	_	SpaceAfter=No
 23	,	,	PUNCT	,	_	25	punct	_	_
-24	donde	donde	ADV	WRB	_	25	advmod	_	_
+24	donde	donde	ADV	WRB	PronType=Rel	25	advmod	_	_
 25	vivió	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	acl:relcl	_	_
 26	hasta	hasta	ADP	IN	_	28	case	_	_
 27	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
@@ -25888,7 +25888,7 @@
 17	protección	protección	NOUN	NN	Gender=Fem|Number=Sing	15	nmod	_	_
 18	oficial	_	ADJ	JJ	Gender=Fem|Number=Sing	17	amod	_	SpaceAfter=No
 19	,	,	PUNCT	,	_	24	punct	_	_
-20	donde	donde	ADV	WRB	_	24	advmod	_	_
+20	donde	donde	ADV	WRB	PronType=Rel	24	advmod	_	_
 21	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	población	población	NOUN	NN	Gender=Fem|Number=Sing	24	nsubj	_	_
 23	está	estar	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	aux	_	_
@@ -26410,7 +26410,7 @@
 13	cerradas	cerrar	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 14	en	en	ADP	IN	_	15	case	_	_
 15	1994	1994	NUM	CD	Gender=Masc|NumType=Card	13	obl	_	_
-16	cuando	cuando	ADV	WRB	_	19	advmod	_	_
+16	cuando	cuando	ADV	WRB	PronType=Rel	19	advmod	_	_
 17	el	el	DET	PRP	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	nsubj	_	_
 18	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	compound:prt	_	_
 19	declaró	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	advcl	_	_
@@ -27621,7 +27621,7 @@
 8	de	de	ADP	IN	_	9	case	_	_
 9	1777	1777	NUM	CD	Gender=Masc|NumType=Card	7	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	24	punct	_	_
-11	cuando	cuando	ADV	WRB	_	24	advmod	_	_
+11	cuando	cuando	ADV	WRB	PronType=Rel	24	advmod	_	_
 12	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	ejército	ejército	NOUN	NN	Gender=Masc|Number=Sing	24	nsubj	_	_
 14	británico	británico	ADJ	JJ	Gender=Masc|Number=Sing	13	amod	_	Proper=True
@@ -28059,7 +28059,7 @@
 # text = Pero cuando el Senado le contestó definitivamente impidiéndole concurrir al consulado y poniéndole en la disyuntiva de licenciar a sus legiones o ser declarado enemigo público, comprendió que, escogiera la alternativa que escogiera, se entregaba inerme en manos de sus enemigos políticos.
 # text_en = But when the Senate answered him definitively by prohibiting him from competing at the consolate and giving him the option of either withdrawing his troops or becoming a public enemy, he understood that, whatever alternative he chose, he would surrender unarmed into the hands of his political enemies.
 1	Pero	pero	CCONJ	CC	_	31	discourse	_	_
-2	cuando	cuando	ADV	WRB	_	6	advmod	_	_
+2	cuando	cuando	ADV	WRB	PronType=Rel	6	advmod	_	_
 3	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	Senado	senado	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	_
 5	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	6	obl:arg	_	_

@@ -6,9 +6,6 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>1000</sentences><tokens>22822</tokens><words>23287</words><fused>465</fused></total>
-    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
-    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>1000</sentences><tokens>22822</tokens><words>23287</words><fused>465</fused></test>
   </size>
   <lemmas unique="3567" /><!-- el, de, ,, ., en, a, él, uno, y, que, ser, por, con, haber, para -->
   <forms unique="5936" /><!-- de, el, ,, ., la, en, a, que, y, los, se, un, las, una, por -->
@@ -32,7 +29,7 @@
     <tag name="X">13</tag><!-- cápita, per, _, bjórr, ey, kven, maiorum, meänkieli, mos, oblast -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="51">
+  <feats unique="52">
     <feat name="Abbr" value="Yes" upos="ADJ,ADV,NOUN,PROPN">33</feat><!-- a., C., C, d., EE., UU, ca. -->
     <feat name="Aspect" value="Imp" upos="AUX,VERB">1140</feat><!-- es, está, era, son, puede, tiene, estaba, están, hay, hace -->
     <feat name="Aspect" value="Perf" upos="AUX,VERB">773</feat><!-- fue, ha, había, dijo, fueron, han, habían, afirmó, convirtió, declaró -->
@@ -72,6 +69,7 @@
     <feat name="PronType" value="Int,Rel" upos="DET,PRON">283</feat><!-- que, cual, cuales, quien, qué, cuál, quienes, cuanto, cuyo, quién -->
     <feat name="PronType" value="Neg" upos="DET">2</feat><!-- ninguna, ningún -->
     <feat name="PronType" value="Prs" upos="PRON">773</feat><!-- se, su, lo, sus, le, me, ellos, él, les, ella -->
+    <feat name="PronType" value="Rel" upos="ADV">50</feat><!-- cuando, donde -->
     <feat name="PronType" value="Tot" upos="DET">60</feat><!-- cada, todas, todo, todos, toda, ambos, Ambas -->
     <feat name="Reflex" value="Yes" upos="PRON">314</feat><!-- se, me, nos, sí, consigo -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">43</feat><!-- será, habrá, tendrá, hará, reducirá, Evaluaremos, Jugarán, asistirán, cambiará, contendrán -->
