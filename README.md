@@ -41,6 +41,7 @@ employ ten-fold cross-validation.
   * Spurious iobj changed to either obj or obl:arg.
   * Fixed: "donde", "cuando" can be SCONJ or ADV but not PRON. Interrogative "dónde", "cuándo" are only ADV.
   * Existential "hay" and necessitative "hay que": AUX changed to VERB.
+  * Removed the Voice feature. Deprel of "se" in reflexive passives changed from compound:prt to expl:pass.
 * 2022-05-15 v2.10
   * Fixed features of infinitives, gerunds and participles.
   * Added lemmas in some obvious cases where they correspond to the surface

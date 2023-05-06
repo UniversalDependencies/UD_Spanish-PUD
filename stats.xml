@@ -32,7 +32,7 @@
     <tag name="X">13</tag><!-- cápita, per, _, bjórr, ey, kven, maiorum, meänkieli, mos, oblast -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="52">
+  <feats unique="50">
     <feat name="Abbr" value="Yes" upos="ADJ,ADV,NOUN,PROPN">33</feat><!-- a., C., C, d., EE., UU, ca. -->
     <feat name="Aspect" value="Imp" upos="AUX,VERB">1140</feat><!-- es, está, era, son, puede, tiene, estaba, están, hay, hace -->
     <feat name="Aspect" value="Perf" upos="AUX,VERB">773</feat><!-- fue, ha, había, dijo, fueron, han, habían, afirmó, convirtió, declaró -->
@@ -83,8 +83,6 @@
     <feat name="VerbForm" value="Ger" upos="AUX,VERB">108</feat><!-- siendo, incluyendo, convirtiendo, creciendo, haciendo, pasando, trabajando, utilizando, ayudando, buscando -->
     <feat name="VerbForm" value="Inf" upos="AUX,VERB">465</feat><!-- ser, hacer, tener, ver, establecer, haber, ayudar, dejar, enviar, estar -->
     <feat name="VerbForm" value="Part" upos="AUX,VERB">398</feat><!-- sido, debido, hecho, tenido, dado, dejado, estado, dirigida, visto, acusado -->
-    <feat name="Voice" value="Act" upos="AUX,VERB">1700</feat><!-- es, ha, está, era, había, fue, dijo, tiene, son, estaba -->
-    <feat name="Voice" value="Pass" upos="AUX,VERB">211</feat><!-- fue, fueron, ha, había, puede, son, habían, pueden, conoce, aplicaría -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="44">
@@ -101,7 +99,7 @@
     <dep name="cc:preconj">12</dep>
     <dep name="ccomp">147</dep>
     <dep name="compound">4</dep>
-    <dep name="compound:prt">313</dep>
+    <dep name="compound:prt">195</dep>
     <dep name="conj">655</dep>
     <dep name="cop">273</dep>
     <dep name="csubj">41</dep>
@@ -110,7 +108,7 @@
     <dep name="det">3514</dep>
     <dep name="discourse">104</dep>
     <dep name="expl">1</dep>
-    <dep name="expl:pass">2</dep>
+    <dep name="expl:pass">120</dep>
     <dep name="expl:pv">2</dep>
     <dep name="fixed">359</dep>
     <dep name="flat">1</dep>
