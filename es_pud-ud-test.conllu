@@ -2132,7 +2132,7 @@
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	Cuarón	Cuarón	PROPN	NNP	Gender=Masc|Number=Sing	20	nsubj	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	9	punct	_	_
-7	cuya	_	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Int,Rel	9	det	_	_
+7	cuya	cuyo	DET	DTP$	Gender=Fem|Number=Sing|Poss=Yes|PronType=Rel	9	det	_	_
 8	última	_	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	_
 9	película	película	NOUN	NN	Gender=Fem|Number=Sing	5	appos	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	11	punct	_	_
@@ -5704,7 +5704,7 @@
 10	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 11	trabajadores	_	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	_
 12	estadounidenses	_	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	Proper=True
-13	cuyos	_	PRON	DTP$	Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Int,Rel	14	det	_	_
+13	cuyos	cuyo	DET	DTP$	Gender=Masc|Number=Plur|Poss=Yes|PronType=Rel	14	det	_	_
 14	trabajos	_	NOUN	NN	Gender=Masc|Number=Plur	20	obj	_	_
 15	y	y	CCONJ	CC	_	16	cc	_	_
 16	nivel	nivel	NOUN	NN	Gender=Masc|Number=Sing	14	conj	_	_
@@ -18342,7 +18342,7 @@
 8	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	agente	agente	NOUN	NN	Gender=Masc|Number=Sing	5	csubj:pass	_	_
 10	encubierto	encubierto	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	_
-11	cuyo	cuyo	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Int,Rel	12	det	_	_
+11	cuyo	cuyo	DET	DTP$	Gender=Masc|Number=Sing|Poss=Yes|PronType=Rel	12	det	_	_
 12	objetivo	objetivo	NOUN	NN	Gender=Masc|Number=Sing	9	acl:relcl	_	_
 13	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 14	Homero	Homero	PROPN	NNP	Gender=Masc|Number=Sing	12	nsubj	_	SpaceAfter=No
@@ -21591,7 +21591,7 @@
 3	delinea	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	varias	_	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	5	det	_	_
 5	condiciones	_	NOUN	NN	Gender=Fem|Number=Plur	3	obj	_	_
-6	cuyo	cuyo	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Int,Rel	7	det	_	_
+6	cuyo	cuyo	DET	DTP$	Gender=Masc|Number=Sing|Poss=Yes|PronType=Rel	7	det	_	_
 7	cumplimiento	cumplimiento	NOUN	NN	Gender=Masc|Number=Sing	9	nsubj	_	_
 8	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
 9	hacer	hacer	VERB	VB	VerbForm=Inf	5	acl:relcl	_	_

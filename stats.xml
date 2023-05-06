@@ -20,10 +20,10 @@
     <tag name="ADV">895</tag><!-- _, también, cuando, antes, después, ya, muy, tanto, donde, solo -->
     <tag name="AUX">709</tag><!-- ser, haber, estar, _, poder, deber -->
     <tag name="CCONJ">582</tag><!-- y, pero, o, e, ni, and -->
-    <tag name="DET">3316</tag><!-- el, uno, _, este, esto, ese, eso, cada, todo, otro -->
+    <tag name="DET">3320</tag><!-- el, uno, _, este, esto, ese, eso, cada, todo, otro -->
     <tag name="NOUN">4818</tag><!-- _, año, parte, guerra, lugar, gobierno, ciudad, estado, mar, vez -->
     <tag name="NUM">435</tag><!-- _, dos, 1, 10, 3, cuatro, mil, tres, seis, 70 -->
-    <tag name="PRON">1062</tag><!-- él, _, que, su, yo, cual, quien, tú, nuestro, cuál -->
+    <tag name="PRON">1058</tag><!-- él, _, que, su, yo, cual, quien, tú, nuestro, cuál -->
     <tag name="PROPN">1250</tag><!-- _, Cristo, China, Trump, mediterráneo, Europa, Hong, Italia, Kong, Albania -->
     <tag name="PUNCT">2292</tag><!-- ,, ., ", (, ), :, ;, -, ?, ¿ -->
     <tag name="SCONJ">260</tag><!-- que, si, como, aunque, porque, a, mientras, de, hasta, para -->
@@ -58,19 +58,19 @@
     <feat name="NumType" value="Card" upos="DET,NUM,PRON">477</feat><!-- dos, tres, muchos, muchas, 1, 10, cuatro, 3, mil, seis -->
     <feat name="Person" value="1" upos="AUX,PRON,VERB">129</feat><!-- me, nos, yo, estamos, nuestro, debemos, he, mi, creo, hemos -->
     <feat name="Person" value="2" upos="AUX,PRON,VERB">21</feat><!-- You, te, tienes, Buck, Don, Knew, Knuck, Terminas, Ya, habéis -->
-    <feat name="Person" value="3" upos="AUX,PRON,VERB">2540</feat><!-- se, su, es, lo, fue, ha, sus, está, había, le -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">2536</feat><!-- se, su, es, lo, fue, ha, sus, está, había, le -->
     <feat name="Polarity" value="Neg" upos="ADV">128</feat><!-- no, nunca, t, tampoco -->
     <feat name="Polite" value="Form" upos="PRON">2</feat><!-- usted, ustedes -->
-    <feat name="Poss" value="Yes" upos="PRON">249</feat><!-- su, sus, nuestro, mi, nuestra, cuyo, nuestras, nuestros, cuya, cuyos -->
+    <feat name="Poss" value="Yes" upos="DET,PRON">249</feat><!-- su, sus, nuestro, mi, nuestra, cuyo, nuestras, nuestros, cuya, cuyos -->
     <feat name="PrepCase" value="Npr" upos="PRON">429</feat><!-- se, lo, me, nos, la, los, te, las, os -->
     <feat name="PrepCase" value="Pre" upos="PRON">3</feat><!-- sí, mí -->
     <feat name="PronType" value="Art" upos="DET">2984</feat><!-- el, la, los, un, las, una, unos, unas -->
     <feat name="PronType" value="Dem" upos="DET">150</feat><!-- este, esta, esto, ese, eso, estos, esos, estas, esa, esas -->
     <feat name="PronType" value="Ind" upos="DET,PRON">126</feat><!-- muchos, muchas, otros, varios, otra, otro, algunos, varias, otras, The -->
-    <feat name="PronType" value="Int,Rel" upos="DET,PRON">283</feat><!-- que, cual, cuales, quien, qué, cuál, quienes, cuanto, cuyo, quién -->
+    <feat name="PronType" value="Int,Rel" upos="DET,PRON">279</feat><!-- que, cual, cuales, quien, qué, cuál, quienes, cuanto, quién, Cuáles -->
     <feat name="PronType" value="Neg" upos="DET">2</feat><!-- ninguna, ningún -->
     <feat name="PronType" value="Prs" upos="PRON">773</feat><!-- se, su, lo, sus, le, me, ellos, él, les, ella -->
-    <feat name="PronType" value="Rel" upos="ADV">50</feat><!-- cuando, donde -->
+    <feat name="PronType" value="Rel" upos="ADV,DET">54</feat><!-- cuando, donde, cuyo, cuya, cuyos -->
     <feat name="PronType" value="Tot" upos="DET">60</feat><!-- cada, todas, todo, todos, toda, ambos, Ambas -->
     <feat name="Reflex" value="Yes" upos="PRON">314</feat><!-- se, me, nos, sí, consigo -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">43</feat><!-- será, habrá, tendrá, hará, reducirá, Evaluaremos, Jugarán, asistirán, cambiará, contendrán -->
