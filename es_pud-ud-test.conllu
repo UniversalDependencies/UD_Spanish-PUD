@@ -4700,7 +4700,7 @@
 # text_en = But there was nothing else obviously artistic about her or in her behavior with other people.
 1	Pero	pero	CCONJ	CC	_	3	discourse	_	_
 2	no	_	ADV	RB	Polarity=Neg	3	advmod	_	_
-3	había	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	había	haber	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	nada	nada	NOUN	NN	Gender=Masc|Number=Sing	3	obj	_	_
 5	más	_	ADV	RBR	Degree=Cmp	4	advmod	_	_
 6	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	9	nsubj	_	_
@@ -16917,7 +16917,7 @@
 2	esa	_	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
 3	época	época	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
 4	solo	solo	ADV	RB	_	5	advmod	_	_
-5	había	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	había	haber	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 6	alrededor	alrededor	ADV	RB	_	9	advmod	_	_
 7	de	de	ADP	IN	_	6	fixed	_	_
 8	cuarenta	_	NUM	CD	Gender=Fem|NumType=Card	9	nummod	_	_
@@ -17830,7 +17830,7 @@
 6	para	para	ADP	IN	_	9	case	_	_
 7	que	que	ADP	IN	_	6	fixed	_	_
 8	no	no	ADV	RB	Polarity=Neg	9	advmod	_	_
-9	hubiese	_	VERB	VBC	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	_
+9	hubiese	haber	VERB	VBC	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	_
 10	excesivas	_	ADJ	JJ	Gender=Fem|Number=Plur	11	amod	_	_
 11	muestras	_	NOUN	NN	Gender=Fem|Number=Plur	9	obj	_	_
 12	de	de	ADP	IN	_	13	case	_	_
@@ -26606,7 +26606,7 @@
 3	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	6	obl	_	_
 4	baja	_	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	3	punct	_	_
-6	habían	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	habían	haber	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 7	tres	tres	NUM	CD	Gender=Masc|NumType=Card	8	nummod	_	_
 8	árboles	_	NOUN	NN	Gender=Masc|Number=Plur	6	obj	_	_
 9	de	de	ADP	IN	_	10	case	_	_
