@@ -32,10 +32,8 @@
     <tag name="X">13</tag><!-- cápita, per, _, bjórr, ey, kven, maiorum, meänkieli, mos, oblast -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="50">
+  <feats unique="49">
     <feat name="Abbr" value="Yes" upos="ADJ,ADV,NOUN,PROPN">33</feat><!-- a., C., C, d., EE., UU, ca. -->
-    <feat name="Aspect" value="Imp" upos="AUX,VERB">1140</feat><!-- es, está, era, son, puede, tiene, estaba, están, hay, hace -->
-    <feat name="Aspect" value="Perf" upos="AUX,VERB">773</feat><!-- fue, ha, había, dijo, fueron, han, habían, afirmó, convirtió, declaró -->
     <feat name="Case" value="Acc" upos="PRON">105</feat><!-- lo, la, los, me, sí, You, las, mí, te -->
     <feat name="Case" value="Acc,Dat" upos="PRON">323</feat><!-- se, me, nos, os, te -->
     <feat name="Case" value="Acc,Nom" upos="PRON">37</feat><!-- ellos, él, ella, ello, usted, ustedes -->
@@ -76,7 +74,8 @@
     <feat name="PronType" value="Tot" upos="DET">60</feat><!-- cada, todas, todo, todos, toda, ambos, Ambas -->
     <feat name="Reflex" value="Yes" upos="PRON">314</feat><!-- se, me, nos, sí, consigo -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">43</feat><!-- será, habrá, tendrá, hará, reducirá, Evaluaremos, Jugarán, asistirán, cambiará, contendrán -->
-    <feat name="Tense" value="Past" upos="AUX,VERB">1446</feat><!-- fue, ha, había, era, dijo, fueron, estaba, han, habían, estaban -->
+    <feat name="Tense" value="Imp" upos="AUX,VERB">336</feat><!-- era, estaba, podría, estaban, eran, tenía, tenían, podía, sería, consideraba -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">1170</feat><!-- fue, ha, había, dijo, fueron, han, habían, sido, debido, hecho -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">761</feat><!-- es, está, son, puede, tiene, están, hay, hace, tienen, pueden -->
     <feat name="Typo" value="Yes" upos="NOUN">1</feat><!-- súper -->
     <feat name="VerbForm" value="Fin" upos="AUX,VERB">1928</feat><!-- es, fue, ha, está, había, era, dijo, son, puede, tiene -->
