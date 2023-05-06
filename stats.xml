@@ -6,6 +6,9 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>1000</sentences><tokens>22822</tokens><words>23287</words><fused>465</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>1000</sentences><tokens>22822</tokens><words>23287</words><fused>465</fused></test>
   </size>
   <lemmas unique="3567" /><!-- el, de, ,, ., en, a, él, uno, y, que, ser, por, con, haber, para -->
   <forms unique="5936" /><!-- de, el, ,, ., la, en, a, que, y, los, se, un, las, una, por -->
@@ -13,9 +16,9 @@
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="15">
     <tag name="ADJ">1480</tag><!-- _, gran, primer, mayor, nacional, nuevo, unido, mismo, claro, i -->
-    <tag name="ADP">3965</tag><!-- de, en, a, por, con, para, como, que, entre, durante -->
+    <tag name="ADP">3964</tag><!-- de, en, a, por, con, para, como, que, entre, durante -->
     <tag name="ADV">895</tag><!-- _, también, cuando, antes, después, ya, muy, tanto, donde, solo -->
-    <tag name="AUX">710</tag><!-- ser, haber, estar, _, poder, deber -->
+    <tag name="AUX">709</tag><!-- ser, haber, estar, _, poder, deber -->
     <tag name="CCONJ">582</tag><!-- y, pero, o, e, ni, and -->
     <tag name="DET">3316</tag><!-- el, uno, _, este, esto, ese, eso, cada, todo, otro -->
     <tag name="NOUN">4818</tag><!-- _, año, parte, guerra, lugar, gobierno, ciudad, estado, mar, vez -->
@@ -23,9 +26,9 @@
     <tag name="PRON">1062</tag><!-- él, _, que, su, yo, cual, quien, tú, nuestro, cuál -->
     <tag name="PROPN">1250</tag><!-- _, Cristo, China, Trump, mediterráneo, Europa, Hong, Italia, Kong, Albania -->
     <tag name="PUNCT">2292</tag><!-- ,, ., ", (, ), :, ;, -, ?, ¿ -->
-    <tag name="SCONJ">259</tag><!-- que, si, como, aunque, porque, a, mientras, de, hasta, para -->
+    <tag name="SCONJ">260</tag><!-- que, si, como, aunque, porque, a, mientras, de, hasta, para -->
     <tag name="SYM">21</tag><!-- % -->
-    <tag name="VERB">2189</tag><!-- _, hacer, tener, ver, continuar, establecer, dar, dejar, ser, ayudar -->
+    <tag name="VERB">2190</tag><!-- _, hacer, tener, ver, continuar, establecer, dar, dejar, ser, ayudar -->
     <tag name="X">13</tag><!-- cápita, per, _, bjórr, ey, kven, maiorum, meänkieli, mos, oblast -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -91,7 +94,7 @@
     <dep name="advmod">820</dep>
     <dep name="amod">1311</dep>
     <dep name="appos">320</dep>
-    <dep name="aux">343</dep>
+    <dep name="aux">342</dep>
     <dep name="aux:pass">94</dep>
     <dep name="case">3698</dep>
     <dep name="cc">566</dep>
@@ -109,11 +112,11 @@
     <dep name="expl">1</dep>
     <dep name="expl:pass">2</dep>
     <dep name="expl:pv">2</dep>
-    <dep name="fixed">360</dep>
+    <dep name="fixed">359</dep>
     <dep name="flat">1</dep>
     <dep name="flat:name">210</dep>
     <dep name="goeswith">1</dep>
-    <dep name="mark">290</dep>
+    <dep name="mark">291</dep>
     <dep name="nmod">1802</dep>
     <dep name="nsubj">1190</dep>
     <dep name="nsubj:pass">165</dep>
@@ -128,6 +131,6 @@
     <dep name="punct">2292</dep>
     <dep name="root">1000</dep>
     <dep name="vocative">2</dep>
-    <dep name="xcomp">396</dep>
+    <dep name="xcomp">397</dep>
   </deps>
 </treebank>

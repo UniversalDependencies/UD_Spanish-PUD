@@ -24465,10 +24465,10 @@
 # text = Y hay que saludarles con el espíritu abierto y la mente despejada porque forman la generación nueva de la belleza y la esperanza.
 # text_en = And they must be greeted with an open spirit and clear mind because they form the new generation of beauty and hope.
 1	Y	y	CCONJ	CC	_	4	discourse	_	_
-2	hay	haber	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
-3	que	que	ADP	IN	_	2	fixed	_	_
+2	hay	haber	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	que	que	SCONJ	IN	_	4	mark	_	_
 4-5	saludarles	_	_	_	_	_	_	_	_
-4	saludar	saludar	VERB	VB	VerbForm=Inf	0	root	_	_
+4	saludar	saludar	VERB	VB	VerbForm=Inf	2	xcomp	_	_
 5	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	4	obj	_	_
 6	con	con	ADP	IN	_	8	case	_	_
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
