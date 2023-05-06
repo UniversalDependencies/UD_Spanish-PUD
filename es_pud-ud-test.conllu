@@ -1305,7 +1305,7 @@
 30	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	31	obl	_	_
 31	explicaba	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	27	acl:relcl	_	_
 32	por	por	ADP	IN	_	33	case	_	_
-33	qué	qué	PRON	WP	PronType=Int,Rel	35	obl	_	_
+33	qué	qué	PRON	WP	PronType=Int	35	obl	_	_
 34	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	35	expl:pass	_	_
 35	cerraba	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	31	ccomp	_	_
 36	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	37	det	_	_
@@ -1916,7 +1916,7 @@
 4	si	si	SCONJ	IN	_	5	mark	_	_
 5	entendía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
 6	por	por	ADP	IN	_	7	case	_	_
-7	qué	qué	PRON	WP	PronType=Int,Rel	11	obl	_	_
+7	qué	qué	PRON	WP	PronType=Int	11	obl	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	gente	gente	NOUN	NN	Gender=Fem|Number=Sing	11	nsubj	_	_
 10	podía	poder	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	_
@@ -4277,7 +4277,7 @@
 # text_en = “I don’t know what G.D.P. growth was during the Washington and Lincoln Administrations, but the institutional developments in those terms had large and long-lasting effects.”
 1	No	_	ADV	RB	Polarity=Neg	2	advmod	_	_
 2	sé	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	cuál	cuál	PRON	WP	Number=Sing|PronType=Int,Rel	6	nsubj	_	_
+3	cuál	cuál	PRON	WP	Number=Sing|PronType=Int	6	nsubj	_	_
 4	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	crecimiento	crecimiento	NOUN	NN	Gender=Masc|Number=Sing	2	ccomp	_	_
@@ -6375,7 +6375,7 @@
 # text_en = And what about Australia’s position?
 1	¿	¿	PUNCT	.	_	6	punct	_	SpaceAfter=No
 2	Y	y	CCONJ	CC	_	6	discourse	_	_
-3	cuál	cuál	PRON	WP	Number=Sing|PronType=Int,Rel	6	nsubj	_	_
+3	cuál	cuál	PRON	WP	Number=Sing|PronType=Int	6	nsubj	_	_
 4	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	postura	postura	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
@@ -8586,7 +8586,7 @@
 1	No	_	ADV	RB	Polarity=Neg	2	advmod	_	_
 2	sé	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	por	por	ADP	IN	_	4	case	_	_
-4	qué	qué	PRON	WP	PronType=Int,Rel	6	obl	_	_
+4	qué	qué	PRON	WP	PronType=Int	6	obl	_	_
 5	la	él	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	obj	_	_
 6	elegí	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	ccomp	_	_
 7	a	a	ADP	IN	_	8	case	_	_
@@ -9902,7 +9902,7 @@
 16	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	CNN	CNN	PROPN	NNP	Gender=Fem|Number=Sing	14	obl	_	_
 18	por	por	ADP	IN	_	19	case	_	_
-19	qué	qué	PRON	WP	PronType=Int,Rel	22	obl:agent	_	_
+19	qué	qué	PRON	WP	PronType=Int	22	obl:agent	_	_
 20	México	México	PROPN	NNP	Number=Sing	22	nsubj	_	_
 21	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	aux	_	_
 22	decidido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	ccomp	_	_
@@ -22054,7 +22054,7 @@
 7	ahora	ahora	ADV	RB	_	6	advmod	_	_
 8	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	en	en	ADP	IN	_	10	case	_	_
-10	cuál	cuál	PRON	WP	Number=Sing|PronType=Int,Rel	8	obl	_	SpaceAfter=No
+10	cuál	cuál	PRON	WP	Number=Sing|PronType=Int	8	obl	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	8	punct	_	_
 
 # newdoc id = n02048
@@ -22959,7 +22959,7 @@
 # text = ¿Cuáles son las limitaciones que podrían inhibir las expresiones de las creencias religiosas en compañías privadas?
 # text_en = What are the limits that could inhibit the expression of religious beliefs in private companies?
 1	¿	¿	PUNCT	.	_	5	punct	_	SpaceAfter=No
-2	Cuáles	_	PRON	WP	Number=Plur|PronType=Int,Rel	5	nsubj	_	_
+2	Cuáles	cuáles	PRON	WP	Number=Plur|PronType=Int	5	nsubj	_	_
 3	son	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	limitaciones	_	NOUN	NN	Gender=Fem|Number=Plur	0	root	_	_
@@ -23422,7 +23422,7 @@
 4	,	,	PUNCT	,	_	8	punct	_	_
 5	y	y	CCONJ	CC	_	8	cc	_	_
 6	de	de	ADP	IN	_	8	case	_	_
-7	qué	_	DET	WDT	Gender=Fem|Number=Sing|PronType=Int,Rel	8	det	_	_
+7	qué	qué	DET	WDT	Gender=Fem|Number=Sing|PronType=Int	8	det	_	_
 8	manera	manera	NOUN	NN	Gender=Fem|Number=Sing	3	conj	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	13	punct	_	_
 10	a	a	ADP	IN	_	13	case	_	_
@@ -24273,7 +24273,7 @@
 5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	partes	_	NOUN	NN	Gender=Fem|Number=Plur	3	nmod	_	_
 7	en	en	ADP	IN	_	8	case	_	_
-8	cuál	cuál	PRON	WP	Number=Sing|PronType=Int,Rel	3	nmod	_	SpaceAfter=No
+8	cuál	cuál	PRON	WP	Number=Sing|PronType=Int	3	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	11	punct	_	_
 10	en	en	ADP	IN	_	11	case	_	_
 11	derechos	_	NOUN	NN	Gender=Masc|Number=Plur	3	nmod	_	_

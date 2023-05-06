@@ -44,6 +44,7 @@ employ ten-fold cross-validation.
   * Removed the Voice feature. Deprel of "se" in reflexive passives changed from compound:prt to expl:pass.
   * Removed the Aspect feature. Tense=Imp is used in Spanish to distinguish the imperfect past tense.
   * "cuyo" is a relative determiner.
+  * "qué", "cuál" are interrogative, not relative.
 * 2022-05-15 v2.10
   * Fixed features of infinitives, gerunds and participles.
   * Added lemmas in some obvious cases where they correspond to the surface

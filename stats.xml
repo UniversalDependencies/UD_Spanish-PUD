@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>1000</sentences><tokens>22822</tokens><words>23287</words><fused>465</fused></test>
   </size>
-  <lemmas unique="3567" /><!-- el, de, ,, ., en, a, él, uno, y, que, ser, por, haber, con, para -->
+  <lemmas unique="3568" /><!-- el, de, ,, ., en, a, él, uno, y, que, ser, por, haber, con, para -->
   <forms unique="5936" /><!-- de, el, ,, ., la, en, a, que, y, los, se, un, las, una, por -->
   <fusions unique="61" /><!-- del, al, verlo, beneficiarse, convirtiéndose, hacerlo, recuperarlo, admitiéndolo, alejarse, aplicándolo, centrarse, centrándose, comprometerse, concentrase, convertirse -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -32,7 +32,7 @@
     <tag name="X">13</tag><!-- cápita, per, _, bjórr, ey, kven, maiorum, meänkieli, mos, oblast -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="49">
+  <feats unique="50">
     <feat name="Abbr" value="Yes" upos="ADJ,ADV,NOUN,PROPN">33</feat><!-- a., C., C, d., EE., UU, ca. -->
     <feat name="Case" value="Acc" upos="PRON">105</feat><!-- lo, la, los, me, sí, You, las, mí, te -->
     <feat name="Case" value="Acc,Dat" upos="PRON">323</feat><!-- se, me, nos, os, te -->
@@ -67,7 +67,8 @@
     <feat name="PronType" value="Art" upos="DET">2984</feat><!-- el, la, los, un, las, una, unos, unas -->
     <feat name="PronType" value="Dem" upos="DET">150</feat><!-- este, esta, esto, ese, eso, estos, esos, estas, esa, esas -->
     <feat name="PronType" value="Ind" upos="DET,PRON">126</feat><!-- muchos, muchas, otros, varios, otra, otro, algunos, varias, otras, The -->
-    <feat name="PronType" value="Int,Rel" upos="DET,PRON">279</feat><!-- que, cual, cuales, quien, qué, cuál, quienes, cuanto, quién, Cuáles -->
+    <feat name="PronType" value="Int" upos="DET,PRON">10</feat><!-- qué, cuál, Cuáles -->
+    <feat name="PronType" value="Int,Rel" upos="DET,PRON">269</feat><!-- que, cual, cuales, quien, quienes, cuanto, quién, Quiénes -->
     <feat name="PronType" value="Neg" upos="DET">2</feat><!-- ninguna, ningún -->
     <feat name="PronType" value="Prs" upos="PRON">773</feat><!-- se, su, lo, sus, le, me, ellos, él, les, ella -->
     <feat name="PronType" value="Rel" upos="ADV,DET">54</feat><!-- cuando, donde, cuyo, cuya, cuyos -->
