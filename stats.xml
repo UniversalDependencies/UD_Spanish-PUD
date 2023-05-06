@@ -28,7 +28,7 @@
     <tag name="PUNCT">2292</tag><!-- ,, ., ", (, ), :, ;, -, ?, ¿ -->
     <tag name="SCONJ">260</tag><!-- que, si, como, aunque, porque, a, mientras, de, hasta, para -->
     <tag name="SYM">21</tag><!-- % -->
-    <tag name="VERB">2190</tag><!-- _, hacer, tener, ver, continuar, establecer, dar, dejar, ser, ayudar -->
+    <tag name="VERB">2190</tag><!-- _, hacer, tener, haber, ver, continuar, establecer, dar, dejar, ser -->
     <tag name="X">13</tag><!-- cápita, per, _, bjórr, ey, kven, maiorum, meänkieli, mos, oblast -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->

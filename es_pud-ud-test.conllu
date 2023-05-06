@@ -2252,7 +2252,7 @@
 1	Sin	sin	ADP	IN	_	4	discourse	_	_
 2	embargo	embargo	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	1	punct	_	_
-4	hay	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	hay	haber	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	muchos	_	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	6	det	_	_
 6	miembros	_	NOUN	NN	Gender=Masc|Number=Plur	4	obj	_	_
 7	de	de	ADP	IN	_	9	case	_	_
@@ -5055,7 +5055,7 @@
 # sent_id = n01070020
 # text = Hay gente que fue asesinada allí.
 # text_en = People got killed there.
-1	Hay	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+1	Hay	haber	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	gente	gente	NOUN	NN	Gender=Fem|Number=Sing	1	obj	_	_
 3	que	_	PRON	REL	Gender=Fem|Number=Sing|PronType=Int,Rel	5	nsubj:pass	_	_
 4	fue	ser	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	5	aux:pass	_	_
@@ -5488,7 +5488,7 @@
 1	En	en	ADP	IN	_	3	case	_	_
 2	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	esquina	esquina	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
-4	hay	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	hay	haber	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	chica	chica	NOUN	NN	Gender=Fem|Number=Sing	4	obj	_	_
 7	que	_	PRON	REL	Gender=Fem|Number=Sing|PronType=Int,Rel	8	nsubj	_	_
@@ -5954,7 +5954,7 @@
 12	a	a	ADP	INDT	_	15	advmod	_	_
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 14	menos	_	ADV	RBR	Degree=Cmp	12	fixed	_	_
-15	hay	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+15	hay	haber	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
 16	alguien	alguien	NOUN	NN	Gender=Masc|Number=Sing	15	obj	_	_
 17	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	18	nsubj	_	_
 18	tiene	tener	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl:relcl	_	_
@@ -9530,7 +9530,7 @@
 # text = También hay una opción para enviar emojis, GIFs, memes personalizados y stickers a través de la plataforma, y para conectar su perfil de Tweeter.
 # text_en = There's also an option to send emoji, GIFs, custom memes and stickers via the platform, and connect your Twitter feed.
 1	También	también	ADV	RB	_	2	advmod	_	_
-2	hay	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	hay	haber	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	opción	opción	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 5	para	para	ADP	IN	_	6	case	_	_
@@ -9851,7 +9851,7 @@
 # text = No hay desfile y nunca lo ha habido.
 # text_en = There is no parade and there never has been.
 1	No	_	ADV	RB	Polarity=Neg	2	advmod	_	_
-2	hay	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	hay	haber	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	desfile	desfile	NOUN	NN	Gender=Masc|Number=Sing	2	obj	_	_
 4	y	y	CCONJ	CC	_	8	cc	_	_
 5	nunca	_	ADV	RB	Polarity=Neg	8	advmod	_	_
@@ -10756,7 +10756,7 @@
 2	todas	_	DET	DT	Gender=Fem|Number=Plur|PronType=Tot	1	fixed	_	_
 3	maneras	_	NOUN	NN	Gender=Fem|Number=Plur	1	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	1	punct	_	_
-5	hay	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	hay	haber	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	diferencias	_	NOUN	NN	Gender=Fem|Number=Plur	5	obj	_	_
 7	relevantes	_	ADJ	JJ	Gender=Fem|Number=Plur	6	amod	_	_
 8	entre	entre	ADP	IN	_	10	case	_	_
@@ -11081,7 +11081,7 @@
 # text = También hay lenguas derivadas del finés que evolucionaron separadamente, se conocen como meänkieli en Suecia y kven en Noruega.
 # text_en = There are also languages derived from Finnish, having evolved separately, known as Meänkieli in Sweden and Kven in Norway.
 1	También	también	ADV	RB	_	2	advmod	_	_
-2	hay	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	hay	haber	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	lenguas	_	NOUN	NN	Gender=Fem|Number=Plur	2	obj	_	_
 4	derivadas	derivar	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_
 5-6	del	_	_	_	_	_	_	_	_
@@ -21548,7 +21548,7 @@
 1	Según	según	ADP	IN	_	2	case	_	_
 2	Parker	Parker	PROPN	NNP	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
-4	hay	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	hay	haber	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 6	gran	gran	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	_
 7	número	número	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
@@ -24066,7 +24066,7 @@
 19	,	,	PUNCT	,	_	22	punct	_	_
 20	y	y	CCONJ	CC	_	22	cc	_	_
 21	ya	ya	ADV	RB	_	22	advmod	_	_
-22	hay	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	_
+22	hay	haber	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	_
 23	600.000	600.000	NUM	CD	Gender=Masc|NumType=Card	24	nummod	_	_
 24	ocupados	_	NOUN	NN	Gender=Masc|Number=Plur	22	obj	_	_
 25	más	_	ADV	RBR	Degree=Cmp	24	advmod	_	_
@@ -24876,7 +24876,7 @@
 # sent_id = w02004065
 # text = Hay diferentes teorías sobre los motivos para dejar el lugar.
 # text_en = There are different theories about the reasons for leaving the place.
-1	Hay	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+1	Hay	haber	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	diferentes	_	ADJ	JJ	Gender=Fem|Number=Plur	3	amod	_	_
 3	teorías	_	NOUN	NN	Gender=Fem|Number=Plur	1	obj	_	_
 4	sobre	sobre	ADP	IN	_	6	case	_	_
@@ -26856,7 +26856,7 @@
 10	montañosa	_	ADJ	JJ	Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	13	punct	_	_
 12	no	_	ADV	RB	Polarity=Neg	13	advmod	_	_
-13	hay	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	parataxis	_	_
+13	hay	haber	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	parataxis	_	_
 14	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 15	clara	_	ADJ	JJ	Gender=Fem|Number=Sing	16	amod	_	_
 16	distinción	distinción	NOUN	NN	Gender=Fem|Number=Sing	13	obj	_	_
@@ -26871,7 +26871,7 @@
 # sent_id = w04004045
 # text = Hay diferentes artefactos prehistóricos, incluyendo diferentes menhires y dólmenes.
 # text_en = There are many prehistoric artifacts, including several different menhirs and dolmens.
-1	Hay	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+1	Hay	haber	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	diferentes	_	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	_
 3	artefactos	_	NOUN	NN	Gender=Masc|Number=Plur	1	obj	_	_
 4	prehistóricos	_	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	SpaceAfter=No
