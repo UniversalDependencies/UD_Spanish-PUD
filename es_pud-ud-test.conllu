@@ -394,7 +394,7 @@
 12	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux:pass	_	_
 13	inaugurada	inaugurar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	acl:relcl	_	_
 14	en	en	ADP	IN	_	15	case	_	_
-15	2004	2004	NUM	CD	Gender=Masc|NumType=Card	13	obl	_	_
+15	2004	2004	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	13	obl	_	_
 16	y	y	CCONJ	CC	_	18	cc	_	_
 17	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	18	expl:pass	_	_
 18	construyó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	conj	_	_
@@ -404,7 +404,7 @@
 22	existente	_	ADJ	JJ	Gender=Fem|Number=Sing	21	amod	_	SpaceAfter=No
 23	,	,	PUNCT	,	_	13	punct	_	_
 24	costó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-25	103,7	103,7	NUM	CD	Gender=Masc|NumType=Card	26	nummod	_	_
+25	103,7	103,7	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	26	nummod	_	_
 26	millones	_	NOUN	NN	Gender=Masc|Number=Plur	24	obj	_	_
 27	de	de	ADP	IN	_	28	case	_	_
 28	dólares	_	NOUN	NN	Gender=Masc|Number=Plur	26	nmod	_	SpaceAfter=No
@@ -527,7 +527,7 @@
 11	únicamente	únicamente	ADV	RB	_	12	advmod	_	_
 12	votó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
 13	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-14	11	11	NUM	CD	Gender=Masc|NumType=Card	12	obj	_	_
+14	11	11	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	12	obj	_	_
 15	por	por	ADP	IN	_	16	case	_	_
 16	ciento	ciento	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	14	nmod	_	_
 17-18	del	_	_	_	_	_	_	_	_
@@ -543,7 +543,7 @@
 25	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	_	_
 26	elecciones	_	NOUN	NN	Gender=Fem|Number=Plur	23	nmod	_	_
 27	en	en	ADP	IN	_	28	case	_	_
-28	1996	1996	NUM	CD	Gender=Masc|NumType=Card	26	nmod	_	SpaceAfter=No
+28	1996	1996	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	26	nmod	_	SpaceAfter=No
 29	,	,	PUNCT	,	_	32	punct	_	_
 30	según	según	ADP	IN	_	32	case	_	_
 31	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
@@ -793,7 +793,7 @@
 22	empleos	_	NOUN	NN	Gender=Masc|Number=Plur	20	nmod	_	_
 23	cualificados	_	ADJ	JJ	Gender=Masc|Number=Plur	22	amod	_	_
 24	hasta	hasta	ADP	IN	_	25	case	_	_
-25	2035	2035	NUM	CD	Gender=Masc|NumType=Card	19	obl	_	SpaceAfter=No
+25	2035	2035	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	19	obl	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = n01014012
@@ -831,7 +831,7 @@
 29	independencia	independencia	NOUN	NN	Gender=Fem|Number=Sing	26	nmod	_	_
 30	escocesa	_	ADJ	JJ	Gender=Fem|Number=Sing	29	amod	_	Proper=True
 31	de	de	ADP	IN	_	32	case	_	_
-32	2014	2014	NUM	CD	Gender=Masc|NumType=Card	29	nmod	_	SpaceAfter=No
+32	2014	2014	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	29	nmod	_	SpaceAfter=No
 33	.	.	PUNCT	.	_	21	punct	_	_
 
 # newdoc id = n01015
@@ -861,7 +861,7 @@
 # text_en = And by 2007, at the height of its popularity (and, perhaps, Knightley's) it was a top 50 name, with three times more babies named Keira than Kiera.
 1	Y	y	CCONJ	CC	_	24	discourse	_	_
 2	en	en	ADP	IN	_	3	case	_	_
-3	2007	2007	NUM	CD	Gender=Masc|NumType=Card	24	obl	_	SpaceAfter=No
+3	2007	2007	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	24	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	cuando	cuando	ADV	WRB	PronType=Rel	6	advmod	_	_
 6	contaba	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	24	advcl	_	_
@@ -885,7 +885,7 @@
 24	uno	uno	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 25	de	de	ADP	IN	_	28	case	_	_
 26	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	28	det	_	_
-27	50	50	NUM	CD	Gender=Masc|NumType=Card	28	nummod	_	_
+27	50	50	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	28	nummod	_	_
 28	nombres	_	NOUN	NN	Gender=Masc|Number=Plur	24	nmod	_	_
 29	más	_	ADV	RBR	Degree=Cmp	30	advmod	_	_
 30	populares	_	ADJ	JJ	Gender=Masc|Number=Plur	28	amod	_	_
@@ -970,7 +970,7 @@
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	teléfonos	_	NOUN	NN	Gender=Masc|Number=Plur	6	nsubj	_	_
 3	Mate	Mate	PROPN	NNP	Gender=Masc|Number=Sing	2	appos	_	_
-4	9	9	NUM	CD	Gender=Masc|NumType=Card	3	appos	_	Proper=True
+4	9	9	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	appos	_	Proper=True
 5	no	_	ADV	RB	Polarity=Neg	6	advmod	_	_
 6	cuentan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	con	con	ADP	IN	_	9	case	_	_
@@ -1148,7 +1148,7 @@
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	curso	curso	NOUN	NN	Gender=Masc|Number=Sing	7	nsubj	_	_
 3	de	de	ADP	IN	_	5	case	_	_
-4	10	10	NUM	CD	Gender=Fem|NumType=Card	5	nummod	_	_
+4	10	10	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	5	nummod	_	_
 5	semanas	semana	NOUN	NN	Gender=Fem|Number=Plur	2	nmod	_	_
 6	está	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 7	acreditado	acreditar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -1327,7 +1327,7 @@
 10	ataques	_	NOUN	NN	Gender=Masc|Number=Plur	2	csubj	_	_
 11	producidos	_	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	acl	_	_
 12	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-13	21	21	NUM	CD	Gender=Masc|NumType=Card	11	obl:tmod	_	_
+13	21	21	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	11	obl:tmod	_	_
 14	de	de	ADP	IN	_	15	case	_	_
 15	octubre	octubre	NOUN	NN	Gender=Masc|Number=Sing	13	nmod	_	_
 16	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	17	obl	_	_
@@ -1494,14 +1494,14 @@
 6	aumentaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	en	en	ADP	IN	_	10	case	_	_
 8	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-9	6	6	NUM	CD	Gender=Masc|NumType=Card	10	nummod	_	_
+9	6	6	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	nummod	_	_
 10	%	%	SYM	SYM	_	6	obl	_	_
 11	en	en	ADP	IN	_	12	case	_	_
-12	2015	2015	NUM	CD	Gender=Masc|NumType=Card	6	obl	_	_
+12	2015	2015	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	6	obl	_	_
 13	y	y	CCONJ	CC	_	14	cc	_	_
 14	alcanzaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
 15	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
-16	221	221	NUM	CD	Gender=Masc|NumType=Card	17	nummod	_	_
+16	221	221	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	17	nummod	_	_
 17	mil	mil	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	18	nummod	_	_
 18	millones	_	NOUN	NN	Gender=Masc|Number=Plur	14	obj	_	_
 19	de	de	ADP	IN	_	20	case	_	_
@@ -1534,7 +1534,7 @@
 20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	objetivo	objetivo	NOUN	NN	Gender=Masc|Number=Sing	18	obl	_	_
 22	de	de	ADP	IN	_	24	case	_	_
-23	1,5	1,5	NUM	CD	Gender=Masc|NumType=Card	24	nummod	_	_
+23	1,5	1,5	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	24	nummod	_	_
 24	grados	_	NOUN	NN	Gender=Masc|Number=Plur	21	nmod	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -1626,7 +1626,7 @@
 3-4	del	_	_	_	_	_	_	_	_
 3	de	de	ADP	INDT	_	6	case	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-5	70	70	NUM	CD	Gender=Masc|NumType=Card	6	nummod	_	_
+5	70	70	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	6	nummod	_	_
 6	%	%	SYM	SYM	_	2	obl	_	_
 7	de	de	ADP	IN	_	9	case	_	_
 8	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
@@ -1638,7 +1638,7 @@
 14	seguían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 15	con	con	ADP	IN	_	16	case	_	_
 16	vida	vida	NOUN	NN	Gender=Fem|Number=Sing	14	obl	_	_
-17	17	17	NUM	CD	Gender=Masc|NumType=Card	18	nummod	_	_
+17	17	17	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	18	nummod	_	_
 18	días	_	NOUN	NN	Gender=Masc|Number=Plur	19	obl:tmod	_	_
 19	después	después	ADV	RB	_	14	advmod	_	SpaceAfter=No
 20	;	;	PUNCT	:	_	22	punct	_	_
@@ -1666,7 +1666,7 @@
 42-43	del	_	_	_	_	_	_	_	_
 42	de	de	ADP	INDT	_	45	case	_	_
 43	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	45	det	_	_
-44	66	66	NUM	CD	Gender=Masc|NumType=Card	45	nummod	_	_
+44	66	66	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	45	nummod	_	_
 45	%	%	SYM	SYM	_	41	obl	_	SpaceAfter=No
 46	.	.	PUNCT	.	_	14	punct	_	_
 
@@ -1993,7 +1993,7 @@
 17	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	18	compound:prt	_	_
 18	anexionó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_
 19	en	en	ADP	IN	_	20	case	_	_
-20	2014	2014	NUM	CD	Gender=Masc|NumType=Card	18	obl	_	SpaceAfter=No
+20	2014	2014	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	18	obl	_	SpaceAfter=No
 21	,	,	PUNCT	,	_	25	punct	_	_
 22	como	como	ADP	IN	_	25	case	_	_
 23	"	"	PUNCT	``	_	25	punct	_	SpaceAfter=No
@@ -2213,7 +2213,7 @@
 6	hormonales	_	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
 7	masculinos	_	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
 8	unos	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
-9	20	20	NUM	CD	Gender=Masc|NumType=Card	10	nummod	_	_
+9	20	20	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	nummod	_	_
 10	años	_	NOUN	NN	Gender=Masc|Number=Plur	3	obl:tmod	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -3104,7 +3104,7 @@
 21	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	bote	bote	NOUN	NN	Gender=Masc|Number=Sing	20	obj	_	_
 23	de	de	ADP	IN	_	25	case	_	_
-24	1,5	1,5	NUM	CD	Gender=Masc|NumType=Card	25	nummod	_	_
+24	1,5	1,5	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	25	nummod	_	_
 25	millones	_	NOUN	NN	Gender=Masc|Number=Plur	22	nmod	_	_
 26	de	de	ADP	IN	_	27	case	_	_
 27	dólares	_	NOUN	NN	Gender=Masc|Number=Plur	25	nmod	_	_
@@ -3128,7 +3128,7 @@
 5	de	de	ADP	IN	_	6	case	_	_
 6	más	_	ADV	RBR	Degree=Cmp	4	xcomp	_	_
 7	de	de	ADP	IN	_	10	case	_	_
-8	1,4	1,4	NUM	CD	Gender=Masc|NumType=Card	9	nummod	_	_
+8	1,4	1,4	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	9	nummod	_	_
 9	mil	mil	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	10	nummod	_	_
 10	millones	_	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	_
 11	de	de	ADP	IN	_	12	case	_	_
@@ -3206,7 +3206,7 @@
 14	año	año	NOUN	NN	Gender=Masc|Number=Sing	15	obl:tmod	_	_
 15	fue	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 16	de	de	ADP	IN	_	18	case	_	_
-17	1,5	1,5	NUM	CD	Gender=Masc|NumType=Card	18	nummod	_	_
+17	1,5	1,5	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	18	nummod	_	_
 18	millones	_	NOUN	NN	Gender=Masc|Number=Plur	15	obl	_	_
 19	de	de	ADP	IN	_	20	case	_	_
 20	dólares	_	NOUN	NN	Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
@@ -3242,9 +3242,9 @@
 16	patrocinio	patrocinio	NOUN	NN	Gender=Masc|Number=Sing	14	nmod	_	_
 17	federal	federal	ADJ	JJ	Gender=Masc|Number=Sing	16	amod	_	_
 18	entre	entre	ADP	IN	_	19	case	_	_
-19	2004	2004	NUM	CD	Gender=Masc|NumType=Card	4	obl	_	_
+19	2004	2004	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	obl	_	_
 20	y	y	CCONJ	CC	_	21	cc	_	_
-21	2006	2006	NUM	CD	Gender=Masc|NumType=Card	19	conj	_	SpaceAfter=No
+21	2006	2006	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	19	conj	_	SpaceAfter=No
 22	,	,	PUNCT	,	_	4	punct	_	_
 23	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 24	que	que	SCONJ	IN	_	28	mark	_	_
@@ -3807,7 +3807,7 @@
 # text = Tenía 84 años.
 # text_en = She was 84 years old.
 1	Tenía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-2	84	84	NUM	CD	Gender=Masc|NumType=Card	3	nummod	_	_
+2	84	84	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	nummod	_	_
 3	años	_	NOUN	NN	Gender=Masc|Number=Plur	1	obj	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -3872,7 +3872,7 @@
 1	Con	con	ADP	IN	_	5	case	_	_
 2	tan	tan	ADV	RB	_	3	advmod	_	_
 3	solo	solo	ADV	RB	_	5	advmod	_	_
-4	20	20	NUM	CD	Gender=Masc|NumType=Card	5	nummod	_	_
+4	20	20	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	nummod	_	_
 5	años	_	NOUN	NN	Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	_	_
 7	lucha	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -4164,7 +4164,7 @@
 14	voto	voto	NOUN	NN	Gender=Masc|Number=Sing	12	nmod	_	_
 15	restrictivos	_	ADJ	JJ	Gender=Masc|Number=Plur	12	amod	_	_
 16	en	en	ADP	IN	_	17	case	_	_
-17	2013	2013	NUM	CD	Gender=Masc|NumType=Card	8	obl	_	SpaceAfter=No
+17	2013	2013	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	8	obl	_	SpaceAfter=No
 18	,	,	PUNCT	,	_	1	punct	_	_
 19	Campbell	Campbell	PROPN	NNP	Gender=Masc|Number=Sing	20	nsubj	_	_
 20	fue	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -4451,7 +4451,7 @@
 9	elección	elección	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
 10	presidencial	_	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	_
 11	de	de	ADP	IN	_	12	case	_	_
-12	2016	2016	NUM	CD	Gender=Masc|NumType=Card	9	nmod	_	SpaceAfter=No
+12	2016	2016	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	9	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	4	punct	_	_
 14	a	a	ADP	IN	_	15	case	_	_
 15	Karel	Karel	PROPN	NNP	Gender=Fem|Number=Sing	17	obl	_	_
@@ -4723,7 +4723,7 @@
 # text = En 2010, la fundación publicó una edición tipopuesta de "El sueño de la ficha" prohibiendo el derecho a participar a aquellos que frustraban con la impresión de borrador de la impresión con placas fotomecánicas.
 # text_en = In 2010, the foundation released a typeset edition of “Zettel’s Traum,” removing the bar to entry for those who balked at the draft-like feel of the photo-offset.
 1	En	en	ADP	IN	_	2	case	_	_
-2	2010	2010	NUM	CD	Gender=Masc|NumType=Card	6	obl	_	SpaceAfter=No
+2	2010	2010	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	6	obl	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	fundación	fundación	NOUN	NN	Gender=Fem|Number=Sing	6	nsubj	_	_
@@ -4874,7 +4874,7 @@
 13	,	,	PUNCT	,	_	21	punct	_	_
 14	donde	donde	ADV	WRB	PronType=Rel	21	advmod	_	_
 15	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-16	62	62	NUM	CD	Gender=Masc|NumType=Card	17	nummod	_	_
+16	62	62	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	17	nummod	_	_
 17	%	%	SYM	SYM	_	21	nsubj	_	_
 18	de	de	ADP	IN	_	20	case	_	_
 19	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
@@ -4930,7 +4930,7 @@
 18	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	certamen	certamen	NOUN	NN	Gender=Masc|Number=Sing	16	obl	_	_
 20	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
-21	1	1	NUM	CD	Gender=Masc|NumType=Card	16	obl:tmod	_	_
+21	1	1	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	16	obl:tmod	_	_
 22	de	de	ADP	IN	_	23	case	_	_
 23	diciembre	diciembre	NOUN	NN	Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	16	punct	_	_
@@ -4952,7 +4952,7 @@
 11	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
 12	afueras	_	NOUN	NN	Gender=Fem|Number=Plur	9	nmod	_	_
 13	hasta	hasta	ADP	IN	_	14	case	_	_
-14	2010	2010	NUM	CD	Gender=Masc|NumType=Card	5	obl	_	_
+14	2010	2010	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	obl	_	_
 15	esperan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 16-17	recuperarlo	_	_	_	_	_	_	_	_
 16	recuperar	recuperar	VERB	VB	VerbForm=Inf	15	xcomp	_	_
@@ -5022,7 +5022,7 @@
 3	de	de	ADP	IN	_	4	case	_	_
 4	más	_	ADV	RBR	Degree=Cmp	2	xcomp	_	_
 5	de	de	ADP	IN	_	7	case	_	_
-6	330	_	NUM	CD	Gender=Fem|NumType=Card	7	nummod	_	_
+6	330	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	7	nummod	_	_
 7	personas	_	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
 8	está	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	a	a	ADP	IN	_	13	case	_	_
@@ -5085,7 +5085,7 @@
 15	de	de	ADP	IN	_	14	fixed	_	_
 16	funcionar	funcionar	VERB	VB	VerbForm=Inf	0	root	_	_
 17	durante	durante	ADP	IN	_	19	case	_	_
-18	10	10	NUM	CD	Gender=Masc|NumType=Card	19	nummod	_	_
+18	10	10	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	19	nummod	_	_
 19	días	_	NOUN	NN	Gender=Masc|Number=Plur	16	obl	_	_
 20	junto	junto	ADV	RB	_	22	case	_	_
 21	con	con	ADP	IN	_	20	fixed	_	_
@@ -5748,16 +5748,16 @@
 12	y	y	CCONJ	CC	_	13	cc	_	_
 13	ganar	ganar	VERB	VB	VerbForm=Inf	7	conj	_	_
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-15	3	3	NUM	CD	Gender=Masc|NumType=Card	16	nummod	_	SpaceAfter=No
+15	3	3	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	16	nummod	_	SpaceAfter=No
 16	%	%	SYM	SYM	_	13	obj	_	_
 17	sobre	sobre	ADP	IN	_	19	case	_	_
 18	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	cantidad	cantidad	NOUN	NN	Gender=Fem|Number=Sing	13	obl	_	_
 20	de	de	ADP	IN	_	25	case	_	_
 21	entre	entre	ADP	IN	_	22	case	_	_
-22	12.000	_	NUM	CD	Gender=Fem|NumType=Card	25	nummod	_	_
+22	12.000	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	25	nummod	_	_
 23	y	y	CCONJ	CC	_	24	cc	_	_
-24	360	_	NUM	CD	Gender=Fem|NumType=Card	22	conj	_	_
+24	360	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	22	conj	_	_
 25	libras	_	NOUN	NN	Gender=Fem|Number=Plur	19	nmod	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	7	punct	_	_
 
@@ -5777,14 +5777,14 @@
 10	Scotland	Scotland	PROPN	NNP	Number=Sing	8	nmod	_	_
 11	ganan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-13	3	3	NUM	CD	Gender=Masc|NumType=Card	14	nummod	_	SpaceAfter=No
+13	3	3	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	14	nummod	_	SpaceAfter=No
 14	%	%	SYM	SYM	_	11	obj	_	_
 15	sobre	sobre	ADP	IN	_	16	case	_	_
 16	saldos	_	NOUN	NN	Gender=Masc|Number=Plur	11	obl	_	_
 17	de	de	ADP	IN	_	18	case	_	_
-18	3.000	_	NUM	CD	Gender=Fem|NumType=Card	16	nmod	_	_
+18	3.000	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	16	nmod	_	_
 19	a	a	ADP	IN	_	21	case	_	_
-20	5.000	_	NUM	CD	Gender=Fem|NumType=Card	21	nummod	_	_
+20	5.000	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	21	nummod	_	_
 21	libras	_	NOUN	NN	Gender=Fem|Number=Plur	18	nmod	_	_
 22-23	al	_	_	_	_	_	_	_	_
 22	a	a	ADP	INDT	_	24	case	_	_
@@ -5830,7 +5830,7 @@
 3-4	del	_	_	_	_	_	_	_	_
 3	de	de	ADP	INDT	_	6	case	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-5	3	3	NUM	CD	Gender=Masc|NumType=Card	6	nummod	_	SpaceAfter=No
+5	3	3	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	6	nummod	_	SpaceAfter=No
 6	%	%	SYM	SYM	_	2	nmod	_	_
 7	también	también	ADV	RB	_	9	advmod	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pass	_	_
@@ -5847,9 +5847,9 @@
 19	tomar	tomar	VERB	VB	VerbForm=Inf	18	xcomp	_	_
 20	prestadas	prestar	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	25	acl	_	_
 21	entre	entre	ADP	IN	_	25	case	_	_
-22	15.001	_	NUM	CD	Gender=Fem|NumType=Card	25	nummod	_	_
+22	15.001	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	25	nummod	_	_
 23	y	y	CCONJ	CC	_	24	cc	_	_
-24	19.999	_	NUM	CD	Gender=Fem|NumType=Card	22	conj	_	_
+24	19.999	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	22	conj	_	_
 25	libras	_	NOUN	NN	Gender=Fem|Number=Plur	19	obl	_	_
 26	durante	durante	ADP	IN	_	28	case	_	_
 27	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
@@ -5906,7 +5906,7 @@
 # text_en = Fast forward to 2016 and this is increasingly worthy of attention.
 1	Avancemos	_	VERB	VBC	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	hasta	hasta	ADP	IN	_	3	case	_	_
-3	2016	2016	NUM	CD	Gender=Masc|NumType=Card	1	obl	_	_
+3	2016	2016	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	1	obl	_	_
 4	y	y	CCONJ	CC	_	6	cc	_	_
 5	esto	esto	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	6	nsubj	_	_
 6	merece	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
@@ -6211,7 +6211,7 @@
 24	de	de	ADP	IN	_	26	case	_	_
 25	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
 26	años	_	NOUN	NN	Gender=Masc|Number=Plur	23	obl	_	_
-27	70	70	NUM	CD	Gender=Masc|NumType=Card	26	appos	_	SpaceAfter=No
+27	70	70	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	26	appos	_	SpaceAfter=No
 28	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = n01090037
@@ -6541,7 +6541,7 @@
 # text = Sólo 50 eran mercados.
 # text_en = Only 50 were marketplaces.
 1	Sólo	sólo	ADV	RB	_	2	advmod	_	_
-2	50	50	NUM	CD	Gender=Masc|NumType=Card	4	nsubj	_	_
+2	50	50	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	nsubj	_	_
 3	eran	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
 4	mercados	_	NOUN	NN	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	4	punct	_	_
@@ -6872,10 +6872,10 @@
 10	(	(	PUNCT	(	_	13	punct	_	SpaceAfter=No
 11	de	de	ADP	IN	_	13	case	_	_
 12	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
-13	6.30	_	NUM	CD	Gender=Fem|NumType=Card	6	nmod	_	_
+13	6.30	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	6	nmod	_	_
 14	a	a	ADP	IN	_	16	case	_	_
 15	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
-16	10	_	NUM	CD	Gender=Fem|NumType=Card	13	nmod	_	_
+16	10	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	13	nmod	_	_
 17	de	de	ADP	IN	_	19	case	_	_
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	mañana	mañana	NOUN	NN	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
@@ -6944,7 +6944,7 @@
 22	Reino	reino	NOUN	NN	Gender=Masc|Number=Sing	14	nmod	_	Proper=True
 23	Unido	unido	ADJ	JJ	Gender=Masc|Number=Sing	22	amod	_	Proper=True
 24	en	en	ADP	IN	_	25	case	_	_
-25	1997	1997	NUM	CD	Gender=Masc|NumType=Card	14	nmod	_	SpaceAfter=No
+25	1997	1997	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	14	nmod	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = n01101007
@@ -7323,7 +7323,7 @@
 29	de	de	ADP	IN	_	30	case	_	_
 30	más	_	ADV	RBR	Degree=Cmp	28	xcomp	_	_
 31	de	de	ADP	IN	_	34	case	_	_
-32	16	16	NUM	CD	Gender=Masc|NumType=Card	33	nummod	_	_
+32	16	16	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	33	nummod	_	_
 33	mil	mil	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	34	nummod	_	_
 34	millones	_	NOUN	NN	Gender=Masc|Number=Plur	30	obl	_	_
 35	de	de	ADP	IN	_	36	case	_	_
@@ -7374,7 +7374,7 @@
 5	en	en	ADP	IN	_	6	case	_	_
 6	octubre	octubre	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	_
 7	de	de	ADP	IN	_	8	case	_	_
-8	2015	2015	NUM	CD	Gender=Masc|NumType=Card	6	nmod	_	SpaceAfter=No
+8	2015	2015	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	6	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	13	punct	_	_
 10	un	uno	DET	CD	Definite=Ind|Gender=Masc|PronType=Art	11	det	_	_
 11	mes	mes	NOUN	NN	Gender=Masc|Number=Sing	13	obl:tmod	_	_
@@ -7521,7 +7521,7 @@
 7	Eon	Eon	PROPN	NNP	Number=Sing	2	nmod	_	_
 8	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	de	de	ADP	IN	_	11	case	_	_
-10	760	_	NUM	CD	Gender=Fem|NumType=Card	11	nummod	_	_
+10	760	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	11	nummod	_	_
 11	libras	_	NOUN	NN	Gender=Fem|Number=Plur	8	obl	_	_
 12	y	y	CCONJ	CC	_	18	cc	_	_
 13	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
@@ -7531,7 +7531,7 @@
 17	Energy	energy	NOUN	NN	Number=Sing	16	flat:name	_	Proper=True
 18	pagarían	_	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	conj	_	_
 19	unas	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
-20	760	_	NUM	CD	Gender=Fem|NumType=Card	21	nummod	_	_
+20	760	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	21	nummod	_	_
 21	libras	_	NOUN	NN	Gender=Fem|Number=Plur	18	obj	_	_
 22	por	por	ADP	IN	_	24	case	_	_
 23	sus	_	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	24	det	_	_
@@ -7567,14 +7567,14 @@
 4	afortunado	afortunado	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	_
 5	y	y	CCONJ	CC	_	8	cc	_	_
 6	con	con	ADP	IN	_	8	case	_	_
-7	10.000	_	NUM	CD	Gender=Fem|NumType=Card	8	nummod	_	_
+7	10.000	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	8	nummod	_	_
 8	libras	_	NOUN	NN	Gender=Fem|Number=Plur	4	conj	_	_
 9	en	en	ADP	IN	_	10	case	_	_
 10	obligaciones	_	NOUN	NN	Gender=Fem|Number=Plur	8	nmod	_	_
 11	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	aux	_	_
 12	esperar	esperar	VERB	VB	VerbForm=Inf	0	root	_	_
 13	recibir	recibir	VERB	VB	VerbForm=Inf	12	xcomp	_	_
-14	125	_	NUM	CD	Gender=Fem|NumType=Card	15	nummod	_	_
+14	125	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	15	nummod	_	_
 15	libras	_	NOUN	NN	Gender=Fem|Number=Plur	13	obj	_	_
 16	en	en	ADP	IN	_	17	case	_	_
 17	premios	_	NOUN	NN	Gender=Masc|Number=Plur	13	obl	_	_
@@ -7688,11 +7688,11 @@
 25	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
 26	inversores	_	NOUN	NN	Gender=Masc|Number=Plur	27	nsubj	_	_
 27	depositaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	_
-28	2	2	NUM	CD	Gender=Masc|NumType=Card	29	nummod	_	_
+28	2	2	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	29	nummod	_	_
 29	mil	mil	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	30	nummod	_	_
 30	millones	_	NOUN	NN	Gender=Masc|Number=Plur	27	obj	_	_
 31	y	y	CCONJ	CC	_	34	cc	_	_
-32	1,4	1,4	NUM	CD	Gender=Masc|NumType=Card	33	nummod	_	_
+32	1,4	1,4	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	33	nummod	_	_
 33	mil	mil	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	34	nummod	_	_
 34	millones	_	NOUN	NN	Gender=Masc|Number=Plur	30	conj	_	_
 35	de	de	ADP	IN	_	36	case	_	_
@@ -7786,7 +7786,7 @@
 8	de	de	ADP	IN	_	16	case	_	_
 9	que	que	SCONJ	IN	_	16	mark	_	_
 10	para	para	ADP	IN	_	11	case	_	_
-11	2050	2050	NUM	CD	Gender=Masc|NumType=Card	16	obl	_	_
+11	2050	2050	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	16	obl	_	_
 12	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
 13	océanos	_	NOUN	NN	Gender=Masc|Number=Plur	16	nsubj	_	_
 14	contendrán	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	16	cop	_	_
@@ -7886,7 +7886,7 @@
 1	Cuatro	cuatro	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	7	nsubj	_	_
 2	de	de	ADP	IN	_	5	case	_	_
 3	cada	cada	DET	DT	Gender=Masc|Number=Plur|PronType=Tot	5	det	_	_
-4	10	10	NUM	CD	Gender=Masc|NumType=Card	5	nummod	_	_
+4	10	10	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	nummod	_	_
 5	adultos	adulto	NOUN	NN	Gender=Masc|Number=Plur	1	nmod	_	_
 6	han	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
 7	resultado	resultar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -7904,7 +7904,7 @@
 18	nueve	nueve	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	22	nsubj	_	_
 19	de	de	ADP	IN	_	21	case	_	_
 20	cada	_	DET	DT	Gender=Masc|Number=Plur|PronType=Tot	21	det	_	_
-21	10	10	NUM	CD	Gender=Masc|NumType=Card	18	nmod	_	_
+21	10	10	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	18	nmod	_	_
 22	subestiman	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
 23	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	24	det	_	_
 24	frío	frío	NOUN	NN	Gender=Masc|Number=Sing	22	obj	_	_
@@ -7925,7 +7925,7 @@
 1	Jugarán	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	sábado	sábado	NOUN	NN	Gender=Masc|Number=Sing	1	obl:tmod	_	_
-4	10	10	NUM	CD	Gender=Masc|NumType=Card	3	appos	_	_
+4	10	10	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	appos	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	junio	junio	NOUN	NN	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	1	punct	_	_
@@ -7947,7 +7947,7 @@
 12	todavía	todavía	ADV	RB	_	13	advmod	_	_
 13	mejores	_	ADJ	JJR	Degree=Cmp|Number=Plur	9	ccomp	_	_
 14	en	en	ADP	IN	_	15	case	_	_
-15	2017	2017	NUM	CD	Gender=Masc|NumType=Card	13	obl	_	SpaceAfter=No
+15	2017	2017	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	13	obl	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	6	punct	_	_
 
 # newdoc id = n01116
@@ -7962,7 +7962,7 @@
 6	de	de	ADP	IN	_	8	case	_	_
 7	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	años	_	NOUN	NN	Gender=Masc|Number=Plur	5	nmod	_	_
-9	60	60	NUM	CD	Gender=Masc|NumType=Card	8	appos	_	_
+9	60	60	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	8	appos	_	_
 10	representando	representar	VERB	VBG	VerbForm=Ger	1	advcl	_	_
 11	a	a	ADP	IN	_	13	case	_	_
 12	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
@@ -8423,11 +8423,11 @@
 1	Cotton	Cotton	PROPN	NNP	Gender=Fem|Number=Sing	2	nsubj	_	_
 2	nació	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-4	31	31	NUM	CD	Gender=Masc|NumType=Card	2	obl:tmod	_	_
+4	31	31	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	obl:tmod	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	octubre	octubre	NOUN	NN	Gender=Masc|Number=Sing	4	nmod	_	_
 7	de	de	ADP	IN	_	8	case	_	_
-8	1832	1832	NUM	CD	Gender=Masc|NumType=Card	6	nmod	_	SpaceAfter=No
+8	1832	1832	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	6	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	12	punct	_	_
 10	en	en	ADP	IN	_	12	case	_	_
 11	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
@@ -8468,7 +8468,7 @@
 8	de	de	ADP	IN	_	10	case	_	_
 9	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
 10	años	año	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	_
-11	70	70	NUM	CD	Gender=Masc|NumType=Card	10	appos	_	SpaceAfter=No
+11	70	70	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	appos	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	7	punct	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	lanilla	lanilla	NOUN	NN	Gender=Fem|Number=Sing	25	nsubj	_	_
@@ -8551,7 +8551,7 @@
 8	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	_
 9	ahora	ahora	ADV	RB	_	10	advmod	_	_
 10	tiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
-11	31	31	NUM	CD	Gender=Masc|NumType=Card	12	nummod	_	_
+11	31	31	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	12	nummod	_	_
 12	años	_	NOUN	NN	Gender=Masc|Number=Plur	10	obj	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	10	punct	_	_
 14	está	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
@@ -8874,7 +8874,7 @@
 # text_en = More than 5.7 million Floridians have already hit the polls after about two weeks of in-person early voting.
 1	Más	_	ADV	RBR	Degree=Cmp	9	nsubj	_	_
 2	de	de	ADP	IN	_	4	case	_	_
-3	5,7	5,7	NUM	CD	Gender=Masc|NumType=Card	4	nummod	_	_
+3	5,7	5,7	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	nummod	_	_
 4	millones	_	NOUN	NN	Gender=Masc|Number=Plur	1	obl	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	personas	_	NOUN	NN	Gender=Fem|Number=Plur	4	nmod	_	_
@@ -8919,7 +8919,7 @@
 20	era	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	conj	_	_
 21	de	de	ADP	IN	_	23	case	_	_
 22	unos	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
-23	16.500	16.500	NUM	CD	Gender=Masc|NumType=Card	20	obl	_	_
+23	16.500	16.500	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	20	obl	_	_
 24-25	al	_	_	_	_	_	_	_	_
 24	a	a	ADP	INDT	_	26	case	_	_
 25	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
@@ -9025,9 +9025,9 @@
 14	de	de	ADP	IN	_	15	case	_	_
 15	comunicación	comunicación	NOUN	NN	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	17	punct	_	_
-17	2017	2017	NUM	CD	Gender=Masc|NumType=Card	9	appos	_	_
+17	2017	2017	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	9	appos	_	_
 18	o	o	CCONJ	CC	_	19	cc	_	_
-19	2020	2020	NUM	CD	Gender=Masc|NumType=Card	17	conj	_	SpaceAfter=No
+19	2020	2020	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	17	conj	_	SpaceAfter=No
 20	,	,	PUNCT	,	_	17	punct	_	_
 21	no	_	ADV	RB	Polarity=Neg	23	advmod	_	_
 22	son	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
@@ -9049,7 +9049,7 @@
 9-10	del	_	_	_	_	_	_	_	_
 9	de	de	ADP	INDT	_	12	case	_	_
 10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-11	1	1	NUM	CD	Gender=Masc|NumType=Card	12	nummod	_	SpaceAfter=No
+11	1	1	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	12	nummod	_	SpaceAfter=No
 12	%	%	SYM	SYM	_	8	obl	_	_
 13	en	en	ADP	IN	_	15	case	_	_
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
@@ -9662,7 +9662,7 @@
 8	a	a	ADP	IN	_	10	mark	_	_
 9	ser	ser	AUX	VB	VerbForm=Inf	10	cop	_	_
 10	número	número	NOUN	NN	Gender=Masc|Number=Sing	7	xcomp	_	_
-11	1	1	NUM	CD	Gender=Masc|NumType=Card	10	appos	_	_
+11	1	1	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	appos	_	_
 12-13	del	_	_	_	_	_	_	_	_
 12	de	de	ADP	INDT	_	14	case	_	_
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
@@ -9923,7 +9923,7 @@
 # text = Hay 1200 voluntarios trabajando sólo para el desfile, dice González Anaya.
 # text_en = "There are 1200 volunteers working for the parade alone," González Anaya says.
 1	Hay	haber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	1200	1200	NUM	CD	Gender=Masc|NumType=Card	3	nummod	_	_
+2	1200	1200	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	nummod	_	_
 3	voluntarios	_	NOUN	NN	Gender=Masc|Number=Plur	1	obj	_	_
 4	trabajando	trabajar	VERB	VBG	VerbForm=Ger	1	advcl	_	_
 5	sólo	sólo	ADV	RB	_	4	advmod	_	_
@@ -10099,10 +10099,10 @@
 # text_en = Buried 100 meters (328 feet) underground, the Pyongyang Metro is one of the deepest commuter systems in the world.
 1	Enterrado	enterrar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18	acl	_	_
 2	a	a	ADP	IN	_	4	case	_	_
-3	100	100	NUM	CD	Gender=Masc|NumType=Card	4	nummod	_	_
+3	100	100	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	nummod	_	_
 4	metros	_	NOUN	NN	Gender=Masc|Number=Plur	1	obl	_	_
 5	(	(	PUNCT	(	_	7	punct	_	SpaceAfter=No
-6	328	328	NUM	CD	Gender=Masc|NumType=Card	7	nummod	_	_
+6	328	328	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	7	nummod	_	_
 7	pies	_	NOUN	NN	Gender=Masc|Number=Plur	4	appos	_	SpaceAfter=No
 8	)	)	PUNCT	)	_	7	punct	_	_
 9	bajo	bajo	ADP	IN	_	11	case	_	_
@@ -10365,7 +10365,7 @@
 # text_en = The 2019 Winter Universiade will be hosted by Krasnoyarsk.
 1	En	en	ADP	IN	_	3	case	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	2019	2019	NUM	CD	Gender=Masc|NumType=Card	6	obl	_	_
+3	2019	2019	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	6	obl	_	_
 4	Winter	winter	NOUN	NN	Number=Sing	6	nsubj	_	Proper=True
 5	Universiade	Universiade	PROPN	NNP	Number=Sing	4	flat:name	_	_
 6	será	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
@@ -10607,7 +10607,7 @@
 # text = En 1912 fue fundada la primera compañía de películas (Athina Film) y en 1916, Asty Film.
 # text_en = In 1912 was founded the first film company (Athina Film) and in 1916 the Asty Film.
 1	En	en	ADP	IN	_	2	case	_	_
-2	1912	1912	NUM	CD	Gender=Masc|NumType=Card	4	obl	_	_
+2	1912	1912	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	obl	_	_
 3	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
 4	fundada	fundar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -10621,7 +10621,7 @@
 13	)	)	PUNCT	)	_	11	punct	_	_
 14	y	y	CCONJ	CC	_	16	cc	_	_
 15	en	en	ADP	IN	_	16	case	_	orig_deprel=obl
-16	1916	1916	NUM	CD	Gender=Masc|NumType=Card	4	conj	_	SpaceAfter=No
+16	1916	1916	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	conj	_	SpaceAfter=No
 17	,	,	PUNCT	,	_	18	punct	_	_
 18	Asty	Asty	PROPN	NNP	Number=Sing	16	orphan	_	_
 19	Film	Film	PROPN	NNP	Number=Sing	18	flat:name	_	SpaceAfter=No|orig_deprel=nsubj:pass|Proper=True
@@ -10631,7 +10631,7 @@
 # text = En 2007 la película más exitosa fue "El Greco", dirigida por Yannis Smaragdis.
 # text_en = In 2007 the most successful film was El Greco, directed by Yannis Smaragdis.
 1	En	en	ADP	IN	_	2	case	_	_
-2	2007	2007	NUM	CD	Gender=Masc|NumType=Card	4	obl	_	_
+2	2007	2007	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	obl	_	_
 3	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	película	película	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
 5	más	_	ADV	RBR	Degree=Cmp	6	advmod	_	_
@@ -10655,7 +10655,7 @@
 1	En	en	ADP	IN	_	2	case	_	_
 2	julio	julio	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	_
 3	de	de	ADP	IN	_	4	case	_	_
-4	1918	1918	NUM	CD	Gender=Masc|NumType=Card	2	nmod	_	SpaceAfter=No
+4	1918	1918	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	tratado	tratado	NOUN	NN	Gender=Masc|Number=Sing	12	nsubj:pass	_	_
@@ -10833,7 +10833,7 @@
 30	esta	_	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	31	det	_	_
 31	idea	idea	NOUN	NN	Gender=Fem|Number=Sing	28	obl	_	_
 32	en	en	ADP	IN	_	33	case	_	_
-33	1973	1973	NUM	CD	Gender=Masc|NumType=Card	25	obl	_	SpaceAfter=No
+33	1973	1973	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	25	obl	_	SpaceAfter=No
 34	.	.	PUNCT	.	_	25	punct	_	_
 
 # sent_id = w01009027
@@ -10949,7 +10949,7 @@
 1	En	en	ADP	IN	_	3	case	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	año	año	NOUN	NN	Gender=Masc|Number=Sing	13	obl	_	_
-4	833	833	NUM	CD	Gender=Masc|NumType=Card	3	appos	_	_
+4	833	833	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	appos	_	_
 5	d.	después	ADV	RB	Abbr=Yes	4	advmod	_	_
 6	C.	Cristo	PROPN	NNP	Abbr=Yes|Gender=Masc|Number=Sing	5	obl	_	_
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
@@ -11059,7 +11059,7 @@
 13	más	_	ADV	RBR	Degree=Cmp	14	advmod	_	_
 14	tardía	_	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	_
 15	(	(	PUNCT	(	_	16	punct	_	SpaceAfter=No
-16	1918	1918	NUM	CD	Gender=Masc|NumType=Card	12	appos	_	SpaceAfter=No
+16	1918	1918	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	12	appos	_	SpaceAfter=No
 17	)	)	PUNCT	)	_	16	punct	_	SpaceAfter=No
 18	,	,	PUNCT	,	_	3	punct	_	_
 19	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
@@ -11250,7 +11250,7 @@
 17-18	del	_	_	_	_	_	_	_	_
 17	de	de	ADP	INDT	_	19	case	_	_
 18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
-19	2008	2008	NUM	CD	Gender=Masc|NumType=Card	15	nmod	_	SpaceAfter=No
+19	2008	2008	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	15	nmod	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	3	punct	_	_
 
 # newdoc id = w01017
@@ -11381,7 +11381,7 @@
 3	de	de	ADP	IN	_	4	case	_	_
 4	octubre	octubre	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
 5	de	de	ADP	IN	_	6	case	_	_
-6	1961	1961	NUM	CD	Gender=Masc|NumType=Card	4	nmod	_	SpaceAfter=No
+6	1961	1961	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	2	punct	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 9	antigua	_	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	_
@@ -11428,7 +11428,7 @@
 15	indicaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 16	que	que	SCONJ	IN	_	31	mark	_	_
 17	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
-18	56	56	NUM	CD	Gender=Masc|NumType=Card	19	nummod	_	SpaceAfter=No
+18	56	56	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	19	nummod	_	SpaceAfter=No
 19	%	%	SYM	SYM	_	31	nsubj	_	_
 20	de	de	ADP	IN	_	22	case	_	_
 21	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
@@ -11436,9 +11436,9 @@
 23	con	con	ADP	IN	_	24	case	_	_
 24	edades	_	NOUN	NN	Gender=Fem|Number=Plur	22	nmod	_	_
 25	entre	entre	ADP	IN	_	29	case	_	_
-26	5	5	NUM	CD	Gender=Masc|NumType=Card	29	nummod	_	_
+26	5	5	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	29	nummod	_	_
 27	y	y	CCONJ	CC	_	28	cc	_	_
-28	14	14	NUM	CD	Gender=Masc|NumType=Card	26	conj	_	_
+28	14	14	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	26	conj	_	_
 29	años	_	NOUN	NN	Gender=Masc|Number=Plur	24	nmod	_	_
 30	estaban	estar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	31	aux	_	_
 31	trabajando	trabajar	VERB	VBG	VerbForm=Ger	15	ccomp	_	_
@@ -11446,7 +11446,7 @@
 33	que	que	SCONJ	IN	_	48	mark	_	_
 34	casi	casi	ADV	RB	_	37	advmod	_	_
 35	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
-36	53	53	NUM	CD	Gender=Masc|NumType=Card	37	nummod	_	SpaceAfter=No
+36	53	53	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	37	nummod	_	SpaceAfter=No
 37	%	%	SYM	SYM	_	48	nsubj	_	_
 38	de	de	ADP	IN	_	40	case	_	_
 39	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	40	det	_	_
@@ -11454,9 +11454,9 @@
 41	con	con	ADP	IN	_	42	case	_	_
 42	edades	_	NOUN	NN	Gender=Fem|Number=Plur	40	nmod	_	_
 43	entre	entre	ADP	IN	_	47	case	_	_
-44	7	7	NUM	CD	Gender=Masc|NumType=Card	47	nummod	_	_
+44	7	7	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	47	nummod	_	_
 45	y	y	CCONJ	CC	_	46	cc	_	_
-46	14	14	NUM	CD	Gender=Masc|NumType=Card	44	conj	_	_
+46	14	14	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	44	conj	_	_
 47	años	_	NOUN	NN	Gender=Masc|Number=Plur	42	nmod	_	_
 48	compaginaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	31	conj	_	_
 49	trabajar	trabajar	VERB	VB	VerbForm=Inf	48	xcomp	_	_
@@ -11509,7 +11509,7 @@
 5-6	del	_	_	_	_	_	_	_	_
 5	de	de	ADP	INDT	_	7	case	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	2010	2010	NUM	CD	Gender=Masc|NumType=Card	2	nmod	_	_
+7	2010	2010	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	nmod	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	hambruna	hambruna	NOUN	NN	Gender=Fem|Number=Sing	11	nsubj	_	_
 10	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	compound:prt	_	_
@@ -12008,12 +12008,12 @@
 9	incrementó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	a	a	ADP	IN	_	13	case	_	_
 11	unas	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
-12	100	100	NUM	CD	Gender=Masc|NumType=Card	13	nummod	_	_
+12	100	100	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	13	nummod	_	_
 13	millones	_	NOUN	NN	Gender=Masc|Number=Plur	9	obl	_	_
 14	de	de	ADP	IN	_	15	case	_	_
 15	toneladas	_	NOUN	NN	Gender=Fem|Number=Plur	13	nmod	_	_
 16	en	en	ADP	IN	_	17	case	_	_
-17	1987	1987	NUM	CD	Gender=Masc|NumType=Card	9	obl	_	SpaceAfter=No
+17	1987	1987	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	9	obl	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = w01026037
@@ -12325,7 +12325,7 @@
 4	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 5	solo	solo	ADV	RB	_	8	advmod	_	_
 6	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	11	11	NUM	CD	Gender=Masc|NumType=Card	8	nummod	_	SpaceAfter=No
+7	11	11	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	8	nummod	_	SpaceAfter=No
 8	%	%	SYM	SYM	_	17	advcl	_	_
 9	de	de	ADP	IN	_	11	case	_	_
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
@@ -12338,7 +12338,7 @@
 17	proporcionan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 18	más	_	ADV	RBR	Degree=Cmp	17	obj	_	_
 19	de	de	ADP	IN	_	21	case	_	_
-20	90	90	NUM	CD	Gender=Masc|NumType=Card	21	nummod	_	SpaceAfter=No
+20	90	90	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	21	nummod	_	SpaceAfter=No
 21	%	%	SYM	SYM	_	18	obl	_	_
 22-23	del	_	_	_	_	_	_	_	_
 22	de	de	ADP	INDT	_	24	case	_	_
@@ -12372,7 +12372,7 @@
 3	Milán	Milán	PROPN	NNP	Number=Sing	1	nmod	_	_
 4	dependían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 5	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-6	80	80	NUM	CD	Gender=Masc|NumType=Card	7	nummod	_	SpaceAfter=No
+6	80	80	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	7	nummod	_	SpaceAfter=No
 7	%	%	SYM	SYM	_	4	advmod	_	_
 8-9	del	_	_	_	_	_	_	_	_
 8	de	de	ADP	INDT	_	10	case	_	_
@@ -12394,13 +12394,13 @@
 8	en	en	ADP	IN	_	9	case	_	_
 9	más	_	ADV	RBR	Degree=Cmp	7	xcomp	_	_
 10	de	de	ADP	IN	_	12	case	_	_
-11	500	_	NUM	CD	Gender=Fem|NumType=Card	12	nummod	_	_
+11	500	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	12	nummod	_	_
 12	plantas	_	NOUN	NN	Gender=Fem|Number=Plur	9	obl	_	_
 13	hidroeléctricas	_	ADJ	JJ	Gender=Fem|Number=Plur	12	amod	_	_
 14	y	y	CCONJ	CC	_	15	cc	_	_
 15	genera	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
 16	hasta	hasta	ADP	IN	_	18	case	_	_
-17	2900	2900	NUM	CD	Gender=Masc|NumType=Card	18	nummod	_	_
+17	2900	2900	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	18	nummod	_	_
 18	kilovatios	_	NOUN	NN	Gender=Masc|Number=Plur	15	obl	_	_
 19	de	de	ADP	IN	_	20	case	_	_
 20	electricidad	electricidad	NOUN	NN	Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
@@ -12587,7 +12587,7 @@
 3	reserva	reserva	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
 4	natural	_	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	_
 5	en	en	ADP	IN	_	6	case	_	_
-6	1975	1975	NUM	CD	Gender=Masc|NumType=Card	3	obl	_	SpaceAfter=No
+6	1975	1975	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	obl	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = w01033061
@@ -12614,7 +12614,7 @@
 4	comenzaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	en	en	ADP	IN	_	7	case	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	1000	1000	NUM	CD	Gender=Masc|NumType=Card	4	obl	_	_
+7	1000	1000	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	obl	_	_
 8	a.	antes	ADV	RB	Abbr=Yes	7	advmod	_	_
 9	C.	Cristo	PROPN	NNP	Abbr=Yes|Gender=Masc|Number=Sing	8	obl	_	_
 10	cuando	cuando	ADV	WRB	PronType=Rel	16	advmod	_	_
@@ -12756,7 +12756,7 @@
 1	Durante	durante	ADP	IN	_	5	case	_	_
 2	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 3	últimos	_	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
-4	50	50	NUM	CD	Gender=Masc|NumType=Card	5	nummod	_	_
+4	50	50	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	nummod	_	_
 5	años	_	NOUN	NN	Gender=Masc|Number=Plur	18	obl	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
@@ -12774,7 +12774,7 @@
 18	degradado	degradar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 19	aproximadamente	aproximadamente	ADV	RB	_	18	advmod	_	_
 20	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
-21	40	40	NUM	CD	Gender=Masc|NumType=Card	22	nummod	_	SpaceAfter=No
+21	40	40	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	22	nummod	_	SpaceAfter=No
 22	%	%	SYM	SYM	_	18	obj	_	_
 23-24	del	_	_	_	_	_	_	_	_
 23	de	de	ADP	INDT	_	25	case	_	_
@@ -12909,7 +12909,7 @@
 11	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	Proper=True
 12	Indias	_	PROPN	NNP	Gender=Fem|Number=Plur	3	obl	_	_
 13	en	en	ADP	IN	_	14	case	_	_
-14	1492	1492	NUM	CD	Gender=Masc|NumType=Card	3	obl	_	SpaceAfter=No
+14	1492	1492	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	obl	_	SpaceAfter=No
 15	,	,	PUNCT	,	_	16	punct	_	_
 16	iniciando	iniciar	VERB	VBG	VerbForm=Ger	3	advcl	_	_
 17	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
@@ -12966,7 +12966,7 @@
 13	torno	torno	NOUN	NN	Gender=Masc|Number=Sing	12	fixed	_	_
 14	a	a	ADP	IN	_	12	fixed	_	_
 15	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-16	1	1	NUM	CD	Gender=Masc|NumType=Card	17	nummod	_	SpaceAfter=No
+16	1	1	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	17	nummod	_	SpaceAfter=No
 17	%	%	SYM	SYM	_	11	obl	_	_
 18-19	del	_	_	_	_	_	_	_	_
 18	de	de	ADP	INDT	_	20	case	_	_
@@ -13094,7 +13094,7 @@
 # sent_id = w01039065
 # text = 1987 fue proclamado el "Año del río" por la alcaldesa de Brisbane en ese momento, Sallyanne Atkinson.
 # text_en = 1987 was proclaimed the "Year of the River" by the Lord Mayor of Brisbane at the time, Sallyanne Atkinson.
-1	1987	1987	NUM	CD	Gender=Masc|NumType=Card	3	nsubj:pass	_	_
+1	1987	1987	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	nsubj:pass	_	_
 2	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
 3	proclamado	proclamar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -13312,7 +13312,7 @@
 # text = En 1340, El Cairo tenía una población de casi medio millón, convirtiéndola en la ciudad más grande al oeste de China.
 # text_en = By 1340, Cairo had a population of close to half a million, making it the largest city west of China.
 1	En	en	ADP	IN	_	2	case	_	_
-2	1340	1340	NUM	CD	Gender=Masc|NumType=Card	6	obl	_	SpaceAfter=No
+2	1340	1340	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	6	obl	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Proper=True
 5	Cairo	Cairo	PROPN	NNP	Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -13457,7 +13457,7 @@
 8	Cristóbal	Cristóbal	PROPN	NNP	Gender=Masc|Number=Sing	4	nmod	_	_
 9	Colón	Colón	PROPN	NNP	Gender=Masc|Number=Sing	8	flat:name	_	_
 10	en	en	ADP	IN	_	11	case	_	_
-11	1492	1492	NUM	CD	Gender=Masc|NumType=Card	4	nmod	_	SpaceAfter=No
+11	1492	1492	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	1	punct	_	_
 13	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	término	término	NOUN	NN	Gender=Masc|Number=Sing	20	nsubj	_	_
@@ -13601,7 +13601,7 @@
 9	de	de	ADP	IN	_	10	case	_	_
 10	Eurasia	Eurasia	PROPN	NNP	Number=Sing	8	nmod	_	_
 11	hasta	hasta	ADP	IN	_	12	case	_	_
-12	1492	1492	NUM	CD	Gender=Masc|NumType=Card	5	obl	_	SpaceAfter=No
+12	1492	1492	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	obl	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	17	punct	_	_
 14	cuando	cuando	ADV	WRB	PronType=Rel	17	advmod	_	_
 15	Cristóbal	Cristóbal	PROPN	NNP	Gender=Masc|Number=Sing	17	nsubj	_	_
@@ -13743,7 +13743,7 @@
 1	Para	para	ADP	IN	_	2	case	_	_
 2	mediados	_	NOUN	NN	Gender=Masc|Number=Plur	11	obl	_	_
 3	de	de	ADP	IN	_	4	case	_	_
-4	1962	1962	NUM	CD	Gender=Masc|NumType=Card	2	nmod	_	SpaceAfter=No
+4	1962	1962	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	Brooks	Brooks	PROPN	NNP	Gender=Masc|Number=Sing	11	nsubj	_	_
 7	y	y	CCONJ	CC	_	8	cc	_	_
@@ -13818,7 +13818,7 @@
 2	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	años	_	NOUN	NN	Gender=Masc|Number=Plur	11	obl	_	_
 4	de	de	ADP	IN	_	5	case	_	_
-5	1350	1350	NUM	CD	Gender=Masc|NumType=Card	3	nmod	_	SpaceAfter=No
+5	1350	1350	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	3	punct	_	_
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	rey	rey	NOUN	NN	Gender=Masc|Number=Sing	11	nsubj	_	_
@@ -13847,7 +13847,7 @@
 2	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	años	_	NOUN	NN	Gender=Masc|Number=Plur	15	obl	_	_
 4	de	de	ADP	IN	_	5	case	_	_
-5	1960	1960	NUM	CD	Gender=Masc|NumType=Card	3	nmod	_	SpaceAfter=No
+5	1960	1960	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	3	punct	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	economía	economía	NOUN	NN	Gender=Fem|Number=Sing	15	nsubj	_	_
@@ -13904,7 +13904,7 @@
 5	,	,	PUNCT	,	_	6	punct	_	_
 6	establecido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
 7	en	en	ADP	IN	_	8	case	_	_
-8	1879	1879	NUM	CD	Gender=Masc|NumType=Card	6	obl	_	SpaceAfter=No
+8	1879	1879	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	6	obl	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	6	punct	_	_
 10	era	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	cop	_	_
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
@@ -13969,7 +13969,7 @@
 6	dinastía	dinastía	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	_
 7	Qing	Qing	PROPN	NNP	Number=Sing	6	appos	_	_
 8	en	en	ADP	IN	_	9	case	_	_
-9	1911	1911	NUM	CD	Gender=Masc|NumType=Card	3	nmod	_	SpaceAfter=No
+9	1911	1911	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	3	punct	_	_
 11	Mongolia	Mongolia	PROPN	NNP	Number=Sing	14	nsubj:pass	_	_
 12	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux:pass	_	_
@@ -14060,7 +14060,7 @@
 28	dinastía	dinastía	NOUN	NN	Gender=Fem|Number=Sing	25	nmod	_	_
 29	Qing	Qing	PROPN	NNP	Number=Sing	28	appos	_	_
 30	en	en	ADP	IN	_	31	case	_	_
-31	1911	1911	NUM	CD	Gender=Masc|NumType=Card	25	nmod	_	SpaceAfter=No
+31	1911	1911	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	25	nmod	_	SpaceAfter=No
 32	,	,	PUNCT	,	_	22	punct	_	_
 33	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
 34	contrato	contrato	NOUN	NN	Gender=Masc|Number=Sing	44	nsubj	_	_
@@ -14144,7 +14144,7 @@
 15	Henry	Henry	PROPN	NNP	Gender=Masc|Number=Sing	14	flat:name	_	_
 16	Breasted	Breasted	PROPN	NNP	Gender=Masc|Number=Sing	14	flat:name	_	_
 17	en	en	ADP	IN	_	18	case	_	_
-18	1903	1903	NUM	CD	Gender=Masc|NumType=Card	12	obl	_	SpaceAfter=No
+18	1903	1903	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	12	obl	_	SpaceAfter=No
 19	,	,	PUNCT	,	_	12	punct	_	_
 20	resaltaba	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 21	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
@@ -14221,7 +14221,7 @@
 36	III	iii	ADJ	JJ	Gender=Masc|Number=Sing	35	amod	_	SpaceAfter=No|Proper=True
 37	,	,	PUNCT	,	_	41	punct	_	_
 38	casi	casi	ADV	RB	_	41	advmod	_	_
-39	120	120	NUM	CD	Gender=Masc|NumType=Card	40	nummod	_	_
+39	120	120	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	40	nummod	_	_
 40	años	_	NOUN	NN	Gender=Masc|Number=Plur	41	obl:tmod	_	_
 41	antes	antes	ADV	RB	_	30	advmod	_	SpaceAfter=No
 42	.	.	PUNCT	.	_	9	punct	_	_
@@ -14552,7 +14552,7 @@
 14-15	del	_	_	_	_	_	_	_	_
 14	de	de	ADP	INDT	_	16	case	_	_
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-16	363	363	NUM	CD	Gender=Masc|NumType=Card	13	nmod	_	SpaceAfter=No
+16	363	363	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	13	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = w01058013
@@ -14569,7 +14569,7 @@
 9	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	8	obj	_	_
 10	en	en	ADP	IN	_	12	case	_	_
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	393	393	NUM	CD	Gender=Masc|NumType=Card	8	obl	_	SpaceAfter=No
+12	393	393	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	8	obl	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	6	punct	_	_
 
 # newdoc id = w01060
@@ -14598,7 +14598,7 @@
 # text = En 1072, Shen fue enviado a supervisar el programa de Wang para construir depósitos de lodo en el canal Bian, a las afueras de la ciudad.
 # text_en = In 1072, Shen was sent to supervise Wang's program of surveying the building of silt deposits in the Bian Canal outside the capital city.
 1	En	en	ADP	IN	_	2	case	_	_
-2	1072	1072	NUM	CD	Gender=Masc|NumType=Card	6	obl	_	SpaceAfter=No
+2	1072	1072	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	6	obl	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	Shen	Shen	PROPN	NNP	Gender=Masc|Number=Sing	6	nsubj:pass	_	_
 5	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
@@ -14684,7 +14684,7 @@
 21	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	verano	verano	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	_
 23	de	de	ADP	IN	_	24	case	_	_
-24	1075	1075	NUM	CD	Gender=Masc|NumType=Card	22	nmod	_	SpaceAfter=No
+24	1075	1075	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	22	nmod	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = w01060041
@@ -14915,7 +14915,7 @@
 38	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	39	det	_	_
 39	cuales	cual	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	36	nmod	_	_
 40	tenía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	acl:relcl	_	_
-41	3	3	NUM	CD	Gender=Masc|NumType=Card	42	nummod	_	_
+41	3	3	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	42	nummod	_	_
 42	metros	_	NOUN	NN	Gender=Masc|Number=Plur	40	obl	_	_
 43	de	de	ADP	IN	_	44	case	_	_
 44	alto	alto	NOUN	NN	Gender=Masc|Number=Sing	42	nmod	_	SpaceAfter=No
@@ -14974,7 +14974,7 @@
 28	Bronce	bronce	NOUN	NN	Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No|Proper=True
 29	,	,	PUNCT	,	_	31	punct	_	_
 30	ca.	ca.	ADV	FW	Abbr=Yes	31	advmod	_	_
-31	1600	1600	NUM	CD	Gender=Masc|NumType=Card	16	obl:tmod	_	_
+31	1600	1600	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	16	obl:tmod	_	_
 32	a.	antes	ADV	RB	Abbr=Yes	31	advmod	_	_
 33	C	Cristo	PROPN	NNP	Abbr=Yes|Gender=Masc|Number=Sing	32	obl	_	SpaceAfter=No
 34	.	.	PUNCT	.	_	9	punct	_	_
@@ -15055,7 +15055,7 @@
 8	de	de	ADP	INDT	_	10	case	_	_
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	siglo	siglo	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
-11	14	14	NUM	CD	Gender=Masc|NumType=Card	10	appos	_	_
+11	14	14	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	appos	_	_
 12	a.	antes	ADV	RB	Abbr=Yes	11	advmod	_	_
 13	C.	Cristo	PROPN	NNP	Abbr=Yes|Gender=Masc|Number=Sing	12	obl	_	_
 14	e	e	CCONJ	CC	_	15	cc	_	_
@@ -15138,7 +15138,7 @@
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	mono	mono	NOUN	NN	Gender=Masc|Number=Sing	2	nsubj	_	_
 9	y	y	CCONJ	CC	_	13	cc	_	_
-10	1992	1992	NUM	CD	Gender=Masc|NumType=Card	13	nsubj	_	_
+10	1992	1992	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	13	nsubj	_	_
 11	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	_	_
 12	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	año	año	NOUN	NN	Gender=Masc|Number=Sing	2	conj	_	_
@@ -15325,13 +15325,13 @@
 # text_en = On September 9, 2002, Aldrin was lured to a Beverly Hills hotel on the pretext of being interviewed for a Japanese children's television show on the subject of space.
 1	En	en	ADP	IN	_	3	case	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	9	9	NUM	CD	Gender=Masc|NumType=Card	12	obl	_	_
+3	9	9	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	12	obl	_	_
 4	de	de	ADP	IN	_	5	case	_	_
 5	septiembre	septiembre	NOUN	NN	Gender=Masc|Number=Sing	3	nmod	_	_
 6-7	del	_	_	_	_	_	_	_	_
 6	de	de	ADP	INDT	_	8	case	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	2002	2002	NUM	CD	Gender=Masc|NumType=Card	5	nmod	_	SpaceAfter=No
+8	2002	2002	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	3	punct	_	_
 10	Aldrin	Aldrin	PROPN	NNP	Gender=Masc|Number=Sing	12	nsubj:pass	_	_
 11	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	_	_
@@ -15377,7 +15377,7 @@
 # text = En 1519, él se convirtió en el gobernante del imperio de los Habsburgo, y ganó el título de "Emperador del Sacro Imperio Romano" en 1530.
 # text_en = In 1519, he became ruler of the Habsburg empire, and he gained the title Holy Roman Emperor in 1530.
 1	En	en	ADP	IN	_	2	case	_	_
-2	1519	1519	NUM	CD	Gender=Masc|NumType=Card	6	obl	_	SpaceAfter=No
+2	1519	1519	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	6	obl	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	él	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	compound:prt	_	_
@@ -15408,7 +15408,7 @@
 28	Romano	romano	ADJ	JJ	Gender=Masc|Number=Sing	27	amod	_	SpaceAfter=No|Proper=True
 29	"	"	PUNCT	''	_	23	punct	_	_
 30	en	en	ADP	IN	_	31	case	_	_
-31	1530	1530	NUM	CD	Gender=Masc|NumType=Card	18	obl	_	SpaceAfter=No
+31	1530	1530	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	18	obl	_	SpaceAfter=No
 32	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = w01069040
@@ -15444,13 +15444,13 @@
 # text = En 1566, un grupo de unos 400 miembros de la nobleza presentó una petición a la gobernadora Margarita de Parma para suspender la persecución hasta que hubiera regresado el resto.
 # text_en = In 1566, a league of about 400 members of the nobility presented a petition to the governor Margaret of Parma, to suspend persecution until the rest had returned.
 1	En	en	ADP	IN	_	2	case	_	_
-2	1566	1566	NUM	CD	Gender=Masc|NumType=Card	13	obl	_	SpaceAfter=No
+2	1566	1566	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	13	obl	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	grupo	grupo	NOUN	NN	Gender=Masc|Number=Sing	13	nsubj	_	_
 6	de	de	ADP	IN	_	9	case	_	_
 7	unos	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
-8	400	400	NUM	CD	Gender=Masc|NumType=Card	9	nummod	_	_
+8	400	400	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	9	nummod	_	_
 9	miembros	_	NOUN	NN	Gender=Masc|Number=Plur	5	nmod	_	_
 10	de	de	ADP	IN	_	12	case	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
@@ -15524,7 +15524,7 @@
 10	construido	construir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 11	alrededor	alrededor	ADV	RB	_	13	advmod	_	_
 12	de	de	ADP	IN	_	11	fixed	_	_
-13	1900	1900	NUM	CD	Gender=Masc|NumType=Card	10	obl:tmod	_	_
+13	1900	1900	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	obl:tmod	_	_
 14	a.	antes	ADV	RB	Abbr=Yes	13	advmod	_	_
 15	C.	Cristo	PROPN	NNP	Abbr=Yes|Gender=Masc|Number=Sing	14	obl	_	_
 16	y	y	CCONJ	CC	_	17	cc	_	_
@@ -15542,7 +15542,7 @@
 27	de	de	ADP	INDT	_	26	fixed	_	_
 28	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
 29	año	año	NOUN	NN	Gender=Masc|Number=Sing	18	obl	_	_
-30	700	700	NUM	CD	Gender=Masc|NumType=Card	29	appos	_	_
+30	700	700	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	29	appos	_	_
 31	a.	antes	ADV	RB	Abbr=Yes	30	advmod	_	_
 32	C	Cristo	PROPN	NNP	Abbr=Yes|Gender=Masc|Number=Sing	31	obl	_	SpaceAfter=No
 33	.	.	PUNCT	.	_	10	punct	_	_
@@ -15889,11 +15889,11 @@
 15	entre	entre	ADP	IN	_	16	case	_	_
 16	noviembre	noviembre	NOUN	NN	Gender=Masc|Number=Sing	11	obl	_	_
 17	de	de	ADP	IN	_	18	case	_	_
-18	1886	1886	NUM	CD	Gender=Masc|NumType=Card	16	nmod	_	_
+18	1886	1886	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	16	nmod	_	_
 19	y	y	CCONJ	CC	_	20	cc	_	_
 20	junio	junio	NOUN	NN	Gender=Masc|Number=Sing	16	conj	_	_
 21	de	de	ADP	IN	_	22	case	_	_
-22	1887	1887	NUM	CD	Gender=Masc|NumType=Card	20	nmod	_	SpaceAfter=No
+22	1887	1887	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	20	nmod	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	11	punct	_	_
 
 # sent_id = w01073075
@@ -15924,7 +15924,7 @@
 4	,	,	PUNCT	,	_	1	punct	_	_
 5	publicó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	en	en	ADP	IN	_	7	case	_	_
-7	1610	1610	NUM	CD	Gender=Masc|NumType=Card	5	obl	_	SpaceAfter=No
+7	1610	1610	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	obl	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	9	punct	_	_
 9	además	además	ADV	RB	_	5	advmod	_	_
 10	de	de	ADP	IN	_	11	case	_	_
@@ -16001,7 +16001,7 @@
 10	escuela	escuela	NOUN	NN	Gender=Fem|Number=Sing	4	nmod	_	_
 11	secundaria	_	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	_
 12	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-13	10	10	NUM	CD	Gender=Masc|NumType=Card	14	nummod	_	SpaceAfter=No
+13	10	10	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	14	nummod	_	SpaceAfter=No
 14	%	%	SYM	SYM	_	4	advmod	_	_
 15	por	por	ADP	IN	_	16	case	_	_
 16	encima	encima	ADV	RB	_	14	xcomp	_	_
@@ -16018,7 +16018,7 @@
 27	torno	torno	NOUN	NN	Gender=Masc|Number=Sing	26	fixed	_	_
 28	a	a	ADP	IN	_	26	fixed	_	_
 29	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
-30	3	3	NUM	CD	Gender=Masc|NumType=Card	31	nummod	_	SpaceAfter=No
+30	3	3	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	31	nummod	_	SpaceAfter=No
 31	%	%	SYM	SYM	_	20	obl	_	SpaceAfter=No
 32	,	,	PUNCT	,	_	50	punct	_	_
 33	mientras	mientras	SCONJ	IN	_	50	mark	_	_
@@ -16028,7 +16028,7 @@
 37	de	de	ADP	IN	_	38	case	_	_
 38	crecimiento	crecimiento	NOUN	NN	Gender=Masc|Number=Sing	36	nmod	_	_
 39	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	41	det	_	_
-40	1	1	NUM	CD	Gender=Masc|NumType=Card	41	nummod	_	SpaceAfter=No
+40	1	1	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	41	nummod	_	SpaceAfter=No
 41	%	%	SYM	SYM	_	43	advmod	_	_
 42	más	_	ADV	RBR	Degree=Cmp	43	advmod	_	_
 43	alta	_	ADJ	JJ	Gender=Fem|Number=Sing	36	amod	_	_
@@ -16047,7 +16047,7 @@
 55	guerra	guerra	NOUN	NN	Gender=Fem|Number=Sing	52	nmod	_	_
 56	civil	_	ADJ	JJ	Gender=Fem|Number=Sing	55	amod	_	_
 57	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	59	det	_	_
-58	1	1	NUM	CD	Gender=Masc|NumType=Card	59	nummod	_	SpaceAfter=No
+58	1	1	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	59	nummod	_	SpaceAfter=No
 59	%	%	SYM	SYM	_	50	advmod	_	SpaceAfter=No
 60	.	.	PUNCT	.	_	20	punct	_	_
 
@@ -16208,7 +16208,7 @@
 4	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	5	nsubj	_	_
 5	comenzó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
 6	en	en	ADP	IN	_	7	case	_	_
-7	1916	1916	NUM	CD	Gender=Masc|NumType=Card	5	obl	_	_
+7	1916	1916	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	obl	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	compound:prt	_	_
 9	volvió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	en	en	ADP	IN	_	14	case	_	_
@@ -16298,7 +16298,7 @@
 6	población	población	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	_
 7	sefardí	_	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	Proper=True
 8	en	en	ADP	IN	_	9	case	_	_
-9	1492	1492	NUM	CD	Gender=Masc|NumType=Card	3	obl	_	SpaceAfter=No
+9	1492	1492	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	obl	_	SpaceAfter=No
 10	;	;	PUNCT	:	_	16	punct	_	_
 11	muchos	_	NOUN	NN	Gender=Masc|Number=Plur	16	nsubj	_	_
 12	de	de	ADP	IN	_	14	case	_	_
@@ -16322,7 +16322,7 @@
 # text = En 1538 la Inquisición española advirtió a sus miembros que no creyeran todo lo que decía el Malleus.
 # text_en = Forced baptism was contrary to the law of the Catholic Church, and theoretically anybody who had been forcibly baptized could legally return to Judaism.
 1	En	en	ADP	IN	_	2	case	_	_
-2	1538	1538	NUM	CD	Gender=Masc|NumType=Card	6	obl	_	_
+2	1538	1538	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	6	obl	_	_
 3	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	Inquisición	inquisición	NOUN	NN	Gender=Fem|Number=Sing	6	nsubj	_	Proper=True
 5	española	_	ADJ	JJ	Gender=Fem|Number=Sing	4	amod	_	Proper=True
@@ -16424,7 +16424,7 @@
 8	hacia	hacia	ADP	IN	_	10	case	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	año	año	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	_
-11	352	352	NUM	CD	Gender=Masc|NumType=Card	10	appos	_	_
+11	352	352	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	appos	_	_
 12	tenía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	_
 13	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	control	control	NOUN	NN	Gender=Masc|Number=Sing	12	obj	_	_
@@ -16797,7 +16797,7 @@
 # text = Para 1563, la población de Venecia había descendido a alrededor de 168 000 personas.
 # text_en = By 1563, the population of Venice had dropped to about 168,000 people.
 1	Para	para	ADP	IN	_	2	case	_	_
-2	1563	1563	NUM	CD	Gender=Masc|NumType=Card	9	obl	_	SpaceAfter=No
+2	1563	1563	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	9	obl	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	población	población	NOUN	NN	Gender=Fem|Number=Sing	9	nsubj	_	_
@@ -17005,7 +17005,7 @@
 29	desde	desde	SCONJ	IN	_	30	mark	_	_
 30	hace	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	xcomp	_	_
 31	ya	ya	ADV	RB	_	30	advmod	_	_
-32	5000	5000	NUM	CD	Gender=Masc|NumType=Card	33	nummod	_	_
+32	5000	5000	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	33	nummod	_	_
 33	años	_	NOUN	NN	Gender=Masc|Number=Plur	30	obl:tmod	_	SpaceAfter=No
 34	.	.	PUNCT	.	_	25	punct	_	_
 
@@ -17153,7 +17153,7 @@
 22	automóviles	_	NOUN	NN	Gender=Masc|Number=Plur	19	obj	_	_
 23	compactos	_	ADJ	JJ	Gender=Masc|Number=Plur	22	amod	_	_
 24	en	en	ADP	IN	_	25	case	_	_
-25	1960	1960	NUM	CD	Gender=Masc|NumType=Card	19	obl	_	SpaceAfter=No
+25	1960	1960	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	19	obl	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	13	punct	_	_
 
 # newdoc id = w01095
@@ -17342,11 +17342,11 @@
 12	japonesa	_	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	Proper=True
 13	mataron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 14	entre	entre	ADP	IN	_	15	case	_	_
-15	3	3	NUM	CD	Gender=Masc|NumType=Card	13	obl	_	_
+15	3	3	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	13	obl	_	_
 16	y	y	CCONJ	CC	_	17	cc	_	_
 17	más	_	ADV	RBR	Degree=Cmp	15	conj	_	_
 18	de	de	ADP	IN	_	20	case	_	_
-19	10	10	NUM	CD	Gender=Masc|NumType=Card	20	nummod	_	_
+19	10	10	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	20	nummod	_	_
 20	millones	_	NOUN	NN	Gender=Masc|Number=Plur	17	obl	_	_
 21	de	de	ADP	IN	_	22	case	_	_
 22	civiles	_	NOUN	NN	Gender=Masc|Number=Plur	20	nmod	_	SpaceAfter=No
@@ -17358,7 +17358,7 @@
 28	(	(	PUNCT	(	_	29	punct	_	SpaceAfter=No
 29	estimados	estimar	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	27	acl	_	_
 30	en	en	ADP	IN	_	32	case	_	_
-31	7,5	7,5	NUM	CD	Gender=Masc|NumType=Card	32	nummod	_	_
+31	7,5	7,5	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	32	nummod	_	_
 32	millones	_	NOUN	NN	Gender=Masc|Number=Plur	29	obl	_	SpaceAfter=No
 33	)	)	PUNCT	)	_	29	punct	_	SpaceAfter=No
 34	.	.	PUNCT	.	_	13	punct	_	_
@@ -17555,7 +17555,7 @@
 # text = En 1839, China se encontró luchando en la Primera Guerra del Opio con Gran Bretaña después de que el gobernador general de Hunan y Hubei prohibiera el comercio exterior de opio.
 # text_en = In 1839, China found itself fighting the First Opium War with Great Britain after the Governor-General of Hunan and Hubei, Lin Zexu, banned the foreign trade of opium.
 1	En	en	ADP	IN	_	2	case	_	_
-2	1839	1839	NUM	CD	Gender=Masc|NumType=Card	6	obl	_	SpaceAfter=No
+2	1839	1839	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	6	obl	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	China	China	PROPN	NNP	Number=Sing	6	nsubj	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	compound:prt	_	_
@@ -17598,7 +17598,7 @@
 3	derrotada	derrotar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	y	y	CCONJ	CC	_	7	cc	_	_
 5	en	en	ADP	IN	_	6	case	_	_
-6	1842	1842	NUM	CD	Gender=Masc|NumType=Card	7	obl	_	_
+6	1842	1842	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	7	obl	_	_
 7	aceptó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
 8	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
 9	estipulaciones	_	NOUN	NN	Gender=Fem|Number=Plur	7	obj	_	_
@@ -17648,7 +17648,7 @@
 # text = En 1856, la Segunda Guerra del Opio estalló; los chinos fueron derrotados y forzados a aceptar los términos del Tratado de Tianjin de 1856 y la Convención de Pekín de 1860.
 # text_en = In 1856, the Second Opium War broke out; the Chinese were again defeated and forced to the terms of the 1858 Treaty of Tientsin and the 1860 Convention of Peking.
 1	En	en	ADP	IN	_	2	case	_	_
-2	1856	1856	NUM	CD	Gender=Masc|NumType=Card	10	obl	_	SpaceAfter=No
+2	1856	1856	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	obl	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 5	Segunda	_	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	Proper=True
@@ -17676,14 +17676,14 @@
 25	de	de	ADP	IN	_	26	case	_	Proper=True
 26	Tianjin	Tianjin	PROPN	NNP	Number=Sing	24	nmod	_	_
 27	de	de	ADP	IN	_	28	case	_	_
-28	1856	1856	NUM	CD	Gender=Masc|NumType=Card	24	nmod	_	_
+28	1856	1856	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	24	nmod	_	_
 29	y	y	CCONJ	CC	_	31	cc	_	_
 30	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
 31	Convención	convención	NOUN	NN	Gender=Fem|Number=Sing	24	conj	_	Proper=True
 32	de	de	ADP	IN	_	33	case	_	Proper=True
 33	Pekín	Pekín	PROPN	NNP	Number=Sing	31	nmod	_	_
 34	de	de	ADP	IN	_	35	case	_	_
-35	1860	1860	NUM	CD	Gender=Masc|NumType=Card	31	nmod	_	SpaceAfter=No
+35	1860	1860	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	31	nmod	_	SpaceAfter=No
 36	.	.	PUNCT	.	_	10	punct	_	_
 
 # sent_id = w01100050
@@ -17816,7 +17816,7 @@
 30	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	31	aux:pass	_	_
 31	ejecutado	ejecutar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 32	en	en	ADP	IN	_	33	case	_	_
-33	1945	1945	NUM	CD	Gender=Masc|NumType=Card	31	obl	_	SpaceAfter=No
+33	1945	1945	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	31	obl	_	SpaceAfter=No
 34	.	.	PUNCT	.	_	31	punct	_	_
 
 # sent_id = w01102040
@@ -17888,7 +17888,7 @@
 34	mediados	_	NOUN	NN	Gender=Masc|Number=Plur	28	nmod	_	_
 35	de	de	ADP	IN	_	37	case	_	_
 36	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	37	det	_	_
-37	80	80	NUM	CD	Gender=Masc|NumType=Card	34	nmod	_	SpaceAfter=No
+37	80	80	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	34	nmod	_	SpaceAfter=No
 38	.	.	PUNCT	.	_	3	punct	_	_
 
 # newdoc id = w01105
@@ -18086,7 +18086,7 @@
 25	países	_	NOUN	NN	Gender=Masc|Number=Plur	20	obl	_	_
 26	en	en	ADP	IN	_	28	case	_	_
 27	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	28	det	_	_
-28	80	80	NUM	CD	Gender=Masc|NumType=Card	20	obl	_	SpaceAfter=No
+28	80	80	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	20	obl	_	SpaceAfter=No
 29	.	.	PUNCT	.	_	3	punct	_	_
 
 # newdoc id = w01106
@@ -18131,7 +18131,7 @@
 18	en	en	ADP	IN	_	19	case	_	_
 19	abril	abril	NOUN	NN	Gender=Masc|Number=Sing	15	obl	_	_
 20	de	de	ADP	IN	_	21	case	_	_
-21	1997	1997	NUM	CD	Gender=Masc|NumType=Card	19	nmod	_	SpaceAfter=No
+21	1997	1997	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	19	nmod	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	15	punct	_	_
 
 # sent_id = w01106073
@@ -18288,11 +18288,11 @@
 15	a	a	ADP	IN	_	16	case	_	_
 16	Herlz	Herlz	PROPN	NNP	Gender=Masc|Number=Sing	14	obl	_	_
 17	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
-18	10	10	NUM	CD	Gender=Masc|NumType=Card	14	obl:tmod	_	_
+18	10	10	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	14	obl:tmod	_	_
 19	de	de	ADP	IN	_	20	case	_	_
 20	marzo	marzo	NOUN	NN	Gender=Masc|Number=Sing	18	nmod	_	_
 21	de	de	ADP	IN	_	22	case	_	_
-22	1896	1896	NUM	CD	Gender=Masc|NumType=Card	20	nmod	_	SpaceAfter=No
+22	1896	1896	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	20	nmod	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	14	punct	_	_
 
 # newdoc id = w01109
@@ -18392,7 +18392,7 @@
 11	That	that	DET	DT	Number=Sing|PronType=Ind	12	det	_	Proper=True
 12	Summer	summer	NOUN	NN	Number=Sing	10	obj	_	Proper=True
 13	en	en	ADP	IN	_	14	case	_	_
-14	1979	1979	NUM	CD	Gender=Masc|NumType=Card	10	obl	_	SpaceAfter=No
+14	1979	1979	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	obl	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = w01111093
@@ -18405,20 +18405,20 @@
 5	a	a	ADP	IN	_	6	case	_	_
 6	Winstone	Winstone	PROPN	NNP	Gender=Masc|Number=Sing	2	obl	_	_
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	4	4	NUM	CD	Gender=Masc|NumType=Card	2	obl:tmod	_	_
+8	4	4	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	obl:tmod	_	_
 9	de	de	ADP	IN	_	10	case	_	_
 10	octubre	octubre	NOUN	NN	Gender=Masc|Number=Sing	8	nmod	_	_
 11	de	de	ADP	IN	_	12	case	_	_
-12	1988	1988	NUM	CD	Gender=Masc|NumType=Card	10	nmod	_	_
+12	1988	1988	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	nmod	_	_
 13	y	y	CCONJ	CC	_	17	cc	_	_
 14	otra	_	DET	DT	Gender=Fem|Number=Sing|PronType=Ind	15	det	_	_
 15	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	17	obl	_	_
 16	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-17	19	19	NUM	CD	Gender=Masc|NumType=Card	8	conj	_	_
+17	19	19	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	8	conj	_	_
 18	de	de	ADP	IN	_	19	case	_	_
 19	marzo	marzo	NOUN	NN	Gender=Masc|Number=Sing	17	nmod	_	_
 20	de	de	ADP	IN	_	21	case	_	_
-21	1993	1993	NUM	CD	Gender=Masc|NumType=Card	19	nmod	_	SpaceAfter=No
+21	1993	1993	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	19	nmod	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	2	punct	_	_
 
 # newdoc id = w01112
@@ -18504,14 +18504,14 @@
 6	tradicionales	_	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
 7	en	en	ADP	IN	_	9	case	_	_
 8	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	2013	2013	NUM	CD	Gender=Masc|NumType=Card	5	nmod	_	_
+9	2013	2013	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	nmod	_	_
 10	y	y	CCONJ	CC	_	12	cc	_	_
 11	cuatro	cuatro	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	12	nummod	_	_
 12	mercados	_	NOUN	NN	Gender=Masc|Number=Plur	5	conj	_	_
 13	tradicionales	_	ADJ	JJ	Gender=Masc|Number=Plur	12	amod	_	_
 14	en	en	ADP	IN	_	16	case	_	_
 15	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-16	2014	2014	NUM	CD	Gender=Masc|NumType=Card	12	nmod	_	SpaceAfter=No
+16	2014	2014	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	12	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = w01113058
@@ -18653,11 +18653,11 @@
 7	en	en	ADP	IN	_	8	case	_	_
 8	humanidades	_	NOUN	NN	Gender=Fem|Number=Plur	6	nmod	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-10	21	21	NUM	CD	Gender=Masc|NumType=Card	4	obl:tmod	_	_
+10	21	21	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	obl:tmod	_	_
 11	de	de	ADP	IN	_	12	case	_	_
 12	abril	abril	NOUN	NN	Gender=Masc|Number=Sing	10	nmod	_	_
 13	de	de	ADP	IN	_	14	case	_	_
-14	1882	1882	NUM	CD	Gender=Masc|NumType=Card	12	nmod	_	SpaceAfter=No
+14	1882	1882	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	12	nmod	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = w01115025
@@ -18711,7 +18711,7 @@
 1	Solamente	solamente	ADV	RB	_	3	advmod	_	_
 2	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pass	_	_
 3	publicaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	3000	_	NUM	CD	Gender=Fem|NumType=Card	5	nummod	_	_
+4	3000	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	5	nummod	_	_
 5	copias	_	NOUN	NN	Gender=Fem|Number=Plur	3	nsubj:pass	_	_
 6	de	de	ADP	IN	_	9	case	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
@@ -18725,7 +18725,7 @@
 1	Para	para	ADP	IN	_	3	case	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	año	año	NOUN	NN	Gender=Masc|Number=Sing	22	obl	_	_
-4	2009	2009	NUM	CD	Gender=Masc|NumType=Card	3	appos	_	SpaceAfter=No
+4	2009	2009	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	appos	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	3	punct	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	total	total	NOUN	NN	Gender=Masc|Number=Sing	22	nsubj:pass	_	_
@@ -18777,9 +18777,9 @@
 # text = Entre 1991 y 1997 dirigió una escuela de niños con dificultades de aprendizaje.
 # text_en = Between 1991 and 1997, she ran a school for children with learning disabilities.
 1	Entre	entre	ADP	IN	_	2	case	_	_
-2	1991	1991	NUM	CD	Gender=Masc|NumType=Card	5	obl	_	_
+2	1991	1991	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	obl	_	_
 3	y	y	CCONJ	CC	_	4	cc	_	_
-4	1997	1997	NUM	CD	Gender=Masc|NumType=Card	2	conj	_	_
+4	1997	1997	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	conj	_	_
 5	dirigió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	escuela	escuela	NOUN	NN	Gender=Fem|Number=Sing	5	obj	_	_
@@ -18992,7 +18992,7 @@
 14	a	a	ADP	INDT	_	16	case	_	_
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	top	top	NOUN	NN	Gender=Masc|Number=Sing	13	obl	_	_
-17	50	50	NUM	CD	Gender=Masc|NumType=Card	16	appos	_	SpaceAfter=No
+17	50	50	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	16	appos	_	SpaceAfter=No
 18	;	;	PUNCT	:	_	29	punct	_	_
 19	"	"	PUNCT	``	_	21	punct	_	SpaceAfter=No
 20	Shaky	shaky	ADJ	JJ	Number=Sing	21	amod	_	Proper=True
@@ -19043,7 +19043,7 @@
 21	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	Proper=True
 22	Ángeles	_	PROPN	NNP	Gender=Masc|Number=Plur	19	obl	_	_
 23	en	en	ADP	IN	_	24	case	_	_
-24	1984	1984	NUM	CD	Gender=Masc|NumType=Card	17	obl	_	_
+24	1984	1984	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	17	obl	_	_
 25	para	para	ADP	IN	_	26	case	_	_
 26-27	concentrase	_	_	_	_	_	_	_	_
 26	concentra	_	VERB	VB	Tense=Imp|VerbForm=Fin	17	xcomp	_	_
@@ -19073,11 +19073,11 @@
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	puesto	puesto	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
 11	n.°	n.°	NOUN	NN	Gender=Masc|Number=Sing	10	appos	_	_
-12	96	96	NUM	CD	Gender=Masc|NumType=Card	11	appos	_	_
+12	96	96	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	11	appos	_	_
 13	en	en	ADP	IN	_	15	case	_	_
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	Billboard	Billboard	PROPN	NNP	Number=Sing	10	nmod	_	_
-16	200	200	NUM	CD	Gender=Masc|NumType=Card	15	flat:name	_	SpaceAfter=No|Proper=True
+16	200	200	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	15	flat:name	_	SpaceAfter=No|Proper=True
 17	,	,	PUNCT	,	_	1	punct	_	_
 18	Thought	think	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	22	nsubj	_	Proper=True
 19	'	'	PUNCT	-	_	20	punct	_	SpaceAfter=No|Proper=True
@@ -19089,7 +19089,7 @@
 24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	puesto	puesto	NOUN	NN	Gender=Masc|Number=Sing	22	obl	_	_
 26	n.°	n.°	NOUN	NN	Gender=Masc|Number=Sing	25	appos	_	_
-27	31	31	NUM	CD	Gender=Masc|NumType=Card	26	appos	_	_
+27	31	31	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	26	appos	_	_
 28	en	en	ADP	IN	_	30	case	_	_
 29	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
 30	Reino	reino	NOUN	NN	Gender=Masc|Number=Sing	22	obl	_	Proper=True
@@ -19193,7 +19193,7 @@
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	compound:prt	_	_
 6	desintegró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	en	en	ADP	IN	_	8	case	_	_
-8	1770	1770	NUM	CD	Gender=Masc|NumType=Card	6	obl	_	SpaceAfter=No
+8	1770	1770	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	6	obl	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	10	punct	_	_
 10	permitiendo	permitir	VERB	VBG	VerbForm=Ger	6	advcl	_	_
 11	que	que	SCONJ	IN	_	12	mark	_	_
@@ -19252,7 +19252,7 @@
 # text = En 1770, su hermano el príncipe Enrique, duque de Cumberland y Strathearn fue expuesto como adúltero y al año siguiente Cumberland se casó con una joven viuda, Ana Horton.
 # text_en = In 1770, his brother Prince Henry, Duke of Cumberland and Strathearn, was exposed as an adulterer, and the following year Cumberland married a young widow, Anne Horton.
 1	En	en	ADP	IN	_	2	case	_	_
-2	1770	1770	NUM	CD	Gender=Masc|NumType=Card	16	obl	_	SpaceAfter=No
+2	1770	1770	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	16	obl	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
 5	hermano	hermano	NOUN	NN	Gender=Masc|Number=Sing	16	nsubj:pass	_	_
@@ -19299,7 +19299,7 @@
 5	de	de	ADP	INDT	_	7	case	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	año	año	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
-8	1981	1981	NUM	CD	Gender=Masc|NumType=Card	7	appos	_	_
+8	1981	1981	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	7	appos	_	_
 9	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	_
 10	uno	uno	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 11	de	de	ADP	IN	_	15	case	_	_
@@ -19346,7 +19346,7 @@
 1	En	en	ADP	IN	_	2	case	_	_
 2	junio	junio	NOUN	NN	Gender=Masc|Number=Sing	11	obl	_	_
 3	de	de	ADP	IN	_	4	case	_	_
-4	2012	2012	NUM	CD	Gender=Masc|NumType=Card	2	nmod	_	SpaceAfter=No
+4	2012	2012	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	banda	banda	NOUN	NN	Gender=Fem|Number=Sing	11	nsubj	_	_
@@ -19435,7 +19435,7 @@
 # text_en = In 2003, he dominated in the points standings and leading the last 33 of 36 races and became the 2003 NASCAR Winston Cup champion, the last driver to ever hold that title.
 1	En	en	ADP	IN	_	3	case	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	2003	2003	NUM	CD	Gender=Masc|NumType=Card	5	obl	_	SpaceAfter=No
+3	2003	2003	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	dominó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	en	en	ADP	IN	_	8	case	_	_
@@ -19446,9 +19446,9 @@
 11	lideró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
 12	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
 13	ultimas	_	ADJ	JJ	Gender=Fem|Number=Plur	14	amod	_	_
-14	33	_	NUM	CD	Gender=Fem|NumType=Card	11	obj	_	_
+14	33	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	11	obj	_	_
 15	de	de	ADP	IN	_	17	case	_	_
-16	36	_	NUM	CD	Gender=Fem|NumType=Card	17	nummod	_	_
+16	36	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	17	nummod	_	_
 17	carreras	_	NOUN	NN	Gender=Fem|Number=Plur	14	nmod	_	SpaceAfter=No
 18	,	,	PUNCT	,	_	19	punct	_	_
 19-20	convirtiéndose	_	_	_	_	_	_	_	_
@@ -19485,7 +19485,7 @@
 5	más	_	ADV	RBR	Degree=Cmp	4	advmod	_	_
 6	en	en	ADP	IN	_	8	case	_	_
 7	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
-8	90	90	NUM	CD	Gender=Masc|NumType=Card	2	obl	_	SpaceAfter=No
+8	90	90	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	obl	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	16	punct	_	_
 10	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	16	obj	_	_
 11	luego	luego	ADV	RB	_	16	advmod	_	_
@@ -19514,7 +19514,7 @@
 5	a	a	DET	DT	Number=Sing|PronType=Ind	6	det	_	Proper=True
 6	Prayer	prayer	NOUN	NN	Number=Sing	3	conj	_	Proper=True
 7	(	(	PUNCT	(	_	8	punct	_	SpaceAfter=No
-8	1992	1992	NUM	CD	Gender=Masc|NumType=Card	1	appos	_	SpaceAfter=No
+8	1992	1992	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	1	appos	_	SpaceAfter=No
 9	)	)	PUNCT	)	_	8	punct	_	_
 10	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	11	obj	_	_
 11	reunió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -19560,7 +19560,7 @@
 23	Records	_	NOUN	NN	Number=Plur	22	flat:name	_	Proper=True
 24	en	en	ADP	IN	_	26	case	_	_
 25	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
-26	70	70	NUM	CD	Gender=Masc|NumType=Card	20	obl	_	SpaceAfter=No
+26	70	70	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	20	obl	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = w01130102
@@ -19597,7 +19597,7 @@
 29	My	my	PRON	DTP$	Number=Sing|Person=1|PronType=Ind	30	det	_	Proper=True
 30	Head	head	NOUN	NN	Number=Sing	28	obj	_	Proper=True
 31	(	(	PUNCT	(	_	32	punct	_	SpaceAfter=No
-32	1994	1994	NUM	CD	Gender=Masc|NumType=Card	28	appos	_	SpaceAfter=No
+32	1994	1994	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	28	appos	_	SpaceAfter=No
 33	)	)	PUNCT	)	_	32	punct	_	SpaceAfter=No
 34	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -19620,7 +19620,7 @@
 14	quien	quien	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	15	nsubj	_	_
 15	murió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	acl:relcl	_	_
 16	en	en	ADP	IN	_	17	case	_	_
-17	1998	1998	NUM	CD	Gender=Masc|NumType=Card	15	obl	_	SpaceAfter=No
+17	1998	1998	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	15	obl	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	6	punct	_	_
 
 # newdoc id = w01131
@@ -19829,7 +19829,7 @@
 4	mediados	_	NOUN	NN	Gender=Masc|Number=Plur	10	obl	_	_
 5	de	de	ADP	IN	_	7	case	_	_
 6	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
-7	70	70	NUM	CD	Gender=Masc|NumType=Card	4	nmod	_	SpaceAfter=No
+7	70	70	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	4	punct	_	_
 9	Stralin	Stralin	PROPN	NNP	Gender=Masc|Number=Sing	10	nsubj	_	_
 10	contribuyó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -19875,7 +19875,7 @@
 # text = En 1955, Mishima comenzó a hacer levantamiento de pesas y en los últimos 15 años de su vida no interrumpió su régimen de ejercicios de tres sesiones por semana.
 # text_en = In 1955, Mishima took up weight training and his workout regimen of three sessions per week was not disrupted for the final 15 years of his life.
 1	En	en	ADP	IN	_	2	case	_	_
-2	1955	1955	NUM	CD	Gender=Masc|NumType=Card	7	obl	_	SpaceAfter=No
+2	1955	1955	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	7	obl	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	Mishima	Mishima	PROPN	NNP	Gender=Masc|Number=Sing	7	nsubj	_	_
 5	comenzó	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
@@ -19888,7 +19888,7 @@
 12	en	en	ADP	IN	_	16	case	_	_
 13	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
 14	últimos	_	ADJ	JJ	Gender=Masc|Number=Plur	16	amod	_	_
-15	15	15	NUM	CD	Gender=Masc|NumType=Card	16	nummod	_	_
+15	15	15	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	16	nummod	_	_
 16	años	_	NOUN	NN	Gender=Masc|Number=Plur	21	obl	_	_
 17	de	de	ADP	IN	_	19	case	_	_
 18	su	_	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
@@ -19932,7 +19932,7 @@
 # text_en = In 2011, Blunt was named the ambassadress of the new Yves Saint Laurent fragrance, Opium.
 1	En	en	ADP	IN	_	3	case	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	2011	2011	NUM	CD	Gender=Masc|NumType=Card	10	obl	_	SpaceAfter=No
+3	2011	2011	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	compound:prt	_	_
 6	nombró	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	_
@@ -19961,7 +19961,7 @@
 4	comedia	comedia	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 5	británica	_	ADJ	JJ	Gender=Fem|Number=Sing	4	amod	_	Proper=True
 6	de	de	ADP	IN	_	7	case	_	_
-7	2011	2011	NUM	CD	Gender=Masc|NumType=Card	4	nmod	_	_
+7	2011	2011	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	nmod	_	_
 8	Salmon	salmon	NOUN	NN	Number=Sing	4	appos	_	Proper=True
 9	Fishing	fishing	NOUN	NN	Number=Sing	8	flat:name	_	Proper=True
 10	in	in	ADP	IN	_	11	case	_	Proper=True
@@ -20063,7 +20063,7 @@
 1	En	en	ADP	IN	_	2	case	_	_
 2	enero	enero	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	_
 3	de	de	ADP	IN	_	4	case	_	_
-4	2011	2011	NUM	CD	Gender=Masc|NumType=Card	2	nmod	_	SpaceAfter=No
+4	2011	2011	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	Blunt	Blunt	PROPN	NNP	Gender=Fem|Number=Sing	9	nsubj	_	_
 7	comenzó	comenzar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -20102,7 +20102,7 @@
 40	en	en	ADP	IN	_	41	case	_	_
 41	septiembre	septiembre	NOUN	NN	Gender=Masc|Number=Sing	39	obl	_	_
 42	de	de	ADP	IN	_	43	case	_	_
-43	2012	2012	NUM	CD	Gender=Masc|NumType=Card	41	nmod	_	SpaceAfter=No
+43	2012	2012	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	41	nmod	_	SpaceAfter=No
 44	.	.	PUNCT	.	_	7	punct	_	_
 
 # newdoc id = w01136
@@ -20341,7 +20341,7 @@
 # text_en = As early as 1926, Meyer had written to Irène Joliot-Curie suggesting that Rona work with her to learn how his laboratory could make their own polonium samples.
 1	Ya	ya	ADV	RB	_	3	advmod	_	_
 2	en	en	ADP	IN	_	3	case	_	_
-3	1926	1926	NUM	CD	Gender=Masc|NumType=Card	7	obl	_	SpaceAfter=No
+3	1926	1926	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	7	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	Meyer	Meyer	PROPN	NNP	Gender=Masc|Number=Sing	7	nsubj	_	_
 6	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
@@ -20503,7 +20503,7 @@
 3	temporada	temporada	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
 4	baja	_	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	_
 5	de	de	ADP	IN	_	6	case	_	_
-6	2013	2013	NUM	CD	Gender=Masc|NumType=Card	3	nmod	_	SpaceAfter=No
+6	2013	2013	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	3	punct	_	_
 8	apareció	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 9	en	en	ADP	IN	_	11	case	_	_
@@ -20613,7 +20613,7 @@
 3	Gante	Gante	PROPN	NNP	Number=Sing	1	nmod	_	_
 4	murió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	en	en	ADP	IN	_	6	case	_	_
-6	1399	1399	NUM	CD	Gender=Masc|NumType=Card	4	obl	_	SpaceAfter=No
+6	1399	1399	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	obl	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = w01142063
@@ -20686,7 +20686,7 @@
 20	en	en	ADP	IN	_	21	case	_	_
 21	Sabrina	Sabrina	PROPN	NNP	Number=Sing	1	obl	_	_
 22	(	(	PUNCT	(	_	23	punct	_	SpaceAfter=No
-23	1954	1954	NUM	CD	Gender=Masc|NumType=Card	21	appos	_	SpaceAfter=No
+23	1954	1954	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	21	appos	_	SpaceAfter=No
 24	)	)	PUNCT	)	_	23	punct	_	SpaceAfter=No
 25	,	,	PUNCT	,	_	26	punct	_	_
 26	interpretada	interpretar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	21	acl	_	_
@@ -20721,7 +20721,7 @@
 2	campaña	campaña	NOUN	NN	Gender=Fem|Number=Sing	15	nsubj:pass	_	_
 3	presidencial	_	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	_
 4	de	de	ADP	IN	_	5	case	_	_
-5	1980	1980	NUM	CD	Gender=Masc|NumType=Card	2	nmod	_	_
+5	1980	1980	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	nmod	_	_
 6	entre	entre	ADP	IN	_	7	case	_	_
 7	Reagan	Reagan	PROPN	NNP	Gender=Masc|Number=Sing	2	nmod	_	_
 8	y	y	CCONJ	CC	_	11	cc	_	_
@@ -20763,10 +20763,10 @@
 9	primera	_	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	_
 10	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	_
 11	desde	desde	ADP	IN	_	12	case	_	_
-12	1952	1952	NUM	CD	Gender=Masc|NumType=Card	10	nmod	_	_
+12	1952	1952	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	nmod	_	_
 13	y	y	CCONJ	CC	_	14	cc	_	_
 14	adquirieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
-15	34	34	NUM	CD	Gender=Masc|NumType=Card	16	nummod	_	_
+15	34	34	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	16	nummod	_	_
 16	escaños	_	NOUN	NN	Gender=Masc|Number=Plur	14	obj	_	_
 17	en	en	ADP	IN	_	19	case	_	_
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
@@ -20795,7 +20795,7 @@
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	hospital	hospital	NOUN	NN	Gender=Masc|Number=Sing	5	obl	_	_
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	11	11	NUM	CD	Gender=Masc|NumType=Card	5	obl:tmod	_	_
+12	11	11	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	obl:tmod	_	_
 13	de	de	ADP	IN	_	14	case	_	_
 14	abril	abril	NOUN	NN	Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	,	_	16	punct	_	_
@@ -20910,7 +20910,7 @@
 9	Tennessee	Tennessee	PROPN	NNP	Number=Sing	7	appos	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	12	punct	_	_
 11	en	en	ADP	IN	_	12	case	_	_
-12	1991	1991	NUM	CD	Gender=Masc|NumType=Card	2	obl	_	_
+12	1991	1991	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	obl	_	_
 13	luego	luego	ADV	RB	_	2	advmod	_	_
 14	de	de	ADP	IN	_	15	case	_	_
 15	obtener	obtener	VERB	VB	VerbForm=Inf	13	xcomp	_	_
@@ -20937,7 +20937,7 @@
 10	cuando	cuando	ADV	WRB	PronType=Rel	12	advmod	_	_
 11	Kesha	Kesha	PROPN	NNP	Gender=Fem|Number=Sing	12	nsubj	_	_
 12	tenia	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	advcl	_	_
-13	16	16	NUM	CD	Gender=Masc|NumType=Card	12	obj	_	SpaceAfter=No
+13	16	16	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	12	obj	_	SpaceAfter=No
 14	,	,	PUNCT	,	_	17	punct	_	_
 15	luego	luego	ADV	RB	_	17	advmod	_	_
 16	Kesha	Kesha	PROPN	NNP	Gender=Fem|Number=Sing	17	nsubj	_	_
@@ -20969,7 +20969,7 @@
 1	Desde	desde	ADP	IN	_	2	case	_	_
 2	agosto	agosto	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
 3	de	de	ADP	IN	_	4	case	_	_
-4	2015	2015	NUM	CD	Gender=Masc|NumType=Card	2	nmod	_	_
+4	2015	2015	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	nmod	_	_
 5	Kesha	Kesha	PROPN	NNP	Gender=Fem|Number=Sing	7	nsubj	_	_
 6	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
 7	entregado	entregar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -21137,7 +21137,7 @@
 9	en	en	ADP	IN	_	10	case	_	_
 10	diciembre	diciembre	NOUN	NN	Gender=Masc|Number=Sing	6	nmod	_	_
 11	de	de	ADP	IN	_	12	case	_	_
-12	1912	1912	NUM	CD	Gender=Masc|NumType=Card	10	nmod	_	_
+12	1912	1912	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	nmod	_	_
 13	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	embajador	embajador	NOUN	NN	Gender=Masc|Number=Sing	20	nsubj	_	_
 15	de	de	ADP	IN	_	19	case	_	_
@@ -21227,11 +21227,11 @@
 5	,	,	PUNCT	,	_	6	punct	_	_
 6	firmado	firmar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	30	30	NUM	CD	Gender=Masc|NumType=Card	6	obl:tmod	_	_
+8	30	30	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	6	obl:tmod	_	_
 9	de	de	ADP	IN	_	10	case	_	_
 10	Mayo	mayo	NOUN	NN	Gender=Masc|Number=Sing	8	nmod	_	_
 11	de	de	ADP	IN	_	12	case	_	_
-12	1913	1913	NUM	CD	Gender=Masc|NumType=Card	10	nmod	_	SpaceAfter=No
+12	1913	1913	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	6	punct	_	_
 14	dividió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 15	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	14	obj	_	_
@@ -21281,7 +21281,7 @@
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	hombre	hombre	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	_
 10	de	de	ADP	IN	_	12	case	_	_
-11	53	53	NUM	CD	Gender=Masc|NumType=Card	12	nummod	_	_
+11	53	53	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	12	nummod	_	_
 12	años	_	NOUN	NN	Gender=Masc|Number=Plur	9	nmod	_	_
 13	durante	durante	ADP	IN	_	15	case	_	_
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
@@ -21364,10 +21364,10 @@
 # text = Con 71 goles en 137 partidos internacionales, ha marcado una cantidad record de goles para la DFB.
 # text_en = With 71 goals in 137 international matches, he has shot a record number of goals for the DFB.
 1	Con	con	ADP	IN	_	3	case	_	_
-2	71	71	NUM	CD	Gender=Masc|NumType=Card	3	nummod	_	_
+2	71	71	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	nummod	_	_
 3	goles	_	NOUN	NN	Gender=Masc|Number=Plur	10	obl	_	_
 4	en	en	ADP	IN	_	6	case	_	_
-5	137	137	NUM	CD	Gender=Masc|NumType=Card	6	nummod	_	_
+5	137	137	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	6	nummod	_	_
 6	partidos	_	NOUN	NN	Gender=Masc|Number=Plur	3	nmod	_	_
 7	internacionales	_	ADJ	JJ	Gender=Masc|Number=Plur	6	amod	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	3	punct	_	_
@@ -21448,7 +21448,7 @@
 3	que	que	ADP	IN	_	1	fixed	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	serie	serie	NOUN	NN	Gender=Fem|Number=Sing	11	nsubj	_	_
-6	1	1	NUM	CD	Gender=Masc|NumType=Card	5	appos	_	_
+6	1	1	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	appos	_	_
 7	ya	ya	ADV	RB	_	11	advmod	_	_
 8	no	_	ADV	RB	Polarity=Neg	11	advmod	_	_
 9	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
@@ -21459,7 +21459,7 @@
 14	usuarios	_	NOUN	NN	Gender=Masc|Number=Plur	16	nsubj	_	_
 15	pueden	poder	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
 16	ahorrar	ahorrar	VERB	VB	VerbForm=Inf	0	root	_	_
-17	100	100	NUM	CD	Gender=Masc|NumType=Card	18	nummod	_	_
+17	100	100	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	18	nummod	_	_
 18	euros	_	NOUN	NN	Gender=Masc|Number=Plur	16	obj	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	16	punct	_	_
 
@@ -21625,7 +21625,7 @@
 36	de	de	ADP	INDT	_	38	case	_	_
 37	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	_
 38	año	año	NOUN	NN	Gender=Masc|Number=Sing	35	obl	_	_
-39	2000	2000	NUM	CD	Gender=Masc|NumType=Card	38	appos	_	SpaceAfter=No
+39	2000	2000	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	38	appos	_	SpaceAfter=No
 40	,	,	PUNCT	,	_	41	punct	_	_
 41	rescisión	rescisión	NOUN	NN	Gender=Fem|Number=Sing	22	conj	_	_
 42	de	de	ADP	IN	_	45	case	_	_
@@ -21811,7 +21811,7 @@
 25	de	de	ADP	IN	_	27	case	_	_
 26	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
 27	años	_	NOUN	NN	Gender=Masc|Number=Plur	24	nmod	_	_
-28	60	60	NUM	CD	Gender=Masc|NumType=Card	27	appos	_	SpaceAfter=No
+28	60	60	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	27	appos	_	SpaceAfter=No
 29	.	.	PUNCT	.	_	4	punct	_	_
 
 # newdoc id = n02036
@@ -21908,11 +21908,11 @@
 # text_en = It was August 30, 2015, as an army of ducks conquered the internet.
 1	Era	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	30	30	NUM	CD	Gender=Masc|NumType=Card	1	obl:tmod	_	_
+3	30	30	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	1	obl:tmod	_	_
 4	de	de	ADP	IN	_	5	case	_	_
 5	Agosto	agosto	NOUN	NN	Gender=Masc|Number=Sing	3	nmod	_	_
 6	de	de	ADP	IN	_	7	case	_	_
-7	2015	2015	NUM	CD	Gender=Masc|NumType=Card	5	nmod	_	SpaceAfter=No
+7	2015	2015	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	14	punct	_	_
 9	cuando	cuando	ADV	WRB	PronType=Rel	14	advmod	_	_
 10	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
@@ -22026,7 +22026,7 @@
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	jugadora	jugadora	NOUN	NN	Gender=Fem|Number=Sing	15	nsubj	_	_
 12	de	de	ADP	IN	_	14	case	_	_
-13	28	28	NUM	CD	Gender=Masc|NumType=Card	14	nummod	_	_
+13	28	28	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	14	nummod	_	_
 14	años	_	NOUN	NN	Gender=Masc|Number=Plur	11	nmod	_	_
 15	perdió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 16	por	por	ADP	IN	_	18	case	_	_
@@ -22359,11 +22359,11 @@
 31	presidencia	presidencia	NOUN	NN	Gender=Fem|Number=Sing	28	nmod	_	SpaceAfter=No
 32	,	,	PUNCT	,	_	34	punct	_	_
 33	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
-34	20	20	NUM	CD	Gender=Masc|NumType=Card	28	appos	_	_
+34	20	20	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	28	appos	_	_
 35	de	de	ADP	IN	_	36	case	_	_
 36	Enero	enero	NOUN	NN	Gender=Masc|Number=Sing	34	nmod	_	_
 37	de	de	ADP	IN	_	38	case	_	_
-38	2001	2001	NUM	CD	Gender=Masc|NumType=Card	36	nmod	_	SpaceAfter=No
+38	2001	2001	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	36	nmod	_	SpaceAfter=No
 39	.	.	PUNCT	.	_	15	punct	_	_
 
 # newdoc id = n02075
@@ -22632,7 +22632,7 @@
 31	a	a	ADP	IN	_	34	case	_	_
 32	partir	partir	VERB	VB	VerbForm=Inf	31	fixed	_	_
 33	de	de	ADP	IN	_	31	fixed	_	_
-34	2005	2005	NUM	CD	Gender=Masc|NumType=Card	30	obl	_	_
+34	2005	2005	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	30	obl	_	_
 35	en	en	ADP	IN	_	37	case	_	_
 36	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
 37	acuerdo	acuerdo	NOUN	NN	Gender=Masc|Number=Sing	30	obl	_	_
@@ -22651,7 +22651,7 @@
 5-6	del	_	_	_	_	_	_	_	_
 5	de	de	ADP	INDT	_	7	case	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	28	28	NUM	CD	Gender=Masc|NumType=Card	4	nmod	_	_
+7	28	28	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	nmod	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	octubre	octubre	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	4	punct	_	_
@@ -22826,7 +22826,7 @@
 11	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
 12	votos	_	NOUN	NN	Gender=Masc|Number=Plur	3	appos	_	_
 13	de	de	ADP	IN	_	15	case	_	_
-14	367	367	NUM	CD	Gender=Masc|NumType=Card	15	nummod	_	_
+14	367	367	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	15	nummod	_	_
 15	miembros	_	NOUN	NN	Gender=Masc|Number=Plur	12	nmod	_	_
 16-17	del	_	_	_	_	_	_	_	_
 16	de	de	ADP	INDT	_	18	case	_	_
@@ -22834,11 +22834,11 @@
 18	parlamento	parlamento	NOUN	NN	Gender=Masc|Number=Sing	15	nmod	_	_
 19	(	(	PUNCT	(	_	21	punct	_	SpaceAfter=No
 20	de	de	ADP	IN	_	21	case	_	_
-21	550	550	NUM	CD	Gender=Masc|NumType=Card	15	nmod	_	SpaceAfter=No
+21	550	550	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	15	nmod	_	SpaceAfter=No
 22	)	)	PUNCT	)	_	21	punct	_	SpaceAfter=No
 23	,	,	PUNCT	,	_	28	punct	_	_
 24	donde	donde	ADV	WRB	PronType=Rel	28	advmod	_	_
-25	330	330	NUM	CD	Gender=Masc|NumType=Card	26	nummod	_	_
+25	330	330	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	26	nummod	_	_
 26	votos	_	NOUN	NN	Gender=Masc|Number=Plur	28	nsubj:pass	_	_
 27	son	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	aux:pass	_	_
 28	requeridos	_	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	12	acl:relcl	_	_
@@ -22855,7 +22855,7 @@
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	jueves	jueves	NOUN	NN	Gender=Masc|Number=Sing	22	obl:tmod	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	4	punct	_	_
-4	3	3	NUM	CD	Gender=Masc|NumType=Card	2	appos	_	_
+4	3	3	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	appos	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	noviembre	noviembre	NOUN	NN	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	4	punct	_	_
@@ -22886,7 +22886,7 @@
 32	formado	formar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	31	acl	_	_
 33	en	en	ADP	IN	_	35	case	_	_
 34	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
-35	2014	2014	NUM	CD	Gender=Masc|NumType=Card	32	obl	_	SpaceAfter=No
+35	2014	2014	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	32	obl	_	SpaceAfter=No
 36	.	.	PUNCT	.	_	22	punct	_	_
 
 # newdoc id = n03005
@@ -23125,7 +23125,7 @@
 12	de	de	ADP	IN	_	13	case	_	_
 13	casación	casación	NOUN	NN	Gender=Fem|Number=Sing	11	nmod	_	_
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-15	12	12	NUM	CD	Gender=Masc|NumType=Card	8	obl:tmod	_	_
+15	12	12	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	8	obl:tmod	_	_
 16	de	de	ADP	IN	_	17	case	_	_
 17	octubre	octubre	NOUN	NN	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	3	punct	_	_
@@ -23183,7 +23183,7 @@
 13	menos	_	ADV	RBR	Degree=Cmp	11	fixed	_	_
 14	igual	igual	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
 15	a	a	ADP	IN	_	17	case	_	_
-16	45	45	NUM	CD	Gender=Masc|NumType=Card	17	nummod	_	_
+16	45	45	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	17	nummod	_	_
 17	minutos	_	NOUN	NN	Gender=Masc|Number=Plur	14	obl	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	14	punct	_	_
 
@@ -23271,7 +23271,7 @@
 9	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
 10	liberar	liberar	VERB	VB	VerbForm=Inf	0	root	_	_
 11	hasta	hasta	ADV	RB	_	13	advmod	_	_
-12	42	42	NUM	CD	Gender=Masc|NumType=Card	13	nummod	_	_
+12	42	42	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	13	nummod	_	_
 13	millones	_	NOUN	NN	Gender=Masc|Number=Plur	10	obj	_	_
 14	de	de	ADP	IN	_	15	case	_	_
 15	euros	_	NOUN	NN	Gender=Masc|Number=Plur	13	nmod	_	SpaceAfter=No
@@ -23279,7 +23279,7 @@
 17	de	de	ADP	IN	_	19	case	_	_
 18	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
 19	cuales	cual	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	21	nmod	_	_
-20	15,5	15,5	NUM	CD	Gender=Masc|NumType=Card	21	nummod	_	_
+20	15,5	15,5	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	21	nummod	_	_
 21	millones	_	NOUN	NN	Gender=Masc|Number=Plur	22	nsubj	_	_
 22	irían	_	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	acl:relcl	_	_
 23	hacia	hacia	ADP	IN	_	25	case	_	_
@@ -23305,11 +23305,11 @@
 2	Anselmi	Anselmi	PROPN	NNP	Gender=Fem|Number=Sing	1	flat:name	_	_
 3	nació	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	25	25	NUM	CD	Gender=Masc|NumType=Card	3	obl:tmod	_	_
+5	25	25	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	obl:tmod	_	_
 6	de	de	ADP	IN	_	7	case	_	_
 7	marzo	marzo	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	_
 8	de	de	ADP	IN	_	9	case	_	_
-9	1927	1927	NUM	CD	Gender=Masc|NumType=Card	7	nmod	_	_
+9	1927	1927	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	7	nmod	_	_
 10	en	en	ADP	IN	_	11	case	_	_
 11	Castelfranco	Castelfranco	PROPN	NNP	_	3	obl	_	_
 12	Veneto	Veneto	PROPN	NNP	_	11	flat:name	_	SpaceAfter=No
@@ -23458,7 +23458,7 @@
 6	mayores	_	NOUN	NN	Gender=Masc|Number=Plur	3	obl	_	_
 7	de	de	ADP	IN	_	8	case	_	_
 8	edad	edad	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
-9	500	500	NUM	CD	Gender=Masc|NumType=Card	10	nummod	_	_
+9	500	500	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	nummod	_	_
 10	euros	_	NOUN	NN	Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	14	punct	_	_
 12	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	14	nsubj:pass	_	_
@@ -23470,11 +23470,11 @@
 17-18	del	_	_	_	_	_	_	_	_
 17	de	de	ADP	INDT	_	19	case	_	_
 18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
-19	31	31	NUM	CD	Gender=Masc|NumType=Card	16	obl	_	_
+19	31	31	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	16	obl	_	_
 20	de	de	ADP	IN	_	21	case	_	_
 21	diciembre	diciembre	NOUN	NN	Gender=Masc|Number=Sing	19	nmod	_	_
 22	de	de	ADP	IN	_	23	case	_	_
-23	2017	2017	NUM	CD	Gender=Masc|NumType=Card	21	nmod	_	SpaceAfter=No
+23	2017	2017	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	21	nmod	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = n04005016
@@ -23505,7 +23505,7 @@
 3-4	del	_	_	_	_	_	_	_	_
 3	de	de	ADP	INDT	_	1	fixed	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	1	1	NUM	CD	Gender=Masc|NumType=Card	8	obl	_	_
+5	1	1	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	8	obl	_	_
 6	de	de	ADP	IN	_	7	case	_	_
 7	enero	enero	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	_
 8	subirán	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
@@ -23542,7 +23542,7 @@
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 18	menos	_	ADV	RBR	Degree=Cmp	16	fixed	_	_
 19	en	en	ADP	IN	_	20	case	_	_
-20	2017	2017	NUM	CD	Gender=Masc|NumType=Card	11	obl	_	SpaceAfter=No
+20	2017	2017	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	11	obl	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = n04006010
@@ -23576,7 +23576,7 @@
 5-6	al	_	_	_	_	_	_	_	_
 5	a	a	ADP	INDT	_	7	case	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	24	24	NUM	CD	Gender=Masc|NumType=Card	4	obl	_	_
+7	24	24	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	obl	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	octubre	octubre	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	_
 10-11	del	_	_	_	_	_	_	_	_
@@ -23591,7 +23591,7 @@
 18	nuestro	nuestro	PRON	DTP$	Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	19	det	_	_
 19	diésel	diésel	NOUN	NN	Gender=Masc|Number=Sing	20	nsubj	_	_
 20	cuesta	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	ccomp	_	_
-21	1,335	1,335	NUM	CD	Gender=Masc|NumType=Card	22	nummod	_	_
+21	1,335	1,335	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	22	nummod	_	_
 22	euros	_	NOUN	NN	Gender=Masc|Number=Plur	20	obj	_	_
 23	por	por	ADP	IN	_	24	case	_	_
 24	litro	litro	NOUN	NN	Gender=Masc|Number=Sing	22	nmod	_	SpaceAfter=No
@@ -23605,7 +23605,7 @@
 32	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	33	det	_	_
 33	eurozona	eurozona	NOUN	NN	Gender=Fem|Number=Sing	30	nmod	_	_
 34	de	de	ADP	IN	_	36	case	_	_
-35	1,165	1,165	NUM	CD	Gender=Masc|NumType=Card	36	nummod	_	_
+35	1,165	1,165	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	36	nummod	_	_
 36	euros	_	NOUN	NN	Gender=Masc|Number=Plur	30	nmod	_	SpaceAfter=No
 37	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -23636,7 +23636,7 @@
 22	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
 23	igual	_	ADJ	JJ	Gender=Fem|Number=Sing	18	acl:relcl	_	_
 24	a	a	ADP	IN	_	26	case	_	_
-25	1,365	1,365	NUM	CD	Gender=Masc|NumType=Card	26	nummod	_	_
+25	1,365	1,365	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	26	nummod	_	_
 26	euros	_	NOUN	NN	Gender=Masc|Number=Plur	23	obl	_	_
 27	por	por	ADP	IN	_	28	case	_	_
 28	litro	litro	NOUN	NN	Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
@@ -24061,13 +24061,13 @@
 15-16	del	_	_	_	_	_	_	_	_
 15	de	de	ADP	INDT	_	18	case	_	_
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
-17	20	20	NUM	CD	Gender=Masc|NumType=Card	18	nummod	_	SpaceAfter=No
+17	20	20	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	18	nummod	_	SpaceAfter=No
 18	%	%	SYM	SYM	_	14	obl	_	SpaceAfter=No
 19	,	,	PUNCT	,	_	22	punct	_	_
 20	y	y	CCONJ	CC	_	22	cc	_	_
 21	ya	ya	ADV	RB	_	22	advmod	_	_
 22	hay	haber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
-23	600.000	600.000	NUM	CD	Gender=Masc|NumType=Card	24	nummod	_	_
+23	600.000	600.000	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	24	nummod	_	_
 24	ocupados	_	NOUN	NN	Gender=Masc|Number=Plur	22	obj	_	_
 25	más	_	ADV	RBR	Degree=Cmp	24	advmod	_	_
 26	que	que	SCONJ	IN	_	27	mark	_	_
@@ -24186,7 +24186,7 @@
 6	consultadas	consultar	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	3	punct	_	_
 8	«	«	PUNCT	``	_	11	punct	_	SpaceAfter=No
-9	100	100	NUM	CD	Gender=Masc|NumType=Card	10	nummod	_	SpaceAfter=No
+9	100	100	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	nummod	_	SpaceAfter=No
 10	%	%	SYM	SYM	_	11	advmod	_	_
 11	Cospedal	Cospedal	PROPN	NNP	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 12	»	»	PUNCT	''	_	11	punct	_	SpaceAfter=No
@@ -24624,7 +24624,7 @@
 # text_en = Founded in 1925 as games for everyman, the open air theater on the great steps in front of St. Michael still attracts a diverse public.
 1	Fundado	fundar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	acl	_	_
 2	en	en	ADP	IN	_	3	case	_	_
-3	1925	1925	NUM	CD	Gender=Masc|NumType=Card	1	obl	_	_
+3	1925	1925	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	1	obl	_	_
 4	como	como	ADP	IN	_	5	case	_	_
 5	entretenimiento	entretenimiento	NOUN	NN	Gender=Masc|Number=Sing	1	obl	_	_
 6	para	para	ADP	IN	_	8	case	_	_
@@ -24664,11 +24664,11 @@
 4	tuvo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	30	30	NUM	CD	Gender=Masc|NumType=Card	4	obl:tmod	_	_
+7	30	30	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	obl:tmod	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	abril	abril	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	_
 10	de	de	ADP	IN	_	11	case	_	_
-11	1995	1995	NUM	CD	Gender=Masc|NumType=Card	9	nmod	_	SpaceAfter=No
+11	1995	1995	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	9	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	4	punct	_	_
 
 # newdoc id = w02002
@@ -24680,7 +24680,7 @@
 3	telegráfico	telegráfico	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	_
 4	equipado	equipar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
 5	con	con	ADP	IN	_	7	case	_	_
-6	34	_	NUM	CD	Gender=Fem|NumType=Card	7	nummod	_	_
+6	34	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	7	nummod	_	_
 7	señales	_	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
 8	contra	contra	ADP	IN	_	9	case	_	_
 9	incendios	_	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	_
@@ -24688,7 +24688,7 @@
 11	en	en	ADP	IN	_	12	case	_	_
 12	funcionamiento	funcionamiento	NOUN	NN	Gender=Masc|Number=Sing	10	obl	_	_
 13	en	en	ADP	IN	_	14	case	_	_
-14	1882	1882	NUM	CD	Gender=Masc|NumType=Card	10	obl	_	SpaceAfter=No
+14	1882	1882	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	obl	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	10	punct	_	_
 
 # sent_id = w02002093
@@ -24718,7 +24718,7 @@
 21	y	y	CCONJ	CC	_	22	cc	_	_
 22	empleados	_	NOUN	NN	Gender=Masc|Number=Plur	20	conj	_	_
 23	en	en	ADP	IN	_	24	case	_	_
-24	1992	1992	NUM	CD	Gender=Masc|NumType=Card	18	obl	_	SpaceAfter=No
+24	1992	1992	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	18	obl	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	18	punct	_	_
 
 # sent_id = w02002120
@@ -24763,7 +24763,7 @@
 # text = En 1832, el antiguo monasterio fue vendido al fabricante Georg Reichenbach por el estado de Würtemberg, con la condición de que tenía que establecer una fábrica de algodón en él.
 # text_en = In 1832, the former cloister was sold to the manufacturer Georg Reichenbach by the state of Württemberg with the stipulation to establish a cotton factory there.
 1	En	en	ADP	IN	_	2	case	_	_
-2	1832	1832	NUM	CD	Gender=Masc|NumType=Card	8	obl	_	SpaceAfter=No
+2	1832	1832	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	8	obl	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 5	antiguo	antiguo	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	_
@@ -24816,7 +24816,7 @@
 13	década	década	NOUN	NN	Gender=Fem|Number=Sing	10	nmod	_	_
 14	de	de	ADP	IN	_	16	case	_	_
 15	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
-16	60	60	NUM	CD	Gender=Masc|NumType=Card	13	nmod	_	_
+16	60	60	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	13	nmod	_	_
 17	emigraron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 18	mayormente	mayormente	ADV	RB	_	17	advmod	_	_
 19	desde	desde	ADP	IN	_	20	case	_	_
@@ -24860,7 +24860,7 @@
 10	en	en	ADP	IN	_	12	case	_	_
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	siglo	siglo	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
-13	13	13	NUM	CD	Gender=Masc|NumType=Card	12	appos	_	_
+13	13	13	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	12	appos	_	_
 14	y	y	CCONJ	CC	_	16	cc	_	_
 15	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	aux:pass	_	_
 16	renovado	renovar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	conj	_	_
@@ -24960,7 +24960,7 @@
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	década	década	NOUN	NN	Gender=Fem|Number=Sing	8	nmod	_	_
 12	de	de	ADP	IN	_	13	case	_	_
-13	1990	1990	NUM	CD	Gender=Masc|NumType=Card	11	nmod	_	_
+13	1990	1990	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	11	nmod	_	_
 14	en	en	ADP	IN	_	16	case	_	_
 15	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	tejado	tejado	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	_
@@ -25004,7 +25004,7 @@
 10	desde	desde	ADP	IN	_	12	case	_	_
 11	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
 12	años	_	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	_
-13	60	60	NUM	CD	Gender=Masc|NumType=Card	12	appos	_	SpaceAfter=No
+13	60	60	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	12	appos	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = w02006081
@@ -25015,7 +25015,7 @@
 3	elecciones	_	NOUN	NN	Gender=Fem|Number=Plur	10	obl	_	_
 4	generales	_	ADJ	JJ	Gender=Fem|Number=Plur	3	amod	_	_
 5	de	de	ADP	IN	_	6	case	_	_
-6	2010	2010	NUM	CD	Gender=Masc|NumType=Card	3	nmod	_	_
+6	2010	2010	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	nmod	_	_
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	Partido	partido	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	Proper=True
 9	Laborista	laborista	ADJ	JJ	Gender=Masc|Number=Sing	8	amod	_	Proper=True
@@ -25054,7 +25054,7 @@
 1	En	en	ADP	IN	_	2	case	_	_
 2	abril	abril	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	_
 3	de	de	ADP	IN	_	4	case	_	_
-4	2012	2012	NUM	CD	Gender=Masc|NumType=Card	2	nmod	_	_
+4	2012	2012	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	nmod	_	_
 5	Erdogan	Erdogan	PROPN	NNP	Gender=Masc|Number=Sing	12	nsubj	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	9	punct	_	_
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
@@ -25231,7 +25231,7 @@
 21	vivió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	acl:relcl	_	_
 22	en	en	ADP	IN	_	24	case	_	_
 23	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
-24	3300	3300	NUM	CD	Gender=Masc|NumType=Card	21	obl	_	_
+24	3300	3300	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	21	obl	_	_
 25	a.	antes	ADV	RB	Abbr=Yes	24	advmod	_	_
 26	C	Cristo	PROPN	NNP	Abbr=Yes|Gender=Masc|Number=Sing	25	obl	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	2	punct	_	_
@@ -25468,7 +25468,7 @@
 8	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	nacionalsocialistas	_	NOUN	NN	Gender=Masc|Number=Plur	6	nmod	_	Proper=True
 10	en	en	ADP	IN	_	11	case	_	_
-11	1933	1933	NUM	CD	Gender=Masc|NumType=Card	3	nmod	_	_
+11	1933	1933	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	nmod	_	_
 12	hubo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	intentos	_	NOUN	NN	Gender=Masc|Number=Plur	12	obj	_	_
 14	dispersos	_	ADJ	JJ	Gender=Masc|Number=Plur	13	amod	_	_
@@ -25487,7 +25487,7 @@
 3	revolución	revolución	NOUN	NN	Gender=Fem|Number=Sing	19	obl	_	Proper=True
 4	rusa	_	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	Proper=True
 5	de	de	ADP	IN	_	6	case	_	_
-6	1917	1917	NUM	CD	Gender=Masc|NumType=Card	3	nmod	_	_
+6	1917	1917	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	nmod	_	_
 7	algunos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
 8	países	_	NOUN	NN	Gender=Masc|Number=Plur	19	nsubj	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	11	punct	_	_
@@ -25607,7 +25607,7 @@
 12	Treinta	treinta	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	13	nummod	_	Proper=True
 13	Años	_	NOUN	NN	Gender=Masc|Number=Plur	9	nmod	_	Proper=True
 14	en	en	ADP	IN	_	15	case	_	_
-15	1632	1632	NUM	CD	Gender=Masc|NumType=Card	6	obl	_	_
+15	1632	1632	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	6	obl	_	_
 16	por	por	ADP	IN	_	17	case	_	_
 17	tropas	_	NOUN	NN	Gender=Fem|Number=Plur	6	obl:agent	_	_
 18	suecas	_	ADJ	JJ	Gender=Fem|Number=Plur	17	amod	_	SpaceAfter=No|Proper=True
@@ -25673,7 +25673,7 @@
 26	hasta	hasta	ADP	IN	_	28	case	_	_
 27	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	año	año	NOUN	NN	Gender=Masc|Number=Sing	25	obl	_	_
-29	2002	2002	NUM	CD	Gender=Masc|NumType=Card	28	appos	_	SpaceAfter=No
+29	2002	2002	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	28	appos	_	SpaceAfter=No
 30	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = w02016060
@@ -25689,7 +25689,7 @@
 7	de	de	ADP	INDT	_	9	case	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	año	año	NOUN	NN	Gender=Masc|Number=Sing	3	nmod	_	_
-10	2004	2004	NUM	CD	Gender=Masc|NumType=Card	9	appos	_	SpaceAfter=No
+10	2004	2004	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	9	appos	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	3	punct	_	_
 12	Ulrich	Ulrich	PROPN	NNP	Gender=Masc|Number=Sing	22	nsubj	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	15	punct	_	_
@@ -25840,7 +25840,7 @@
 2	año	año	NOUN	NN	Gender=Masc|Number=Sing	8	obl:tmod	_	_
 3	siguiente	siguiente	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	5	punct	_	_
-5	1977	1977	NUM	CD	Gender=Masc|NumType=Card	2	appos	_	SpaceAfter=No
+5	1977	1977	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	appos	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	_	_
 7	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	_	_
 8	distinguido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -25929,14 +25929,14 @@
 2	principios	_	NOUN	NN	Gender=Masc|Number=Plur	7	obl	_	_
 3	de	de	ADP	IN	_	5	case	_	_
 4	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
-5	2000	2000	NUM	CD	Gender=Masc|NumType=Card	2	nmod	_	SpaceAfter=No
+5	2000	2000	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	2	punct	_	_
 7	hubieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	cinco	cinco	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	9	nummod	_	_
 9	doctores	_	NOUN	NN	Gender=Masc|Number=Plur	7	obj	_	_
 10	por	por	ADP	IN	_	13	case	_	_
 11	cada	_	DET	DT	Gender=Masc|Number=Plur|PronType=Tot	13	det	_	_
-12	100.000	100.000	NUM	CD	Gender=Masc|NumType=Card	13	nummod	_	_
+12	100.000	100.000	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	13	nummod	_	_
 13	habitantes	_	NOUN	NN	Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	7	punct	_	_
 
@@ -25950,7 +25950,7 @@
 5	de	de	ADP	IN	_	6	case	_	_
 6	periódico	periódico	NOUN	NN	Gender=Masc|Number=Sing	4	nmod	_	_
 7	de	de	ADP	IN	_	8	case	_	_
-8	2008	2008	NUM	CD	Gender=Masc|NumType=Card	4	nmod	_	_
+8	2008	2008	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	nmod	_	_
 9	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	10	nsubj	_	_
 10	describen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
@@ -25973,11 +25973,11 @@
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	Antártida	Antártida	PROPN	NNP	Gender=Fem|Number=Sing	3	obj	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	27	27	NUM	CD	Gender=Masc|NumType=Card	3	obl:tmod	_	_
+7	27	27	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	obl:tmod	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	enero	enero	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	_
 10	de	de	ADP	IN	_	11	case	_	_
-11	1820	1820	NUM	CD	Gender=Masc|NumType=Card	9	nmod	_	SpaceAfter=No
+11	1820	1820	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	9	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	15	punct	_	_
 13	tres	tres	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	14	nummod	_	_
 14	días	_	NOUN	NN	Gender=Masc|Number=Plur	15	obl:tmod	_	_
@@ -26000,7 +26000,7 @@
 31	en	en	ADP	IN	_	32	case	_	_
 32	noviembre	noviembre	NOUN	NN	Gender=Masc|Number=Sing	30	obl	_	_
 33	de	de	ADP	IN	_	34	case	_	_
-34	1820	1820	NUM	CD	Gender=Masc|NumType=Card	32	nmod	_	SpaceAfter=No
+34	1820	1820	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	32	nmod	_	SpaceAfter=No
 35	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = w03003039
@@ -26012,7 +26012,7 @@
 4	de	de	ADP	IN	_	5	case	_	_
 5	resistencia	resistencia	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	_
 6	de	de	ADP	IN	_	7	case	_	_
-7	1914	1914	NUM	CD	Gender=Masc|NumType=Card	5	nmod	_	SpaceAfter=No
+7	1914	1914	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	3	punct	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	barco	barco	NOUN	NN	Gender=Masc|Number=Sing	22	nsubj	_	_
@@ -26097,7 +26097,7 @@
 1	En	en	ADP	IN	_	3	case	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	siglo	siglo	NOUN	NN	Gender=Masc|Number=Sing	11	obl	_	_
-4	8	8	NUM	CD	Gender=Masc|NumType=Card	3	appos	_	_
+4	8	8	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	appos	_	_
 5	a.	antes	ADV	RB	Abbr=Yes	4	advmod	_	_
 6	C.	Cristo	PROPN	NNP	Abbr=Yes|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	3	punct	_	_
@@ -26159,7 +26159,7 @@
 1	Desde	desde	ADP	IN	_	3	case	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	siglo	siglo	NOUN	NN	Gender=Masc|Number=Sing	14	obl	_	_
-4	9	9	NUM	CD	Gender=Masc|NumType=Card	3	appos	_	_
+4	9	9	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	appos	_	_
 5	a.	antes	ADV	RB	Abbr=Yes	4	advmod	_	_
 6	C.	Cristo	PROPN	NNP	Abbr=Yes|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	3	punct	_	_
@@ -26224,7 +26224,7 @@
 3	de	de	ADP	INDT	_	2	fixed	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	siglo	siglo	NOUN	NN	Gender=Masc|Number=Sing	17	obl	_	_
-6	8	8	NUM	CD	Gender=Masc|NumType=Card	5	appos	_	_
+6	8	8	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	appos	_	_
 7	a.	antes	ADV	RB	Abbr=Yes	6	advmod	_	_
 8	C.	Cristo	PROPN	NNP	Abbr=Yes|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	5	punct	_	_
@@ -26370,7 +26370,7 @@
 11	-	-	PUNCT	-	_	12	punct	_	SpaceAfter=No
 12	febrero	febrero	NOUN	NN	Gender=Masc|Number=Sing	10	appos	_	_
 13	de	de	ADP	IN	_	14	case	_	_
-14	1794	1794	NUM	CD	Gender=Masc|NumType=Card	12	nmod	_	SpaceAfter=No
+14	1794	1794	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	12	nmod	_	SpaceAfter=No
 15	)	)	PUNCT	)	_	10	punct	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	3	punct	_	_
 17	relajando	relajar	VERB	VBG	VerbForm=Ger	24	advcl	_	_
@@ -26409,7 +26409,7 @@
 12	fueron	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	aux:pass	_	_
 13	cerradas	cerrar	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 14	en	en	ADP	IN	_	15	case	_	_
-15	1994	1994	NUM	CD	Gender=Masc|NumType=Card	13	obl	_	_
+15	1994	1994	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	13	obl	_	_
 16	cuando	cuando	ADV	WRB	PronType=Rel	19	advmod	_	_
 17	el	el	DET	PRP	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	nsubj	_	_
 18	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	compound:prt	_	_
@@ -26467,7 +26467,7 @@
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	verano	verano	NOUN	NN	Gender=Masc|Number=Sing	9	obj	_	_
 16	de	de	ADP	IN	_	17	case	_	_
-17	1947	1947	NUM	CD	Gender=Masc|NumType=Card	15	nmod	_	SpaceAfter=No
+17	1947	1947	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	15	nmod	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = w03010097
@@ -26507,7 +26507,7 @@
 2	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	primavera	primavera	NOUN	NN	Gender=Fem|Number=Sing	20	obl	_	_
 4	de	de	ADP	IN	_	5	case	_	_
-5	1948	1948	NUM	CD	Gender=Masc|NumType=Card	3	nmod	_	SpaceAfter=No
+5	1948	1948	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	9	punct	_	_
 7	con	con	ADP	IN	_	9	case	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
@@ -26561,7 +26561,7 @@
 17	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	chica	chica	NOUN	NN	Gender=Fem|Number=Sing	15	appos	_	_
 19	de	de	ADP	IN	_	21	case	_	_
-20	18	18	NUM	CD	Gender=Masc|NumType=Card	21	nummod	_	_
+20	18	18	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	21	nummod	_	_
 21	años	_	NOUN	NN	Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	,	_	23	punct	_	_
 23	hija	hija	NOUN	NN	Gender=Fem|Number=Sing	15	appos	_	_
@@ -26711,14 +26711,14 @@
 # text = En 1928, un campo de golf de 90 hectáreas fue construído en la parte noreste del parque, al lado de la pista.
 # text_en = In 1928, a 90-hectare golf course was built in the north-eastern part of the park, next to the racetrack.
 1	En	en	ADP	IN	_	2	case	_	_
-2	1928	1928	NUM	CD	Gender=Masc|NumType=Card	12	obl	_	SpaceAfter=No
+2	1928	1928	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	12	obl	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	campo	campo	NOUN	NN	Gender=Masc|Number=Sing	12	nsubj:pass	_	_
 6	de	de	ADP	IN	_	7	case	_	_
 7	golf	golf	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	_
 8	de	de	ADP	IN	_	10	case	_	_
-9	90	_	NUM	CD	Gender=Fem|NumType=Card	10	nummod	_	_
+9	90	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	10	nummod	_	_
 10	hectáreas	_	NOUN	NN	Gender=Fem|Number=Plur	5	nmod	_	_
 11	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	_	_
 12	construído	_	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	_
@@ -26744,7 +26744,7 @@
 # text = En 1976, la pista no estaba utilizándose más; en 1990, un incendio destruyó lo que quedaba de las tribunas de madera, las cuales luego fueron demolidas junto con los establos.
 # text_en = In 1976, the racecourse was no longer used; in 1990, a fire destroyed what remained of the wooden grandstands, which were later demolished along with the stables.
 1	En	en	ADP	IN	_	2	case	_	_
-2	1976	1976	NUM	CD	Gender=Masc|NumType=Card	8	obl	_	SpaceAfter=No
+2	1976	1976	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	8	obl	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	pista	pista	NOUN	NN	Gender=Fem|Number=Sing	8	nsubj	_	_
@@ -26756,7 +26756,7 @@
 10	más	_	ADV	RBR	Degree=Cmp	8	advmod	_	SpaceAfter=No
 11	;	;	PUNCT	:	_	17	punct	_	_
 12	en	en	ADP	IN	_	13	case	_	_
-13	1990	1990	NUM	CD	Gender=Masc|NumType=Card	17	obl	_	SpaceAfter=No
+13	1990	1990	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	17	obl	_	SpaceAfter=No
 14	,	,	PUNCT	,	_	13	punct	_	_
 15	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	incendio	incendio	NOUN	NN	Gender=Masc|Number=Sing	17	nsubj	_	_
@@ -26788,7 +26788,7 @@
 1	En	en	ADP	IN	_	2	case	_	_
 2	agosto	agosto	NOUN	NN	Gender=Masc|Number=Sing	10	obl	_	_
 3	de	de	ADP	IN	_	4	case	_	_
-4	1969	1969	NUM	CD	Gender=Masc|NumType=Card	2	nmod	_	SpaceAfter=No
+4	1969	1969	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	Papa	papa	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
@@ -27367,9 +27367,9 @@
 5	XX	xx	NUM	CD	Gender=Masc|NumForm=Roman|NumType=Card	4	appos	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	4	punct	_	_
 7	entre	entre	ADP	IN	_	8	case	_	_
-8	1904	1904	NUM	CD	Gender=Masc|NumType=Card	14	obl	_	_
+8	1904	1904	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	14	obl	_	_
 9	y	y	CCONJ	CC	_	10	cc	_	_
-10	1914	1914	NUM	CD	Gender=Masc|NumType=Card	8	conj	_	SpaceAfter=No
+10	1914	1914	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	8	conj	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	8	punct	_	_
 12	Antonio	Antonio	PROPN	NNP	Gender=Masc|Number=Sing	14	nsubj	_	_
 13	Gaudí	Gaudí	PROPN	NNP	Gender=Masc|Number=Sing	12	flat:name	_	_
@@ -27503,7 +27503,7 @@
 21	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	22	obj	_	_
 22	derrocó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	acl:relcl	_	_
 23	en	en	ADP	IN	_	24	case	_	_
-24	1879	1879	NUM	CD	Gender=Masc|NumType=Card	22	obl	_	SpaceAfter=No
+24	1879	1879	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	22	obl	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	16	punct	_	_
 
 # sent_id = w05003050
@@ -27619,7 +27619,7 @@
 6	en	en	ADP	IN	_	7	case	_	_
 7	octubre	octubre	NOUN	NN	Gender=Masc|Number=Sing	5	obl	_	_
 8	de	de	ADP	IN	_	9	case	_	_
-9	1777	1777	NUM	CD	Gender=Masc|NumType=Card	7	nmod	_	SpaceAfter=No
+9	1777	1777	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	7	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	24	punct	_	_
 11	cuando	cuando	ADV	WRB	PronType=Rel	24	advmod	_	_
 12	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
@@ -27868,7 +27868,7 @@
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	primavera	primavera	NOUN	NN	Gender=Fem|Number=Sing	6	obl	_	_
 12	de	de	ADP	IN	_	13	case	_	_
-13	1415	1415	NUM	CD	Gender=Masc|NumType=Card	11	nmod	_	_
+13	1415	1415	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	11	nmod	_	_
 14	y	y	CCONJ	CC	_	16	cc	_	_
 15	Enrique	Enrique	PROPN	NNP	Gender=Masc|Number=Sing	16	nsubj	_	_
 16	decidió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
@@ -27928,7 +27928,7 @@
 # text = En 1976 se reunió con una amiga que trabajaba en su productora The Rocket Record Company, Kiki Dee, para grabar lo que sería otro sencillo exitoso para el británico: "Don't Go Breaking My Heart".
 # text_en = In 1976 he met with a friend who worked with his record label The Rocket Record Company, Kiki Dee, to record what would be another remarkable success for him: "Don't Go Breaking My Heart".
 1	En	en	ADP	IN	_	2	case	_	_
-2	1976	1976	NUM	CD	Gender=Masc|NumType=Card	4	obl	_	_
+2	1976	1976	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	obl	_	_
 3	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	compound:prt	_	_
 4	reunió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	con	con	ADP	IN	_	7	case	_	_
@@ -28115,11 +28115,11 @@
 # text = El 1 de enero de 49 a. C., Marco Antonio leyó una carta de César en el Senado, en la cual el procónsul se declaraba amigo de la paz.
 # text_en = On the 1st January 49 BC, Marco Antonio read a declaration from Caesar in which the proconsul declared himself a friend of peace.
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	1	1	NUM	CD	Gender=Masc|NumType=Card	12	obl:tmod	_	_
+2	1	1	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	12	obl:tmod	_	_
 3	de	de	ADP	IN	_	4	case	_	_
 4	enero	enero	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
 5	de	de	ADP	IN	_	6	case	_	_
-6	49	49	NUM	CD	Gender=Masc|NumType=Card	4	nmod	_	_
+6	49	49	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	nmod	_	_
 7	a.	antes	ADV	RB	Abbr=Yes	6	advmod	_	_
 8	C.	Cristo	PROPN	NNP	Abbr=Yes|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	2	punct	_	_
