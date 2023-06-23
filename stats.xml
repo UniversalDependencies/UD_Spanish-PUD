@@ -32,7 +32,7 @@
     <tag name="X">13</tag><!-- cápita, per, _, bjórr, ey, kven, maiorum, meänkieli, mos, oblast -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="50">
+  <feats unique="51">
     <feat name="Abbr" value="Yes" upos="ADJ,ADV,NOUN,PROPN">33</feat><!-- a., C., C, d., EE., UU, ca. -->
     <feat name="Case" value="Acc" upos="PRON">105</feat><!-- lo, la, los, me, sí, You, las, mí, te -->
     <feat name="Case" value="Acc,Dat" upos="PRON">323</feat><!-- se, me, nos, os, te -->
@@ -55,6 +55,7 @@
     <feat name="Mood" value="Sub" upos="AUX,VERB">110</feat><!-- sea, hayan, hubiera, fueran, fuese, escogiera, haya, hubiese, produzcan, sean -->
     <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,PRON,PROPN,VERB">3431</feat><!-- los, las, que, sus, años, son, fueron, millones, han, muchos -->
     <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,PRON,PROPN,VERB">10463</feat><!-- el, la, un, una, su, que, es, lo, fue, ha -->
+    <feat name="NumForm" value="Word" upos="NUM">122</feat><!-- dos, tres, cuatro, mil, seis, cinco, diez, siete, III, treinta -->
     <feat name="NumType" value="Card" upos="DET,NUM,PRON">477</feat><!-- dos, tres, muchos, muchas, 1, 10, cuatro, 3, mil, seis -->
     <feat name="Person" value="1" upos="AUX,PRON,VERB">129</feat><!-- me, nos, yo, estamos, nuestro, debemos, he, mi, creo, hemos -->
     <feat name="Person" value="2" upos="AUX,PRON,VERB">21</feat><!-- You, te, tienes, Buck, Don, Knew, Knuck, Terminas, Ya, habéis -->

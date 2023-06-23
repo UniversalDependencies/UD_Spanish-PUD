@@ -36,6 +36,8 @@ employ ten-fold cross-validation.
 
 # Changelog
 
+* 2023-11-15 v2.13
+  * NumForm=Word used where appropriate.
 * 2023-05-15 v2.12
   * Por-nominals under participles changed from obl to obl:agent.
   * Spurious iobj changed to either obj or obl:arg.
