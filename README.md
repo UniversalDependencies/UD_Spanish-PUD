@@ -38,6 +38,8 @@ employ ten-fold cross-validation.
 
 * 2023-11-15 v2.13
   * NumForm=Word, NumForm=Digit and NumForm=Roman used where appropriate.
+  * "quién" is interrogative, not relative.
+  * "quien" is relative, not interrogative.
 * 2023-05-15 v2.12
   * Por-nominals under participles changed from obl to obl:agent.
   * Spurious iobj changed to either obj or obl:arg.

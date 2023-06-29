@@ -47,7 +47,7 @@
     <feat name="Degree" value="Sup" upos="ADJ">5</feat><!-- máxima, pésimo -->
     <feat name="Foreign" value="Yes" upos="X">1</feat><!-- maiorum -->
     <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">4522</feat><!-- la, las, una, su, que, esta, sus, guerra, parte, ciudad -->
-    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">7150</feat><!-- el, los, un, que, lo, su, años, este, año, lugar -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">7141</feat><!-- el, los, un, que, lo, su, años, este, año, lugar -->
     <feat name="Hyph" value="Yes" upos="ADJ">4</feat><!-- austro, co, franco, multi -->
     <feat name="Mood" value="Cnd" upos="AUX,VERB">54</feat><!-- podría, sería, debería, podrían, aplicaría, estaría, serían, asistiría, ayudaría, conocerían -->
     <feat name="Mood" value="Imp" upos="AUX,VERB">2</feat><!-- Don, Knuck -->
@@ -70,11 +70,11 @@
     <feat name="PronType" value="Art" upos="DET">2984</feat><!-- el, la, los, un, las, una, unos, unas -->
     <feat name="PronType" value="Dem" upos="DET">150</feat><!-- este, esta, esto, ese, eso, estos, esos, estas, esa, esas -->
     <feat name="PronType" value="Ind" upos="DET,PRON">126</feat><!-- muchos, muchas, otros, varios, otra, otro, algunos, varias, otras, The -->
-    <feat name="PronType" value="Int" upos="DET,PRON">10</feat><!-- qué, cuál, Cuáles -->
-    <feat name="PronType" value="Int,Rel" upos="PRON">16</feat><!-- quien, quienes, cuanto, quién, Quiénes -->
+    <feat name="PronType" value="Int" upos="DET,PRON">13</feat><!-- qué, cuál, quién, Cuáles, Quiénes -->
+    <feat name="PronType" value="Int,Rel" upos="PRON">2</feat><!-- cuanto -->
     <feat name="PronType" value="Neg" upos="DET">2</feat><!-- ninguna, ningún -->
     <feat name="PronType" value="Prs" upos="PRON">773</feat><!-- se, su, lo, sus, le, me, ellos, él, les, ella -->
-    <feat name="PronType" value="Rel" upos="ADV,DET,PRON">307</feat><!-- que, cuando, donde, cual, cuales, cuyo, cuya, cuyos -->
+    <feat name="PronType" value="Rel" upos="ADV,DET,PRON">318</feat><!-- que, cuando, donde, cual, cuales, quien, quienes, cuyo, cuya, cuyos -->
     <feat name="PronType" value="Tot" upos="DET">60</feat><!-- cada, todas, todo, todos, toda, ambos, Ambas -->
     <feat name="Reflex" value="Yes" upos="PRON">314</feat><!-- se, me, nos, sí, consigo -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">43</feat><!-- será, habrá, tendrá, hará, reducirá, Evaluaremos, Jugarán, asistirán, cambiará, contendrán -->

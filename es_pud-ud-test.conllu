@@ -1875,7 +1875,7 @@
 # text = ¿Quiénes son?
 # text_en = Who are they?
 1	¿	¿	PUNCT	.	_	3	punct	_	SpaceAfter=No
-2	Quiénes	_	PRON	WP	Number=Plur|PronType=Int,Rel	3	nsubj	_	_
+2	Quiénes	quién	PRON	WP	Number=Plur|PronType=Int	3	nsubj	_	_
 3	son	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	.	_	3	punct	_	_
 
@@ -2472,7 +2472,7 @@
 12	,	,	PUNCT	,	_	13	punct	_	_
 13	independientemente	independientemente	ADV	RB	_	8	advmod	_	_
 14	de	de	ADP	IN	_	17	case	_	_
-15	quien	quien	PRON	WP	Number=Sing|PronType=Int,Rel	17	nsubj	_	_
+15	quien	quien	PRON	REL	Number=Sing|PronType=Rel	17	nsubj	_	_
 16	resulte	_	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
 17	elegido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	xcomp	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	2	punct	_	_
@@ -3225,7 +3225,7 @@
 # text_en = Gomery, who led the commission of inquiry into the federal sponsorship scandal between 2004 and 2006, said such bodies are essential to help restore public confidence in the rule of law.
 1	Gomery	Gomery	PROPN	NNP	Gender=Masc|Number=Sing	23	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	,	_	4	punct	_	_
-3	quien	quien	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	4	nsubj	_	_
+3	quien	quien	PRON	REL	Number=Sing|PronType=Rel	4	nsubj	_	_
 4	estaba	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	acl:relcl	_	_
 5-6	al	_	_	_	_	_	_	_	_
 5	a	a	ADP	INDT	_	7	case	_	_
@@ -5173,7 +5173,7 @@
 # text = ¿Quién puede detener a este equipo australiano?
 # text_en = Who can stop this Australia side?
 1	¿	¿	PUNCT	.	_	4	punct	_	SpaceAfter=No
-2	Quién	quién	PRON	WP	Number=Sing|PronType=Int,Rel	4	nsubj	_	_
+2	Quién	quién	PRON	WP	Number=Sing|PronType=Int	4	nsubj	_	_
 3	puede	poder	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	detener	detener	VERB	VB	VerbForm=Inf	0	root	_	_
 5	a	a	ADP	IN	_	7	case	_	_
@@ -6446,7 +6446,7 @@
 13	litigio	litigio	NOUN	NN	Gender=Masc|Number=Sing	10	nmod	_	_
 14	exclusivamente	exclusivamente	ADV	RB	_	19	advmod	_	_
 15	a	a	ADP	IN	_	19	case	_	_
-16	quienes	_	PRON	REL	Gender=Masc|Number=Plur|PronType=Int,Rel	19	nsubj	_	_
+16	quienes	quien	PRON	REL	Number=Plur|PronType=Rel	19	nsubj	_	_
 17	estén	estar	AUX	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
 18	realmente	realmente	ADV	RB	_	19	advmod	_	_
 19	involucrados	involucrar	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8	xcomp	_	_
@@ -8058,7 +8058,7 @@
 12	facilidad	facilidad	NOUN	NN	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	6	punct	_	_
 14	¿	¿	PUNCT	.	_	17	punct	_	SpaceAfter=No
-15	quién	quién	PRON	REL	Number=Sing|PronType=Int,Rel	17	nsubj	_	_
+15	quién	quién	PRON	WP	Number=Sing|PronType=Int	17	nsubj	_	_
 16	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	17	obl:arg	_	_
 17	echaría	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
@@ -11009,7 +11009,7 @@
 12	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
 13	sobrino	sobrino	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
 14	Rastiv	Rastiv	PROPN	NNP	Gender=Masc|Number=Sing	13	appos	_	_
-15	quien	quien	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	17	nsubj	_	_
+15	quien	quien	PRON	REL	Number=Sing|PronType=Rel	17	nsubj	_	_
 16	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	compound:prt	_	_
 17	convirtió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_
 18	en	en	ADP	IN	_	20	case	_	_
@@ -16094,7 +16094,7 @@
 6	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
 7	jóvenes	_	NOUN	NN	Gender=Masc|Number=Plur	24	nsubj	_	_
 8	(	(	PUNCT	(	_	10	punct	_	SpaceAfter=No
-9	quienes	_	PRON	REL	Gender=Masc|Number=Plur|PronType=Int,Rel	10	nsubj	_	_
+9	quienes	quien	PRON	REL	Number=Plur|PronType=Rel	10	nsubj	_	_
 10	hicieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 12	gran	_	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	_
@@ -17787,7 +17787,7 @@
 1	Joseph	Joseph	PROPN	NNP	Gender=Masc|Number=Sing	31	nsubj:pass	_	_
 2	Darnand	Darnand	PROPN	NNP	Gender=Masc|Number=Sing	1	flat:name	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	6	punct	_	_
-4	quien	quien	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	6	nsubj	_	_
+4	quien	quien	PRON	REL	Number=Sing|PronType=Rel	6	nsubj	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	compound:prt	_	_
 6	convirtió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	acl:relcl	_	_
 7	en	en	ADP	IN	_	9	case	_	_
@@ -18228,7 +18228,7 @@
 22	Saul	Saul	PROPN	NNP	Gender=Masc|Number=Sing	19	conj	_	_
 23	Bass	Bass	PROPN	NNP	Gender=Masc|Number=Sing	22	flat:name	_	SpaceAfter=No
 24	,	,	PUNCT	,	_	26	punct	_	_
-25	quienes	_	PRON	REL	Gender=Masc|Number=Plur|PronType=Int,Rel	26	nsubj	_	_
+25	quienes	quien	PRON	REL	Number=Plur|PronType=Rel	26	nsubj	_	_
 26	producían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	19	acl:relcl	_	_
 27	afiches	_	NOUN	NN	Gender=Masc|Number=Plur	26	obj	_	_
 28	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	29	nsubj	_	_
@@ -19547,7 +19547,7 @@
 10	de	de	ADP	IN	_	11	case	_	_
 11	Rafferty	Rafferty	PROPN	NNP	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	17	punct	_	_
-13	quien	quien	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	17	nsubj	_	_
+13	quien	quien	PRON	REL	Number=Sing|PronType=Rel	17	nsubj	_	_
 14	también	también	ADV	RB	_	17	advmod	_	_
 15	era	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	cop	_	_
 16	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
@@ -19617,7 +19617,7 @@
 11	High	High	PROPN	NNP	Number=Sing	9	obl	_	_
 12	Murphy	Murphy	PROPN	NNP	Number=Sing	11	flat:name	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	15	punct	_	_
-14	quien	quien	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	15	nsubj	_	_
+14	quien	quien	PRON	REL	Number=Sing|PronType=Rel	15	nsubj	_	_
 15	murió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	acl:relcl	_	_
 16	en	en	ADP	IN	_	17	case	_	_
 17	1998	1998	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	15	obl	_	SpaceAfter=No
@@ -21041,7 +21041,7 @@
 5	,	,	PUNCT	,	_	6	punct	_	_
 6	Oscar	Oscar	PROPN	NNP	Gender=Masc|Number=Sing	4	appos	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	11	punct	_	_
-8	quien	quien	PRON	REL	Gender=Masc|Number=Sing|PronType=Int,Rel	11	nsubj	_	_
+8	quien	quien	PRON	REL	Number=Sing|PronType=Rel	11	nsubj	_	_
 9	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 10	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	artista	artista	NOUN	NN	Gender=Masc|Number=Sing	4	acl:relcl	_	_
@@ -27333,7 +27333,7 @@
 7	está	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
 8	muy	muy	ADV	RB	_	9	advmod	_	_
 9	claro	claro	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
-10	quien	quien	PRON	WP	Number=Sing|PronType=Int,Rel	14	nsubj	_	_
+10	quien	quien	PRON	REL	Number=Sing|PronType=Rel	14	nsubj	_	_
 11	de	de	ADP	IN	_	13	case	_	_
 12	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
 13	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	10	nmod	_	_
