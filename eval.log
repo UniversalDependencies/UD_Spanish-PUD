@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Spanish-PUD:
-commit 5a080caf1af0a0a441e1cd0df15ed3534de2d3c4
-Merge: 5f0d0bf ae30aaf
+commit b4fb14f185657e256cd2ee0edaedb71a8585dbda
+Merge: 5d40f42 da1c713
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 23287 of 23287 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.2957905299022.
@@ -25,6 +25,17 @@ Udapi: found 66 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 23287 words.
 Genres: found 2 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang es --max-err=10 UD_Spanish-PUD/es_pud-ud-test.conllu
+[Line 1456 Sent n01022010 Node 16]: [L3 Warning fixed-gap] Gaps in fixed expression [16, 18, 19] 'a * igual que'
+[Line 3288 Sent n01044009 Node 13]: [L3 Warning fixed-gap] Gaps in fixed expression [13, 15] 'a * menos'
+[Line 5610 Sent n01080042 Node 8]: [L3 Warning fixed-gap] Gaps in fixed expression [8, 10] 'a * final'
+[Line 5954 Sent n01086013 Node 12]: [L3 Warning fixed-gap] Gaps in fixed expression [12, 14] 'a * menos'
+[Line 6705 Sent n01096040 Node 2]: [L3 Warning fixed-gap] Gaps in fixed expression [2, 4] 'a * menos'
+[Line 10533 Sent w01005022 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'A * final'
+[Line 11569 Sent w01020017 Node 15]: [L3 Warning fixed-gap] Gaps in fixed expression [15, 17, 18] 'a * igual que'
+[Line 15311 Sent w01067103 Node 10]: [L3 Warning fixed-gap] Gaps in fixed expression [10, 12] 'a * menos'
+[Line 19631 Sent w01131060 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] 'A * menos'
+...suppressing further errors regarding Warning
+Warnings: 12
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
