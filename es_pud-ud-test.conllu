@@ -6327,7 +6327,7 @@
 3	de	de	ADP	IN	_	4	case	_	_
 4	RSPB	RSPB	PROPN	NNP	Number=Sing	2	nmod	_	_
 5	también	también	ADV	RB	_	8	advmod	_	_
-6	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	8	obj	_	_
+6	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	8	obl:arg	_	_
 7	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
 8	llevado	llevar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 9	a	a	ADP	IN	_	10	case	_	_
@@ -17280,11 +17280,11 @@
 18	póstumos	_	ADJ	JJ	Gender=Masc|Number=Plur	17	amod	_	_
 19	de	de	ADP	IN	_	21	case	_	_
 20	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
-21	emperadores	_	NOUN	NN	Gender=Masc|Number=Plur	17	nmod	_	_
+21	emperadores	emperador	NOUN	NN	Gender=Masc|Number=Plur	17	nmod	_	_
 22	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	23	expl:pass	_	_
-23	elegían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	12	conj	_	_
+23	elegían	elegir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	12	conj	_	_
 24	de	de	ADP	IN	_	26	case	_	_
-25	otra	_	DET	DT	Gender=Fem|Number=Sing|PronType=Ind	26	det	_	_
+25	otra	otro	DET	DT	Gender=Fem|Number=Sing|PronType=Ind	26	det	_	_
 26	manera	manera	NOUN	NN	Gender=Fem|Number=Sing	23	obl	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	12	punct	_	_
 
@@ -17303,11 +17303,11 @@
 10	,	,	PUNCT	,	_	5	punct	_	_
 11	a	a	ADP	IN	_	13	case	_	_
 12	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
-13	emperadores	_	NOUN	NN	Gender=Masc|Number=Plur	17	obl	_	_
+13	emperadores	emperador	NOUN	NN	Gender=Masc|Number=Plur	17	obl	_	_
 14	comúnmente	comúnmente	ADV	RB	_	17	advmod	_	_
 15	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	compound:prt	_	_
-16	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	17	obj	_	_
-17	llamaba	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+16	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	17	obl:arg	_	_
+17	llamaba	llamar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 18	por	por	ADP	IN	_	20	case	_	_
 19	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
 20	nombre	nombre	NOUN	NN	Gender=Masc|Number=Sing	17	obl	_	_
@@ -17317,11 +17317,11 @@
 24	tanto	tanto	ADV	RB	_	27	cc:preconj	_	_
 25	cuando	cuando	ADV	WRB	PronType=Rel	27	advmod	_	_
 26	estaban	estar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	27	cop	_	_
-27	vivos	_	ADJ	JJ	Gender=Masc|Number=Plur	17	advcl	_	_
+27	vivos	vivo	ADJ	JJ	Gender=Masc|Number=Plur	17	advcl	_	_
 28	como	como	ADP	IN	_	30	cc	_	_
 29	de	de	ADP	IN	_	30	case	_	_
 30	manera	manera	NOUN	NN	Gender=Fem|Number=Sing	27	conj	_	_
-31	póstuma	_	ADJ	JJ	Gender=Fem|Number=Sing	30	amod	_	SpaceAfter=No
+31	póstuma	póstumo	ADJ	JJ	Gender=Fem|Number=Sing	30	amod	_	SpaceAfter=No
 32	.	.	PUNCT	.	_	17	punct	_	_
 
 # newdoc id = w01096
@@ -24428,7 +24428,7 @@
 # sent_id = n05007014
 # text = Tal vez por eso un galope de espuma le aniebla las pupilas mientras la sílaba del tiempo descubre su cosecha y entrega su misterio al agua agavillada.
 # text_en = Perhaps that's why a surge of tears clouds his pupils while the syllable of time unearths his crop and surrenders his mystery to the bound waters.
-1	Tal	_	ADJ	JJ	Gender=Fem|Number=Sing	4	advmod	_	_
+1	Tal	tal	ADJ	JJ	Gender=Fem|Number=Sing	4	advmod	_	_
 2	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	1	fixed	_	_
 3	por	por	ADP	IN	_	4	case	_	_
 4	eso	eso	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	10	obl	_	_
@@ -24439,7 +24439,7 @@
 9	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	10	obl:arg	_	_
 10	aniebla	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
-12	pupilas	_	NOUN	NN	Gender=Fem|Number=Plur	10	obj	_	_
+12	pupilas	pupila	NOUN	NN	Gender=Fem|Number=Plur	10	obj	_	_
 13	mientras	mientras	ADV	WRB	_	19	mark	_	_
 14	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	sílaba	sílaba	NOUN	NN	Gender=Fem|Number=Sing	19	nsubj	_	_
@@ -24447,29 +24447,29 @@
 16	de	de	ADP	INDT	_	18	case	_	_
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	tiempo	tiempo	NOUN	NN	Gender=Masc|Number=Sing	15	nmod	_	_
-19	descubre	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
-20	su	_	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	det	_	_
+19	descubre	descubrir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+20	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	det	_	_
 21	cosecha	cosecha	NOUN	NN	Gender=Fem|Number=Sing	19	obj	_	_
 22	y	y	CCONJ	CC	_	23	cc	_	_
-23	entrega	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	conj	_	_
+23	entrega	entregar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	conj	_	_
 24	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	25	det	_	_
 25	misterio	misterio	NOUN	NN	Gender=Masc|Number=Sing	23	obj	_	_
 26-27	al	_	_	_	_	_	_	_	_
 26	a	a	ADP	INDT	_	28	case	_	_
 27	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	agua	agua	NOUN	NN	Gender=Fem|Number=Sing	23	obl	_	_
-29	agavillada	_	ADJ	JJ	Gender=Fem|Number=Sing	28	amod	_	SpaceAfter=No
+29	agavillada	agavillado	ADJ	JJ	Gender=Fem|Number=Sing	28	amod	_	SpaceAfter=No
 30	.	.	PUNCT	.	_	10	punct	_	_
 
 # sent_id = n05007025
 # text = Y hay que saludarles con el espíritu abierto y la mente despejada porque forman la generación nueva de la belleza y la esperanza.
 # text_en = And they must be greeted with an open spirit and clear mind because they form the new generation of beauty and hope.
-1	Y	y	CCONJ	CC	_	4	discourse	_	_
+1	Y	y	CCONJ	CC	_	2	cc	_	_
 2	hay	haber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	IN	_	4	mark	_	_
 4-5	saludarles	_	_	_	_	_	_	_	_
 4	saludar	saludar	VERB	VB	VerbForm=Inf	2	xcomp	_	_
-5	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	4	obj	_	_
+5	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	4	obl:arg	_	_
 6	con	con	ADP	IN	_	8	case	_	_
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	espíritu	espíritu	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	_
@@ -24477,19 +24477,19 @@
 10	y	y	CCONJ	CC	_	12	cc	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	mente	mente	NOUN	NN	Gender=Fem|Number=Sing	8	conj	_	_
-13	despejada	_	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	_
+13	despejada	despejado	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	_
 14	porque	porque	SCONJ	IN	_	15	mark	_	_
-15	forman	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+15	forman	formar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
 16	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	generación	generación	NOUN	NN	Gender=Fem|Number=Sing	15	obj	_	_
-18	nueva	_	ADJ	JJ	Gender=Fem|Number=Sing	17	amod	_	_
+18	nueva	nuevo	ADJ	JJ	Gender=Fem|Number=Sing	17	amod	_	_
 19	de	de	ADP	IN	_	21	case	_	_
 20	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	belleza	belleza	NOUN	NN	Gender=Fem|Number=Sing	17	nmod	_	_
 22	y	y	CCONJ	CC	_	24	cc	_	_
 23	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
 24	esperanza	esperanza	NOUN	NN	Gender=Fem|Number=Sing	21	conj	_	SpaceAfter=No
-25	.	.	PUNCT	.	_	4	punct	_	_
+25	.	.	PUNCT	.	_	2	punct	_	_
 
 # newdoc id = n05008
 # sent_id = n05008012
@@ -24499,7 +24499,7 @@
 2	eso	eso	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	8	obl	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	Trump	Trump	PROPN	NNP	Gender=Masc|Number=Sing	8	nsubj	_	_
-5	no	_	ADV	RB	Polarity=Neg	8	advmod	_	_
+5	no	no	ADV	RB	Polarity=Neg	8	advmod	_	_
 6	está	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 7	muy	muy	ADV	RB	_	8	advmod	_	_
 8	preocupado	preocupado	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
@@ -24518,10 +24518,10 @@
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	voto	voto	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	anticipado	anticipado	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	_
-4	sugiere	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	sugiere	sugerir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	que	que	SCONJ	IN	_	15	mark	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	15	punct	_	_
-7	esta	_	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
+7	esta	esto	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
 8	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	15	obl:tmod	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	8	punct	_	_
 10	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
@@ -24529,19 +24529,19 @@
 12	número	número	NOUN	NN	Gender=Masc|Number=Sing	15	nsubj	_	_
 13	de	de	ADP	IN	_	14	case	_	_
 14	latinoamericanos	_	NOUN	NN	Gender=Masc|Number=Plur	12	nmod	_	Proper=True
-15	saldrá	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	ccomp	_	_
+15	saldrá	salir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	ccomp	_	_
 16	a	a	ADP	IN	_	17	case	_	_
 17	votar	votar	VERB	VB	VerbForm=Inf	15	xcomp	_	SpaceAfter=No
 18	,	,	PUNCT	,	_	22	punct	_	_
 19	pero	pero	CCONJ	CC	_	22	cc	_	_
-20	no	_	ADV	RB	Polarity=Neg	22	advmod	_	_
+20	no	no	ADV	RB	Polarity=Neg	22	advmod	_	_
 21	está	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
 22	claro	claro	ADJ	JJ	Gender=Masc|Number=Sing	4	conj	_	_
 23	si	si	SCONJ	IN	_	26	mark	_	_
 24	este	este	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	25	det	_	_
 25	aumento	aumento	NOUN	NN	Gender=Masc|Number=Sing	26	nsubj	_	_
-26	tendrá	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	22	csubj	_	_
-27	alguna	_	DET	DT	Gender=Fem|Number=Sing|PronType=Ind	28	det	_	_
+26	tendrá	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	22	csubj	_	_
+27	alguna	alguno	DET	DT	Gender=Fem|Number=Sing|PronType=Ind	28	det	_	_
 28	repercusión	repercusión	NOUN	NN	Gender=Fem|Number=Sing	26	obj	_	SpaceAfter=No
 29	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -24549,36 +24549,36 @@
 # sent_id = n05009025
 # text = Habrá movilizaciones y más cosas, ya está todo previsto, dicen a EL MUNDO los opositores.
 # text_en = "There will be protests and other things, it's all already planned," the opposition told El Mundo.
-1	Habrá	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
-2	movilizaciones	_	NOUN	NN	Gender=Fem|Number=Plur	1	obj	_	_
+1	Habrá	haber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	movilizaciones	movilización	NOUN	NN	Gender=Fem|Number=Plur	1	obj	_	_
 3	y	y	CCONJ	CC	_	5	cc	_	_
-4	más	_	ADV	RBR	Degree=Cmp	5	advmod	_	_
-5	cosas	_	NOUN	NN	Gender=Fem|Number=Plur	2	conj	_	SpaceAfter=No
+4	más	más	ADV	RBR	Degree=Cmp	5	advmod	_	_
+5	cosas	cosa	NOUN	NN	Gender=Fem|Number=Plur	2	conj	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	10	punct	_	_
 7	ya	ya	ADV	RB	_	10	advmod	_	_
 8	está	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 9	todo	todo	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
 10	previsto	previsto	ADJ	JJ	Gender=Masc|Number=Sing	1	parataxis	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	12	punct	_	_
-12	dicen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+12	dicen	decir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 13	a	a	ADP	IN	_	15	case	_	_
 14	EL	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	Proper=True
 15	MUNDO	mundo	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	Proper=True
 16	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
-17	opositores	_	NOUN	NN	Gender=Masc|Number=Plur	12	nsubj	_	SpaceAfter=No
+17	opositores	opositor	NOUN	NN	Gender=Masc|Number=Plur	12	nsubj	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = n05009030
 # text = Decenas de seguidores del FSLN celebran ya el triunfo en la Plaza de las Victorias.
 # text_en = Dozens of FSLN followers are already celebrating the victory in the Plaza de las Victorias.
-1	Decenas	_	NOUN	NN	Gender=Fem|Number=Plur	7	nsubj	_	_
+1	Decenas	decena	NOUN	NN	Gender=Fem|Number=Plur	7	nsubj	_	_
 2	de	de	ADP	IN	_	3	case	_	_
-3	seguidores	_	NOUN	NN	Gender=Masc|Number=Plur	1	nmod	_	_
+3	seguidores	seguidor	NOUN	NN	Gender=Masc|Number=Plur	1	nmod	_	_
 4-5	del	_	_	_	_	_	_	_	_
 4	de	de	ADP	INDT	_	6	case	_	_
 5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	FSLN	FSLN	PROPN	NNP	Gender=Masc|Number=Sing	3	nmod	_	_
-7	celebran	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	celebran	celebrar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	ya	ya	ADV	RB	_	7	advmod	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	triunfo	triunfo	NOUN	NN	Gender=Masc|Number=Sing	7	obj	_	_
@@ -24587,7 +24587,7 @@
 13	Plaza	plaza	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	Proper=True
 14	de	de	ADP	IN	_	16	case	_	Proper=True
 15	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	Proper=True
-16	Victorias	_	NOUN	NN	Gender=Fem|Number=Plur	13	nmod	_	SpaceAfter=No|Proper=True
+16	Victorias	victoria	NOUN	NN	Gender=Fem|Number=Plur	13	nmod	_	SpaceAfter=No|Proper=True
 17	.	.	PUNCT	.	_	7	punct	_	_
 
 # newdoc id = n05010
@@ -24596,18 +24596,18 @@
 # text_en = May has received great criticism for avoiding and not responding openly to the media after the judicial ruling on Brexit.
 1	May	May	PROPN	NNP	Gender=Fem|Number=Sing	3	nsubj	_	_
 2	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	_
-3	recibido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-4	grandes	_	ADJ	JJ	Gender=Fem|Number=Plur	5	amod	_	_
-5	críticas	_	NOUN	NN	Gender=Fem|Number=Plur	3	obj	_	_
+3	recibido	recibir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	grandes	grande	ADJ	JJ	Gender=Fem|Number=Plur	5	amod	_	_
+5	críticas	crítica	NOUN	NN	Gender=Fem|Number=Plur	3	obj	_	_
 6	por	por	ADP	IN	_	8	case	_	_
-7	no	_	ADV	RB	Polarity=Neg	8	advmod	_	_
+7	no	no	ADV	RB	Polarity=Neg	8	advmod	_	_
 8	responder	responder	VERB	VB	VerbForm=Inf	3	xcomp	_	_
 9	abiertamente	abiertamente	ADV	RB	_	8	advmod	_	_
 10	y	y	CCONJ	CC	_	11	cc	_	_
 11	eludir	eludir	VERB	VB	VerbForm=Inf	8	conj	_	_
 12	a	a	ADP	IN	_	14	case	_	_
 13	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
-14	medios	_	NOUN	NN	Gender=Masc|Number=Plur	11	obl	_	_
+14	medios	medio	NOUN	NN	Gender=Masc|Number=Plur	11	obl	_	_
 15	tras	tras	ADP	IN	_	17	case	_	_
 16	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	fallo	fallo	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	_
@@ -24641,14 +24641,14 @@
 16	libre	libre	ADJ	JJ	Gender=Masc|Number=Sing	15	amod	_	_
 17	en	en	ADP	IN	_	20	case	_	_
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
-19	gran	_	ADJ	JJ	Gender=Fem|Number=Sing	20	amod	_	_
+19	gran	gran	ADJ	JJ	Gender=Fem|Number=Sing	20	amod	_	_
 20	escalinata	escalinata	NOUN	NN	Gender=Fem|Number=Sing	12	nmod	_	_
 21	delante	delante	ADV	RB	_	20	advmod	_	_
 22	de	de	ADP	IN	_	24	case	_	_
 23	San	san	ADJ	JJ	Gender=Masc|Number=Sing	24	amod	_	Proper=True
 24	Miguel	Miguel	PROPN	NNP	Gender=Masc|Number=Sing	21	obl	_	_
 25	todavía	todavía	ADV	RB	_	26	advmod	_	_
-26	atrae	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+26	atrae	atraer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 27	a	a	ADP	IN	_	29	case	_	_
 28	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
 29	público	público	NOUN	NN	Gender=Masc|Number=Sing	26	obl	_	_
@@ -24659,9 +24659,9 @@
 # text = La alegre dedicatoria tuvo lugar el 30 de abril de 1995.
 # text_en = The festive dedication took place on April 30, 1955.
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-2	alegre	_	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	_
+2	alegre	alegre	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	_
 3	dedicatoria	dedicatoria	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	_
-4	tuvo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	tuvo	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	30	30	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	obl:tmod	_	_
@@ -24680,11 +24680,11 @@
 3	telegráfico	telegráfico	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	_
 4	equipado	equipar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
 5	con	con	ADP	IN	_	7	case	_	_
-6	34	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	7	nummod	_	_
-7	señales	_	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
+6	34	34	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	7	nummod	_	_
+7	señales	señal	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
 8	contra	contra	ADP	IN	_	9	case	_	_
-9	incendios	_	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	_
-10	entró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	incendios	incendio	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	_
+10	entró	entrar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	en	en	ADP	IN	_	12	case	_	_
 12	funcionamiento	funcionamiento	NOUN	NN	Gender=Masc|Number=Sing	10	obl	_	_
 13	en	en	ADP	IN	_	14	case	_	_
@@ -24694,14 +24694,14 @@
 # sent_id = w02002093
 # text = Terrenos del antiguo teatro de marionetas, que había sido dado a la comunidad, fueron tomados por jugadores y empleados en 1992.
 # text_en = In 1992, grounds of the former puppet theater, which had been left to the commune, were taken over by players and employees.
-1	Terrenos	_	NOUN	NN	Gender=Masc|Number=Plur	18	nsubj:pass	_	_
+1	Terrenos	terreno	NOUN	NN	Gender=Masc|Number=Plur	18	nsubj:pass	_	_
 2-3	del	_	_	_	_	_	_	_	_
 2	de	de	ADP	INDT	_	5	case	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 4	antiguo	antiguo	ADJ	JJ	Gender=Masc|Number=Sing	5	amod	_	_
 5	teatro	teatro	NOUN	NN	Gender=Masc|Number=Sing	1	nmod	_	_
 6	de	de	ADP	IN	_	7	case	_	_
-7	marionetas	_	NOUN	NN	Gender=Fem|Number=Plur	5	nmod	_	SpaceAfter=No
+7	marionetas	marioneta	NOUN	NN	Gender=Fem|Number=Plur	5	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	12	punct	_	_
 9	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	12	nsubj:pass	_	_
 10	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	_
@@ -24714,9 +24714,9 @@
 17	fueron	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	18	aux:pass	_	_
 18	tomados	tomar	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 19	por	por	ADP	IN	_	20	case	_	_
-20	jugadores	_	NOUN	NN	Gender=Masc|Number=Plur	18	obl:agent	_	_
+20	jugadores	jugador	NOUN	NN	Gender=Masc|Number=Plur	18	obl:agent	_	_
 21	y	y	CCONJ	CC	_	22	cc	_	_
-22	empleados	_	NOUN	NN	Gender=Masc|Number=Plur	20	conj	_	_
+22	empleados	empleado	NOUN	NN	Gender=Masc|Number=Plur	20	conj	_	_
 23	en	en	ADP	IN	_	24	case	_	_
 24	1992	1992	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	18	obl	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	18	punct	_	_
@@ -24731,8 +24731,8 @@
 5	uno	uno	NOUN	NN	Gender=Masc|Number=Sing	3	obl	_	_
 6	de	de	ADP	IN	_	9	case	_	_
 7	los	el	DET	PDT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
-8	pocos	_	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	9	det	_	_
-9	edificios	_	NOUN	NN	Gender=Masc|Number=Plur	5	nmod	_	_
+8	pocos	poco	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	9	det	_	_
+9	edificios	edificio	NOUN	NN	Gender=Masc|Number=Plur	5	nmod	_	_
 10-11	del	_	_	_	_	_	_	_	_
 10	de	de	ADP	INDT	_	12	case	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
@@ -24746,16 +24746,16 @@
 19	salvado	salvar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl:relcl	_	_
 20	de	de	ADP	IN	_	22	case	_	_
 21	ser	ser	AUX	VB	VerbForm=Inf	22	aux:pass	_	_
-22	destruido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	19	xcomp	_	_
+22	destruido	destruir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	19	xcomp	_	_
 23-24	al	_	_	_	_	_	_	_	_
 23	a	a	ADP	INDT	_	25	case	_	_
 24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	final	final	NOUN	NN	Gender=Masc|Number=Sing	19	obl	_	_
 26	de	de	ADP	IN	_	29	case	_	_
 27	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
-28	Segunda	_	ADJ	JJ	Gender=Fem|Number=Sing	29	amod	_	Proper=True
+28	Segunda	segundo	ADJ	JJ	Gender=Fem|Number=Sing	29	amod	_	Proper=True
 29	Guerra	guerra	NOUN	NN	Gender=Fem|Number=Sing	25	nmod	_	Proper=True
-30	Mundial	_	ADJ	JJ	Gender=Fem|Number=Sing	29	amod	_	SpaceAfter=No|Proper=True
+30	Mundial	mundial	ADJ	JJ	Gender=Fem|Number=Sing	29	amod	_	SpaceAfter=No|Proper=True
 31	.	.	PUNCT	.	_	3	punct	_	_
 
 # newdoc id = w02003
@@ -24769,7 +24769,7 @@
 5	antiguo	antiguo	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	_
 6	monasterio	monasterio	NOUN	NN	Gender=Masc|Number=Sing	8	nsubj:pass	_	_
 7	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	_	_
-8	vendido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	vendido	vender	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 9-10	al	_	_	_	_	_	_	_	_
 9	a	a	ADP	INDT	_	11	case	_	_
 10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
@@ -24785,11 +24785,11 @@
 20	con	con	ADP	IN	_	22	case	_	_
 21	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	condición	condición	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
-23	de	de	ADP	IN	_	27	case	_	_
-24	que	que	SCONJ	IN	_	27	mark	_	_
-25	tenía	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	27	aux	_	_
-26	que	que	ADP	IN	_	25	fixed	_	_
-27	establecer	establecer	VERB	VB	VerbForm=Inf	22	xcomp	_	_
+23	de	de	ADP	IN	_	25	mark	_	_
+24	que	que	SCONJ	IN	_	25	mark	_	_
+25	tenía	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	acl	_	_
+26	que	que	SCONJ	IN	_	27	mark	_	_
+27	establecer	establecer	VERB	VB	VerbForm=Inf	25	xcomp	_	_
 28	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
 29	fábrica	fábrica	NOUN	NN	Gender=Fem|Number=Sing	27	obj	_	_
 30	de	de	ADP	IN	_	31	case	_	_
