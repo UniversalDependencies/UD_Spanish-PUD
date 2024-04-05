@@ -4412,14 +4412,14 @@
 # text = Cuando le imito, me siento poderoso, explicó John Di Domenico, el imitador de Donald Trump, en Slate el año pasado.
 # text_en = “When I’m playing him, I feel powerful,” the Donald Trump impersonator John Di Domenico explained to Slate last year.
 1	Cuando	cuando	ADV	WRB	PronType=Rel	3	advmod	_	_
-2	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
-3	imito	imitar	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	advcl	_	SpaceAfter=No
+2	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obl:arg	_	_
+3	imito	imitar	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
-5	me	yo	PRON	SE	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	compound:prt	_	_
-6	siento	sentir	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
-7	poderoso	poderoso	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-8	,	,	PUNCT	,	_	9	punct	_	_
-9	explicó	explicar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	_
+5	me	yo	PRON	SE	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	expl:pv	_	_
+6	siento	sentir	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
+7	poderoso	poderoso	ADJ	JJ	Gender=Masc|Number=Sing	6	xcomp	_	SpaceAfter=No
+8	,	,	PUNCT	,	_	6	punct	_	_
+9	explicó	explicar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	John	John	PROPN	NNP	Gender=Masc|Number=Sing	9	nsubj	_	_
 11	Di	Di	PROPN	NNP	Gender=Masc|Number=Sing	10	flat:name	_	_
 12	Domenico	Domenico	PROPN	NNP	Gender=Masc|Number=Sing	10	flat:name	_	SpaceAfter=No
@@ -4435,7 +4435,7 @@
 22	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	año	año	NOUN	NN	Gender=Masc|Number=Sing	9	obl:tmod	_	_
 24	pasado	pasado	ADJ	JJ	Gender=Masc|Number=Sing	23	amod	_	SpaceAfter=No
-25	.	.	PUNCT	.	_	7	punct	_	_
+25	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = n01061041
 # text = A medida que aumenta la histeria por las elección presidencial de 2016, a Karel le preocupa cada vez más algo más amenazador que las tonterías.
@@ -19575,10 +19575,10 @@
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	canción	canción	NOUN	NN	Gender=Fem|Number=Sing	5	nmod	_	_
 9	"	"	PUNCT	``	_	14	punct	_	SpaceAfter=No
-10	Her	her	PRON	DTP$	Gender=Fem|Foreign=Yes|Number=Sing|Person=3|PronType=Prs	11	det	_	Lang=en|Proper=True
+10	Her	her	PRON	DTP$	Foreign=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	det	_	Lang=en|Proper=True
 11	Father	father	NOUN	NN	Foreign=Yes|Number=Sing	14	nsubj	_	Lang=en|Proper=True
 12-13	Didn't	_	_	_	_	_	_	_	Lang=en|Proper=True
-12	Did	do	AUX	VBC	Foreign=Yes|Mood=Ind|Tense=Past|VerbForm=Fin	14	aux	_	Lang=en|SpaceAfter=No|Proper=True
+12	Did	do	AUX	VBC	Foreign=Yes|Mood=Ind|Tense=Past|VerbForm=Fin	14	aux	_	Lang=en|Proper=True
 13	n't	not	PART	RB	Polarity=Neg	14	advmod	_	Lang=en|Proper=True
 14	Like	like	VERB	VB	Foreign=Yes|VerbForm=Inf	8	appos	_	Lang=en|Proper=True
 15	Me	I	PRON	PRP	Case=Acc|Foreign=Yes|Number=Sing|Person=1|PronType=Prs	14	obj	_	Lang=en|Proper=True
