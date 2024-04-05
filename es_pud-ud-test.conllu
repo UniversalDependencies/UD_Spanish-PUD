@@ -522,10 +522,10 @@
 6	constantemente	constantemente	ADV	RB	_	5	advmod	_	_
 7	durante	durante	ADP	IN	_	9	case	_	_
 8	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
-9	años	_	NOUN	NN	Gender=Masc|Number=Plur	5	obl	_	_
+9	años	año	NOUN	NN	Gender=Masc|Number=Plur	5	obl	_	_
 10	—	—	PUNCT	-	_	12	punct	_	_
 11	únicamente	únicamente	ADV	RB	_	12	advmod	_	_
-12	votó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
+12	votó	votar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
 13	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	11	11	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	12	obj	_	_
 15	por	por	ADP	IN	_	16	case	_	_
@@ -541,7 +541,7 @@
 23	día	día	NOUN	NN	Gender=Masc|Number=Sing	20	obl	_	_
 24	de	de	ADP	IN	_	26	case	_	_
 25	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	_	_
-26	elecciones	_	NOUN	NN	Gender=Fem|Number=Plur	23	nmod	_	_
+26	elecciones	elección	NOUN	NN	Gender=Fem|Number=Plur	23	nmod	_	_
 27	en	en	ADP	IN	_	28	case	_	_
 28	1996	1996	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	26	nmod	_	SpaceAfter=No
 29	,	,	PUNCT	,	_	32	punct	_	_
@@ -554,7 +554,7 @@
 35	Censo	censo	NOUN	NN	Gender=Masc|Number=Sing	32	nmod	_	Proper=True
 36	—	—	PUNCT	-	_	38	punct	_	_
 37	y	y	CCONJ	CC	_	38	cc	_	_
-38	parece	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+38	parece	parecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
 39	que	que	SCONJ	IN	_	40	mark	_	_
 40	volverá	volver	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	38	ccomp	_	_
 41	a	a	ADP	IN	_	42	mark	_	_
@@ -580,8 +580,8 @@
 9	solitario	solitario	ADJ	JJ	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	13	punct	_	_
 11	pero	pero	CCONJ	CC	_	13	cc	_	_
-12	no	_	ADV	RB	Polarity=Neg	13	advmod	_	_
-13	está	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+12	no	no	ADV	RB	Polarity=Neg	13	advmod	_	_
+13	está	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
 14	siempre	siempre	ADV	RB	_	15	advmod	_	_
 15	solo	solo	ADV	RB	_	13	advmod	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	6	punct	_	_
@@ -592,30 +592,30 @@
 1	Hemos	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	2	aux	_	_
 2	pedido	pedir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 3	a	a	ADP	IN	_	5	case	_	_
-4	otros	_	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	5	det	_	_
-5	países	_	NOUN	NN	Gender=Masc|Number=Plur	2	obl	_	_
+4	otros	otro	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	5	det	_	_
+5	países	país	NOUN	NN	Gender=Masc|Number=Plur	2	obl	_	_
 6	que	que	SCONJ	IN	_	8	mark	_	_
 7	nos	yo	PRON	PRP	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	8	obj	_	_
-8	ayuden	_	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+8	ayuden	ayudar	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
 9	a	a	ADP	IN	_	10	case	_	_
 10	poblar	poblar	VERB	VB	VerbForm=Inf	8	xcomp	_	_
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	zoo	zoo	NOUN	NN	Gender=Masc|Number=Sing	10	obj	_	_
 13	con	con	ADP	IN	_	15	case	_	_
-14	diferentes	_	ADJ	JJ	Gender=Fem|Number=Plur	15	amod	_	_
-15	especies	_	NOUN	NN	Gender=Fem|Number=Plur	12	nmod	_	_
+14	diferentes	diferente	ADJ	JJ	Gender=Fem|Number=Plur	15	amod	_	_
+15	especies	especie	NOUN	NN	Gender=Fem|Number=Plur	12	nmod	_	_
 16	de	de	ADP	IN	_	17	case	_	_
-17	animales	_	NOUN	NN	Gender=Masc|Number=Plur	15	nmod	_	SpaceAfter=No
+17	animales	animal	NOUN	NN	Gender=Masc|Number=Plur	15	nmod	_	SpaceAfter=No
 18	,	,	PUNCT	,	_	23	punct	_	_
 19	entre	entre	ADP	IN	_	21	case	_	_
 20	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
 21	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	23	obl	_	_
 22	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	23	expl:pass	_	_
-23	incluye	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
+23	incluye	incluir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
 24	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	cerdo	cerdo	NOUN	NN	Gender=Masc|Number=Sing	23	nsubj:pass	_	SpaceAfter=No
 26	,	,	PUNCT	,	_	27	punct	_	_
-27	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	parataxis	_	_
+27	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	parataxis	_	_
 28	Saqib	Saqib	PROPN	NNP	Gender=Masc|Number=Sing	27	nsubj	_	SpaceAfter=No
 29	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -626,15 +626,15 @@
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	señor	señor	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	Panvalkar	Panvalkar	PROPN	NNP	Gender=Masc|Number=Sing	2	appos	_	_
-4	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	que	que	SCONJ	IN	_	6	mark	_	_
-6	llegó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ccomp	_	_
+6	llegó	llegar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ccomp	_	_
 7	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	momento	momento	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	_
 9	en	en	ADP	IN	_	11	case	_	_
 10	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	12	obl	_	_
-12	sintió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	acl:relcl	_	_
+12	sintió	sentir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	acl:relcl	_	_
 13	que	que	SCONJ	IN	_	15	mark	_	_
 14	debía	deber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	aux	_	_
 15	abandonar	abandonar	VERB	VB	VerbForm=Inf	12	ccomp	_	_
@@ -648,7 +648,7 @@
 # text_en = She has also been charged with trying to kill her two-year-old daughter.
 1	También	también	ADV	RB	_	5	advmod	_	_
 2	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	compound:prt	_	_
-3	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+3	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	obl:arg	_	_
 4	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
 5	acusado	acusar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6-7	del	_	_	_	_	_	_	_	_
@@ -658,11 +658,11 @@
 9	de	de	ADP	IN	_	10	case	_	_
 10	asesinado	asesinado	NOUN	NN	Gender=Masc|Number=Sing	8	nmod	_	_
 11	de	de	ADP	IN	_	13	case	_	_
-12	su	_	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
+12	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
 13	hija	hija	NOUN	NN	Gender=Fem|Number=Sing	10	nmod	_	_
 14	de	de	ADP	IN	_	16	case	_	_
 15	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	16	nummod	_	_
-16	años	_	NOUN	NN	Gender=Masc|Number=Plur	13	nmod	_	_
+16	años	año	NOUN	NN	Gender=Masc|Number=Plur	13	nmod	_	_
 17	de	de	ADP	IN	_	18	case	_	_
 18	edad	edad	NOUN	NN	Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	5	punct	_	_
@@ -4391,17 +4391,17 @@
 3	a	a	SCONJ	IN	_	6	mark	_	_
 4	medida	medida	NOUN	NN	Gender=Fem|Number=Sing	3	fixed	_	_
 5	que	que	ADP	IN	_	3	fixed	_	_
-6	aumentaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	advcl	_	_
+6	aumentaron	aumentar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	advcl	_	_
 7	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
-8	críticas	_	NOUN	NN	Gender=Fem|Number=Plur	6	nsubj	_	_
+8	críticas	crítica	NOUN	NN	Gender=Fem|Number=Plur	6	nsubj	_	_
 9	hacia	hacia	ADP	IN	_	10	case	_	_
 10	Clinton	Clinton	PROPN	NNP	Gender=Fem|Number=Sing	8	nmod	_	_
 11	como	como	ADP	IN	_	13	case	_	_
-12	primera	_	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	_
+12	primera	primero	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	_
 13	dama	dama	NOUN	NN	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	,	_	6	punct	_	_
 15	también	también	ADV	RB	_	16	advmod	_	_
-16	aumentó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+16	aumentó	aumentar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 17	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	empatía	empatía	NOUN	NN	Gender=Fem|Number=Sing	16	nsubj	_	_
 19	de	de	ADP	IN	_	20	case	_	_
@@ -4413,13 +4413,13 @@
 # text_en = “When I’m playing him, I feel powerful,” the Donald Trump impersonator John Di Domenico explained to Slate last year.
 1	Cuando	cuando	ADV	WRB	PronType=Rel	3	advmod	_	_
 2	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
-3	imito	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	advcl	_	SpaceAfter=No
+3	imito	imitar	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
-5	me	_	PRON	SE	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	compound:prt	_	_
-6	siento	_	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	me	yo	PRON	SE	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	compound:prt	_	_
+6	siento	sentir	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
 7	poderoso	poderoso	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	9	punct	_	_
-9	explicó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	_
+9	explicó	explicar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	_
 10	John	John	PROPN	NNP	Gender=Masc|Number=Sing	9	nsubj	_	_
 11	Di	Di	PROPN	NNP	Gender=Masc|Number=Sing	10	flat:name	_	_
 12	Domenico	Domenico	PROPN	NNP	Gender=Masc|Number=Sing	10	flat:name	_	SpaceAfter=No
@@ -4644,7 +4644,7 @@
 4	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	5	obj	_	_
 5	conozco	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	3	punct	_	_
-7	me	_	PRON	SE	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	9	compound:prt	_	_
+7	me	yo	PRON	SE	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	9	compound:prt	_	_
 8	he	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	aux	_	_
 9	pasado	pasar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 10	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
@@ -5286,7 +5286,7 @@
 10	preferiría	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	3	parataxis	_	_
 11	que	que	SCONJ	IN	_	14	mark	_	_
 12	alguien	alguien	NOUN	NN	Gender=Masc|Number=Sing	14	nsubj	_	_
-13	me	_	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	14	obj	_	_
+13	me	yo	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	14	obj	_	_
 14	confrontase	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	ccomp	_	_
 15	a	a	ADP	IN	_	18	case	_	_
 16	que	que	SCONJ	IN	_	18	mark	_	_
@@ -5590,7 +5590,7 @@
 2	puedo	poder	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3-4	dedicarme	_	_	_	_	_	_	_	_
 3	dedicar	dedicar	VERB	VB	VerbForm=Inf	0	root	_	_
-4	me	_	PRON	SE	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	compound:prt	_	_
+4	me	yo	PRON	SE	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	compound:prt	_	_
 5	a	a	ADP	IN	_	6	case	_	_
 6	eso	eso	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	3	obl	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	3	punct	_	_
@@ -6185,7 +6185,7 @@
 # sent_id = n01090004
 # text = Me fijé en el motocross y cuanto más me fijaba más continuaba apareciendo la cara de esta mujer, en fotografías que parecían de los años 70.
 # text_en = I looked at motocross and the more I looked, this one woman’s face kept coming up, in photographs that looked as if they were from the 1970s.
-1	Me	_	PRON	SE	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	compound:prt	_	_
+1	Me	yo	PRON	SE	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	compound:prt	_	_
 2	fijé	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 3	en	en	ADP	IN	_	5	case	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -6193,7 +6193,7 @@
 6	y	y	CCONJ	CC	_	13	cc	_	_
 7	cuanto	cuanto	ADV	RB	_	8	advmod	_	_
 8	más	_	ADV	RBR	Degree=Cmp	10	advmod	_	_
-9	me	_	PRON	SE	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	compound:prt	_	_
+9	me	yo	PRON	SE	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	compound:prt	_	_
 10	fijaba	fijar	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	12	advcl	_	_
 11	más	_	ADV	RBR	Degree=Cmp	13	advmod	_	_
 12	continuaba	continuar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	conj	_	_
@@ -7184,7 +7184,7 @@
 # text = También me pregunto si la Copa Davis tuvo algo que ver.
 # text_en = I also wonder whether the Davis Cup played a part.
 1	También	también	ADV	RB	_	3	advmod	_	_
-2	me	_	PRON	SE	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	compound:prt	_	_
+2	me	yo	PRON	SE	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	compound:prt	_	_
 3	pregunto	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	si	si	SCONJ	IN	_	8	mark	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
@@ -7832,7 +7832,7 @@
 11	de	de	ADP	IN	_	13	case	_	_
 12	exigente	_	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	_
 13	rehabilitación	rehabilitación	NOUN	NN	Gender=Fem|Number=Sing	10	nmod	_	_
-14	me	_	PRON	SE	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	16	compound:prt	_	_
+14	me	yo	PRON	SE	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	16	compound:prt	_	_
 15	he	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	16	aux	_	_
 16	recuperado	recuperar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 17	completamente	completamente	ADV	RB	_	16	advmod	_	SpaceAfter=No
@@ -18282,9 +18282,9 @@
 9	de	de	ADP	IN	_	11	case	_	_
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	embajada	embajada	NOUN	NN	Gender=Fem|Number=Sing	7	nmod	_	_
-12	británica	_	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	SpaceAfter=No|Proper=True
+12	británica	británico	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	SpaceAfter=No|Proper=True
 13	,	,	PUNCT	,	_	7	punct	_	_
-14	visitó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+14	visitó	visitar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 15	a	a	ADP	IN	_	16	case	_	_
 16	Herlz	Herlz	PROPN	NNP	Gender=Masc|Number=Sing	14	obl	_	_
 17	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
@@ -18304,8 +18304,8 @@
 3	episodio	episodio	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	compound:prt	_	_
-6	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
-7	muestra	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	7	obl:arg	_	_
+7	muestra	mostrar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	como	como	ADP	IN	_	10	case	_	_
 9	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	guitarrista	guitarrista	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
@@ -19567,39 +19567,39 @@
 # text = Rafferty grabó una nueva versión de la canción "Her Father Didn't Like Me Anyway", de su banda Humblebums, en el álbum Over My Head (1994).
 # text_en = Rafferty recorded a new version of his Humblebums song "Her Father Didn't Like Me Anyway" on the album Over My Head (1994).
 1	Rafferty	Rafferty	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	grabó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	grabó	grabar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-4	nueva	_	ADJ	JJ	Gender=Fem|Number=Sing	5	amod	_	_
+4	nueva	nuevo	ADJ	JJ	Gender=Fem|Number=Sing	5	amod	_	_
 5	versión	versión	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 6	de	de	ADP	IN	_	8	case	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	canción	canción	NOUN	NN	Gender=Fem|Number=Sing	5	nmod	_	_
-9	"	"	PUNCT	``	_	15	punct	_	SpaceAfter=No
-10	Her	her	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|PronType=Ind	11	det	_	Proper=True
-11	Father	father	NOUN	NN	Gender=Masc|Number=Sing	15	nsubj	_	Proper=True
-12	Didn	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux	_	SpaceAfter=No|Proper=True
-13	'	'	PUNCT	-	_	14	punct	_	SpaceAfter=No|Proper=True
-14	t	_	ADV	RB	Polarity=Neg	12	advmod	_	Proper=True
-15	Like	_	VERB	VB	Tense=Imp|VerbForm=Fin	8	appos	_	Proper=True
-16	Me	_	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	15	obj	_	Proper=True
-17	Anyway	anyway	ADV	RB	_	15	advmod	_	SpaceAfter=No|Proper=True
-18	"	"	PUNCT	''	_	15	punct	_	SpaceAfter=No
-19	,	,	PUNCT	,	_	22	punct	_	_
-20	de	de	ADP	IN	_	22	case	_	_
-21	su	_	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
-22	banda	banda	NOUN	NN	Gender=Fem|Number=Sing	8	nmod	_	_
-23	Humblebums	Humblebums	PROPN	NNP	_	22	appos	_	SpaceAfter=No
-24	,	,	PUNCT	,	_	27	punct	_	_
-25	en	en	ADP	IN	_	27	case	_	_
-26	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
-27	álbum	álbum	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	_
-28	Over	over	ADP	IN	_	27	appos	_	Proper=True
-29	My	my	PRON	DTP$	Number=Sing|Person=1|PronType=Ind	30	det	_	Proper=True
-30	Head	head	NOUN	NN	Number=Sing	28	obj	_	Proper=True
-31	(	(	PUNCT	(	_	32	punct	_	SpaceAfter=No
-32	1994	1994	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	28	appos	_	SpaceAfter=No
-33	)	)	PUNCT	)	_	32	punct	_	SpaceAfter=No
-34	.	.	PUNCT	.	_	2	punct	_	_
+9	"	"	PUNCT	``	_	14	punct	_	SpaceAfter=No
+10	Her	her	PRON	DTP$	Gender=Fem|Foreign=Yes|Number=Sing|Person=3|PronType=Prs	11	det	_	Lang=en|Proper=True
+11	Father	father	NOUN	NN	Foreign=Yes|Number=Sing	14	nsubj	_	Lang=en|Proper=True
+12-13	Didn't	_	_	_	_	_	_	_	Lang=en|Proper=True
+12	Did	do	AUX	VBC	Foreign=Yes|Mood=Ind|Tense=Past|VerbForm=Fin	14	aux	_	Lang=en|SpaceAfter=No|Proper=True
+13	n't	not	PART	RB	Polarity=Neg	14	advmod	_	Lang=en|Proper=True
+14	Like	like	VERB	VB	Foreign=Yes|VerbForm=Inf	8	appos	_	Lang=en|Proper=True
+15	Me	I	PRON	PRP	Case=Acc|Foreign=Yes|Number=Sing|Person=1|PronType=Prs	14	obj	_	Lang=en|Proper=True
+16	Anyway	anyway	ADV	RB	Foreign=Yes	14	advmod	_	Lang=en|SpaceAfter=No|Proper=True
+17	"	"	PUNCT	''	_	14	punct	_	SpaceAfter=No
+18	,	,	PUNCT	,	_	21	punct	_	_
+19	de	de	ADP	IN	_	21	case	_	_
+20	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	det	_	_
+21	banda	banda	NOUN	NN	Gender=Fem|Number=Sing	8	nmod	_	_
+22	Humblebums	Humblebums	PROPN	NNP	_	21	appos	_	SpaceAfter=No
+23	,	,	PUNCT	,	_	26	punct	_	_
+24	en	en	ADP	IN	_	26	case	_	_
+25	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	álbum	álbum	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	_
+27	Over	over	ADP	IN	Foreign=Yes	29	case	_	Lang=en|Proper=True
+28	My	my	PRON	DTP$	Foreign=Yes|Number=Sing|Person=1|PronType=Prs	29	det	_	Lang=en|Proper=True
+29	Head	head	NOUN	NN	Foreign=Yes|Number=Sing	26	appos	_	Lang=en|Proper=True
+30	(	(	PUNCT	(	_	31	punct	_	SpaceAfter=No
+31	1994	1994	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	29	appos	_	SpaceAfter=No
+32	)	)	PUNCT	)	_	31	punct	_	SpaceAfter=No
+33	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = w01130103
 # text = Estos fueron los últimos dos discos que Rafferty produjo con High Murphy, quien murió en 1998.
@@ -27500,8 +27500,8 @@
 18	Revolución	revolución	NOUN	NN	Gender=Fem|Number=Sing	16	obj	_	Proper=True
 19	Reivindicadora	_	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	Proper=True
 20	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	22	nsubj	_	_
-21	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	22	obj	_	_
-22	derrocó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	acl:relcl	_	_
+21	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	22	obl:arg	_	_
+22	derrocó	derrocar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	acl:relcl	_	_
 23	en	en	ADP	IN	_	24	case	_	_
 24	1879	1879	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	22	obl	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	16	punct	_	_
