@@ -8421,7 +8421,7 @@
 # text = Cotton nació el 31 de octubre de 1832, en un pueblo cerca de Sunderland.
 # text_en = Cotton was born on October 31, 1832, in a village near Sunderland.
 1	Cotton	Cotton	PROPN	NNP	Gender=Fem|Number=Sing	2	nsubj	_	_
-2	nació	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	nació	nacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	31	31	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	obl:tmod	_	_
 5	de	de	ADP	IN	_	6	case	_	_
@@ -15796,7 +15796,7 @@
 18	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
 19	primer	primer	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	_
 20	hijo	hijo	NOUN	NN	Gender=Masc|Number=Sing	21	nsubj	_	_
-21	nació	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	advcl	_	SpaceAfter=No
+21	nació	nacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	advcl	_	SpaceAfter=No
 22	,	,	PUNCT	,	_	21	punct	_	_
 23	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	24	obj	_	_
 24	llamaron	llamar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	xcomp	_	_
@@ -21016,7 +21016,7 @@
 # text = Wright nació en Poole, Dorset, pero creció predominantemente en Wells, Somerset.
 # text_en = Wright was born in Poole, Dorset, but grew up predominantly in Wells, Somerset.
 1	Wright	Wright	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	nació	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	nació	nacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	en	en	ADP	IN	_	4	case	_	_
 4	Poole	Poole	PROPN	NNP	Number=Sing	2	obl	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	6	punct	_	_
@@ -23303,7 +23303,7 @@
 # text_en = Tina Anselmi was born on the 25th of March, 1927 in Castelfranco Veneto; she grew up in an anti-fascist Catholic family, which was marked by the persecution of her militant socialist father.
 1	Tina	Tina	PROPN	NNP	Gender=Fem|Number=Sing	3	nsubj	_	_
 2	Anselmi	Anselmi	PROPN	NNP	Gender=Fem|Number=Sing	1	flat:name	_	_
-3	nació	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	nació	nacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	25	25	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	obl:tmod	_	_
 6	de	de	ADP	IN	_	7	case	_	_
