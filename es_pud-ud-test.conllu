@@ -941,7 +941,7 @@
 # sent_id = n01016019
 # text = Varios analistas han sugerido que Huawei está en la mejor posición para beneficiarse del retroceso de Samsung.
 # text_en = Several analysts have suggested Huawei is best placed to benefit from Samsung's setback.
-1	Varios	_	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+1	Varios	vario	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
 2	analistas	_	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
 3	han	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
 4	sugerido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -2039,7 +2039,7 @@
 15	este	este	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	17	nsubj	_	_
 16	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	aux	_	_
 17	hecho	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	parataxis	_	_
-18	varios	_	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	19	det	_	_
+18	varios	vario	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	19	det	_	_
 19	viajes	_	NOUN	NN	Gender=Masc|Number=Plur	17	obj	_	_
 20-21	al	_	_	_	_	_	_	_	_
 20	a	a	ADP	INDT	_	22	case	_	_
@@ -4915,7 +4915,7 @@
 4	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	_
 5	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 6	escrito	_	VERB	VBN	VerbForm=Fin	1	acl:relcl	_	_
-7	varios	_	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
+7	varios	vario	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
 8	libros	_	NOUN	NN	Gender=Masc|Number=Plur	6	obj	_	_
 9	sobre	sobre	ADP	IN	_	11	case	_	_
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
@@ -10848,7 +10848,7 @@
 7	dominante	dominante	ADJ	JJ	Gender=Masc|Number=Sing	5	amod	_	_
 8	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	9	nsubj	_	_
 9	dura	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
-10	varios	_	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	11	det	_	_
+10	varios	vario	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	11	det	_	_
 11	meses	_	NOUN	NN	Gender=Masc|Number=Plur	9	obl:tmod	_	_
 12	y	y	CCONJ	CC	_	15	cc	_	_
 13	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
@@ -10868,7 +10868,7 @@
 # sent_id = w01010044
 # text = Varios germánicos y muchas tribus eslavas cruzaron Moravia durante el período de migración antes de que los eslavos se establecieran en el siglo 6to d. C.
 # text_en = A variety of Germanic and major Slavic tribes crossed through Moravia during the Migration Period before Slavs established themselves in the 6th century AD.
-1	Varios	_	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+1	Varios	vario	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
 2	germánicos	_	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj	_	Proper=True
 3	y	y	CCONJ	CC	_	5	cc	_	_
 4	muchas	mucho	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	5	det	_	_
@@ -14769,7 +14769,7 @@
 9	marchado	marchar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	xcomp	_	_
 10	y	y	CCONJ	CC	_	11	cc	_	_
 11	solicitó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
-12	varias	_	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	13	det	_	_
+12	varias	vario	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	13	det	_	_
 13	veces	_	NOUN	NN	Gender=Fem|Number=Plur	11	obl	_	_
 14	regresar	regresar	VERB	VB	VerbForm=Inf	11	xcomp	_	_
 15	a	a	ADP	IN	_	16	case	_	_
@@ -16246,7 +16246,7 @@
 # text = En varios pasajes, se discute específicamente los efectos de la guerra, social y culturalmente degenerativos, en la humanidad.
 # text_en = It specifically discusses in several passages the socially and culturally degenerative effects of war on humanity itself.
 1	En	en	ADP	IN	_	3	case	_	_
-2	varios	_	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
+2	varios	vario	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
 3	pasajes	_	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl:pass	_	_
@@ -17764,7 +17764,7 @@
 # text_en = She was offered several scripts, television commercials, and stage projects, but none piqued her interest.
 1	Le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obl:arg	_	_
 2	ofrecieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	varios	_	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	4	det	_	_
+3	varios	vario	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	4	det	_	_
 4	guiones	_	NOUN	NN	Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	6	punct	_	_
 6	comerciales	_	NOUN	NN	Gender=Masc|Number=Plur	4	conj	_	_
@@ -17904,7 +17904,7 @@
 7	guerra	guerra	NOUN	NN	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
 8	;	;	PUNCT	:	_	22	punct	_	_
 9	aunque	aunque	SCONJ	IN	_	13	mark	_	_
-10	varios	_	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	11	det	_	_
+10	varios	vario	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	11	det	_	_
 11	B-29	_	PROPN	NNP	Gender=Masc|Number=Plur	13	nsubj	_	_
 12	estaban	estar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	aux	_	_
 13	equipados	equipar	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	22	advcl	_	_
@@ -19520,7 +19520,7 @@
 11	reunió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	15	punct	_	_
 13	en	en	ADP	IN	_	15	case	_	_
-14	varias	_	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	15	det	_	_
+14	varias	vario	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	15	det	_	_
 15	pistas	_	NOUN	NN	Gender=Fem|Number=Plur	11	obl	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	19	punct	_	_
 17	con	con	ADP	IN	_	19	case	_	_
@@ -19814,7 +19814,7 @@
 30	a	a	ADP	IN	_	34	case	_	_
 31	través	través	NOUN	NN	Gender=Masc|Number=Sing	30	fixed	_	_
 32	de	de	ADP	IN	_	30	fixed	_	_
-33	varios	_	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	34	det	_	_
+33	varios	vario	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	34	det	_	_
 34	títulos	_	NOUN	NN	Gender=Masc|Number=Plur	29	obl	_	_
 35	de	de	ADP	IN	_	36	case	_	_
 36	Marvel	Marvel	PROPN	NNP	Number=Sing	34	nmod	_	SpaceAfter=No
@@ -20578,7 +20578,7 @@
 14	York	York	PROPN	NNP	Number=Sing	12	nmod	_	_
 15	y	y	CCONJ	CC	_	16	cc	_	_
 16	tuvo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
-17	varios	_	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	18	det	_	_
+17	varios	vario	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	18	det	_	_
 18	hijos	_	NOUN	NN	Gender=Masc|Number=Plur	16	obj	_	SpaceAfter=No
 19	,	,	PUNCT	,	_	20	punct	_	_
 20	incluyendo	incluir	VERB	VBG	VerbForm=Ger	18	acl	_	_
@@ -21589,7 +21589,7 @@
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	ley	ley	NOUN	NN	Gender=Fem|Number=Sing	3	nsubj	_	_
 3	delinea	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	varias	_	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	5	det	_	_
+4	varias	vario	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	5	det	_	_
 5	condiciones	_	NOUN	NN	Gender=Fem|Number=Plur	3	obj	_	_
 6	cuyo	cuyo	DET	DTP$	Gender=Masc|Number=Sing|Poss=Yes|PronType=Rel	7	det	_	_
 7	cumplimiento	cumplimiento	NOUN	NN	Gender=Masc|Number=Sing	9	nsubj	_	_
@@ -22342,7 +22342,7 @@
 14	,	,	PUNCT	,	_	12	punct	_	_
 15	indultó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 16	a	a	ADP	IN	_	18	case	_	_
-17	varias	_	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	18	det	_	_
+17	varias	vario	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	18	det	_	_
 18	personas	_	NOUN	NN	Gender=Fem|Number=Plur	15	obl	_	SpaceAfter=No
 19	,	,	PUNCT	,	_	20	punct	_	_
 20	incluyendo	incluir	VERB	VBG	VerbForm=Ger	18	acl	_	_
@@ -26382,7 +26382,7 @@
 22	Terror	terror	NOUN	NN	Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No|Proper=True
 23	,	,	PUNCT	,	_	17	punct	_	_
 24	tomó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-25	varias	_	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	26	det	_	_
+25	varias	vario	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	26	det	_	_
 26	medidas	_	NOUN	NN	Gender=Fem|Number=Plur	24	obj	_	_
 27	para	para	ADP	IN	_	28	case	_	_
 28	liberar	liberar	VERB	VB	VerbForm=Inf	26	xcomp	_	_
@@ -27269,7 +27269,7 @@
 1	Nicolai	Nicolai	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
 2	colabora	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	con	con	ADP	IN	_	5	case	_	_
-4	varias	_	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	5	det	_	_
+4	varias	vario	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	5	det	_	_
 5	pistas	_	NOUN	NN	Gender=Fem|Number=Plur	2	obl	_	_
 6	cinematográficas	_	ADJ	JJ	Gender=Fem|Number=Plur	5	amod	_	_
 7	tanto	tanto	ADV	RB	_	9	cc:preconj	_	_
@@ -27326,7 +27326,7 @@
 # text_en = During their various collaborations, it is not clear who between the two conceived of some stylistic solutions in the arrangements that later on characterised both artists' style.
 1	Durante	durante	ADP	IN	_	4	case	_	_
 2	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
-3	varias	_	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	4	det	_	_
+3	varias	vario	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	4	det	_	_
 4	colaboraciones	_	NOUN	NN	Gender=Fem|Number=Plur	9	obl	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	_	_
 6	no	no	ADV	RB	Polarity=Neg	9	advmod	_	_
@@ -27447,7 +27447,7 @@
 15	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 17	de	de	ADP	IN	_	19	case	_	_
-18	varias	_	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	19	det	_	_
+18	varias	vario	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	19	det	_	_
 19	orogenias	_	NOUN	NN	Gender=Fem|Number=Plur	16	nmod	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	16	punct	_	_
 
