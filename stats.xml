@@ -15,7 +15,7 @@
   <fusions unique="62" /><!-- del, al, verlo, beneficiarse, convirtiéndose, hacerlo, recuperarlo, Didn't, admitiéndolo, alejarse, aplicándolo, centrarse, centrándose, comprometerse, concentrase -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
-    <tag name="ADJ">1480</tag><!-- _, nuevo, primero, gran, último, unido, británico, grande, antiguo, económico -->
+    <tag name="ADJ">1480</tag><!-- _, nuevo, gran, primero, último, unido, británico, grande, antiguo, económico -->
     <tag name="ADP">3963</tag><!-- de, en, a, por, con, para, como, que, entre, durante -->
     <tag name="ADV">894</tag><!-- no, más, también, cuando, antes, después, ya, muy, tanto, donde -->
     <tag name="AUX">707</tag><!-- ser, haber, estar, _, poder, deber, do -->
