@@ -3,7 +3,7 @@
 # text = Aunque no haya precedentes para la mayor parte de la transición digital en Estados Unidos, la transición de poder pacífica es habitual, escribió el lunes en una entrada de blog Kori Schulman, Asistente Especial del presidente Obama.
 # text_en = “While much of the digital transition is unprecedented in the United States, the peaceful transition of power is not,” Obama special assistant Kori Schulman wrote in a blog post Monday.
 1	Aunque	aunque	SCONJ	IN	_	3	mark	_	_
-2	no	_	ADV	RB	Polarity=Neg	3	advmod	_	_
+2	no	no	ADV	RB	Polarity=Neg	3	advmod	_	_
 3	haya	haber	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	advcl	_	_
 4	precedentes	_	NOUN	NN	Gender=Masc|Number=Plur	3	obj	_	_
 5	para	para	ADP	IN	_	8	case	_	_
@@ -971,7 +971,7 @@
 2	teléfonos	_	NOUN	NN	Gender=Masc|Number=Plur	6	nsubj	_	_
 3	Mate	Mate	PROPN	NNP	Gender=Masc|Number=Sing	2	appos	_	_
 4	9	9	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	appos	_	Proper=True
-5	no	_	ADV	RB	Polarity=Neg	6	advmod	_	_
+5	no	no	ADV	RB	Polarity=Neg	6	advmod	_	_
 6	cuentan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	con	con	ADP	IN	_	9	case	_	_
 8	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
@@ -1386,7 +1386,7 @@
 14	afirma	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 15	que	que	SCONJ	IN	_	18	mark	_	_
 16	estos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	18	nsubj	_	_
-17	no	_	ADV	RB	Polarity=Neg	18	advmod	_	_
+17	no	no	ADV	RB	Polarity=Neg	18	advmod	_	_
 18	alcanzan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	_
 19	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
 20	niveles	_	NOUN	NN	Gender=Masc|Number=Plur	18	obj	_	_
@@ -1422,7 +1422,7 @@
 11	de	de	ADP	INDT	_	13	case	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	aire	aire	NOUN	NN	Gender=Masc|Number=Sing	10	nmod	_	_
-14	no	_	ADV	RB	Polarity=Neg	16	advmod	_	_
+14	no	no	ADV	RB	Polarity=Neg	16	advmod	_	_
 15	será	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	16	cop	_	_
 16	necesaria	_	ADJ	JJ	Gender=Fem|Number=Sing	3	ccomp	_	_
 17	para	para	ADP	IN	_	18	case	_	_
@@ -1928,7 +1928,7 @@
 # sent_id = n01027049
 # text = No todo el mundo puede superarlo.
 # text_en = Not everyone can rise above it.
-1	No	_	ADV	RB	Polarity=Neg	4	advmod	_	_
+1	No	no	ADV	RB	Polarity=Neg	4	advmod	_	_
 2	todo	todo	DET	PDT	Gender=Masc|Number=Sing|PronType=Tot	4	det	_	_
 3	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	mundo	mundo	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -2116,7 +2116,7 @@
 22	"	"	PUNCT	''	_	21	punct	_	SpaceAfter=No
 23	,	,	PUNCT	,	_	28	punct	_	_
 24	pero	pero	CCONJ	CC	_	28	cc	_	_
-25	no	_	ADV	RB	Polarity=Neg	28	advmod	_	_
+25	no	no	ADV	RB	Polarity=Neg	28	advmod	_	_
 26	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	28	expl:pass	_	_
 27	habían	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	28	aux	_	_
 28	producido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
@@ -2143,7 +2143,7 @@
 15	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	Oscar	Oscar	PROPN	NNP	Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
 17	,	,	PUNCT	,	_	9	punct	_	_
-18	no	_	ADV	RB	Polarity=Neg	20	advmod	_	_
+18	no	no	ADV	RB	Polarity=Neg	20	advmod	_	_
 19	estaba	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	cop	_	_
 20	presente	presente	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
 21	en	en	ADP	IN	_	23	case	_	_
@@ -2338,7 +2338,7 @@
 1	Sin	sin	ADP	IN	_	7	discourse	_	_
 2	embargo	embargo	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	1	punct	_	_
-4	no	_	ADV	RB	Polarity=Neg	7	advmod	_	_
+4	no	no	ADV	RB	Polarity=Neg	7	advmod	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pass	_	_
 6	pudo	poder	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
 7	encontrar	encontrar	VERB	VB	VerbForm=Inf	0	root	_	_
@@ -2348,7 +2348,7 @@
 11	otros	_	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	12	det	_	_
 12	tejidos	_	NOUN	NN	Gender=Masc|Number=Plur	7	obl	_	_
 13	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	17	nsubj	_	_
-14	no	_	ADV	RB	Polarity=Neg	17	advmod	_	_
+14	no	no	ADV	RB	Polarity=Neg	17	advmod	_	_
 15	están	estar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
 16	directamente	directamente	ADV	RB	_	17	advmod	_	_
 17	expuestos	_	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	12	acl:relcl	_	SpaceAfter=No
@@ -2540,7 +2540,7 @@
 6	declaró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	anteriormente	anteriormente	ADV	RB	_	6	advmod	_	_
 8	que	que	SCONJ	IN	_	10	mark	_	_
-9	no	_	ADV	RB	Polarity=Neg	10	advmod	_	_
+9	no	no	ADV	RB	Polarity=Neg	10	advmod	_	_
 10	parecía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	ccomp	_	_
 11	que	que	SCONJ	IN	_	13	mark	_	_
 12	Klein	Klein	PROPN	NNP	Gender=Masc|Number=Sing	13	nsubj	_	_
@@ -2561,7 +2561,7 @@
 # sent_id = n01035025
 # text = No creemos que el sospechoso esté relacionado con esta escuela, con las dos chicas o con la zona de Abbotsford especialmente, dijo.
 # text_en = "We do not believe the suspect has ties to this school, or to the two girls, or specifically to the Abbotsford area," she said.
-1	No	_	ADV	RB	Polarity=Neg	2	advmod	_	_
+1	No	no	ADV	RB	Polarity=Neg	2	advmod	_	_
 2	creemos	_	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	IN	_	7	mark	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -2598,7 +2598,7 @@
 6	poco	poco	ADV	RB	_	7	advmod	_	_
 7	hablador	hablador	ADJ	JJ	Gender=Masc|Number=Sing	2	ccomp	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	10	punct	_	_
-9	no	_	ADV	RB	Polarity=Neg	10	advmod	_	_
+9	no	no	ADV	RB	Polarity=Neg	10	advmod	_	_
 10	cooperaba	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	conj	_	_
 11	y	y	CCONJ	CC	_	13	cc	_	_
 12	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	compound:prt	_	_
@@ -2726,7 +2726,7 @@
 5	clase	clase	NOUN	NN	Gender=Fem|Number=Sing	11	nsubj	_	_
 6	media	_	ADJ	JJ	Gender=Fem|Number=Sing	5	amod	_	_
 7	china	_	ADJ	JJ	Gender=Fem|Number=Sing	5	amod	_	Proper=True
-8	no	_	ADV	RB	Polarity=Neg	11	advmod	_	_
+8	no	no	ADV	RB	Polarity=Neg	11	advmod	_	_
 9	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl:pass	_	_
 10	suele	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
 11	quejar	quejar	VERB	VB	VerbForm=Inf	0	root	_	_
@@ -2878,7 +2878,7 @@
 2	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	det	_	_
 4	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	6	obj	_	_
-5	no	_	ADV	RB	Polarity=Neg	6	advmod	_	_
+5	no	no	ADV	RB	Polarity=Neg	6	advmod	_	_
 6	necesitamos	_	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 7	en	en	ADP	IN	_	9	case	_	_
 8	nuestro	nuestro	PRON	DTP$	Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
@@ -2982,7 +2982,7 @@
 # text_en = "Physicians don't have these tools, they have only a prescription pad and an injection," Mailis said.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	médicos	_	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
-3	no	_	ADV	RB	Polarity=Neg	4	advmod	_	_
+3	no	no	ADV	RB	Polarity=Neg	4	advmod	_	_
 4	tienen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	esas	_	DET	DT	Gender=Fem|Number=Plur|PronType=Dem	6	det	_	_
 6	herramientas	_	NOUN	NN	Gender=Fem|Number=Plur	4	obj	_	SpaceAfter=No
@@ -3308,7 +3308,7 @@
 # sent_id = n01045010
 # text = No se debería conceder ni a individuos ni a organizaciones acceso preferente al gobierno o acceso preferente a compadecer por haber realizado contribuciones económicas a políticos o a partidos políticos, indicaban las directrices.
 # text_en = "There should be no preferential access to government, or appearance of preferential access, accorded to individuals or organizations because they have made financial contributions to politicians and political parties," the guidelines read.
-1	No	_	ADV	RB	Polarity=Neg	4	advmod	_	_
+1	No	no	ADV	RB	Polarity=Neg	4	advmod	_	_
 2	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl:pass	_	_
 3	debería	deber	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
 4	conceder	conceder	VERB	VB	VerbForm=Inf	0	root	_	_
@@ -3734,7 +3734,7 @@
 25	que	que	SCONJ	IN	_	30	mark	_	_
 26	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	27	det	_	_
 27	niño	niño	NOUN	NN	Gender=Masc|Number=Sing	30	nsubj	_	_
-28	no	_	ADV	RB	Polarity=Neg	29	advmod	_	_
+28	no	no	ADV	RB	Polarity=Neg	29	advmod	_	_
 29	nacido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	27	acl	_	_
 30	padecía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	xcomp	_	_
 31	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
@@ -4005,7 +4005,7 @@
 # text = Esto no se aplicaría únicamente al contenido de ocio, también se aplicaría a la educación, a la investigación y, quizás con mayor importancia, al discurso político.
 # text_en = This would not only apply to entertainment content, but equally to education, to scientific research and, perhaps most importantly, to political discourse.
 1	Esto	esto	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj:pass	_	_
-2	no	_	ADV	RB	Polarity=Neg	4	advmod	_	_
+2	no	no	ADV	RB	Polarity=Neg	4	advmod	_	_
 3	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl:pass	_	_
 4	aplicaría	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 5	únicamente	únicamente	ADV	RB	_	4	advmod	_	_
@@ -4252,7 +4252,7 @@
 4	alertaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	IN	_	10	case	_	_
 6	que	que	SCONJ	IN	_	10	mark	_	_
-7	no	_	ADV	RB	Polarity=Neg	10	advmod	_	_
+7	no	no	ADV	RB	Polarity=Neg	10	advmod	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl:pass	_	_
 9	debían	deber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
 10	considerar	considerar	VERB	VB	VerbForm=Inf	4	xcomp	_	_
@@ -4275,7 +4275,7 @@
 # sent_id = n01059025
 # text = No sé cuál fue el crecimiento del PIB durante el gobierno de Washington y de Lincoln, pero los desarrollos institucionales de esos mandatos tuvieron efectos largos y duraderos.
 # text_en = “I don’t know what G.D.P. growth was during the Washington and Lincoln Administrations, but the institutional developments in those terms had large and long-lasting effects.”
-1	No	_	ADV	RB	Polarity=Neg	2	advmod	_	_
+1	No	no	ADV	RB	Polarity=Neg	2	advmod	_	_
 2	sé	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	cuál	cuál	PRON	WP	Number=Sing|PronType=Int	6	nsubj	_	_
 4	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
@@ -4329,7 +4329,7 @@
 16	,	,	PUNCT	,	_	20	punct	_	_
 17	pero	pero	CCONJ	CC	_	20	cc	_	_
 18	eso	eso	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	20	nsubj	_	_
-19	no	_	ADV	RB	Polarity=Neg	20	advmod	_	_
+19	no	no	ADV	RB	Polarity=Neg	20	advmod	_	_
 20	quita	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
 21	valor	valor	NOUN	NN	Gender=Masc|Number=Sing	20	obj	_	_
 22	a	a	ADP	IN	_	24	case	_	_
@@ -4599,7 +4599,7 @@
 9	cambio	cambio	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	15	punct	_	_
 11	si	si	SCONJ	IN	_	14	mark	_	_
-12	no	_	ADV	RB	Polarity=Neg	14	advmod	_	_
+12	no	no	ADV	RB	Polarity=Neg	14	advmod	_	_
 13	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 14	artístico	artístico	ADJ	JJ	Gender=Masc|Number=Sing	15	advcl	_	_
 15	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
@@ -4688,7 +4688,7 @@
 24	cuando	cuando	ADV	WRB	PronType=Rel	29	advmod	_	_
 25	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	Nilo	Nilo	PROPN	NNP	Gender=Masc|Number=Sing	29	nsubj	_	_
-27	no	_	ADV	RB	Polarity=Neg	29	advmod	_	_
+27	no	no	ADV	RB	Polarity=Neg	29	advmod	_	_
 28	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	29	compound:prt	_	_
 29	inunda	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	advcl	_	SpaceAfter=No
 30	"	"	PUNCT	''	_	16	punct	_	SpaceAfter=No
@@ -4699,7 +4699,7 @@
 # text = Pero no había nada más que fuese evidentemente artístico sobre ella o en su comportamiento con otras personas.
 # text_en = But there was nothing else obviously artistic about her or in her behavior with other people.
 1	Pero	pero	CCONJ	CC	_	3	discourse	_	_
-2	no	_	ADV	RB	Polarity=Neg	3	advmod	_	_
+2	no	no	ADV	RB	Polarity=Neg	3	advmod	_	_
 3	había	haber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 4	nada	nada	NOUN	NN	Gender=Masc|Number=Sing	3	obj	_	_
 5	más	_	ADV	RBR	Degree=Cmp	4	advmod	_	_
@@ -4810,7 +4810,7 @@
 9	historia	historia	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	15	punct	_	_
 11	aunque	aunque	SCONJ	IN	_	15	mark	_	_
-12	no	_	ADV	RB	Polarity=Neg	13	advmod	_	_
+12	no	no	ADV	RB	Polarity=Neg	13	advmod	_	_
 13	todo	todo	NOUN	NN	Gender=Masc|Number=Sing	15	nsubj	_	_
 14	está	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
 15	basado	basar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
@@ -5046,7 +5046,7 @@
 8	edad	edad	NOUN	NN	Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	8	punct	_	_
 10	muchos	_	NOUN	NN	Gender=Masc|Number=Plur	12	nsubj	_	_
-11	no	_	ADV	RB	Polarity=Neg	12	advmod	_	_
+11	no	no	ADV	RB	Polarity=Neg	12	advmod	_	_
 12	conocerían	_	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
 13	su	_	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
 14	historia	historia	NOUN	NN	Gender=Fem|Number=Sing	12	obj	_	SpaceAfter=No
@@ -5156,7 +5156,7 @@
 18	Chris	Chris	PROPN	NNP	Number=Sing	16	obl	_	SpaceAfter=No
 19	:	:	PUNCT	:	_	23	punct	_	_
 20	"	"	PUNCT	``	_	23	punct	_	SpaceAfter=No
-21	No	_	ADV	RB	Polarity=Neg	23	advmod	_	_
+21	No	no	ADV	RB	Polarity=Neg	23	advmod	_	_
 22	he	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	23	aux	_	_
 23	conocido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	appos	_	_
 24	a	a	ADP	IN	_	25	case	_	_
@@ -5187,7 +5187,7 @@
 # text_en = Was their divine right to the mantle as the world’s best no longer warranted?
 1	¿	¿	PUNCT	.	_	5	punct	_	SpaceAfter=No
 2	Ya	ya	ADV	RB	_	5	advmod	_	_
-3	no	_	ADV	RB	Polarity=Neg	5	advmod	_	_
+3	no	no	ADV	RB	Polarity=Neg	5	advmod	_	_
 4	estaba	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	aux	_	_
 5	garantizado	garantizar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
@@ -5230,7 +5230,7 @@
 3	a	a	ADP	IN	_	2	fixed	_	_
 4	punto	punto	NOUN	NN	Gender=Masc|Number=Sing	2	fixed	_	_
 5	de	de	ADP	IN	_	2	fixed	_	_
-6	no	_	ADV	RB	Polarity=Neg	7	advmod	_	_
+6	no	no	ADV	RB	Polarity=Neg	7	advmod	_	_
 7	volver	volver	VERB	VB	VerbForm=Inf	0	root	_	_
 8	y	y	CCONJ	CC	_	10	cc	_	_
 9	debemos	deber	AUX	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	_
@@ -5624,7 +5624,7 @@
 # sent_id = n01081022
 # text = No podemos dejar que alguien tan racista, sexista y tan poco preparado para ser Comandante en Jefe como Donald Trump gane las elecciones.
 # text_en = We can’t let the presidency go to Donald Trump, someone so racist, sexist and incredibly unqualified to be commander-in-chief.
-1	No	_	ADV	RB	Polarity=Neg	3	advmod	_	_
+1	No	no	ADV	RB	Polarity=Neg	3	advmod	_	_
 2	podemos	poder	AUX	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	dejar	dejar	VERB	VB	VerbForm=Inf	0	root	_	_
 4	que	que	SCONJ	IN	_	22	mark	_	_
@@ -5696,7 +5696,7 @@
 2	explicación	explicación	NOUN	NN	Gender=Fem|Number=Sing	3	nsubj	_	_
 3	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	IN	_	6	mark	_	_
-5	no	_	ADV	RB	Polarity=Neg	6	advmod	_	_
+5	no	no	ADV	RB	Polarity=Neg	6	advmod	_	_
 6	ofrece	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
 7	suficiente	_	ADJ	JJ	Gender=Fem|Number=Sing	8	amod	_	_
 8	protección	protección	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	_
@@ -6583,7 +6583,7 @@
 # sent_id = n01095004
 # text = No existían en nuestros días, y las personas que no tienen hijos utilizan expresan todo su rechazo hacia la paternidad moderna mediante su falta de aprobación.
 # text_en = They didn’t have them in our day, and people without children express through their disapproval all their hatred of modern parenting.
-1	No	_	ADV	RB	Polarity=Neg	2	advmod	_	_
+1	No	no	ADV	RB	Polarity=Neg	2	advmod	_	_
 2	existían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 3	en	en	ADP	IN	_	5	case	_	_
 4	nuestros	_	PRON	DTP$	Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
@@ -6593,7 +6593,7 @@
 8	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
 9	personas	_	NOUN	NN	Gender=Fem|Number=Plur	14	nsubj	_	_
 10	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	12	nsubj	_	_
-11	no	_	ADV	RB	Polarity=Neg	12	advmod	_	_
+11	no	no	ADV	RB	Polarity=Neg	12	advmod	_	_
 12	tienen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
 13	hijos	_	NOUN	NN	Gender=Masc|Number=Plur	12	obj	_	_
 14	utilizan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
@@ -6615,7 +6615,7 @@
 # sent_id = n01095009
 # text = No digo a la ligera que es una bestia.
 # text_en = I don’t call it a beast lightly.
-1	No	_	ADV	RB	Polarity=Neg	2	advmod	_	_
+1	No	no	ADV	RB	Polarity=Neg	2	advmod	_	_
 2	digo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	a	a	ADP	IN	_	5	case	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -6692,7 +6692,7 @@
 16	extranjeras	_	ADJ	JJ	Gender=Fem|Number=Plur	15	amod	_	SpaceAfter=No
 17	,	,	PUNCT	,	_	21	punct	_	_
 18	pero	pero	CCONJ	CC	_	21	cc	_	_
-19	no	_	ADV	RB	Polarity=Neg	20	advmod	_	_
+19	no	no	ADV	RB	Polarity=Neg	20	advmod	_	_
 20	siempre	siempre	ADV	RB	_	21	advmod	_	_
 21	funciona	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	4	punct	_	_
@@ -6994,7 +6994,7 @@
 18	que	que	SCONJ	IN	_	23	mark	_	_
 19	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	pareja	pareja	NOUN	NN	Gender=Fem|Number=Sing	23	nsubj	_	_
-21	no	_	ADV	RB	Polarity=Neg	23	advmod	_	_
+21	no	no	ADV	RB	Polarity=Neg	23	advmod	_	_
 22	debería	deber	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	aux	_	_
 23	ocupar	ocupar	VERB	VB	VerbForm=Inf	17	ccomp	_	_
 24	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
@@ -7092,7 +7092,7 @@
 # text_en = To draw a game you have dominated is easy to brush off, but to do so three times is a row suggests a weakness.
 1	Es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 2	fácil	fácil	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
-3	no	_	ADV	RB	Polarity=Neg	4	advmod	_	_
+3	no	no	ADV	RB	Polarity=Neg	4	advmod	_	_
 4	dar	dar	VERB	VB	VerbForm=Inf	2	csubj	_	_
 5	importancia	importancia	NOUN	NN	Gender=Fem|Number=Sing	4	obj	_	_
 6	a	a	ADP	IN	_	7	case	_	_
@@ -7137,7 +7137,7 @@
 # sent_id = n01105003
 # text = No cabe duda de que en el caso de Andy era así cuando jugó contra Benoît Paire en Montecarlo en abril.
 # text_en = That was definitely the case for Andy when he played Benoît Paire in Monte Carlo in April.
-1	No	_	ADV	RB	Polarity=Neg	2	advmod	_	_
+1	No	no	ADV	RB	Polarity=Neg	2	advmod	_	_
 2	cabe	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	duda	duda	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 4	de	de	ADP	IN	_	11	case	_	_
@@ -7593,7 +7593,7 @@
 6	obligaciones	_	NOUN	NN	Gender=Fem|Number=Plur	11	nsubj	_	_
 7	con	con	ADP	IN	_	8	case	_	_
 8	prima	prima	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
-9	no	_	ADV	RB	Polarity=Neg	11	advmod	_	_
+9	no	no	ADV	RB	Polarity=Neg	11	advmod	_	_
 10	serían	ser	AUX	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
 11	diferentes	_	ADJ	JJ	Gender=Fem|Number=Plur	0	root	_	_
 12	de	de	ADP	IN	_	14	case	_	_
@@ -7641,7 +7641,7 @@
 # text = Esto no ha impedido que los inversores hayan acudido a depositar su dinero en los fondos.
 # text_en = This has not stopped investors flocking to put their money in the funds.
 1	Esto	esto	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	_
-2	no	_	ADV	RB	Polarity=Neg	4	advmod	_	_
+2	no	no	ADV	RB	Polarity=Neg	4	advmod	_	_
 3	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
 4	impedido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	que	que	SCONJ	IN	_	9	mark	_	_
@@ -7706,7 +7706,7 @@
 1	Esto	esto	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
 2	significa	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	IN	_	7	mark	_	_
-4	no	_	ADV	RB	Polarity=Neg	7	advmod	_	_
+4	no	no	ADV	RB	Polarity=Neg	7	advmod	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	compound:prt	_	_
 6	han	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
 7	beneficiado	beneficiar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
@@ -8247,7 +8247,7 @@
 4	,	,	PUNCT	,	_	1	punct	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	resultado	resultado	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
-7	no	_	ADV	RB	Polarity=Neg	10	advmod	_	_
+7	no	no	ADV	RB	Polarity=Neg	10	advmod	_	_
 8	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 9	precisamente	precisamente	ADV	RB	_	10	advmod	_	_
 10	genial	genial	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
@@ -8405,7 +8405,7 @@
 5	realizados	realizar	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	acl	_	_
 6	por	por	ADP	IN	_	7	case	_	_
 7	Cotton	Cotton	PROPN	NNP	Gender=Fem|Number=Sing	5	obl:agent	_	_
-8	no	_	ADV	RB	Polarity=Neg	9	advmod	_	_
+8	no	no	ADV	RB	Polarity=Neg	9	advmod	_	_
 9	sucedieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	debido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	case	_	_
 11	a	a	ADP	IN	_	10	fixed	_	_
@@ -8441,12 +8441,12 @@
 # text = Quizás no importe, ya que no estaré preocupado por mucho tiempo.
 # text_en = Perhaps it won’t matter as I won’t be troubled long.
 1	Quizás	quizás	ADV	RB	_	3	advmod	_	_
-2	no	_	ADV	RB	Polarity=Neg	3	advmod	_	_
+2	no	no	ADV	RB	Polarity=Neg	3	advmod	_	_
 3	importe	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	9	punct	_	_
 5	ya	ya	ADV	RB	_	9	mark	_	_
 6	que	que	ADP	IN	_	5	fixed	_	_
-7	no	_	ADV	RB	Polarity=Neg	9	advmod	_	_
+7	no	no	ADV	RB	Polarity=Neg	9	advmod	_	_
 8	estaré	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	9	aux	_	_
 9	preocupado	preocupar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
 10	por	por	ADP	IN	_	12	case	_	_
@@ -8517,7 +8517,7 @@
 # sent_id = n01125030
 # text = No cabe duda de que la tendencia táctil está estrechamente relacionada con nuestra obsesión creciente por fabricar cosas.
 # text_en = Of course, the tactile trend is closely linked to our growing obsession with making things.
-1	No	_	ADV	RB	Polarity=Neg	2	advmod	_	_
+1	No	no	ADV	RB	Polarity=Neg	2	advmod	_	_
 2	cabe	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	duda	duda	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 4	de	de	ADP	IN	_	11	case	_	_
@@ -8583,7 +8583,7 @@
 # sent_id = n01127089
 # text = No sé por qué la elegí a ella…
 # text_en = I don't know why I chose her ...
-1	No	_	ADV	RB	Polarity=Neg	2	advmod	_	_
+1	No	no	ADV	RB	Polarity=Neg	2	advmod	_	_
 2	sé	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	por	por	ADP	IN	_	4	case	_	_
 4	qué	qué	PRON	WP	PronType=Int	6	obl	_	_
@@ -8779,14 +8779,14 @@
 13	,	,	PUNCT	,	_	17	punct	_	_
 14	pero	pero	CCONJ	CC	_	17	cc	_	_
 15	eso	eso	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	17	nsubj	_	_
-16	no	_	ADV	RB	Polarity=Neg	17	advmod	_	_
+16	no	no	ADV	RB	Polarity=Neg	17	advmod	_	_
 17	significa	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
 18	nada	nada	NOUN	NN	Gender=Masc|Number=Sing	17	obj	_	_
 19	si	si	SCONJ	IN	_	24	mark	_	_
 20	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	votante	votante	NOUN	NN	Gender=Masc|Number=Sing	24	nsubj	_	_
 22	registrado	registrar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	acl	_	_
-23	no	_	ADV	RB	Polarity=Neg	24	advmod	_	_
+23	no	no	ADV	RB	Polarity=Neg	24	advmod	_	_
 24	está	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	_
 25	en	en	ADP	IN	_	27	case	_	_
 26	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
@@ -9029,7 +9029,7 @@
 18	o	o	CCONJ	CC	_	19	cc	_	_
 19	2020	2020	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	17	conj	_	SpaceAfter=No
 20	,	,	PUNCT	,	_	17	punct	_	_
-21	no	_	ADV	RB	Polarity=Neg	23	advmod	_	_
+21	no	no	ADV	RB	Polarity=Neg	23	advmod	_	_
 22	son	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
 23	correctas	_	ADJ	JJ	Gender=Fem|Number=Plur	6	ccomp	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	6	punct	_	_
@@ -9306,7 +9306,7 @@
 # sent_id = n01137010
 # text = No había visto muchos de los episodios cuando mi teléfono empezó a iluminarse.
 # text_en = I hadn't seen a lot of the episodes and then my phone started lighting up.
-1	No	_	ADV	RB	Polarity=Neg	3	advmod	_	_
+1	No	no	ADV	RB	Polarity=Neg	3	advmod	_	_
 2	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	aux	_	_
 3	visto	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	muchos	_	NOUN	NN	Gender=Masc|Number=Plur	3	obj	_	_
@@ -9794,7 +9794,7 @@
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	tipo	tipo	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	_
 18	que	que	SCONJ	IN	_	20	mark	_	_
-19	no	_	ADV	RB	Polarity=Neg	20	advmod	_	_
+19	no	no	ADV	RB	Polarity=Neg	20	advmod	_	_
 20	quería	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	12	ccomp	_	_
 21	que	que	SCONJ	IN	_	23	mark	_	_
 22	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	23	obj	_	_
@@ -9806,7 +9806,7 @@
 # text_en = "Snowman didn't think anything of Johnny Carson getting a step ladder and sitting back to front on him," he adds.
 1	A	a	ADP	IN	_	2	case	_	_
 2	Snowman	Snowman	PROPN	NNP	Gender=Masc|Number=Sing	5	obl	_	_
-3	no	_	ADV	RB	Polarity=Neg	5	advmod	_	_
+3	no	no	ADV	RB	Polarity=Neg	5	advmod	_	_
 4	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	obl:arg	_	_
 5	importaba	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 6	que	que	SCONJ	IN	_	9	mark	_	_
@@ -9850,7 +9850,7 @@
 # sent_id = n01145008
 # text = No hay desfile y nunca lo ha habido.
 # text_en = There is no parade and there never has been.
-1	No	_	ADV	RB	Polarity=Neg	2	advmod	_	_
+1	No	no	ADV	RB	Polarity=Neg	2	advmod	_	_
 2	hay	haber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	desfile	desfile	NOUN	NN	Gender=Masc|Number=Sing	2	obj	_	_
 4	y	y	CCONJ	CC	_	8	cc	_	_
@@ -10081,7 +10081,7 @@
 # sent_id = n01148035
 # text = No todas las transformaciones de la región han tenido éxito.
 # text_en = Not all transformations in the region have been successful.
-1	No	_	ADV	RB	Polarity=Neg	2	advmod	_	_
+1	No	no	ADV	RB	Polarity=Neg	2	advmod	_	_
 2	todas	_	DET	PDT	Gender=Fem|Number=Plur|PronType=Tot	4	det	_	_
 3	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
 4	transformaciones	_	NOUN	NN	Gender=Fem|Number=Plur	9	nsubj	_	_
@@ -11128,7 +11128,7 @@
 17	septentrional	septentrional	ADJ	JJ	Gender=Masc|Number=Sing	16	amod	_	SpaceAfter=No
 18	,	,	PUNCT	,	_	22	punct	_	_
 19	pero	pero	CCONJ	CC	_	22	cc	_	_
-20	no	_	ADV	RB	Polarity=Neg	22	advmod	_	_
+20	no	no	ADV	RB	Polarity=Neg	22	advmod	_	_
 21	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	22	compound:prt	_	_
 22	da	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
 23	en	en	ADP	IN	_	25	case	_	_
@@ -12105,7 +12105,7 @@
 14	su	_	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
 15	prominente	_	ADJ	JJ	Gender=Fem|Number=Sing	16	amod	_	_
 16	topografía	topografía	NOUN	NN	Gender=Fem|Number=Sing	12	nmod	_	_
-17	no	_	ADV	RB	Polarity=Neg	19	advmod	_	_
+17	no	no	ADV	RB	Polarity=Neg	19	advmod	_	_
 18	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
 19	paralela	_	ADJ	JJ	Gender=Fem|Number=Sing	1	xcomp	_	_
 20	a	a	ADP	IN	_	22	case	_	_
@@ -12513,7 +12513,7 @@
 18	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	22	obl	_	_
 19	muchas	_	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	20	det	_	_
 20	veces	_	NOUN	NN	Gender=Fem|Number=Plur	22	obl	_	_
-21	no	_	ADV	RB	Polarity=Neg	22	advmod	_	_
+21	no	no	ADV	RB	Polarity=Neg	22	advmod	_	_
 22	alcanza	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 23	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
 24	superficie	superficie	NOUN	NN	Gender=Fem|Number=Sing	22	obj	_	_
@@ -12532,7 +12532,7 @@
 # text_en = They generally do not explode catastrophically.
 1	Ellos	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
 2	generalmente	generalmente	ADV	RB	_	4	advmod	_	_
-3	no	_	ADV	RB	Polarity=Neg	4	advmod	_	_
+3	no	no	ADV	RB	Polarity=Neg	4	advmod	_	_
 4	explotan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	manera	manera	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
@@ -12928,7 +12928,7 @@
 # text = Estas no eran muy populares debido a que solían ubicarse en lugares remotos y sin un camino.
 # text_en = These are not very popular due to the often remote and roadless locations.
 1	Estas	_	DET	DT	Gender=Fem|Number=Plur|PronType=Dem	5	nsubj	_	_
-2	no	_	ADV	RB	Polarity=Neg	5	advmod	_	_
+2	no	no	ADV	RB	Polarity=Neg	5	advmod	_	_
 3	eran	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
 4	muy	muy	ADV	RB	_	5	advmod	_	_
 5	populares	_	ADJ	JJ	Gender=Fem|Number=Plur	0	root	_	_
@@ -13078,7 +13078,7 @@
 14	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
 15	peor	peor	ADJ	JJR	Degree=Cmp|Gender=Masc|Number=Sing	16	amod	_	_
 16	momento	momento	NOUN	NN	Gender=Masc|Number=Sing	18	obl	_	_
-17	no	_	ADV	RB	Polarity=Neg	18	advmod	_	_
+17	no	no	ADV	RB	Polarity=Neg	18	advmod	_	_
 18	era	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	ccomp	_	_
 19	más	_	ADV	RBR	Degree=Cmp	18	advmod	_	_
 20	que	que	ADP	IN	_	22	case	_	_
@@ -13137,7 +13137,7 @@
 13	áreas	_	NOUN	NN	Gender=Fem|Number=Plur	11	obl	_	_
 14	áridas	_	ADJ	JJ	Gender=Fem|Number=Plur	13	amod	_	_
 15	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	18	nsubj	_	_
-16	no	_	ADV	RB	Polarity=Neg	18	advmod	_	_
+16	no	no	ADV	RB	Polarity=Neg	18	advmod	_	_
 17	están	estar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
 18	protegidas	_	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	13	acl:relcl	_	_
 19	con	con	ADP	IN	_	20	case	_	_
@@ -14210,7 +14210,7 @@
 25	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
 26	soldados	_	NOUN	NN	Gender=Masc|Number=Plur	30	nsubj	_	_
 27	egipcios	_	ADJ	JJ	Gender=Masc|Number=Plur	26	amod	_	Proper=True
-28	no	_	ADV	RB	Polarity=Neg	30	advmod	_	_
+28	no	no	ADV	RB	Polarity=Neg	30	advmod	_	_
 29	habían	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	30	aux	_	_
 30	estado	estar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	acl:relcl	_	_
 31	desde	desde	ADP	IN	_	33	case	_	_
@@ -14386,7 +14386,7 @@
 18	siempre	siempre	ADV	RB	_	22	mark	_	_
 19	y	y	CCONJ	CC	_	18	fixed	_	_
 20	cuando	cuando	ADV	WRB	PronType=Rel	18	fixed	_	_
-21	no	_	ADV	RB	Polarity=Neg	22	advmod	_	_
+21	no	no	ADV	RB	Polarity=Neg	22	advmod	_	_
 22	hubiera	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
 23	nubes	_	NOUN	NN	Gender=Fem|Number=Plur	22	obj	_	_
 24	o	o	CCONJ	CC	_	25	cc	_	_
@@ -14410,7 +14410,7 @@
 11	Nueva	_	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	Proper=True
 12	Francia	Francia	PROPN	NNP	Gender=Fem|Number=Sing	7	nmod	_	_
 13	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	17	nsubj:pass	_	_
-14	no	_	ADV	RB	Polarity=Neg	17	advmod	_	_
+14	no	no	ADV	RB	Polarity=Neg	17	advmod	_	_
 15	habían	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	17	aux	_	_
 16	sido	ser	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	aux:pass	_	_
 17	colonizadas	colonizar	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	7	acl:relcl	_	SpaceAfter=No
@@ -16331,7 +16331,7 @@
 8	sus	_	PRON	DTP$	Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
 9	miembros	_	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	_
 10	que	que	SCONJ	IN	_	12	mark	_	_
-11	no	_	ADV	RB	Polarity=Neg	12	advmod	_	_
+11	no	no	ADV	RB	Polarity=Neg	12	advmod	_	_
 12	creyeran	_	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
 13	todo	todo	DET	PDT	Gender=Masc|Number=Sing|PronType=Tot	15	det	_	_
 14	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	det	_	_
@@ -16457,7 +16457,7 @@
 18	partes	_	NOUN	NN	Gender=Fem|Number=Plur	13	obl	_	SpaceAfter=No
 19	,	,	PUNCT	,	_	22	punct	_	_
 20	pero	pero	CCONJ	CC	_	22	cc	_	_
-21	no	_	ADV	RB	Polarity=Neg	22	advmod	_	_
+21	no	no	ADV	RB	Polarity=Neg	22	advmod	_	_
 22	intentó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
 23-24	tomarlo	_	_	_	_	_	_	_	_
 23	tomar	tomar	VERB	VB	VerbForm=Inf	22	xcomp	_	_
@@ -16676,7 +16676,7 @@
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	Oeste	oeste	NOUN	NN	Gender=Masc|Number=Sing	9	nmod	_	_
 13	y	y	CCONJ	CC	_	17	cc	_	_
-14	no	_	ADV	RB	Polarity=Neg	15	advmod	_	_
+14	no	no	ADV	RB	Polarity=Neg	15	advmod	_	_
 15	muy	muy	ADV	RB	_	16	advmod	_	_
 16	bien	bien	ADV	RB	_	17	advmod	_	_
 17	preparado	preparar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_
@@ -18892,7 +18892,7 @@
 13	princesa	princesa	NOUN	NN	Gender=Fem|Number=Sing	9	obl	_	_
 14	de	de	ADP	IN	_	15	case	_	_
 15	Disney	Disney	PROPN	NNP	Number=Sing	13	nmod	_	_
-16	no	_	ADV	RB	Polarity=Neg	17	advmod	_	_
+16	no	no	ADV	RB	Polarity=Neg	17	advmod	_	_
 17	blanca	_	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	SpaceAfter=No
 18	,	,	PUNCT	,	_	22	punct	_	_
 19	en	en	ADP	IN	_	22	case	_	_
@@ -18943,7 +18943,7 @@
 1	Sin	sin	ADP	IN	_	5	discourse	_	_
 2	embargo	embargo	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	1	punct	_	_
-4	no	_	ADV	RB	Polarity=Neg	5	advmod	_	_
+4	no	no	ADV	RB	Polarity=Neg	5	advmod	_	_
 5	hubo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	más	_	ADV	RBR	Degree=Cmp	7	advmod	_	_
 7	reconocimiento	reconocimiento	NOUN	NN	Gender=Masc|Number=Sing	5	obj	_	_
@@ -19165,7 +19165,7 @@
 18	que	que	SCONJ	IN	_	23	mark	_	_
 19	su	_	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
 20	candidatura	candidatura	NOUN	NN	Gender=Fem|Number=Sing	23	nsubj	_	_
-21	no	_	ADV	RB	Polarity=Neg	23	advmod	_	_
+21	no	no	ADV	RB	Polarity=Neg	23	advmod	_	_
 22	era	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	cop	_	_
 23	válida	_	ADJ	JJ	Gender=Fem|Number=Sing	17	ccomp	_	_
 24	y	y	CCONJ	CC	_	26	cc	_	_
@@ -19226,7 +19226,7 @@
 11	pero	pero	CCONJ	CC	_	15	cc	_	_
 12	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
 13	hermano	hermano	NOUN	NN	Gender=Masc|Number=Sing	15	nsubj	_	_
-14	no	_	ADV	RB	Polarity=Neg	15	advmod	_	_
+14	no	no	ADV	RB	Polarity=Neg	15	advmod	_	_
 15	compartía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	_
 16	su	_	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
 17	devoción	devoción	NOUN	NN	Gender=Fem|Number=Sing	15	obj	_	SpaceAfter=No
@@ -19744,7 +19744,7 @@
 # text_en = Sails are not represented in prehistoric Mesoamerican iconography or texts, instead, it is theorized that canoes were used as a primary mode of water transportation for the ancient Maya.
 1	Las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
 2	velas	_	NOUN	NN	Gender=Fem|Number=Plur	5	nsubj	_	_
-3	no	_	ADV	RB	Polarity=Neg	5	advmod	_	_
+3	no	no	ADV	RB	Polarity=Neg	5	advmod	_	_
 4	aparecen	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 5	representadas	_	ADJ	JJ	Gender=Fem|Number=Plur	0	root	_	_
 6	en	en	ADP	IN	_	8	case	_	_
@@ -19893,7 +19893,7 @@
 17	de	de	ADP	IN	_	19	case	_	_
 18	su	_	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
 19	vida	vida	NOUN	NN	Gender=Fem|Number=Sing	16	nmod	_	_
-20	no	_	ADV	RB	Polarity=Neg	21	advmod	_	_
+20	no	no	ADV	RB	Polarity=Neg	21	advmod	_	_
 21	interrumpió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
 22	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	23	det	_	_
 23	régimen	régimen	NOUN	NN	Gender=Masc|Number=Sing	21	obj	_	_
@@ -20637,7 +20637,7 @@
 # sent_id = w01143015
 # text = No hace mucho se divorció de la actriz Gloria Holden, pero seguía enamorado después de la ruptura del matrimonio.
 # text_en = Not long ago he was divorced from the actress, Gloria Holden, but carried the torch after the marital rift.
-1	No	_	ADV	RB	Polarity=Neg	2	advmod	_	_
+1	No	no	ADV	RB	Polarity=Neg	2	advmod	_	_
 2	hace	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
 3	mucho	mucho	ADV	RB	_	2	advmod	_	_
 4	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	compound:prt	_	_
@@ -20700,7 +20700,7 @@
 # text = Eligio no ir tras un tercer período en el siguiente ciclo de elecciones.
 # text_en = He chose not to seek a third term in the following election cycle.
 1	Eligio	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-2	no	_	ADV	RB	Polarity=Neg	3	advmod	_	_
+2	no	no	ADV	RB	Polarity=Neg	3	advmod	_	_
 3	ir	ir	VERB	VB	VerbForm=Inf	1	xcomp	_	_
 4	tras	tras	ADP	IN	_	7	case	_	_
 5	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
@@ -21003,7 +21003,7 @@
 11	que	que	SCONJ	IN	_	15	mark	_	_
 12	ella	él	PRON	PRP	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
 13	ya	ya	ADV	RB	_	15	advmod	_	_
-14	no	_	ADV	RB	Polarity=Neg	15	advmod	_	_
+14	no	no	ADV	RB	Polarity=Neg	15	advmod	_	_
 15	quería	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	ccomp	_	_
 16	estar	estar	AUX	VB	VerbForm=Inf	17	aux	_	_
 17	casada	casar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	15	xcomp	_	_
@@ -21110,7 +21110,7 @@
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 2	Grandes	_	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	Proper=True
 3	Poderes	_	NOUN	NN	Gender=Masc|Number=Plur	5	nsubj	_	Proper=True
-4	no	_	ADV	RB	Polarity=Neg	5	advmod	_	_
+4	no	no	ADV	RB	Polarity=Neg	5	advmod	_	_
 5	cumplieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	con	con	ADP	IN	_	8	case	_	_
 7	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
@@ -21425,7 +21425,7 @@
 # text_en = The spokesman did not rule out the possibility that others would also be investigated.
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	portavoz	portavoz	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
-3	no	_	ADV	RB	Polarity=Neg	4	advmod	_	_
+3	no	no	ADV	RB	Polarity=Neg	4	advmod	_	_
 4	descartó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	posibilidad	posibilidad	NOUN	NN	Gender=Fem|Number=Sing	4	obj	_	_
@@ -21450,7 +21450,7 @@
 5	serie	serie	NOUN	NN	Gender=Fem|Number=Sing	11	nsubj	_	_
 6	1	1	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	appos	_	_
 7	ya	ya	ADV	RB	_	11	advmod	_	_
-8	no	_	ADV	RB	Polarity=Neg	11	advmod	_	_
+8	no	no	ADV	RB	Polarity=Neg	11	advmod	_	_
 9	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	antigua	antigua	NOUN	NN	Gender=Fem|Number=Sing	16	advcl	_	SpaceAfter=No
@@ -21662,7 +21662,7 @@
 6	yo	yo	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
 7	he	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	8	aux	_	_
 8	decidido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
-9	no	_	ADV	RB	Polarity=Neg	11	advmod	_	_
+9	no	no	ADV	RB	Polarity=Neg	11	advmod	_	_
 10	estar	estar	AUX	VB	VerbForm=Inf	11	cop	_	_
 11	presente	presente	ADJ	JJ	Number=Sing	8	xcomp	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	13	punct	_	_
@@ -22048,7 +22048,7 @@
 1	Lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	det	_	_
 2	único	único	NOUN	NN	Gender=Masc|Number=Sing	8	nsubj	_	_
 3	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	_
-4	no	_	ADV	RB	Polarity=Neg	6	advmod	_	_
+4	no	no	ADV	RB	Polarity=Neg	6	advmod	_	_
 5	está	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 6	claro	claro	ADJ	JJ	Gender=Masc|Number=Sing	2	acl:relcl	_	_
 7	ahora	ahora	ADV	RB	_	6	advmod	_	_
@@ -22128,7 +22128,7 @@
 6	vídeo	vídeo	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
 7	en	en	ADP	IN	_	8	case	_	_
 8	Alemania	Alemania	PROPN	NNP	Number=Sing	4	obl	_	_
-9	no	_	ADV	RB	Polarity=Neg	11	advmod	_	_
+9	no	no	ADV	RB	Polarity=Neg	11	advmod	_	_
 10	está	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 11	clara	_	ADJ	JJ	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	_
@@ -22255,7 +22255,7 @@
 3	que	que	SCONJ	IN	_	9	mark	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	asunto	asunto	NOUN	NN	Gender=Masc|Number=Sing	9	nsubj	_	_
-6	no	_	ADV	RB	Polarity=Neg	9	advmod	_	_
+6	no	no	ADV	RB	Polarity=Neg	9	advmod	_	_
 7	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	compound:prt	_	_
 8	haya	haber	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	_
 9	terminado	terminar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	csubj	_	_
@@ -22435,7 +22435,7 @@
 44	economía	economía	NOUN	NN	Gender=Fem|Number=Sing	39	nmod	_	_
 45	global	_	ADJ	JJ	Gender=Fem|Number=Sing	44	amod	_	_
 46	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	48	nsubj	_	_
-47	no	_	ADV	RB	Polarity=Neg	48	advmod	_	_
+47	no	no	ADV	RB	Polarity=Neg	48	advmod	_	_
 48	utilice	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	44	acl:relcl	_	_
 49	fuentes	_	NOUN	NN	Gender=Fem|Number=Plur	48	obj	_	_
 50	de	de	ADP	IN	_	51	case	_	_
@@ -22516,7 +22516,7 @@
 3	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 4	irritantes	_	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
 5	signos	_	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj	_	_
-6	no	_	ADV	RB	Polarity=Neg	7	advmod	_	_
+6	no	no	ADV	RB	Polarity=Neg	7	advmod	_	_
 7	desaparecerán	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 8	completamente	completamente	ADV	RB	_	7	advmod	_	SpaceAfter=No
 9	:	:	PUNCT	:	_	22	punct	_	_
@@ -22544,13 +22544,13 @@
 31	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
 32	sello	sello	NOUN	NN	Gender=Masc|Number=Sing	29	conj	_	_
 33	discográfico	discográfico	ADJ	JJ	Gender=Masc|Number=Sing	32	amod	_	_
-34	no	_	ADV	RB	Polarity=Neg	36	advmod	_	_
+34	no	no	ADV	RB	Polarity=Neg	36	advmod	_	_
 35	son	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	36	cop	_	_
 36	miembros	_	NOUN	NN	Gender=Masc|Number=Plur	22	advcl	_	_
 37	de	de	ADP	IN	_	38	case	_	_
 38	GEMA	GEMA	PROPN	NNP	Number=Sing	36	nmod	_	_
 39	o	o	CCONJ	CC	_	41	cc	_	_
-40	no	_	ADV	RB	Polarity=Neg	41	advmod	_	_
+40	no	no	ADV	RB	Polarity=Neg	41	advmod	_	_
 41	tienen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	36	conj	_	_
 42	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	43	det	_	_
 43	acuerdo	acuerdo	NOUN	NN	Gender=Masc|Number=Sing	41	obj	_	_
@@ -22564,7 +22564,7 @@
 # text_en = The contaminants not only attack the undeveloped lungs of the little ones; they can also lead to long-term impairment in the development of the adolescent brain.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	contaminantes	_	NOUN	NN	Gender=Masc|Number=Plur	5	nsubj	_	_
-3	no	_	ADV	RB	Polarity=Neg	4	advmod	_	_
+3	no	no	ADV	RB	Polarity=Neg	4	advmod	_	_
 4	sólo	sólo	ADV	RB	_	5	advmod	_	_
 5	atacan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
@@ -22598,7 +22598,7 @@
 # sent_id = n02083054
 # text = No es sorprendente que tanto el gobierno federal como el estatal hayan clasificado al Patrimonio Natural Nacional como una empeño nacional de la máxima prioridad y lo hayan documentado a partir de 2005 en un acuerdo de coalición.
 # text_en = It is no surprise that the federal and state governments have classified the National Natural Heritage as a nation-wide endeavor of the highest priority and have documented it starting in 2005 in a coalition contract.
-1	No	_	ADV	RB	Polarity=Neg	3	advmod	_	_
+1	No	no	ADV	RB	Polarity=Neg	3	advmod	_	_
 2	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	sorprendente	sorprendente	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
 4	que	que	SCONJ	IN	_	13	mark	_	_
@@ -22700,7 +22700,7 @@
 # text_en = "If somebody can't handle a Twitter account, they can't handle the nuclear codes," Obama mocked.
 1	Si	si	SCONJ	IN	_	5	mark	_	_
 2	alguien	alguien	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj	_	_
-3	no	_	ADV	RB	Polarity=Neg	5	advmod	_	_
+3	no	no	ADV	RB	Polarity=Neg	5	advmod	_	_
 4	puede	poder	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	manejar	manejar	VERB	VB	VerbForm=Inf	13	advcl	_	_
 6	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -23038,12 +23038,12 @@
 13	guía	guía	NOUN	NN	Gender=Fem|Number=Sing	10	nmod	_	_
 14	de	de	ADP	IN	_	15	case	_	_
 15	contenido	contenido	NOUN	NN	Gender=Masc|Number=Sing	13	nmod	_	_
-16	no	_	ADV	RB	Polarity=Neg	18	advmod	_	_
+16	no	no	ADV	RB	Polarity=Neg	18	advmod	_	_
 17	fueran	ser	AUX	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	18	aux:pass	_	_
 18	incluídas	_	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Fin	7	ccomp	_	SpaceAfter=No
 19	:	:	PUNCT	:	_	22	punct	_	_
 20	"	"	PUNCT	``	_	22	punct	_	SpaceAfter=No
-21	No	_	ADV	RB	Polarity=Neg	22	advmod	_	_
+21	No	no	ADV	RB	Polarity=Neg	22	advmod	_	_
 22	hubo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	_
 23	realmente	realmente	ADV	RB	_	22	advmod	_	_
 24	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
@@ -23291,7 +23291,7 @@
 # text = Francia no tiene buena reputación.
 # text_en = France doesn't have a good reputation.
 1	Francia	Francia	PROPN	NNP	Number=Sing	3	nsubj	_	_
-2	no	_	ADV	RB	Polarity=Neg	3	advmod	_	_
+2	no	no	ADV	RB	Polarity=Neg	3	advmod	_	_
 3	tiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	buena	_	ADJ	JJ	Gender=Fem|Number=Sing	5	amod	_	_
 5	reputación	reputación	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
@@ -23531,7 +23531,7 @@
 7	un	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	nota	nota	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
 9	que	que	SCONJ	IN	_	11	mark	_	_
-10	no	_	ADV	RB	Polarity=Neg	11	advmod	_	_
+10	no	no	ADV	RB	Polarity=Neg	11	advmod	_	_
 11	habrá	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	ccomp	_	_
 12	subidas	_	NOUN	NN	Gender=Fem|Number=Plur	11	obj	_	_
 13	de	de	ADP	IN	_	14	case	_	_
@@ -24085,7 +24085,7 @@
 4	sin	sin	ADP	IN	_	10	discourse	_	_
 5	embargo	embargo	NOUN	NN	Gender=Masc|Number=Sing	4	fixed	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	4	punct	_	_
-7	no	_	ADV	RB	Polarity=Neg	10	advmod	_	_
+7	no	no	ADV	RB	Polarity=Neg	10	advmod	_	_
 8	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	_
 9	estado	estar	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	cop	_	_
 10	exenta	_	ADJ	JJ	Gender=Fem|Number=Sing	0	root	_	_
@@ -24200,7 +24200,7 @@
 3	de	de	ADP	IN	_	1	fixed	_	_
 4	ellos	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	obl	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	_	_
-6	no	_	ADV	RB	Polarity=Neg	7	advmod	_	_
+6	no	no	ADV	RB	Polarity=Neg	7	advmod	_	_
 7	todos	_	NOUN	NN	Gender=Masc|Number=Plur	11	nsubj	_	_
 8	en	en	ADP	IN	_	10	case	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
@@ -24400,7 +24400,7 @@
 23	empleada	emplear	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	21	acl	_	SpaceAfter=No
 24	,	,	PUNCT	,	_	28	punct	_	_
 25	pero	pero	CCONJ	CC	_	28	cc	_	_
-26	no	_	ADV	RB	Polarity=Neg	28	advmod	_	_
+26	no	no	ADV	RB	Polarity=Neg	28	advmod	_	_
 27	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	papirotazo	papirotazo	NOUN	NN	Gender=Masc|Number=Sing	7	conj	_	_
 29	y	y	CCONJ	CC	_	31	cc	_	_
@@ -25341,7 +25341,7 @@
 # text_en = The king did not take special precautions during his escape and was recognized multiple times during his stays.
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	Rey	rey	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
-3	no	_	ADV	RB	Polarity=Neg	4	advmod	_	_
+3	no	no	ADV	RB	Polarity=Neg	4	advmod	_	_
 4	tomó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	precauciones	_	NOUN	NN	Gender=Fem|Number=Plur	4	obj	_	_
 6	especiales	_	ADJ	JJ	Gender=Fem|Number=Plur	5	amod	_	_
@@ -26263,7 +26263,7 @@
 8	de	de	ADP	IN	_	10	case	_	_
 9	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
 10	cristianos	_	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	Proper=True
-11	no	_	ADV	RB	Polarity=Neg	12	advmod	_	_
+11	no	no	ADV	RB	Polarity=Neg	12	advmod	_	_
 12	tenía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 13	acceso	acceso	NOUN	NN	Gender=Masc|Number=Sing	12	obj	_	_
 14	a	a	ADP	IN	_	16	case	_	_
@@ -26284,7 +26284,7 @@
 3	maneras	_	NOUN	NN	Gender=Fem|Number=Plur	1	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	1	punct	_	_
 5	ellos	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
-6	no	_	ADV	RB	Polarity=Neg	8	advmod	_	_
+6	no	no	ADV	RB	Polarity=Neg	8	advmod	_	_
 7	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	compound:prt	_	_
 8	expandieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 9	hasta	hasta	SCONJ	IN	_	15	mark	_	_
@@ -26322,7 +26322,7 @@
 15	,	,	PUNCT	,	_	16	punct	_	_
 16	técnica	técnica	NOUN	NN	Gender=Fem|Number=Sing	7	parataxis	_	_
 17	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	21	nsubj:pass	_	_
-18	no	_	ADV	RB	Polarity=Neg	21	advmod	_	_
+18	no	no	ADV	RB	Polarity=Neg	21	advmod	_	_
 19	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	aux	_	_
 20	sido	ser	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	aux:pass	_	_
 21	usada	usar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	16	acl:relcl	_	_
@@ -26748,7 +26748,7 @@
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	pista	pista	NOUN	NN	Gender=Fem|Number=Sing	8	nsubj	_	_
-6	no	_	ADV	RB	Polarity=Neg	8	advmod	_	_
+6	no	no	ADV	RB	Polarity=Neg	8	advmod	_	_
 7	estaba	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	_
 8-9	utilizándose	_	_	_	_	_	_	_	_
 8	utilizando	utilizar	VERB	VBG	VerbForm=Ger	0	root	_	_
@@ -26855,7 +26855,7 @@
 9	y	y	CCONJ	CC	_	10	cc	_	_
 10	montañosa	_	ADJ	JJ	Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	13	punct	_	_
-12	no	_	ADV	RB	Polarity=Neg	13	advmod	_	_
+12	no	no	ADV	RB	Polarity=Neg	13	advmod	_	_
 13	hay	haber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	parataxis	_	_
 14	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 15	clara	_	ADJ	JJ	Gender=Fem|Number=Sing	16	amod	_	_
@@ -27031,7 +27031,7 @@
 # text_en = Although not a resolver of the conflict, the French victory at the Battle of Marengo forced the Austrians to give Italy up for the second time.
 1	Además	además	ADV	RB	_	16	advmod	_	_
 2	de	de	ADP	IN	_	4	case	_	_
-3	no	_	ADV	RB	Polarity=Neg	4	advmod	_	_
+3	no	no	ADV	RB	Polarity=Neg	4	advmod	_	_
 4	resolver	resolver	VERB	VB	VerbForm=Inf	1	xcomp	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	conflicto	conflicto	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
@@ -27307,7 +27307,7 @@
 9	a	a	ADP	IN	_	8	fixed	_	_
 10	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
 11	colaboraciones	_	NOUN	NN	Gender=Fem|Number=Plur	7	obl	_	_
-12	no	_	ADV	RB	Polarity=Neg	13	advmod	_	_
+12	no	no	ADV	RB	Polarity=Neg	13	advmod	_	_
 13	oficiales	_	ADJ	JJ	Gender=Fem|Number=Plur	11	amod	_	_
 14	entre	entre	ADP	IN	_	16	case	_	_
 15	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
@@ -27329,7 +27329,7 @@
 3	varias	_	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	4	det	_	_
 4	colaboraciones	_	NOUN	NN	Gender=Fem|Number=Plur	9	obl	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	_	_
-6	no	_	ADV	RB	Polarity=Neg	9	advmod	_	_
+6	no	no	ADV	RB	Polarity=Neg	9	advmod	_	_
 7	está	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
 8	muy	muy	ADV	RB	_	9	advmod	_	_
 9	claro	claro	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_

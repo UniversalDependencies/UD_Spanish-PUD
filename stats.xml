@@ -17,7 +17,7 @@
   <tags unique="16">
     <tag name="ADJ">1480</tag><!-- _, gran, primer, nuevo, mayor, nacional, unido, mismo, claro, i -->
     <tag name="ADP">3963</tag><!-- de, en, a, por, con, para, como, que, entre, durante -->
-    <tag name="ADV">894</tag><!-- _, también, cuando, antes, después, ya, muy, tanto, donde, no -->
+    <tag name="ADV">894</tag><!-- no, _, también, cuando, antes, después, ya, muy, tanto, donde -->
     <tag name="AUX">707</tag><!-- ser, haber, estar, _, poder, deber, do -->
     <tag name="CCONJ">582</tag><!-- y, pero, o, e, ni, and -->
     <tag name="DET">3321</tag><!-- el, uno, _, este, esto, ese, eso, otro, cada, todo -->
