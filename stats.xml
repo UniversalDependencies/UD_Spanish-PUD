@@ -29,7 +29,7 @@
     <tag name="PUNCT">2291</tag><!-- ,, ., ", (, ), :, ;, -, ?, ¿ -->
     <tag name="SCONJ">261</tag><!-- que, si, como, aunque, porque, a, mientras, de, hasta, para -->
     <tag name="SYM">21</tag><!-- % -->
-    <tag name="VERB">2192</tag><!-- _, tener, hacer, ser, haber, incluir, llegar, pasar, trabajar, tomar -->
+    <tag name="VERB">2192</tag><!-- _, tener, hacer, ser, estar, haber, incluir, llegar, pasar, trabajar -->
     <tag name="X">13</tag><!-- cápita, per, _, bjórr, ey, kven, maiorum, meänkieli, mos, oblast -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->

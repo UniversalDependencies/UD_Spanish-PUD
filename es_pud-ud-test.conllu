@@ -352,7 +352,7 @@
 # sent_id = n01004017
 # text = Están en la media nacional en 4º curso de primaria y por encima de la media nacional en 2º de la ESO.
 # text_en = They are at the national average in grade 4 and better than national average in grade 8.
-1	Están	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Están	estar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	en	en	ADP	IN	_	4	case	_	_
 3	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	media	media	NOUN	NN	Gender=Fem|Number=Sing	1	obl	_	_
@@ -947,7 +947,7 @@
 4	sugerido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	que	que	SCONJ	IN	_	7	mark	_	_
 6	Huawei	Huawei	PROPN	NNP	Number=Sing	7	nsubj	_	_
-7	está	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+7	está	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
 8	en	en	ADP	IN	_	11	case	_	_
 9	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 10	mejor	mejor	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Sing	11	amod	_	_
@@ -1527,7 +1527,7 @@
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	momento	momento	NOUN	NN	Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	15	punct	_	_
-17	están	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+17	están	estar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
 18	lejos	lejos	ADV	RB	_	17	advmod	_	_
 19-20	del	_	_	_	_	_	_	_	_
 19	de	de	ADP	INDT	_	21	case	_	_
@@ -5024,7 +5024,7 @@
 5	de	de	ADP	IN	_	7	case	_	_
 6	330	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	7	nummod	_	_
 7	personas	persona	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
-8	está	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	está	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	a	a	ADP	IN	_	13	case	_	_
 10	bordo	bordo	NOUN	NN	Gender=Masc|Number=Sing	9	fixed	_	_
 11-12	del	_	_	_	_	_	_	_	_
@@ -7118,7 +7118,7 @@
 # sent_id = n01104019
 # text = Estamos así de decepcionados porque nos hemos dejado seis puntos jugando en casa.
 # text_en = We are so disappointed because we have dropped six points playing at home.
-1	Estamos	_	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Estamos	estar	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	así	así	ADV	RB	_	1	advmod	_	_
 3	de	de	ADP	IN	_	4	case	_	_
 4	decepcionados	decepcionado	NOUN	NN	Gender=Masc|Number=Plur	2	obl	_	_
@@ -7855,7 +7855,7 @@
 11	nacional	nacional	ADJ	JJ	Gender=Masc|Number=Sing	10	amod	_	_
 12	de	de	ADP	IN	_	13	case	_	_
 13	salud	salud	NOUN	NN	Gender=Fem|Number=Sing	10	nmod	_	_
-14	está	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	xcomp	_	_
+14	está	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	xcomp	_	_
 15	bajo	bajo	ADP	IN	_	18	case	_	_
 16	"	"	PUNCT	``	_	18	punct	_	SpaceAfter=No
 17	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
@@ -8228,7 +8228,7 @@
 3	por	por	ADP	IN	_	6	discourse	_	_
 4	supuesto	supuesto	NOUN	NN	Gender=Masc|Number=Sing	3	fixed	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	3	punct	_	_
-6	está	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	está	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	Bob	Bob	PROPN	NNP	Gender=Masc|Number=Sing	6	nsubj	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	10	punct	_	_
 9	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
@@ -8368,7 +8368,7 @@
 # text_en = “Superheroes are outside of human experience and so is this, so I treated it like a drama,” Zimmer says.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	superhéroes	_	NOUN	NN	Gender=Masc|Number=Plur	3	nsubj	_	_
-3	están	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	están	estar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	fuera	fuera	ADV	RB	_	3	advmod	_	_
 5	de	de	ADP	IN	_	7	case	_	_
 6	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -8787,7 +8787,7 @@
 21	votante	votante	NOUN	NN	Gender=Masc|Number=Sing	24	nsubj	_	_
 22	registrado	registrar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	acl	_	_
 23	no	no	ADV	RB	Polarity=Neg	24	advmod	_	_
-24	está	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+24	está	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	_
 25	en	en	ADP	IN	_	27	case	_	_
 26	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
 27	lista	lista	NOUN	NN	Gender=Fem|Number=Sing	24	obl	_	SpaceAfter=No
@@ -9413,7 +9413,7 @@
 13	en	en	ADP	IN	_	15	case	_	_
 14	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
 15	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	16	obl	_	_
-16	estamos	_	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	conj	_	_
+16	estamos	estar	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	conj	_	_
 17	en	en	ADP	IN	_	18	case	_	_
 18	proceso	proceso	NOUN	NN	Gender=Masc|Number=Sing	16	obl	_	_
 19	de	de	ADP	IN	_	20	case	_	_
@@ -12120,7 +12120,7 @@
 2	norte	norte	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj	_	_
 3	de	de	ADP	IN	_	4	case	_	_
 4	Algeria	Algeria	PROPN	NNP	Number=Sing	2	nmod	_	_
-5	está	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	está	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	en	en	ADP	IN	_	8	case	_	_
 7	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	zona	zona	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
@@ -19760,7 +19760,7 @@
 16	en	en	ADP	IN	_	19	discourse	_	_
 17	cambio	cambio	NOUN	NN	Gender=Masc|Number=Sing	16	fixed	_	SpaceAfter=No
 18	,	,	PUNCT	,	_	16	punct	_	_
-19	está	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
+19	está	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
 20	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	teoría	teoría	NOUN	NN	Gender=Fem|Number=Sing	19	nsubj	_	_
 22	de	de	ADP	IN	_	27	case	_	_
@@ -21729,7 +21729,7 @@
 29	de	de	ADP	IN	_	31	case	_	_
 30	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	31	det	_	_
 31	EUA	_	PROPN	NNP	Gender=Masc|Number=Plur	21	nmod	_	_
-32	están	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
+32	están	estar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
 33	en	en	ADP	IN	_	36	case	_	_
 34	tan	tan	ADV	RB	_	35	advmod	_	_
 35	mal	mal	ADJ	JJ	Gender=Masc|Number=Sing	36	amod	_	_
@@ -23193,7 +23193,7 @@
 # text_en = "ETA is on its way out," the French contingent revealed.
 1	"	"	PUNCT	``	_	3	punct	_	SpaceAfter=No
 2	ETA	ETA	PROPN	NNP	Number=Sing	3	nsubj	_	_
-3	está	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	está	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	en	en	ADP	IN	_	6	case	_	_
 5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	últimas	último	NOUN	NN	Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
@@ -23405,7 +23405,7 @@
 10	con	con	ADP	IN	_	11	case	_	_
 11	aquellos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	9	obl	_	_
 12	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	13	nsubj	_	_
-13	están	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
+13	están	estar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
 14	completamente	completamente	ADV	RB	_	13	advmod	_	_
 15	en	en	ADP	IN	_	18	case	_	_
 16	contra	contra	NOUN	NN	Gender=Fem|Number=Sing	15	fixed	_	_
@@ -23556,7 +23556,7 @@
 6	ambos	ambos	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Tot	7	det	_	_
 7	casos	caso	NOUN	NN	Gender=Masc|Number=Plur	9	obl	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	7	punct	_	_
-9	está	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+9	está	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 10	entre	entre	ADP	IN	_	13	case	_	_
 11	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
 12	más	más	ADV	RBR	Degree=Cmp	13	advmod	_	_
@@ -23905,7 +23905,7 @@
 4	compañías	compañía	NOUN	NN	Gender=Fem|Number=Plur	7	nsubj	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	tecnología	tecnología	NOUN	NN	Gender=Fem|Number=Sing	4	nmod	_	_
-7	están	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	están	estar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8-9	al	_	_	_	_	_	_	_	_
 8	a	a	ADP	INDT	_	10	case	_	_
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
@@ -24829,7 +24829,7 @@
 # text_en = Among them is the former cloister from the abbey church of St. Peter and Paul.
 1	Entre	entre	ADP	IN	_	2	case	_	_
 2	ellos	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	obl	_	_
-3	está	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	está	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 5	antiguo	antiguo	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	_
 6	claustro	claustro	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -24997,7 +24997,7 @@
 3	de	de	ADP	IN	_	5	case	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	ciudad	ciudad	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	_
-6	está	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	está	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	en	en	ADP	IN	_	9	case	_	_
 8	franca	franco	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	_
 9	decadencia	decadencia	NOUN	NN	Gender=Fem|Number=Sing	6	obl	_	_
