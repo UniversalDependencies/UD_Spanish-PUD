@@ -6524,7 +6524,7 @@
 # text_en = Conservationists welcomed the commission’s announcement.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	conservacionistas	conservacionista	NOUN	NN	Gender=Masc|Number=Plur	3	nsubj	_	_
-3	dieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	dieron	dar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	bienvenida	bienvenida	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
 6-7	al	_	_	_	_	_	_	_	_
@@ -15593,7 +15593,7 @@
 # text_en = Four more give the minimum and maximum declinations of the full moon: in summer, and in winter.
 1	Cuatro	cuatro	NUM	CD	NumForm=Word|NumType=Card	3	nsubj	_	_
 2	más	más	ADV	RBR	Degree=Cmp	1	advmod	_	_
-3	dieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	dieron	dar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	mínima	mínima	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
 6	y	y	CCONJ	CC	_	9	cc	_	_
@@ -20787,7 +20787,7 @@
 2	recuperó	recuperar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	y	y	CCONJ	CC	_	5	cc	_	_
 4	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	obj	_	_
-5	dieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+5	dieron	dar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
 6	de	de	ADP	IN	_	7	case	_	_
 7	alta	alta	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
 8-9	del	_	_	_	_	_	_	_	_
@@ -21207,7 +21207,7 @@
 26	Grandes	grande	ADJ	JJ	Gender=Masc|Number=Plur	27	amod	_	_
 27	Poderes	poder	NOUN	NN	Gender=Masc|Number=Plur	29	nsubj	_	_
 28	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	29	compound:prt	_	_
-29	dieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+29	dieron	dar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 30	cuenta	cuenta	NOUN	NN	Gender=Fem|Number=Sing	29	obj	_	_
 31	que	que	SCONJ	IN	_	34	mark	_	_
 32	tenían	tener	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	34	aux	_	_
