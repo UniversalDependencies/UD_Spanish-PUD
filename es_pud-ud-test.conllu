@@ -4914,7 +4914,7 @@
 3	,	,	PUNCT	,	_	6	punct	_	_
 4	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	_
 5	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
-6	escrito	_	VERB	VBN	VerbForm=Fin	1	acl:relcl	_	_
+6	escrito	escribir	VERB	VBN	VerbForm=Fin	1	acl:relcl	_	_
 7	varios	vario	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
 8	libros	libro	NOUN	NN	Gender=Masc|Number=Plur	6	obj	_	_
 9	sobre	sobre	ADP	IN	_	11	case	_	_
@@ -7171,7 +7171,7 @@
 6	está	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 7	desajustado	desajustar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 8	y	y	CCONJ	CC	_	9	cc	_	_
-9	parece	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+9	parece	parecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
 10	estar	estar	AUX	VB	VerbForm=Inf	11	aux	_	_
 11	buscando	buscar	VERB	VBG	VerbForm=Ger	9	xcomp	_	_
 12	respuestas	respuesta	NOUN	NN	Gender=Fem|Number=Plur	11	obj	_	_
@@ -7789,7 +7789,7 @@
 11	2050	2050	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	16	obl	_	_
 12	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
 13	océanos	océano	NOUN	NN	Gender=Masc|Number=Plur	16	nsubj	_	_
-14	contendrán	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	16	cop	_	_
+14	contendrán	contener	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	16	cop	_	_
 15	más	más	ADV	RBR	Degree=Cmp	16	advmod	_	_
 16	plástico	plástico	NOUN	NN	Gender=Masc|Number=Sing	7	xcomp	_	_
 17	que	que	ADP	IN	_	18	case	_	_
@@ -8206,7 +8206,7 @@
 13	sin	sin	ADP	IN	_	14	case	_	_
 14	pretensiones	pretensión	NOUN	NN	Gender=Fem|Number=Plur	12	nmod	_	_
 15	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	16	nsubj	_	_
-16	parece	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+16	parece	parecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
 17	hecho	hacer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	advcl	_	_
 18	a	a	ADP	IN	_	19	case	_	_
 19	medida	medida	NOUN	NN	Gender=Fem|Number=Sing	17	obl	_	_
@@ -12481,12 +12481,12 @@
 4	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	volcanes	_	NOUN	NN	Gender=Masc|Number=Plur	2	nmod	_	_
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	compound:prt	_	_
-7	llama	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	llama	llamar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 8	vulcanología	vulcanología	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	13	punct	_	_
 10	a	a	ADP	IN	_	13	advmod	_	_
 11	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	10	fixed	_	_
-12	escrito	_	AUX	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	13	cop	_	_
+12	escrito	escribir	AUX	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	13	cop	_	_
 13	volcanología	volcanología	NOUN	NN	Gender=Fem|Number=Sing	8	acl	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	8	punct	_	_
 
@@ -14138,7 +14138,7 @@
 9	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	batalla	batalla	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	12	punct	_	_
-12	escrito	_	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	6	acl	_	_
+12	escrito	escribir	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	6	acl	_	_
 13	por	por	ADP	IN	_	14	case	_	_
 14	James	James	PROPN	NNP	Gender=Masc|Number=Sing	12	obl	_	_
 15	Henry	Henry	PROPN	NNP	Gender=Masc|Number=Sing	14	flat:name	_	_
@@ -14506,7 +14506,7 @@
 4	él	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 5	o	o	CCONJ	CC	_	8	cc:preconj	_	_
 6	bien	bien	ADV	RB	_	5	fixed	_	_
-7	moriría	_	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
+7	moriría	morir	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
 8	viejo	viejo	ADJ	JJ	Gender=Masc|Number=Sing	2	csubj:pass	_	_
 9	después	después	ADV	RB	_	8	advmod	_	_
 10	de	de	ADP	IN	_	12	case	_	_
@@ -15303,7 +15303,7 @@
 3	de	de	ADP	IN	_	1	fixed	_	_
 4	esto	esto	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	6	obl	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	_	_
-6	parece	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	parece	parecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	que	que	SCONJ	IN	_	9	mark	_	_
 8	ambos	ambos	NOUN	NN	Gender=Masc|Number=Plur	9	nsubj	_	_
 9	mantuvieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	ccomp	_	_
@@ -19717,7 +19717,7 @@
 # text_en = The article by Thompson assumes that the Maya were ultimately “peaceful” people since they lacked apparent defenses.
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	articulo	articulo	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	_
-3	escrito	_	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	2	acl	_	_
+3	escrito	escribir	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	2	acl	_	_
 4	por	por	ADP	IN	_	5	case	_	_
 5	Thompson	Thompson	PROPN	NNP	Gender=Masc|Number=Sing	3	obl	_	_
 6	asume	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -20345,7 +20345,7 @@
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	Meyer	Meyer	PROPN	NNP	Gender=Masc|Number=Sing	7	nsubj	_	_
 6	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
-7	escrito	_	VERB	VBN	VerbForm=Fin	0	root	_	_
+7	escrito	escribir	VERB	VBN	VerbForm=Fin	0	root	_	_
 8	a	a	ADP	IN	_	9	case	_	_
 9	Irène	Irène	PROPN	NNP	Gender=Fem|Number=Sing	7	obl	_	_
 10	Joliot	Joliot	PROPN	NNP	Gender=Fem|Number=Sing	9	flat:name	_	SpaceAfter=No
@@ -23724,7 +23724,7 @@
 4	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	7	nsubj:pass	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pass	_	_
 6	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
-7	escrito	_	VERB	VBN	VerbForm=Fin	2	ccomp	_	_
+7	escrito	escribir	VERB	VBN	VerbForm=Fin	2	ccomp	_	_
 8	en	en	ADP	IN	_	10	case	_	_
 9	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	nota	nota	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
@@ -24313,7 +24313,7 @@
 # text = Se halla solo frente al público y, en el fondo, tiene que sacar lo mejor de sí mismo para hacer reír al espectador.
 # text_en = He stands alone in front of the audience and, ultimately, he has to bring out the best of himself in order to make the audience laugh.
 1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	compound:prt	_	_
-2	halla	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	halla	hallar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	solo	solo	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
 4	frente	frente	NOUN	NN	Gender=Fem|Number=Sing	7	case	_	_
 5-6	al	_	_	_	_	_	_	_	_
