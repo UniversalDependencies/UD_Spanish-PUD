@@ -293,7 +293,7 @@
 14	club	club	NOUN	NN	Gender=Masc|Number=Sing	17	nsubj	_	_
 15	privado	privado	ADJ	JJ	Gender=Masc|Number=Sing	14	amod	_	_
 16	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	compound:prt	_	_
-17	encuentra	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
+17	encuentra	encontrar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
 18	a	a	ADP	IN	_	22	case	_	_
 19	tan	tan	ADV	RB	_	20	advmod	_	_
 20	solo	solo	ADV	RB	_	22	advmod	_	_
@@ -3620,7 +3620,7 @@
 16	proteina	proteina	NOUN	NN	Gender=Fem|Number=Sing	13	appos	_	_
 17	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	19	nsubj	_	_
 18	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	compound:prt	_	_
-19	encuentra	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
+19	encuentra	encontrar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
 20	en	en	ADP	IN	_	22	case	_	_
 21	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
 22	glóbulos	glóbulo	NOUN	NN	Gender=Masc|Number=Plur	19	obl	_	_
@@ -4863,7 +4863,7 @@
 2	circunscripción	circunscripción	NOUN	NN	Gender=Fem|Number=Sing	5	nsubj	_	_
 3	electoral	electoral	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	_
 4	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	compound:prt	_	_
-5	encuentra	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	encuentra	encontrar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	en	en	ADP	IN	_	8	case	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	región	región	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
@@ -5550,7 +5550,7 @@
 4	más	más	ADV	RBR	Degree=Cmp	5	advmod	_	_
 5	curiosos	curioso	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	_
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	compound:prt	_	_
-7	encuentran	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	encuentran	encontrar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	nsubj	_	_
 9	de	de	ADP	IN	_	10	case	_	_
 10	embajador	embajador	NOUN	NN	Gender=Masc|Number=Sing	8	nmod	_	_
@@ -6242,7 +6242,7 @@
 23	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
 24	colección	colección	NOUN	NN	Gender=Fem|Number=Sing	22	obj	_	_
 25	cuando	cuando	ADV	WRB	PronType=Rel	26	advmod	_	_
-26	encuentro	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	21	advcl	_	_
+26	encuentro	encontrar	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	21	advcl	_	_
 27	alguna	alguna	NOUN	NN	Gender=Fem|Number=Sing	26	obj	_	SpaceAfter=No
 28	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -11284,7 +11284,7 @@
 24	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 25	donde	donde	ADV	WRB	PronType=Rel	27	advmod	_	_
 26	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	27	compound:prt	_	_
-27	encuentran	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	acl:relcl	_	_
+27	encuentran	encontrar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	acl:relcl	_	_
 28	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
 29	monte	monte	NOUN	NN	Gender=Masc|Number=Sing	27	nsubj	_	_
 30	Kilimanjaro	Kilimanjaro	PROPN	NNP	Number=Sing	29	appos	_	_
@@ -12997,7 +12997,7 @@
 18	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	día	día	NOUN	NN	Gender=Masc|Number=Sing	13	nmod	_	_
 20	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	21	compound:prt	_	_
-21	encuentra	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+21	encuentra	encontrar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
 22	por	por	ADP	IN	_	23	case	_	_
 23	encima	encima	ADV	RB	_	21	xcomp	_	_
 24-25	del	_	_	_	_	_	_	_	_
@@ -25878,7 +25878,7 @@
 7	La	él	PRON	NNP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	conj	_	_
 8	Conte	Conte	PROPN	NNP	_	7	flat:name	_	_
 9	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	compound:prt	_	_
-10	encuentra	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	encuentra	encontrar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	mayoría	mayoría	NOUN	NN	Gender=Fem|Number=Sing	10	nsubj	_	_
 13	de	de	ADP	IN	_	15	case	_	_
