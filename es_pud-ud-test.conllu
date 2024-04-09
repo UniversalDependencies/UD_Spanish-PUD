@@ -8992,7 +8992,7 @@
 # text_en = The Dutch students have yet to decide if they will be commercializing their electric motorcycle.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	estudiantes	estudiante	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj	_	_
-3	holandeses	_	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	Proper=True
+3	holandeses	holandés	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	Proper=True
 4	todavía	todavía	ADV	RB	_	7	advmod	_	_
 5	tienen	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 6	que	que	ADP	IN	_	5	fixed	_	_
@@ -10281,7 +10281,7 @@
 14	gestionaba	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	_
 15	por	por	ADP	IN	_	17	case	_	_
 16	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
-17	burgueses	_	NOUN	NN	Gender=Masc|Number=Plur	14	obl	_	_
+17	burgueses	burgués	NOUN	NN	Gender=Masc|Number=Plur	14	obl	_	_
 18	de	de	ADP	IN	_	20	case	_	_
 19	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	ciudad	ciudad	NOUN	NN	Gender=Fem|Number=Sing	17	nmod	_	_
@@ -15209,7 +15209,7 @@
 8	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	9	obj	_	_
 9	celebran	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
 10	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
-11	tailandeses	_	NOUN	NN	Gender=Masc|Number=Plur	9	nsubj	_	Proper=True
+11	tailandeses	tailandés	NOUN	NN	Gender=Masc|Number=Plur	9	nsubj	_	Proper=True
 12	de	de	ADP	IN	_	13	case	_	_
 13	origen	origen	NOUN	NN	Gender=Masc|Number=Sing	11	nmod	_	_
 14	chino	chino	ADJ	JJ	Gender=Masc|Number=Sing	13	amod	_	Proper=True
@@ -15358,7 +15358,7 @@
 32	espacio	espacio	NOUN	NN	Gender=Masc|Number=Sing	27	nmod	_	_
 33	para	para	ADP	IN	_	34	case	_	_
 34	niños	niño	NOUN	NN	Gender=Masc|Number=Plur	27	nmod	_	_
-35	japoneses	_	ADJ	JJ	Gender=Masc|Number=Plur	34	amod	_	SpaceAfter=No|Proper=True
+35	japoneses	japonés	ADJ	JJ	Gender=Masc|Number=Plur	34	amod	_	SpaceAfter=No|Proper=True
 36	.	.	PUNCT	.	_	12	punct	_	_
 
 # sent_id = w01068056
@@ -20597,7 +20597,7 @@
 33	de	de	ADP	IN	_	35	case	_	_
 34	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	35	nummod	_	_
 35	reyes	_	NOUN	NN	Gender=Masc|Number=Plur	32	nmod	_	_
-36	ingleses	_	ADJ	JJ	Gender=Masc|Number=Plur	35	amod	_	Proper=True
+36	ingleses	inglés	ADJ	JJ	Gender=Masc|Number=Plur	35	amod	_	Proper=True
 37	de	de	ADP	IN	_	39	case	_	_
 38	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	_
 39	Casa	casa	NOUN	NN	Gender=Fem|Number=Sing	35	nmod	_	Proper=True
