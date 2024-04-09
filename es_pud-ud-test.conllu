@@ -3948,7 +3948,7 @@
 5	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 6	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	8	obl	_	_
 7	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pass	_	_
-8	incluyen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+8	incluyen	incluir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 9	pueblos	pueblo	NOUN	NN	Gender=Masc|Number=Plur	8	nsubj:pass	_	_
 10	indígenas	indígeno	ADJ	JJ	Gender=Masc|Number=Plur	9	amod	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	8	punct	_	_
@@ -9096,7 +9096,7 @@
 # text_en = He is credited with helping efforts to tackle the mountain of debt accumulated by local governments in China.
 1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pass	_	_
 2	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obl:arg	_	_
-3	atribuye	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	atribuye	atribuir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	ayudar	ayudar	VERB	VB	VerbForm=Inf	3	csubj:pass	_	_
 6	a	a	ADP	IN	_	7	case	_	_
@@ -10712,7 +10712,7 @@
 # text_en = Its police includes a special unit which operates patrol and surveillance boats.
 1	Su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
 2	policía	policía	NOUN	NN	Gender=Fem|Number=Sing	3	nsubj	_	_
-3	incluye	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	incluye	incluir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	unidad	unidad	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
 6	especial	especial	ADJ	JJ	Gender=Fem|Number=Sing	5	amod	_	_
@@ -10737,7 +10737,7 @@
 6	de	de	ADP	IN	_	8	case	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	tierra	tierra	NOUN	NN	Gender=Fem|Number=Sing	5	nmod	_	_
-9	incluyen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	incluyen	incluir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	extensión	extensión	NOUN	NN	Gender=Fem|Number=Sing	9	obj	_	_
 12-13	del	_	_	_	_	_	_	_	_
@@ -12825,7 +12825,7 @@
 17	cuando	cuando	ADV	WRB	PronType=Rel	20	advmod	_	_
 18	este	este	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	20	nsubj:pass	_	_
 19	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	20	expl:pass	_	_
-20	destuye	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	SpaceAfter=No
+20	destuye	destuir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	7	punct	_	_
 
 # newdoc id = w01036
@@ -13874,7 +13874,7 @@
 # text = Normalmente incluye un bajo nivel de desarrollo, como en las áreas rurales de picnic, sillas y caminos.
 # text_en = It usually involves a low level of development, such as rustic picnic areas, benches and trails.
 1	Normalmente	normalmente	ADV	RB	_	2	advmod	_	_
-2	incluye	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	incluye	incluir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 4	bajo	bajo	ADJ	JJ	Gender=Masc|Number=Sing	5	amod	_	_
 5	nivel	nivel	NOUN	NN	Gender=Masc|Number=Sing	2	obj	_	_
@@ -15059,7 +15059,7 @@
 12	a.	antes	ADV	RB	Abbr=Yes	11	advmod	_	_
 13	C.	Cristo	PROPN	NNP	Abbr=Yes|Gender=Masc|Number=Sing	12	obl	_	_
 14	e	e	CCONJ	CC	_	15	cc	_	_
-15	incluyen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+15	incluyen	incluir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
 16	diez	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	17	nummod	_	_
 17	cartas	carta	NOUN	NN	Gender=Fem|Number=Plur	15	obj	_	_
 18	de	de	ADP	IN	_	20	case	_	_
@@ -15168,7 +15168,7 @@
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	día	día	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	_
 10	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl:pass	_	_
-11	incluyen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	incluyen	incluir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	en	en	ADP	IN	_	14	case	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	tabla	tabla	NOUN	NN	Gender=Fem|Number=Sing	11	obl	_	_
@@ -16871,7 +16871,7 @@
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	población	población	NOUN	NN	Gender=Fem|Number=Sing	9	conj	_	_
 15	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	16	nsubj	_	_
-16	incluyen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+16	incluyen	incluir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
 17	a	a	ADP	IN	_	18	case	_	_
 18	mujeres	mujer	NOUN	NN	Gender=Fem|Number=Plur	16	obl	_	SpaceAfter=No
 19	,	,	PUNCT	,	_	22	punct	_	_
@@ -17740,7 +17740,7 @@
 3	inventos	invento	NOUN	NN	Gender=Masc|Number=Plur	6	nsubj	_	_
 4	de	de	ADP	IN	_	5	case	_	_
 5	Lamar	Lamar	PROPN	NNP	Gender=Masc|Number=Sing	3	nmod	_	_
-6	incluyen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	incluyen	incluir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	semáforo	semáforo	NOUN	NN	Gender=Masc|Number=Sing	6	obj	_	_
 9	mejorado	mejorar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	_
@@ -21048,7 +21048,7 @@
 12	de	de	ADP	IN	_	13	case	_	_
 13	cómics	_	NOUN	NN	Gender=Masc|Number=Plur	11	nmod	_	_
 14	y	y	CCONJ	CC	_	15	cc	_	_
-15	contribuye	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
+15	contribuye	contribuir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
 16	con	con	ADP	IN	_	18	case	_	_
 17	story	story	NOUN	NN	Number=Sing	18	nmod	_	_
 18	boards	_	NOUN	NN	Number=Plur	15	obl	_	_
@@ -27762,7 +27762,7 @@
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	lengua	lengua	NOUN	NN	Gender=Fem|Number=Sing	9	nmod	_	_
 13	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	14	nsubj	_	_
-14	constituye	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+14	constituye	constituir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
 15	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	transición	transición	NOUN	NN	Gender=Fem|Number=Sing	14	obj	_	_
 17-18	del	_	_	_	_	_	_	_	_
