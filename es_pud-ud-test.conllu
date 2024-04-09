@@ -20941,7 +20941,7 @@
 14	,	,	PUNCT	,	_	17	punct	_	_
 15	luego	luego	ADV	RB	_	17	advmod	_	_
 16	Kesha	Kesha	PROPN	NNP	Gender=Fem|Number=Sing	17	nsubj	_	_
-17	ubicó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
+17	ubicó	ubicar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
 18	a	a	ADP	IN	_	19	case	_	_
 19	David	David	PROPN	NNP	Gender=Masc|Number=Sing	17	obl	_	_
 20	Gamson	Gamson	PROPN	NNP	Gender=Masc|Number=Sing	19	flat:name	_	SpaceAfter=No
