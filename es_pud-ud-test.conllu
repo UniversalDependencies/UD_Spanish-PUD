@@ -8,7 +8,7 @@
 4	precedentes	precedente	NOUN	NN	Gender=Masc|Number=Plur	3	obj	_	_
 5	para	para	ADP	IN	_	8	case	_	_
 6	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-7	mayor	_	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Sing	8	amod	_	_
+7	mayor	mayor	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Sing	8	amod	_	_
 8	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	_
 9	de	de	ADP	IN	_	11	case	_	_
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
@@ -2686,7 +2686,7 @@
 24	provincia	provincia	NOUN	NN	Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
 25	,	,	PUNCT	,	_	19	punct	_	_
 26	tuviese	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	csubj	_	_
-27	mayores	_	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Plur	28	amod	_	_
+27	mayores	mayor	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Plur	28	amod	_	_
 28	competencias	competencia	NOUN	NN	Gender=Fem|Number=Plur	26	obj	_	_
 29	de	de	ADP	IN	_	30	case	_	_
 30	aplicación	aplicación	NOUN	NN	Gender=Fem|Number=Sing	28	nmod	_	_
@@ -4030,7 +4030,7 @@
 23	,	,	PUNCT	,	_	31	punct	_	_
 24	quizás	quizás	ADV	RB	_	27	advmod	_	_
 25	con	con	ADP	IN	_	27	case	_	_
-26	mayor	_	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Sing	27	amod	_	_
+26	mayor	mayor	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Sing	27	amod	_	_
 27	importancia	importancia	NOUN	NN	Gender=Fem|Number=Sing	31	nmod	_	SpaceAfter=No
 28	,	,	PUNCT	,	_	27	punct	_	_
 29-30	al	_	_	_	_	_	_	_	_
@@ -5975,7 +5975,7 @@
 1	Terminas	terminar	VERB	VBC	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	escuchando	escuchar	VERB	VBG	VerbForm=Ger	1	xcomp	_	_
 3	con	con	ADP	IN	_	5	case	_	_
-4	mayor	_	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Sing	5	amod	_	_
+4	mayor	mayor	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Sing	5	amod	_	_
 5	atención	atención	NOUN	NN	Gender=Fem|Number=Sing	2	obl	_	_
 6	a	a	ADP	IN	_	8	case	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
@@ -7872,7 +7872,7 @@
 27	que	que	SCONJ	IN	_	28	mark	_	_
 28	acepten	_	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	xcomp	_	_
 29	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
-30	mayor	_	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Sing	31	amod	_	_
+30	mayor	mayor	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Sing	31	amod	_	_
 31	responsabilidad	responsabilidad	NOUN	NN	Gender=Fem|Number=Sing	28	obj	_	_
 32	por	por	ADP	IN	_	35	case	_	_
 33	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	35	det	_	_
@@ -12020,7 +12020,7 @@
 # text = La mayor parte del delta del Danubio permanece en Rumanía (distrito de Tulcea), mientras su parte norte, a la orilla izquierda de Kilia, está situado en Ucrania (Oblast de Odesa).
 # text_en = The greater part of the Danube Delta lies in Romania (Tulcea county), while its northern part, on the left bank of the Chilia arm, is situated in Ukraine (Odessa Oblast).
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-2	mayor	_	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Sing	3	amod	_	_
+2	mayor	mayor	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Sing	3	amod	_	_
 3	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	10	nsubj	_	_
 4-5	del	_	_	_	_	_	_	_	_
 4	de	de	ADP	INDT	_	6	case	_	_
@@ -13208,7 +13208,7 @@
 2	velocidades	_	NOUN	NN	Gender=Fem|Number=Plur	10	obl	_	_
 3	de	de	ADP	IN	_	4	case	_	_
 4	viento	viento	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
-5	mayores	_	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Plur	2	amod	_	SpaceAfter=No
+5	mayores	mayor	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Plur	2	amod	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	2	punct	_	_
 7	algunas	alguno	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	8	det	_	_
 8	partículas	partícula	NOUN	NN	Gender=Fem|Number=Plur	10	nsubj	_	_
@@ -15951,7 +15951,7 @@
 # text = La mayor matriculación de niños varones en la escuela secundaria, la renta per cápita y la tasa de crecimiento económico tuvieron efectos significativos en la reducción de la posibilidad de una guerra civil.
 # text_en = Higher male secondary school enrollment, per capita income and economic growth rate all had significant effects on reducing the chance of civil war.
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-2	mayor	_	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Sing	3	amod	_	_
+2	mayor	mayor	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Sing	3	amod	_	_
 3	matriculación	matriculación	NOUN	NN	Gender=Fem|Number=Sing	22	nsubj	_	_
 4	de	de	ADP	IN	_	5	case	_	_
 5	niños	niño	NOUN	NN	Gender=Masc|Number=Plur	3	nmod	_	_
@@ -22079,7 +22079,7 @@
 5	hombres	_	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj	_	_
 6	podrían	poder	AUX	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
 7	tener	tener	VERB	VB	VerbForm=Inf	2	parataxis	_	_
-8	mayor	_	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Sing	9	amod	_	_
+8	mayor	mayor	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Sing	9	amod	_	_
 9	responsabilidad	responsabilidad	NOUN	NN	Gender=Fem|Number=Sing	7	obj	_	_
 10	en	en	ADP	IN	_	12	case	_	_
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
@@ -23939,7 +23939,7 @@
 9	americana	americano	ADJ	JJ	Gender=Fem|Number=Sing	8	amod	_	Proper=True
 10	con	con	ADP	IN	_	13	case	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-12	mayor	_	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Sing	13	amod	_	_
+12	mayor	mayor	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Sing	13	amod	_	_
 13	capitalización	capitalización	NOUN	NN	Gender=Fem|Number=Sing	8	nmod	_	_
 14-15	del	_	_	_	_	_	_	_	_
 14	de	de	ADP	INDT	_	16	case	_	_
