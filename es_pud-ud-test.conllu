@@ -1342,7 +1342,7 @@
 25	y	y	CCONJ	CC	_	26	cc	_	_
 26	Spotify	Spotify	PROPN	NNP	Number=Sing	22	conj	_	_
 27	entre	entre	ADP	IN	_	29	case	_	_
-28	muchos	_	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	29	det	_	_
+28	muchos	mucho	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	29	det	_	_
 29	otros	_	NOUN	NN	Gender=Masc|Number=Plur	17	obl	_	SpaceAfter=No
 30	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -1408,7 +1408,7 @@
 # sent_id = n01022005
 # text = Muchos científicos creen que la tecnología para eliminar el carbono del aire no será necesaria para cumplir con los objetivos de París.
 # text_en = Many scientists say that technology to remove carbon from the air will now be needed to meet the Paris targets.
-1	Muchos	_	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	2	det	_	_
+1	Muchos	mucho	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	2	det	_	_
 2	científicos	_	NOUN	NN	Gender=Masc|Number=Plur	3	nsubj	_	_
 3	creen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	IN	_	16	mark	_	_
@@ -2253,7 +2253,7 @@
 2	embargo	embargo	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	1	punct	_	_
 4	hay	haber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	muchos	_	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	6	det	_	_
+5	muchos	mucho	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	6	det	_	_
 6	miembros	_	NOUN	NN	Gender=Masc|Number=Plur	4	obj	_	_
 7	de	de	ADP	IN	_	9	case	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
@@ -3594,7 +3594,7 @@
 21	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
 22	empresas	_	NOUN	NN	Gender=Fem|Number=Plur	23	nsubj	_	_
 23	tienen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-24	muchas	_	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	25	det	_	_
+24	muchas	mucho	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	25	det	_	_
 25	preguntas	_	NOUN	NN	Gender=Fem|Number=Plur	23	obj	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	23	punct	_	_
 
@@ -3941,7 +3941,7 @@
 # sent_id = n01054017
 # text = Muchas personas, entre los que se incluyen pueblos indígenas, defienden que se trivializa la cultura de las primeras naciones.
 # text_en = Many people, including Indigenous groups, argue they trivialize First Nations culture.
-1	Muchas	_	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	2	det	_	_
+1	Muchas	mucho	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	2	det	_	_
 2	personas	_	NOUN	NN	Gender=Fem|Number=Plur	12	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	8	punct	_	_
 4	entre	entre	ADP	IN	_	6	case	_	_
@@ -4639,7 +4639,7 @@
 # text = Como mucha gente que conozco, me he pasado los últimos meses en vela leyendo encuestas con miedo.
 # text_en = Like many people I know, I’ve spent recent months staying up late, reading polls in terror.
 1	Como	como	ADP	IN	_	3	case	_	_
-2	mucha	_	DET	DT	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	3	det	_	_
+2	mucha	mucho	DET	DT	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	3	det	_	_
 3	gente	gente	NOUN	NN	Gender=Fem|Number=Sing	9	obl	_	_
 4	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	5	obj	_	_
 5	conozco	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	SpaceAfter=No
@@ -5045,7 +5045,7 @@
 7	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
 8	edad	edad	NOUN	NN	Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	8	punct	_	_
-10	muchos	_	NOUN	NN	Gender=Masc|Number=Plur	12	nsubj	_	_
+10	muchos	mucho	NOUN	NN	Gender=Masc|Number=Plur	12	nsubj	_	_
 11	no	no	ADV	RB	Polarity=Neg	12	advmod	_	_
 12	conocerían	_	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
 13	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
@@ -5139,7 +5139,7 @@
 1	Una	una	NOUN	NN	Gender=Fem|Number=Sing	10	nsubj	_	_
 2	de	de	ADP	IN	_	5	case	_	_
 3	las	el	DET	PDT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
-4	muchas	_	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	5	det	_	_
+4	muchas	mucho	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	5	det	_	_
 5	entradas	_	NOUN	NN	Gender=Fem|Number=Plur	1	nmod	_	_
 6	de	de	ADP	IN	_	7	case	_	_
 7	luto	luto	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	_
@@ -6150,7 +6150,7 @@
 6	oficina	oficina	NOUN	NN	Gender=Fem|Number=Sing	4	nmod	_	_
 7	dispone	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	de	de	ADP	IN	_	10	case	_	_
-9	mucha	_	DET	DT	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	10	det	_	_
+9	mucha	mucho	DET	DT	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	10	det	_	_
 10	ropa	ropa	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
 11	y	y	CCONJ	CC	_	13	cc	_	_
 12	poca	_	DET	DT	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	13	det	_	_
@@ -6335,7 +6335,7 @@
 10	enfrentar	enfrentar	VERB	VB	VerbForm=Inf	8	xcomp	_	_
 11	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	compound:prt	_	_
 12	con	con	ADP	IN	_	14	case	_	_
-13	muchos	_	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	14	det	_	_
+13	muchos	mucho	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	14	det	_	_
 14	conservacionistas	_	NOUN	NN	Gender=Masc|Number=Plur	10	obl	_	_
 15	importantes	_	ADJ	JJ	Gender=Masc|Number=Plur	14	amod	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	19	punct	_	_
@@ -6559,7 +6559,7 @@
 8	invitación	invitación	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	15	punct	_	_
 10	pero	pero	CCONJ	CC	_	15	cc	_	_
-11	muchos	_	NOUN	NN	Gender=Masc|Number=Plur	15	nsubj	_	_
+11	muchos	mucho	NOUN	NN	Gender=Masc|Number=Plur	15	nsubj	_	_
 12	de	de	ADP	IN	_	14	case	_	_
 13	esos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	14	det	_	_
 14	mercados	_	NOUN	NN	Gender=Masc|Number=Plur	11	nmod	_	_
@@ -7827,7 +7827,7 @@
 6	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	genio	genio	NOUN	NN	Gender=Masc|Number=Sing	4	obl:agent	_	_
 8	y	y	CCONJ	CC	_	10	cc	_	_
-9	muchas	_	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	10	det	_	_
+9	muchas	mucho	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	10	det	_	_
 10	horas	_	NOUN	NN	Gender=Fem|Number=Plur	3	conj	_	_
 11	de	de	ADP	IN	_	13	case	_	_
 12	exigente	_	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	_
@@ -8652,7 +8652,7 @@
 1	Como	como	ADP	IN	_	2	case	_	_
 2	resultado	resultado	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
-4	mucha	_	DET	DT	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	5	det	_	_
+4	mucha	mucho	DET	DT	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	5	det	_	_
 5	gente	gente	NOUN	NN	Gender=Fem|Number=Sing	6	nsubj	_	_
 6	abre	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	rápidamente	rápidamente	ADV	RB	_	6	advmod	_	_
@@ -9309,7 +9309,7 @@
 1	No	no	ADV	RB	Polarity=Neg	3	advmod	_	_
 2	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	aux	_	_
 3	visto	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-4	muchos	_	NOUN	NN	Gender=Masc|Number=Plur	3	obj	_	_
+4	muchos	mucho	NOUN	NN	Gender=Masc|Number=Plur	3	obj	_	_
 5	de	de	ADP	IN	_	7	case	_	_
 6	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
 7	episodios	_	NOUN	NN	Gender=Masc|Number=Plur	4	nmod	_	_
@@ -10155,7 +10155,7 @@
 9	inteligentes	_	ADJ	JJ	Gender=Masc|Number=Plur	8	amod	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	12	punct	_	_
 11	pero	pero	CCONJ	CC	_	12	cc	_	_
-12	muchas	_	NOUN	NN	Gender=Fem|Number=Plur	6	conj	_	_
+12	muchas	mucho	NOUN	NN	Gender=Fem|Number=Plur	6	conj	_	_
 13	menos	menos	ADV	RBR	Degree=Cmp	12	advmod	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -10577,7 +10577,7 @@
 4	de	de	ADP	IN	_	5	case	_	_
 5	Aqueménida	aqueménida	NOUN	NN	Number=Sing	2	nmod	_	Proper=True
 6	poseía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-7	muchos	_	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	8	det	_	_
+7	muchos	mucho	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	8	det	_	_
 8	soldados	_	NOUN	NN	Gender=Masc|Number=Plur	6	obj	_	_
 9	de	de	ADP	IN	_	11	case	_	_
 10	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
@@ -10589,7 +10589,7 @@
 # text_en = Moreover, many of the Macedonian and Persian elite intermarried.
 1	Además	además	ADV	RB	_	11	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	_	_
-3	muchos	_	NOUN	NN	Gender=Masc|Number=Plur	11	nsubj	_	_
+3	muchos	mucho	NOUN	NN	Gender=Masc|Number=Plur	11	nsubj	_	_
 4	de	de	ADP	IN	_	6	case	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	élite	élite	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	_
@@ -10871,7 +10871,7 @@
 1	Varios	_	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
 2	germánicos	_	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj	_	Proper=True
 3	y	y	CCONJ	CC	_	5	cc	_	_
-4	muchas	_	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	5	det	_	_
+4	muchas	mucho	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	5	det	_	_
 5	tribus	_	NOUN	NN	Gender=Fem|Number=Plur	2	conj	_	_
 6	eslavas	_	ADJ	JJ	Gender=Fem|Number=Plur	5	amod	_	Proper=True
 7	cruzaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -11522,7 +11522,7 @@
 # sent_id = w01020016
 # text = Muchas civilizaciones antiguas estaban localizadas a las orillas del Mediterráneo, y estaban muy influenciadas por esa proximidad al mar.
 # text_en = Several ancient civilisations were located around the Mediterranean shores, and were greatly influenced by their proximity to the sea.
-1	Muchas	_	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	2	det	_	_
+1	Muchas	mucho	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	2	det	_	_
 2	civilizaciones	_	NOUN	NN	Gender=Fem|Number=Plur	5	nsubj	_	_
 3	antiguas	_	ADJ	JJ	Gender=Fem|Number=Plur	2	amod	_	_
 4	estaban	estar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	aux	_	_
@@ -12511,7 +12511,7 @@
 16	por	por	ADP	IN	_	18	case	_	_
 17	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	det	_	_
 18	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	22	obl	_	_
-19	muchas	_	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	20	det	_	_
+19	muchas	mucho	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	20	det	_	_
 20	veces	_	NOUN	NN	Gender=Fem|Number=Plur	22	obl	_	_
 21	no	no	ADV	RB	Polarity=Neg	22	advmod	_	_
 22	alcanza	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
@@ -13493,7 +13493,7 @@
 44	Caribe	Caribe	PROPN	NNP	Gender=Masc|Number=Sing	43	appos	_	SpaceAfter=No
 45	"	"	PUNCT	''	_	43	punct	_	_
 46	en	en	ADP	IN	_	48	case	_	_
-47	muchas	_	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	48	det	_	_
+47	muchas	mucho	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	48	det	_	_
 48	lenguas	_	NOUN	NN	Gender=Fem|Number=Plur	36	obl	_	_
 49	europeas	_	ADJ	JJ	Gender=Fem|Number=Plur	48	amod	_	SpaceAfter=No|Proper=True
 50	.	.	PUNCT	.	_	20	punct	_	_
@@ -13642,7 +13642,7 @@
 13	,	,	PUNCT	,	_	5	punct	_	_
 14	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux	_	_
 15	recubierto	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-16	muchos	_	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	17	det	_	_
+16	muchos	mucho	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	17	det	_	_
 17	ecosistemas	_	NOUN	NN	Gender=Masc|Number=Plur	15	obj	_	_
 18	con	con	ADP	IN	_	20	case	_	_
 19	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
@@ -13726,7 +13726,7 @@
 10	con	con	ADP	IN	_	11	case	_	_
 11	científicos	_	NOUN	NN	Gender=Masc|Number=Plur	8	nmod	_	_
 12	de	de	ADP	IN	_	14	case	_	_
-13	muchos	_	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	14	det	_	_
+13	muchos	mucho	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	14	det	_	_
 14	gobiernos	_	NOUN	NN	Gender=Masc|Number=Plur	11	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	,	_	19	punct	_	_
 16	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
@@ -14709,7 +14709,7 @@
 16	mientras	mientras	ADV	WRB	_	17	advmod	_	_
 17	manipulaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	advcl	_	_
 18	a	a	ADP	IN	_	20	case	_	_
-19	muchos	_	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	20	det	_	_
+19	muchos	mucho	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	20	det	_	_
 20	embajadores	_	NOUN	NN	Gender=Masc|Number=Plur	17	obl	_	_
 21	incompetentes	_	ADJ	JJ	Gender=Masc|Number=Plur	20	amod	_	_
 22	chinos	_	ADJ	JJ	Gender=Masc|Number=Plur	20	amod	_	Proper=True
@@ -15289,7 +15289,7 @@
 13	estructura	estructura	NOUN	NN	Gender=Fem|Number=Sing	10	obl	_	_
 14	incompleta	_	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	_
 15	de	de	ADP	IN	_	16	case	_	_
-16	muchas	_	NOUN	NN	Gender=Fem|Number=Plur	13	nmod	_	_
+16	muchas	mucho	NOUN	NN	Gender=Fem|Number=Plur	13	nmod	_	_
 17	de	de	ADP	IN	_	19	case	_	_
 18	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
 19	construcciones	_	NOUN	NN	Gender=Fem|Number=Plur	16	nmod	_	SpaceAfter=No
@@ -16300,7 +16300,7 @@
 8	en	en	ADP	IN	_	9	case	_	_
 9	1492	1492	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	obl	_	SpaceAfter=No
 10	;	;	PUNCT	:	_	16	punct	_	_
-11	muchos	_	NOUN	NN	Gender=Masc|Number=Plur	16	nsubj	_	_
+11	muchos	mucho	NOUN	NN	Gender=Masc|Number=Plur	16	nsubj	_	_
 12	de	de	ADP	IN	_	14	case	_	_
 13	estos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	14	det	_	_
 14	judeoespañoles	_	NOUN	NN	Gender=Masc|Number=Plur	11	nmod	_	Proper=True
@@ -18070,7 +18070,7 @@
 9	usando	usar	VERB	VBG	VerbForm=Ger	8	xcomp	_	_
 10	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	9	obj	_	_
 11	por	por	ADP	IN	_	13	case	_	_
-12	muchos	_	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	13	det	_	_
+12	muchos	mucho	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	13	det	_	_
 13	años	año	NOUN	NN	Gender=Masc|Number=Plur	9	obl	_	_
 14	después	después	ADV	RB	_	9	advmod	_	_
 15	de	de	ADP	IN	_	17	case	_	_
@@ -20483,7 +20483,7 @@
 14	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	15	expl:pass	_	_
 15	usaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	_
 16	en	en	ADP	IN	_	17	case	_	_
-17	muchas	_	NOUN	NN	Gender=Fem|Number=Plur	15	obl	_	_
+17	muchas	mucho	NOUN	NN	Gender=Fem|Number=Plur	15	obl	_	_
 18	de	de	ADP	IN	_	20	case	_	_
 19	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
 20	investigaciones	_	NOUN	NN	Gender=Fem|Number=Plur	17	nmod	_	_
@@ -21455,7 +21455,7 @@
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	antigua	antigua	NOUN	NN	Gender=Fem|Number=Sing	16	advcl	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	11	punct	_	_
-13	muchos	_	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	14	det	_	_
+13	muchos	mucho	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	14	det	_	_
 14	usuarios	_	NOUN	NN	Gender=Masc|Number=Plur	16	nsubj	_	_
 15	pueden	poder	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
 16	ahorrar	ahorrar	VERB	VB	VerbForm=Inf	0	root	_	_
@@ -24245,7 +24245,7 @@
 3	,	,	PUNCT	,	_	1	punct	_	_
 4	como	como	ADP	IN	_	7	case	_	_
 5	otros	_	DET	PDT	Gender=Masc|Number=Plur|PronType=Ind	7	det	_	_
-6	muchos	_	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	7	det	_	_
+6	muchos	mucho	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	7	det	_	_
 7	socialistas	_	NOUN	NN	Gender=Masc|Number=Plur	9	obl	_	SpaceAfter=No|Proper=True
 8	,	,	PUNCT	,	_	7	punct	_	_
 9	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -25163,7 +25163,7 @@
 16	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	18	obl	_	_
 17	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	18	expl:pass	_	_
 18	conocen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
-19	muchos	_	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	20	det	_	_
+19	muchos	mucho	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	20	det	_	_
 20	yacimientos	_	NOUN	NN	Gender=Masc|Number=Plur	18	nsubj:pass	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -25817,7 +25817,7 @@
 18	judío	judío	ADJ	JJ	Gender=Masc|Number=Sing	17	amod	_	Proper=True
 19	y	y	CCONJ	CC	_	20	cc	_	_
 20	viajó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	conj	_	_
-21	muchas	_	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	22	det	_	_
+21	muchas	mucho	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	22	det	_	_
 22	veces	_	NOUN	NN	Gender=Fem|Number=Plur	20	obl	_	_
 23	a	a	ADP	IN	_	24	case	_	_
 24	Israel	Israel	PROPN	NNP	Number=Sing	20	obl	_	SpaceAfter=No
@@ -26179,7 +26179,7 @@
 2	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
 3	dividida	_	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	entre	entre	ADP	IN	_	7	case	_	_
-5	muchas	_	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	7	det	_	_
+5	muchas	mucho	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	7	det	_	_
 6	pequeñas	_	ADJ	JJ	Gender=Fem|Number=Plur	7	amod	_	_
 7	comunidades	_	NOUN	NN	Gender=Fem|Number=Plur	3	obl	_	_
 8	con	con	ADP	IN	_	9	case	_	_
@@ -27259,7 +27259,7 @@
 9	amistad	amistad	NOUN	NN	Gender=Fem|Number=Sing	6	conj	_	_
 10	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	11	nsubj	_	_
 11	duró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	_
-12	muchos	_	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	13	det	_	_
+12	muchos	mucho	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	13	det	_	_
 13	años	año	NOUN	NN	Gender=Masc|Number=Plur	11	obl:tmod	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	3	punct	_	_
 
