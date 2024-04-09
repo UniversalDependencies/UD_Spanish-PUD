@@ -18,7 +18,7 @@
     <tag name="ADJ">1480</tag><!-- _, nuevo, gran, primero, último, mayor, unido, británico, nacional, grande -->
     <tag name="ADP">3963</tag><!-- de, en, a, por, con, para, como, que, entre, durante -->
     <tag name="ADV">894</tag><!-- no, más, también, cuando, antes, después, ya, muy, tanto, donde -->
-    <tag name="AUX">707</tag><!-- ser, haber, estar, poder, _, deber, empezar, tener, comenzar, hacer -->
+    <tag name="AUX">707</tag><!-- ser, haber, estar, poder, _, deber, empezar, tener, mantener, comenzar -->
     <tag name="CCONJ">582</tag><!-- y, pero, o, e, ni, and -->
     <tag name="DET">3321</tag><!-- el, uno, este, otro, todo, ese, mucho, esto, cada, vario -->
     <tag name="NOUN">4818</tag><!-- _, año, parte, estado, vez, guerra, lugar, día, gobierno, persona -->
