@@ -3782,7 +3782,7 @@
 # text = Se trata del tumor más frecuente en bebés y se produce en uno de cada 35 000 nacimientos.
 # text_en = It is the most common tumour found in babies, occurring in one of every 35,000 births.
 1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	compound:prt	_	_
-2	trata	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	trata	tratar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3-4	del	_	_	_	_	_	_	_	_
 3	de	de	ADP	INDT	_	5	case	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -3955,7 +3955,7 @@
 12	defienden	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 13	que	que	SCONJ	IN	_	15	mark	_	_
 14	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	15	expl:pass	_	_
-15	trivializa	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	_
+15	trivializa	trivializar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	_
 16	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	cultura	cultura	NOUN	NN	Gender=Fem|Number=Sing	15	nsubj:pass	_	_
 18	de	de	ADP	IN	_	21	case	_	_
@@ -4474,7 +4474,7 @@
 # text_en = They’re usually artists who want to do a bunch of stuff.
 1	Normalmente	normalmente	ADV	RB	_	3	advmod	_	_
 2	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	compound:prt	_	_
-3	trata	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	trata	tratar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	de	de	ADP	IN	_	5	case	_	_
 5	artistas	artista	NOUN	NN	Number=Plur	3	obl	_	_
 6	que	que	PRON	REL	Number=Plur|PronType=Rel	7	nsubj	_	_
@@ -6016,7 +6016,7 @@
 4	que	que	SCONJ	IN	_	7	mark	_	_
 5	Rocco	Rocco	PROPN	NNP	Gender=Masc|Number=Sing	7	nsubj	_	_
 6	Catalano	Catalano	PROPN	NNP	Gender=Masc|Number=Sing	5	flat:name	_	_
-7	trabaja	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	SpaceAfter=No
+7	trabaja	trabajar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	9	punct	_	_
 9	vive	vivir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
 10	y	y	CCONJ	CC	_	11	cc	_	_
@@ -20356,7 +20356,7 @@
 14	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	13	obl:arg	_	_
 15	que	que	SCONJ	IN	_	17	mark	_	_
 16	Rona	Rona	PROPN	NNP	Gender=Fem|Number=Sing	17	nsubj	_	_
-17	trabajara	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	ccomp	_	_
+17	trabajara	trabajar	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	ccomp	_	_
 18	con	con	ADP	IN	_	19	case	_	_
 19	ella	él	PRON	PRP	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obl	_	_
 20	para	para	ADP	IN	_	21	case	_	_
