@@ -15213,7 +15213,7 @@
 12	de	de	ADP	IN	_	13	case	_	_
 13	origen	origen	NOUN	NN	Gender=Masc|Number=Sing	11	nmod	_	_
 14	chino	chino	ADJ	JJ	Gender=Masc|Number=Sing	13	amod	_	Proper=True
-15	varían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	varían	variar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 16	con	con	ADP	IN	_	19	case	_	_
 17	respecto	respecto	NOUN	NN	Gender=Masc|Number=Sing	16	fixed	_	_
 18	a	a	ADP	IN	_	16	fixed	_	_
