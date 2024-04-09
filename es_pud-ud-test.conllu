@@ -4088,7 +4088,7 @@
 16	tiempo	tiempo	NOUN	NN	Gender=Masc|Number=Sing	18	obl	_	_
 17	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	18	compound:prt	_	_
 18	juntaron	juntar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
-19	debido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	22	case	_	_
+19	debido	deber	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	22	case	_	_
 20	a	a	ADP	IN	_	19	fixed	_	_
 21	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	gravedad	gravedad	NOUN	NN	Gender=Fem|Number=Sing	18	obl	_	_
@@ -5040,7 +5040,7 @@
 2	sugirió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	IN	_	12	mark	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	12	punct	_	_
-5	debido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	case	_	_
+5	debido	deber	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	case	_	_
 6	a	a	ADP	IN	_	5	fixed	_	_
 7	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
 8	edad	edad	NOUN	NN	Gender=Fem|Number=Sing	12	obl	_	SpaceAfter=No
@@ -8407,7 +8407,7 @@
 7	Cotton	Cotton	PROPN	NNP	Gender=Fem|Number=Sing	5	obl:agent	_	_
 8	no	no	ADV	RB	Polarity=Neg	9	advmod	_	_
 9	sucedieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-10	debido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	case	_	_
+10	debido	deber	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	case	_	_
 11	a	a	ADP	IN	_	10	fixed	_	_
 12	ningún	ningún	DET	DT	Gender=Masc|Number=Sing|PronType=Neg	13	det	_	_
 13	tipo	tipo	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	_
@@ -11593,7 +11593,7 @@
 # sent_id = w01020018
 # text = Debido al clima compartido, la geología, y el acceso al mar, las culturas localizadas cerca del Mediterráneo tienden a entrelazar su cultura y su historia.
 # text_en = Due to the shared climate, geology, and access to the sea, cultures centered on the Mediterranean tended to have some extent of intertwined culture and history.
-1	Debido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	case	_	_
+1	Debido	deber	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	case	_	_
 2-3	al	_	_	_	_	_	_	_	_
 2	a	a	ADP	INDT	_	1	fixed	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -12500,7 +12500,7 @@
 5	ser	ser	AUX	VB	VerbForm=Inf	7	cop	_	_
 6	muy	muy	ADV	RB	_	7	advmod	_	_
 7	viscoso	viscoso	ADJ	JJ	Gender=Masc|Number=Sing	3	obj	_	_
-8	debido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	case	_	_
+8	debido	deber	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	case	_	_
 9	a	a	ADP	IN	_	8	fixed	_	_
 10	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
 11	alto	alto	ADJ	JJ	Gender=Masc|Number=Sing	12	amod	_	_
@@ -12932,7 +12932,7 @@
 3	eran	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
 4	muy	muy	ADV	RB	_	5	advmod	_	_
 5	populares	_	ADJ	JJ	Gender=Fem|Number=Plur	0	root	_	_
-6	debido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	mark	_	_
+6	debido	deber	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	mark	_	_
 7	a	a	ADP	IN	_	6	fixed	_	_
 8	que	que	ADP	IN	_	6	fixed	_	_
 9	solían	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
@@ -15738,7 +15738,7 @@
 16	en	en	ADP	IN	_	18	case	_	_
 17	dos	dos	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	18	nummod	_	_
 18	partes	parte	NOUN	NN	Gender=Fem|Number=Plur	12	obl	_	_
-19	debido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	22	case	_	_
+19	debido	deber	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	22	case	_	_
 20	a	a	ADP	IN	_	19	fixed	_	_
 21	sus	su	PRON	DTP$	Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
 22	propósitos	propósito	NOUN	NN	Gender=Masc|Number=Plur	12	obl	_	_
@@ -21443,7 +21443,7 @@
 # sent_id = n02016006
 # text = Debido a que la serie 1 ya no es la antigua, muchos usuarios pueden ahorrar 100 euros.
 # text_en = Because series 1 is no longer the old one, many users can save 100 euros.
-1	Debido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	mark	_	_
+1	Debido	deber	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	mark	_	_
 2	a	a	ADP	IN	_	1	fixed	_	_
 3	que	que	ADP	IN	_	1	fixed	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -23655,7 +23655,7 @@
 6	de	de	ADP	INDT	_	8	case	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	Mps	Mps	PROPN	NNP	Gender=Masc|Number=Sing	5	nmod	_	_
-9	debido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	case	_	_
+9	debido	deber	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	case	_	_
 10	a	a	ADP	IN	_	9	fixed	_	SpaceAfter=No
 11	:	:	PUNCT	:	_	9	punct	_	_
 12	"	"	PUNCT	``	_	14	punct	_	SpaceAfter=No
@@ -27303,7 +27303,7 @@
 5	amistad	amistad	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	compound:prt	_	_
 7	desmoronó	desmoronar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-8	debido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	case	_	_
+8	debido	deber	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	case	_	_
 9	a	a	ADP	IN	_	8	fixed	_	_
 10	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
 11	colaboraciones	colaboración	NOUN	NN	Gender=Fem|Number=Plur	7	obl	_	_
