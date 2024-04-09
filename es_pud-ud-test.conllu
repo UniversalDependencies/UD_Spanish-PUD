@@ -819,7 +819,7 @@
 18	naval	naval	ADJ	JJ	Gender=Fem|Number=Sing	17	amod	_	_
 19	de	de	ADP	IN	_	20	case	_	_
 20	Clyde	Clyde	PROPN	NNP	Number=Sing	14	nmod	_	_
-21	tuvo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+21	tuvo	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 22	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	21	obj	_	_
 23	antes	antes	ADV	RB	_	21	advmod	_	_
 24-25	del	_	_	_	_	_	_	_	_
@@ -1464,7 +1464,7 @@
 24	de	de	ADP	IN	_	25	case	_	Proper=True
 25	Kigali	Kigali	PROPN	NNP	Number=Sing	23	nmod	_	_
 26	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	27	nsubj	_	_
-27	tiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	_
+27	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	_
 28	como	como	ADP	IN	_	29	case	_	_
 29	objetivo	objetivo	NOUN	NN	Gender=Masc|Number=Sing	27	obl	_	_
 30	reducir	reducir	VERB	VB	VerbForm=Inf	27	xcomp	_	_
@@ -1820,7 +1820,7 @@
 16	pelo	pelo	NOUN	NN	Gender=Masc|Number=Sing	13	nmod	_	_
 17	siempre	siempre	ADV	RB	_	19	advmod	_	_
 18	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	aux	_	_
-19	tenido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
+19	tenido	tener	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
 20	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	dimensión	dimensión	NOUN	NN	Gender=Fem|Number=Sing	19	obj	_	_
 22	política	político	ADJ	JJ	Gender=Fem|Number=Sing	21	amod	_	SpaceAfter=No
@@ -2402,7 +2402,7 @@
 18	creciendo	crecer	VERB	VBG	VerbForm=Ger	7	ccomp	_	_
 19	y	y	CCONJ	CC	_	22	cc	_	_
 20	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	aux	_	_
-21	tenido	_	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	22	aux	_	_
+21	tenido	tener	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	22	aux	_	_
 22	dejar	dejar	VERB	VB	VerbForm=Inf	18	conj	_	_
 23	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	24	det	_	_
 24	pruebas	prueba	NOUN	NN	Gender=Fem|Number=Plur	22	obj	_	SpaceAfter=No
@@ -2500,7 +2500,7 @@
 17	afirma	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 18	que	que	SCONJ	IN	_	20	mark	_	_
 19	todavía	todavía	ADV	RB	_	20	advmod	_	_
-20	tiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	ccomp	_	_
+20	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	ccomp	_	_
 21	más	más	ADV	RBR	Degree=Cmp	22	advmod	_	_
 22	preguntas	pregunta	NOUN	NN	Gender=Fem|Number=Plur	20	obj	_	_
 23	que	que	ADP	IN	_	24	case	_	_
@@ -2983,12 +2983,12 @@
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	médicos	médico	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
 3	no	no	ADV	RB	Polarity=Neg	4	advmod	_	_
-4	tienen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	tienen	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	esas	ese	DET	DT	Gender=Fem|Number=Plur|PronType=Dem	6	det	_	_
 6	herramientas	herramienta	NOUN	NN	Gender=Fem|Number=Plur	4	obj	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	9	punct	_	_
 8	solo	solo	ADV	RB	_	9	advmod	_	_
-9	tienen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
+9	tienen	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
 10	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	libreta	libreta	NOUN	NN	Gender=Fem|Number=Sing	9	obj	_	_
 12	de	de	ADP	IN	_	13	case	_	_
@@ -3593,7 +3593,7 @@
 20	,	,	PUNCT	,	_	4	punct	_	_
 21	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
 22	empresas	empresa	NOUN	NN	Gender=Fem|Number=Plur	23	nsubj	_	_
-23	tienen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+23	tienen	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 24	muchas	mucho	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	25	det	_	_
 25	preguntas	pregunta	NOUN	NN	Gender=Fem|Number=Plur	23	obj	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	23	punct	_	_
@@ -3806,7 +3806,7 @@
 # sent_id = n01052004
 # text = Tenía 84 años.
 # text_en = She was 84 years old.
-1	Tenía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+1	Tenía	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 2	84	84	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	nummod	_	_
 3	años	año	NOUN	NN	Gender=Masc|Number=Plur	1	obj	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	1	punct	_	_
@@ -3985,7 +3985,7 @@
 15	(	(	PUNCT	(	_	16	punct	_	SpaceAfter=No
 16	CRTC	CRTC	PROPN	NNP	Gender=Fem|Number=Sing	5	appos	_	SpaceAfter=No
 17	)	)	PUNCT	)	_	16	punct	_	_
-18	tienen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+18	tienen	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 19	como	como	ADP	IN	_	20	case	_	_
 20	propósito	propósito	NOUN	NN	Gender=Masc|Number=Sing	18	obl	_	_
 21	obtener	obtener	VERB	VB	VerbForm=Inf	18	xcomp	_	_
@@ -4301,7 +4301,7 @@
 23	de	de	ADP	IN	_	25	case	_	_
 24	esos	ese	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	25	det	_	_
 25	mandatos	mandato	NOUN	NN	Gender=Masc|Number=Plur	21	nmod	_	_
-26	tuvieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+26	tuvieron	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
 27	efectos	efecto	NOUN	NN	Gender=Masc|Number=Plur	26	obj	_	_
 28	largos	largo	ADJ	JJ	Gender=Masc|Number=Plur	27	amod	_	_
 29	y	y	CCONJ	CC	_	30	cc	_	_
@@ -5250,7 +5250,7 @@
 5	jugar	jugar	VERB	VB	VerbForm=Inf	2	xcomp	_	_
 6	pero	pero	CCONJ	CC	_	8	cc	_	_
 7	también	también	ADV	RB	_	8	advmod	_	_
-8	tiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+8	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
 9	manos	mano	NOUN	NN	Gender=Fem|Number=Plur	8	obj	_	_
 10	delicadas	delicado	ADJ	JJ	Gender=Fem|Number=Plur	9	amod	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	2	punct	_	_
@@ -5383,7 +5383,7 @@
 # text = Clinton tiene fama de militarista pero una opinión pública estadounidense cansada de la guerra hará que eso se modere.
 # text_en = Mrs Clinton has a reputation for a hawkish outlook, but this will be tempered by war-weary public opinion in the US.
 1	Clinton	Clinton	PROPN	NNP	Gender=Fem|Number=Sing	2	nsubj	_	_
-2	tiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	fama	fama	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 4	de	de	ADP	IN	_	5	case	_	_
 5	militarista	militarista	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	_
@@ -5726,7 +5726,7 @@
 7	contra	contra	ADP	IN	_	9	case	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	industria	industria	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
-10	tiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	sentido	sentido	NOUN	NN	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	10	punct	_	_
 
@@ -5891,7 +5891,7 @@
 22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	Reino	reino	NOUN	NN	Gender=Masc|Number=Sing	20	nmod	_	Proper=True
 24	Unido	unido	ADJ	JJ	Gender=Masc|Number=Sing	23	amod	_	Proper=True
-25	tienen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+25	tienen	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
 26	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
 27	déficit	déficit	NOUN	NN	Gender=Masc|Number=Sing	25	obj	_	_
 28	natural	natural	ADJ	JJ	Gender=Masc|Number=Sing	27	amod	_	_
@@ -6594,7 +6594,7 @@
 9	personas	persona	NOUN	NN	Gender=Fem|Number=Plur	14	nsubj	_	_
 10	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	12	nsubj	_	_
 11	no	no	ADV	RB	Polarity=Neg	12	advmod	_	_
-12	tienen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+12	tienen	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
 13	hijos	hijo	NOUN	NN	Gender=Masc|Number=Plur	12	obj	_	_
 14	utilizan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
 15	expresan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
@@ -7190,7 +7190,7 @@
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	Copa	copa	NOUN	NN	Gender=Fem|Number=Sing	8	nsubj	_	Proper=True
 7	Davis	Davis	PROPN	NNP	Number=Sing	6	appos	_	_
-8	tuvo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+8	tuvo	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 9	algo	algo	NOUN	NN	Gender=Masc|Number=Sing	8	obj	_	_
 10	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	11	obj	_	_
 11	ver	ver	VERB	VB	VerbForm=Inf	9	acl:relcl	_	SpaceAfter=No
@@ -7477,7 +7477,7 @@
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	gobierno	gobierno	NOUN	NN	Gender=Masc|Number=Sing	17	nsubj	_	_
 16	todavía	todavía	ADV	RB	_	17	advmod	_	_
-17	tiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+17	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
 18	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	déficit	déficit	NOUN	NN	Gender=Masc|Number=Sing	17	obj	_	_
 20	presupuestario	presupuestario	ADJ	JJ	Gender=Masc|Number=Sing	19	amod	_	_
@@ -8299,7 +8299,7 @@
 3	de	de	ADP	IN	_	4	case	_	_
 4	Doss	Doss	PROPN	NNP	Gender=Masc|Number=Sing	2	nmod	_	_
 5	también	también	ADV	RB	_	6	advmod	_	_
-6	tiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 8	improbable	_	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	_
 9	calidad	calidad	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	_
@@ -8550,7 +8550,7 @@
 7	,	,	PUNCT	,	_	10	punct	_	_
 8	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	_
 9	ahora	ahora	ADV	RB	_	10	advmod	_	_
-10	tiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+10	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
 11	31	31	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	12	nummod	_	_
 12	años	año	NOUN	NN	Gender=Masc|Number=Plur	10	obj	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	10	punct	_	_
@@ -8953,7 +8953,7 @@
 # text_en = Martin has yet to finish two of the remaining books in his acclaimed series, currently billed as "The Winds of Winter" and "A Dream of Spring."
 1	Martin	Martin	PROPN	NNP	Gender=Masc|Number=Sing	5	nsubj	_	_
 2	todavía	todavía	ADV	RB	_	5	advmod	_	_
-3	tiene	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+3	tiene	tener	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 4	que	que	ADP	IN	_	3	fixed	_	_
 5	terminar	terminar	VERB	VB	VerbForm=Inf	0	root	_	_
 6	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	5	obj	_	_
@@ -8994,7 +8994,7 @@
 2	estudiantes	estudiante	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj	_	_
 3	holandeses	holandés	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	Proper=True
 4	todavía	todavía	ADV	RB	_	7	advmod	_	_
-5	tienen	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+5	tienen	tener	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 6	que	que	ADP	IN	_	5	fixed	_	_
 7	decidir	decidir	VERB	VB	VerbForm=Inf	0	root	_	_
 8	si	si	SCONJ	IN	_	11	mark	_	_
@@ -10024,7 +10024,7 @@
 7	de	de	ADP	IN	_	8	case	_	_
 8	Yas	Yas	PROPN	NNP	Number=Sing	6	nmod	_	_
 9	Marina	Marina	PROPN	NNP	Number=Sing	8	flat:name	_	_
-10	tiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
 12	horarios	horario	NOUN	NN	Gender=Masc|Number=Plur	10	obj	_	_
 13	exactos	exacto	ADJ	JJ	Gender=Masc|Number=Plur	12	amod	_	SpaceAfter=No
@@ -10089,7 +10089,7 @@
 6	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	región	región	NOUN	NN	Gender=Fem|Number=Sing	4	nmod	_	_
 8	han	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	_
-9	tenido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	tenido	tener	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 10	éxito	éxito	NOUN	NN	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	9	punct	_	_
 
@@ -10219,7 +10219,7 @@
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 8	premiado	premiado	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	_
 9	edificio	edificio	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
-10	tiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	apariencia	apariencia	NOUN	NN	Gender=Fem|Number=Sing	10	obj	_	_
 13	escultórica	escultórico	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	_
@@ -10227,7 +10227,7 @@
 15	todos	todo	DET	PDT	Gender=Masc|Number=Plur|PronType=Tot	17	det	_	_
 16	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
 17	detalles	_	NOUN	NN	Gender=Masc|Number=Plur	18	nsubj	_	_
-18	tienen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+18	tienen	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
 19	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	significado	significado	NOUN	NN	Gender=Masc|Number=Sing	18	obj	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	10	punct	_	_
@@ -11142,7 +11142,7 @@
 31	considera	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	acl:relcl	_	_
 32	que	que	SCONJ	IN	_	34	mark	_	_
 33	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	34	aux	_	_
-34	tenido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	31	ccomp	_	_
+34	tenido	tener	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	31	ccomp	_	_
 35	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
 36	historia	historia	NOUN	NN	Gender=Fem|Number=Sing	34	obj	_	_
 37	lingüística	lingüístico	ADJ	JJ	Gender=Fem|Number=Sing	36	amod	_	_
@@ -11324,7 +11324,7 @@
 16	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
 17	bantúes	_	NOUN	NN	Gender=Masc|Number=Plur	14	nmod	_	Proper=True
 18	nunca	_	ADV	RB	Polarity=Neg	19	advmod	_	_
-19	tuvo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+19	tuvo	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
 20	contacto	contacto	NOUN	NN	Gender=Masc|Number=Sing	19	obj	_	_
 21	con	con	ADP	IN	_	23	case	_	_
 22	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
@@ -11809,7 +11809,7 @@
 8	peleas	pelea	NOUN	NN	Gender=Fem|Number=Plur	11	nsubj	_	_
 9	a	a	ADP	IN	_	11	advmod	_	_
 10	menudo	menudo	NOUN	NN	Gender=Masc|Number=Sing	9	fixed	_	_
-11	tenían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+11	tenían	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 12	como	como	ADP	IN	_	13	case	_	_
 13	resultado	resultado	NOUN	NN	Gender=Masc|Number=Sing	11	obl	_	_
 14	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
@@ -11835,7 +11835,7 @@
 8	Danevirke	Danevirke	PROPN	NNP	Number=Sing	5	nmod	_	_
 9	y	y	CCONJ	CC	_	10	cc	_	_
 10	Husum	Husum	PROPN	NNP	Number=Sing	8	conj	_	_
-11	tenían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+11	tenían	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 12	hielo	hielo	NOUN	NN	Gender=Masc|Number=Sing	11	obj	_	_
 13	sólido	sólido	ADJ	JJ	Gender=Masc|Number=Sing	12	amod	_	_
 14	en	en	ADP	IN	_	17	case	_	_
@@ -11889,7 +11889,7 @@
 19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	ejército	ejército	NOUN	NN	Gender=Masc|Number=Sing	17	nmod	_	_
 21	danés	danés	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	Proper=True
-22	tuvieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+22	tuvieron	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
 23	éxito	éxito	NOUN	NN	Gender=Masc|Number=Sing	22	obj	_	_
 24	en	en	ADP	IN	_	25	case	_	_
 25	completar	completar	VERB	VB	VerbForm=Inf	22	xcomp	_	_
@@ -12435,7 +12435,7 @@
 24	todos	todo	DET	PDT	Gender=Masc|Number=Plur|PronType=Tot	26	det	_	_
 25	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
 26	cuales	cual	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	27	nsubj	_	_
-27	tienen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+27	tienen	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
 28	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	29	det	_	_
 29	cabecera	cabecera	NOUN	NN	Gender=Fem|Number=Sing	27	obj	_	_
 30	en	en	ADP	IN	_	32	case	_	_
@@ -12571,7 +12571,7 @@
 5	pequeña	pequeño	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	8	punct	_	_
 7	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	8	nsubj	_	_
-8	tenía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	acl:relcl	_	_
+8	tenía	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	acl:relcl	_	_
 9	de	de	ADP	IN	_	10	case	_	_
 10	todo	todo	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	_
 11	pero	pero	CCONJ	CC	_	13	cc	_	_
@@ -13316,7 +13316,7 @@
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Proper=True
 5	Cairo	Cairo	PROPN	NNP	Gender=Masc|Number=Sing	6	nsubj	_	_
-6	tenía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	tenía	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 7	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	población	población	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	_
 9	de	de	ADP	IN	_	12	case	_	_
@@ -14565,7 +14565,7 @@
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl:pass	_	_
 6	cree	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	que	que	SCONJ	IN	_	8	mark	_	_
-8	tuvieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	csubj:pass	_	_
+8	tuvieron	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	csubj:pass	_	_
 9	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	8	obj	_	_
 10	en	en	ADP	IN	_	12	case	_	_
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
@@ -14651,7 +14651,7 @@
 19	gran	gran	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	_
 20	valor	valor	NOUN	NN	Gender=Masc|Number=Sing	17	obj	_	_
 21	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	22	obj	_	_
-22	tenía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	acl:relcl	_	_
+22	tenía	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	acl:relcl	_	_
 23	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	lodo	lodo	NOUN	NN	Gender=Masc|Number=Sing	22	nsubj	_	_
 25	como	como	ADP	IN	_	26	case	_	_
@@ -14914,7 +14914,7 @@
 37	de	de	ADP	IN	_	39	case	_	_
 38	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	39	det	_	_
 39	cuales	cual	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	36	nmod	_	_
-40	tenía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	acl:relcl	_	_
+40	tenía	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	acl:relcl	_	_
 41	3	3	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	42	nummod	_	_
 42	metros	metro	NOUN	NN	Gender=Masc|Number=Plur	40	obl	_	_
 43	de	de	ADP	IN	_	44	case	_	_
@@ -15018,7 +15018,7 @@
 5	histórica	histórico	ADJ	JJ	Gender=Fem|Number=Sing	4	amod	_	_
 6	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	8	nsubj:pass	_	_
 7	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pass	_	_
-8	tiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+8	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
 9	de	de	ADP	IN	_	11	case	_	_
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	ciudad	ciudad	NOUN	NN	Gender=Fem|Number=Sing	4	nmod	_	_
@@ -15145,7 +15145,7 @@
 14	en	en	ADP	IN	_	16	case	_	_
 15	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	17	obl	_	_
-17	tuvo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_
+17	tuvo	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_
 18	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	17	obj	_	_
 19	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	23	det	_	_
 20	tradicionalmente	tradicionalmente	ADV	RB	_	21	advmod	_	_
@@ -15971,7 +15971,7 @@
 19	de	de	ADP	IN	_	20	case	_	_
 20	crecimiento	crecimiento	NOUN	NN	Gender=Masc|Number=Sing	18	nmod	_	_
 21	económico	económico	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	_
-22	tuvieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+22	tuvieron	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 23	efectos	efecto	NOUN	NN	Gender=Masc|Number=Plur	22	obj	_	_
 24	significativos	significativo	ADJ	JJ	Gender=Masc|Number=Plur	23	amod	_	_
 25	en	en	ADP	IN	_	27	case	_	_
@@ -16123,7 +16123,7 @@
 34	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	35	det	_	_
 35	educación	educación	NOUN	NN	Gender=Fem|Number=Sing	33	obj	_	_
 36	o	o	CCONJ	CC	_	37	cc	_	_
-37	tienen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	33	conj	_	_
+37	tienen	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	33	conj	_	_
 38	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	40	det	_	_
 39	buen	buen	ADJ	JJ	Gender=Masc|Number=Sing	40	amod	_	_
 40	salario	salario	NOUN	NN	Gender=Masc|Number=Sing	37	obj	_	SpaceAfter=No
@@ -16425,7 +16425,7 @@
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	año	año	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	_
 11	352	352	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	appos	_	_
-12	tenía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	_
+12	tenía	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	_
 13	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	control	control	NOUN	NN	Gender=Masc|Number=Sing	12	obj	_	_
 15	pleno	pleno	ADJ	JJ	Gender=Masc|Number=Sing	14	amod	_	_
@@ -17380,7 +17380,7 @@
 11	,	,	PUNCT	,	_	4	punct	_	_
 12	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
 13	aliados	aliado	NOUN	NN	Gender=Masc|Number=Plur	14	nsubj	_	_
-14	tuvieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+14	tuvieron	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 15	significativas	significativo	ADJ	JJ	Gender=Fem|Number=Plur	16	amod	_	_
 16	ventajas	ventaja	NOUN	NN	Gender=Fem|Number=Plur	14	obj	_	_
 17	tanto	tanto	ADV	RB	_	19	cc:preconj	_	_
@@ -18191,7 +18191,7 @@
 7	presentan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	personajes	_	NOUN	NN	Gender=Masc|Number=Plur	7	obj	_	_
 9	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	10	nsubj	_	_
-10	tienen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+10	tienen	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
 11	dificultades	_	NOUN	NN	Gender=Fem|Number=Plur	10	obj	_	_
 12	en	en	ADP	IN	_	14	case	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
@@ -18321,7 +18321,7 @@
 4	soltero	soltero	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 5	persistente	persistente	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
 6	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	_
-7	tiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
 8	mala	malo	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	_
 9	suerte	suerte	NOUN	NN	Gender=Fem|Number=Sing	7	obj	_	_
 10	con	con	ADP	IN	_	12	case	_	_
@@ -20320,7 +20320,7 @@
 5	novelas	novela	NOUN	NN	Gender=Fem|Number=Plur	2	nmod	_	_
 6	de	de	ADP	IN	_	7	case	_	_
 7	Skylark	Skylark	PROPN	NNP	Number=Sing	5	nmod	_	_
-8	tiene	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+8	tiene	tener	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
 9	que	que	ADP	IN	_	8	fixed	_	_
 10	ver	ver	VERB	VB	VerbForm=Inf	0	root	_	_
 11	con	con	ADP	IN	_	13	case	_	_
@@ -20577,7 +20577,7 @@
 13	de	de	ADP	IN	_	14	case	_	_
 14	York	York	PROPN	NNP	Number=Sing	12	nmod	_	_
 15	y	y	CCONJ	CC	_	16	cc	_	_
-16	tuvo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
+16	tuvo	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
 17	varios	vario	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	18	det	_	_
 18	hijos	hijo	NOUN	NN	Gender=Masc|Number=Plur	16	obj	_	SpaceAfter=No
 19	,	,	PUNCT	,	_	20	punct	_	_
@@ -21035,7 +21035,7 @@
 # text = Wright tiene un hermano, Oscar, quien es un artista de cómics y contribuye con story boards (desarrollo secuencial en viñetas), arte conceptual e imágenes promocionales para las películas de Edgard.
 # text_en = Wright has a brother, Oscar, who is a comic book artist, contributing storyboards, conceptual art and promotional pictures for Edgar's films.
 1	Wright	Wright	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	tiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	hermano	hermano	NOUN	NN	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	6	punct	_	_
@@ -21210,7 +21210,7 @@
 29	dieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 30	cuenta	cuenta	NOUN	NN	Gender=Fem|Number=Sing	29	obj	_	_
 31	que	que	SCONJ	IN	_	34	mark	_	_
-32	tenían	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	34	aux	_	_
+32	tenían	tener	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	34	aux	_	_
 33	que	que	ADP	IN	_	32	fixed	_	_
 34	cambiar	cambiar	VERB	VB	VerbForm=Inf	30	acl	_	_
 35	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	36	det	_	_
@@ -22551,7 +22551,7 @@
 38	GEMA	GEMA	PROPN	NNP	Number=Sing	36	nmod	_	_
 39	o	o	CCONJ	CC	_	41	cc	_	_
 40	no	no	ADV	RB	Polarity=Neg	41	advmod	_	_
-41	tienen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	36	conj	_	_
+41	tienen	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	36	conj	_	_
 42	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	43	det	_	_
 43	acuerdo	acuerdo	NOUN	NN	Gender=Masc|Number=Sing	41	obj	_	_
 44	con	con	ADP	IN	_	45	case	_	_
@@ -23133,7 +23133,7 @@
 # sent_id = n03007009
 # text = Tiene como objetivo tener en cuenta el tiempo de desplazamiento deduciéndolo de las horas reales trabajadas, sin que sea capaz de calcular el tiempo real de trayecto.
 # text_en = It aims to take the journey time into account after deducting this from the working hours actually completed, without being able to measure the real journey time.
-1	Tiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	como	como	ADP	IN	_	3	case	_	_
 3	objetivo	objetivo	NOUN	NN	Gender=Masc|Number=Sing	1	obl	_	_
 4	tener	tener	VERB	VB	VerbForm=Inf	1	xcomp	_	_
@@ -23292,7 +23292,7 @@
 # text_en = France doesn't have a good reputation.
 1	Francia	Francia	PROPN	NNP	Number=Sing	3	nsubj	_	_
 2	no	no	ADV	RB	Polarity=Neg	3	advmod	_	_
-3	tiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	buena	bueno	ADJ	JJ	Gender=Fem|Number=Sing	5	amod	_	_
 5	reputación	reputación	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	_	_
@@ -23342,7 +23342,7 @@
 1	A	a	ADP	INDT	_	4	case	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 3	haber	haber	AUX	VB	VerbForm=Inf	4	aux	_	_
-4	tenido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	xcomp	_	_
+4	tenido	tener	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	xcomp	_	_
 5	siempre	siempre	ADV	RB	_	4	advmod	_	_
 6	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	contacto	contacto	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
@@ -23379,7 +23379,7 @@
 3	concebir	concebir	VERB	VB	VerbForm=Inf	2	csubj	_	_
 4	que	que	SCONJ	IN	_	6	mark	_	_
 5	Italia	Italia	PROPN	NNP	Number=Sing	6	nsubj	_	_
-6	tenga	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+6	tenga	tener	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
 7	menos	menos	ADV	RBR	Degree=Cmp	8	advmod	_	_
 8	kilómetros	kilómetro	NOUN	NN	Gender=Masc|Number=Plur	6	obj	_	_
 9	de	de	ADP	IN	_	10	case	_	_
@@ -23771,7 +23771,7 @@
 13	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	reunión	reunión	NOUN	NN	Gender=Fem|Number=Sing	11	nmod	_	_
 15	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	16	nsubj	_	_
-16	tuvo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	acl:relcl	_	_
+16	tuvo	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	acl:relcl	_	_
 17	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	16	obj	_	_
 18	en	en	ADP	IN	_	19	case	_	_
 19	Roma	Roma	PROPN	NNP	Number=Sing	16	obl	_	SpaceAfter=No
@@ -24326,7 +24326,7 @@
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	fixed	_	_
 12	fondo	fondo	NOUN	NN	Gender=Masc|Number=Sing	10	fixed	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	10	punct	_	_
-14	tiene	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+14	tiene	tener	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
 15	que	que	ADP	IN	_	14	fixed	_	_
 16	sacar	sacar	VERB	VB	VerbForm=Inf	3	conj	_	_
 17	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	det	_	_
@@ -24854,7 +24854,7 @@
 4	consistorial	consistorial	ADJ	JJ	Gender=Masc|Number=Sing	3	amod	_	_
 5	en	en	ADP	IN	_	6	case	_	_
 6	Obermarsberg	Obermarsberg	PROPN	NNP	Number=Sing	3	nmod	_	_
-7	tiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
 9	origen	origen	NOUN	NN	Gender=Masc|Number=Sing	7	obj	_	_
 10	en	en	ADP	IN	_	12	case	_	_
@@ -24898,7 +24898,7 @@
 4	Gate	gate	NOUN	NN	Number=Sing	2	appos	_	SpaceAfter=No|Proper=True
 5	,	,	PUNCT	,	_	7	punct	_	_
 6	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	_
-7	tiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+7	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 8	más	más	ADV	RBR	Degree=Cmp	7	advmod	_	_
 9	de	de	ADP	IN	_	11	case	_	_
 10	cuatro	cuatro	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	11	nummod	_	_
@@ -25102,7 +25102,7 @@
 9	siendo	ser	AUX	VBG	VerbForm=Ger	10	aux:pass	_	_
 10	transportado	transportar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	xcomp	_	_
 11	porque	porque	SCONJ	IN	_	12	mark	_	_
-12	tenían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	_
+12	tenían	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	_
 13	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 14	gran	gran	ADJ	JJ	Gender=Fem|Number=Sing	15	amod	_	_
 15	necesidad	necesidad	NOUN	NN	Gender=Fem|Number=Sing	12	obj	_	_
@@ -25413,7 +25413,7 @@
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Revolución	revolución	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	Proper=True
 3	Industrial	industrial	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	Proper=True
-4	tuvo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	tuvo	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
 6	en	en	ADP	IN	_	8	case	_	_
 7	Gran	gran	ADJ	JJ	Number=Sing	8	amod	_	Proper=True
@@ -25750,7 +25750,7 @@
 5	en	en	ADP	IN	_	7	case	_	_
 6	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	ropa	ropa	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	_
-8	tenían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	tenían	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 9	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	forma	forma	NOUN	NN	Gender=Fem|Number=Sing	8	obj	_	_
 11	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	25	obj	_	_
@@ -25769,7 +25769,7 @@
 22	habían	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	23	aux	_	_
 23	dicho	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl:relcl	_	_
 24	que	que	SCONJ	IN	_	25	mark	_	_
-25	tenían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	23	ccomp	_	SpaceAfter=No
+25	tenían	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	23	ccomp	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	8	punct	_	_
 
 # newdoc id = w02018
@@ -26264,7 +26264,7 @@
 9	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
 10	cristianos	cristiano	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	Proper=True
 11	no	no	ADV	RB	Polarity=Neg	12	advmod	_	_
-12	tenía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+12	tenía	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 13	acceso	acceso	NOUN	NN	Gender=Masc|Number=Sing	12	obj	_	_
 14	a	a	ADP	IN	_	16	case	_	_
 15	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
@@ -26822,7 +26822,7 @@
 2	emisión	emisión	NOUN	NN	Gender=Fem|Number=Sing	5	nsubj	_	_
 3	de	de	ADP	IN	_	4	case	_	_
 4	moneda	moneda	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	_
-5	tiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	naturaleza	naturaleza	NOUN	NN	Gender=Fem|Number=Sing	5	obj	_	_
 8	predominantemente	predominantemente	ADV	RB	_	9	advmod	_	_
@@ -27385,7 +27385,7 @@
 # sent_id = w05001036
 # text = Tiene tres capillas paralelas en la cabecera y numerosas capillas laterales entre los contrafuertes.
 # text_en = It has three parallel chapels at the apse and many lateral chapels between the buttresses.
-1	Tiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	tres	tres	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	3	nummod	_	_
 3	capillas	capilla	NOUN	NN	Gender=Fem|Number=Plur	1	obj	_	_
 4	paralelas	paralelo	ADJ	JJ	Gender=Fem|Number=Plur	3	amod	_	_
@@ -27730,7 +27730,7 @@
 4	fueron	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
 5	interceptados	interceptar	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 6	y	y	CCONJ	CC	_	9	cc	_	_
-7	tuvieron	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	_
+7	tuvieron	tener	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	_
 8	que	que	ADP	IN	_	7	fixed	_	_
 9	presentar	presentar	VERB	VB	VerbForm=Inf	5	conj	_	_
 10	batalla	batalla	NOUN	NN	Gender=Fem|Number=Sing	9	obj	_	_
@@ -27836,7 +27836,7 @@
 21	Carlos	Carlos	PROPN	NNP	Gender=Masc|Number=Sing	15	conj	_	_
 22	IV	iv	ADJ	JJ	Gender=Masc|Number=Sing	21	amod	_	Proper=True
 23	habrían	haber	AUX	VBC	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	24	aux	_	_
-24	tenido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+24	tenido	tener	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 25	mayor	mayor	ADJ	JJR	Degree=Cmp|Gender=Masc|Number=Sing	26	amod	_	_
 26	derecho	derecho	NOUN	NN	Gender=Masc|Number=Sing	24	obj	_	_
 27	a	a	ADP	IN	_	29	case	_	_
