@@ -54,7 +54,7 @@
 3	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	4	nsubj	_	_
 4	sigan	_	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	xcomp	_	_
 5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
-6	transiciones	_	NOUN	NN	Gender=Fem|Number=Plur	4	obj	_	_
+6	transiciones	transición	NOUN	NN	Gender=Fem|Number=Plur	4	obj	_	_
 7	de	de	ADP	IN	_	9	case	_	_
 8	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
 9	redes	_	NOUN	NN	Gender=Fem|Number=Plur	6	nmod	_	_
@@ -785,7 +785,7 @@
 14	a	a	ADP	IN	_	15	case	_	_
 15	asegurar	asegurar	VERB	VB	VerbForm=Inf	13	xcomp	_	_
 16	nuevas	nuevo	ADJ	JJ	Gender=Fem|Number=Plur	17	amod	_	_
-17	inversiones	_	NOUN	NN	Gender=Fem|Number=Plur	15	obj	_	_
+17	inversiones	inversión	NOUN	NN	Gender=Fem|Number=Plur	15	obj	_	_
 18	y	y	CCONJ	CC	_	19	cc	_	_
 19	protegería	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	conj	_	_
 20	cientos	ciento	NOUN	NN	Gender=Masc|Number=Plur	19	obj	_	_
@@ -1180,7 +1180,7 @@
 13	curso	curso	NOUN	NN	Gender=Masc|Number=Sing	10	nmod	_	_
 14	y	y	CCONJ	CC	_	16	cc	_	_
 15	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
-16	intenciones	_	NOUN	NN	Gender=Fem|Number=Plur	10	conj	_	_
+16	intenciones	intención	NOUN	NN	Gender=Fem|Number=Plur	10	conj	_	_
 17	detrás	detrás	ADV	RB	_	16	advmod	_	_
 18-19	del	_	_	_	_	_	_	_	_
 18	de	de	ADP	INDT	_	20	case	_	_
@@ -1219,7 +1219,7 @@
 12	de	de	ADP	IN	_	13	case	_	_
 13	ataque	ataque	NOUN	NN	Gender=Masc|Number=Sing	11	nmod	_	_
 14	hasta	hasta	ADP	IN	_	15	case	_	_
-15	hidroaviones	_	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
+15	hidroaviones	hidroavión	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = n01020021
@@ -1255,7 +1255,7 @@
 27	para	para	ADP	IN	_	28	case	_	_
 28	demostrar	demostrar	VERB	VB	VerbForm=Inf	24	xcomp	_	_
 29	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	30	det	_	_
-30	ambiciones	_	NOUN	NN	Gender=Fem|Number=Plur	28	obj	_	_
+30	ambiciones	ambición	NOUN	NN	Gender=Fem|Number=Plur	28	obj	_	_
 31	en	en	ADP	IN	_	33	case	_	_
 32	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	33	det	_	_
 33	campos	campo	NOUN	NN	Gender=Masc|Number=Plur	30	nmod	_	_
@@ -1487,7 +1487,7 @@
 # text = Las inversiones en este campo aumentaron en un 6 % en 2015 y alcanzaron los 221 mil millones de dólares.
 # text_en = Investments in this area were up by 6% in 2015 to $221bn.
 1	Las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
-2	inversiones	_	NOUN	NN	Gender=Fem|Number=Plur	6	nsubj	_	_
+2	inversiones	inversión	NOUN	NN	Gender=Fem|Number=Plur	6	nsubj	_	_
 3	en	en	ADP	IN	_	5	case	_	_
 4	este	este	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 5	campo	campo	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
@@ -1521,7 +1521,7 @@
 8	París	París	PROPN	NNP	Number=Sing	6	nmod	_	_
 9	pero	pero	CCONJ	CC	_	17	cc	_	_
 10	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
-11	contribuciones	_	NOUN	NN	Gender=Fem|Number=Plur	17	nsubj	_	SpaceAfter=No
+11	contribuciones	contribución	NOUN	NN	Gender=Fem|Number=Plur	17	nsubj	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	11	punct	_	_
 13	por	por	ADP	IN	_	15	case	_	_
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
@@ -1982,7 +1982,7 @@
 6	cuando	cuando	ADV	WRB	PronType=Rel	7	advmod	_	_
 7	describió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	advcl	_	_
 8	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
-9	acciones	_	NOUN	NN	Gender=Fem|Number=Plur	7	obj	_	_
+9	acciones	acción	NOUN	NN	Gender=Fem|Number=Plur	7	obj	_	_
 10	de	de	ADP	IN	_	11	case	_	_
 11	Rusia	Rusia	PROPN	NNP	Number=Sing	9	nmod	_	_
 12	en	en	ADP	IN	_	13	case	_	_
@@ -2323,7 +2323,7 @@
 20	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	número	número	NOUN	NN	Gender=Masc|Number=Sing	9	conj	_	_
 22	de	de	ADP	IN	_	23	case	_	_
-23	mutaciones	_	NOUN	NN	Gender=Fem|Number=Plur	21	nmod	_	_
+23	mutaciones	mutación	NOUN	NN	Gender=Fem|Number=Plur	21	nmod	_	_
 24	en	en	ADP	IN	_	26	case	_	_
 25	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	ADN	adn	NOUN	NN	Gender=Masc|Number=Sing	21	nmod	_	_
@@ -2787,7 +2787,7 @@
 31	reducción	reducción	NOUN	NN	Gender=Fem|Number=Sing	26	obl	_	_
 32	de	de	ADP	IN	_	34	case	_	_
 33	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	34	det	_	_
-34	emisiones	_	NOUN	NN	Gender=Fem|Number=Plur	31	nmod	_	SpaceAfter=No
+34	emisiones	emisión	NOUN	NN	Gender=Fem|Number=Plur	31	nmod	_	SpaceAfter=No
 35	,	,	PUNCT	,	_	36	punct	_	_
 36	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	_
 37	Guilbeault	Guilbeault	PROPN	NNP	Number=Sing	36	nsubj	_	SpaceAfter=No
@@ -3008,7 +3008,7 @@
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	Director	director	NOUN	NN	Gender=Masc|Number=Sing	12	nsubj	_	_
 3	de	de	ADP	IN	_	4	case	_	_
-4	Evaluaciones	_	NOUN	NN	Gender=Fem|Number=Plur	2	nmod	_	_
+4	Evaluaciones	evaluación	NOUN	NN	Gender=Fem|Number=Plur	2	nmod	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	Policía	policía	NOUN	NN	Gender=Fem|Number=Sing	4	nmod	_	_
 7	Independientes	_	ADJ	JJ	Gender=Fem|Number=Plur	4	amod	_	SpaceAfter=No
@@ -3051,7 +3051,7 @@
 4	está	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	investigando	investigar	VERB	VBG	VerbForm=Ger	0	root	_	_
 6	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
-7	publicaciones	_	NOUN	NN	Gender=Fem|Number=Plur	5	obj	_	_
+7	publicaciones	publicación	NOUN	NN	Gender=Fem|Number=Plur	5	obj	_	_
 8	inflamatorias	inflamatorio	ADJ	JJ	Gender=Fem|Number=Plur	7	amod	_	_
 9	en	en	ADP	IN	_	10	case	_	_
 10	Facebook	Facebook	PROPN	NNP	Number=Sing	7	nmod	_	_
@@ -3089,7 +3089,7 @@
 6	conocidas	conocida	NOUN	NN	Gender=Fem|Number=Plur	4	obj	_	_
 7	como	como	ADP	IN	_	9	case	_	_
 8	"	"	PUNCT	``	_	9	punct	_	SpaceAfter=No
-9	remuneraciones	_	NOUN	NN	Gender=Fem|Number=Plur	6	nmod	_	_
+9	remuneraciones	remuneración	NOUN	NN	Gender=Fem|Number=Plur	6	nmod	_	_
 10	por	por	ADP	IN	_	11	case	_	_
 11	rendimiento	rendimiento	NOUN	NN	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
 12	"	"	PUNCT	''	_	9	punct	_	_
@@ -3153,7 +3153,7 @@
 6	manera	manera	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
 7	proactiva	proactivo	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	_
 8	sobre	sobre	ADP	IN	_	9	case	_	_
-9	remuneraciones	_	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
+9	remuneraciones	remuneración	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
 10	extra	extro	ADJ	JJ	Gender=Fem|Number=Plur	9	amod	_	_
 11	por	por	ADP	IN	_	12	case	_	_
 12	rendimiento	rendimiento	NOUN	NN	Gender=Masc|Number=Sing	9	nmod	_	_
@@ -3195,13 +3195,13 @@
 3	total	_	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	_
 4	de	de	ADP	IN	_	6	case	_	_
 5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
-6	remuneraciones	_	NOUN	NN	Gender=Fem|Number=Plur	2	nmod	_	_
+6	remuneraciones	remuneración	NOUN	NN	Gender=Fem|Number=Plur	2	nmod	_	_
 7	por	por	ADP	IN	_	8	case	_	_
 8	rendimiento	rendimiento	NOUN	NN	Gender=Masc|Number=Sing	6	nmod	_	_
 9	y	y	CCONJ	CC	_	12	cc	_	_
 10	de	de	ADP	IN	_	12	case	_	_
 11	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
-12	bonificaciones	_	NOUN	NN	Gender=Fem|Number=Plur	6	conj	_	_
+12	bonificaciones	bonificación	NOUN	NN	Gender=Fem|Number=Plur	6	conj	_	_
 13	ese	ese	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	14	det	_	_
 14	año	año	NOUN	NN	Gender=Masc|Number=Sing	15	obl:tmod	_	_
 15	fue	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -3297,7 +3297,7 @@
 22	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	objetivo	objetivo	NOUN	NN	Gender=Masc|Number=Sing	5	xcomp	_	_
 24	de	de	ADP	IN	_	25	case	_	_
-25	operaciones	_	NOUN	NN	Gender=Fem|Number=Plur	23	nmod	_	_
+25	operaciones	operación	NOUN	NN	Gender=Fem|Number=Plur	23	nmod	_	_
 26	de	de	ADP	IN	_	27	case	_	_
 27	vigilancia	vigilancia	NOUN	NN	Gender=Fem|Number=Sing	25	nmod	_	_
 28	policial	_	ADJ	JJ	Gender=Fem|Number=Sing	27	amod	_	_
@@ -3317,7 +3317,7 @@
 7	individuos	individuo	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
 8	ni	ni	CCONJ	CC	_	10	cc	_	_
 9	a	a	ADP	IN	_	10	case	_	_
-10	organizaciones	_	NOUN	NN	Gender=Fem|Number=Plur	7	conj	_	_
+10	organizaciones	organización	NOUN	NN	Gender=Fem|Number=Plur	7	conj	_	_
 11	acceso	acceso	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj:pass	_	_
 12	preferente	preferente	ADJ	JJ	Gender=Masc|Number=Sing	11	amod	_	_
 13-14	al	_	_	_	_	_	_	_	_
@@ -3332,7 +3332,7 @@
 21	por	por	ADP	IN	_	23	case	_	_
 22	haber	haber	AUX	VB	VerbForm=Inf	23	aux	_	_
 23	realizado	realizar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	xcomp	_	_
-24	contribuciones	_	NOUN	NN	Gender=Fem|Number=Plur	23	obj	_	_
+24	contribuciones	contribución	NOUN	NN	Gender=Fem|Number=Plur	23	obj	_	_
 25	económicas	económico	ADJ	JJ	Gender=Fem|Number=Plur	24	amod	_	_
 26	a	a	ADP	IN	_	27	case	_	_
 27	políticos	político	NOUN	NN	Gender=Masc|Number=Plur	24	nmod	_	_
@@ -3472,7 +3472,7 @@
 # text = Estas estimaciones coinciden con los porcentajes de los nuevos apartamentos que se incorporan al mercado de alquiler tras su finalización, lo que indica el importate papel que desempeñan los inversores (nacionales) en el mercado inmobiliario del área metropolitana de Toronto.
 # text_en = "These estimates coincide with the percentages of new condos entering the rental market upon completion, indicating the important role (domestic) investors play in the GTA housing market."
 1	Estas	este	DET	DT	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
-2	estimaciones	_	NOUN	NN	Gender=Fem|Number=Plur	3	nsubj	_	_
+2	estimaciones	estimación	NOUN	NN	Gender=Fem|Number=Plur	3	nsubj	_	_
 3	coinciden	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	con	con	ADP	IN	_	6	case	_	_
 5	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
@@ -3961,7 +3961,7 @@
 18	de	de	ADP	IN	_	21	case	_	_
 19	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
 20	primeras	primero	ADJ	JJ	Gender=Fem|Number=Plur	21	amod	_	_
-21	naciones	_	NOUN	NN	Gender=Fem|Number=Plur	17	nmod	_	SpaceAfter=No
+21	naciones	nación	NOUN	NN	Gender=Fem|Number=Plur	17	nmod	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	12	punct	_	_
 
 # newdoc id = n01055
@@ -3981,7 +3981,7 @@
 11	canadienses	_	ADJ	JJ	Gender=Fem|Number=Plur	5	amod	_	Proper=True
 12	de	de	ADP	IN	_	14	case	_	Proper=True
 13	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	Proper=True
-14	telecomunicaciones	_	NOUN	NN	Gender=Fem|Number=Plur	10	nmod	_	Proper=True
+14	telecomunicaciones	telecomunicación	NOUN	NN	Gender=Fem|Number=Plur	10	nmod	_	Proper=True
 15	(	(	PUNCT	(	_	16	punct	_	SpaceAfter=No
 16	CRTC	CRTC	PROPN	NNP	Gender=Fem|Number=Sing	5	appos	_	SpaceAfter=No
 17	)	)	PUNCT	)	_	16	punct	_	_
@@ -4563,7 +4563,7 @@
 6	,	,	PUNCT	,	_	9	punct	_	_
 7	y	y	CCONJ	CC	_	9	cc	_	_
 8	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
-9	canciones	_	NOUN	NN	Gender=Fem|Number=Plur	5	conj	_	_
+9	canciones	canción	NOUN	NN	Gender=Fem|Number=Plur	5	conj	_	_
 10	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	12	nsubj	_	_
 11	los	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	_
 12	recogen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	SpaceAfter=No
@@ -4589,7 +4589,7 @@
 # text = Sus renovaciones destacan la llamada a un gran cambio, si no es artístico es de incomodidad, crecimiento y de una conexión profunda.
 # text_en = Their revivals underscore the appeal of a good challenge, artistic or otherwise: discomfort, growth, and a meaningful connection.
 1	Sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
-2	renovaciones	_	NOUN	NN	Gender=Fem|Number=Plur	3	nsubj	_	_
+2	renovaciones	renovación	NOUN	NN	Gender=Fem|Number=Plur	3	nsubj	_	_
 3	destacan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	llamada	llamada	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
@@ -5546,7 +5546,7 @@
 # text_en = His more unusual accolades include global ambassador for New York City Health and Hospitals Corporation, and a place at Harvard Business School.
 1	Entre	entre	ADP	IN	_	3	case	_	_
 2	sus	su	PRON	DTP$	Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
-3	galardones	_	NOUN	NN	Gender=Masc|Number=Plur	7	obl	_	_
+3	galardones	galardón	NOUN	NN	Gender=Masc|Number=Plur	7	obl	_	_
 4	más	más	ADV	RBR	Degree=Cmp	5	advmod	_	_
 5	curiosos	curioso	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	_
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	compound:prt	_	_
@@ -5647,7 +5647,7 @@
 21	Trump	Trump	PROPN	NNP	Gender=Masc|Number=Sing	20	flat:name	_	_
 22	gane	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
 23	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	24	det	_	_
-24	elecciones	_	NOUN	NN	Gender=Fem|Number=Plur	22	obj	_	SpaceAfter=No
+24	elecciones	elección	NOUN	NN	Gender=Fem|Number=Plur	22	obj	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	3	punct	_	_
 
 # newdoc id = n01082
@@ -6042,7 +6042,7 @@
 11	sumergieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	acl:relcl	_	_
 12	en	en	ADP	IN	_	14	case	_	_
 13	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
-14	patrones	_	NOUN	NN	Gender=Masc|Number=Plur	11	obl	_	_
+14	patrones	patrón	NOUN	NN	Gender=Masc|Number=Plur	11	obl	_	_
 15	y	y	CCONJ	CC	_	17	cc	_	_
 16	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	color	color	NOUN	NN	Gender=Masc|Number=Sing	14	conj	_	SpaceAfter=No
@@ -6424,7 +6424,7 @@
 35	sus	su	PRON	DTP$	Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	36	det	_	_
 36	planes	_	NOUN	NN	Gender=Masc|Number=Plur	28	obl	_	_
 37	y	y	CCONJ	CC	_	38	cc	_	_
-38	ambiciones	_	NOUN	NN	Gender=Fem|Number=Plur	36	conj	_	SpaceAfter=No
+38	ambiciones	ambición	NOUN	NN	Gender=Fem|Number=Plur	36	conj	_	SpaceAfter=No
 39	.	.	PUNCT	.	_	13	punct	_	_
 
 # sent_id = n01092040
@@ -6496,7 +6496,7 @@
 4	han	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
 5	planificado	planificar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	grandes	grande	ADJ	JJ	Gender=Fem|Number=Plur	7	amod	_	_
-7	reducciones	_	NOUN	NN	Gender=Fem|Number=Plur	5	nsubj:pass	_	_
+7	reducciones	reducción	NOUN	NN	Gender=Fem|Number=Plur	5	nsubj:pass	_	_
 8	para	para	ADP	IN	_	10	case	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	bacalao	bacalao	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
@@ -6733,7 +6733,7 @@
 4	rico	rico	ADJ	JJ	Gender=Masc|Number=Sing	5	amod	_	_
 5	filón	filón	NOUN	NN	Gender=Masc|Number=Sing	2	obj	_	_
 6	de	de	ADP	IN	_	7	case	_	_
-7	discusiones	_	NOUN	NN	Gender=Fem|Number=Plur	5	nmod	_	_
+7	discusiones	discusión	NOUN	NN	Gender=Fem|Number=Plur	5	nmod	_	_
 8	sobre	sobre	ADP	IN	_	10	case	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	tema	tema	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	_
@@ -7068,7 +7068,7 @@
 18	gobierno	gobierno	NOUN	NN	Gender=Masc|Number=Sing	16	nsubj	_	_
 19	son	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 20	unas	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
-21	elecciones	_	NOUN	NN	Gender=Fem|Number=Plur	14	nsubj	_	_
+21	elecciones	elección	NOUN	NN	Gender=Fem|Number=Plur	14	nsubj	_	_
 22	generales	general	ADJ	JJ	Gender=Fem|Number=Plur	21	amod	_	SpaceAfter=No
 23	"	"	PUNCT	''	_	14	punct	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	10	punct	_	_
@@ -7305,7 +7305,7 @@
 11	de	de	ADP	IN	_	12	case	_	_
 12	indemnización	indemnización	NOUN	NN	Gender=Fem|Number=Sing	10	nmod	_	_
 13	y	y	CCONJ	CC	_	14	cc	_	_
-14	acciones	_	NOUN	NN	Gender=Fem|Number=Plur	10	conj	_	_
+14	acciones	acción	NOUN	NN	Gender=Fem|Number=Plur	10	conj	_	_
 15	legales	legal	ADJ	JJ	Gender=Fem|Number=Plur	14	amod	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	22	punct	_	_
 17	así	así	ADV	RB	_	22	cc	_	_
@@ -7570,7 +7570,7 @@
 7	10.000	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	8	nummod	_	_
 8	libras	libra	NOUN	NN	Gender=Fem|Number=Plur	4	conj	_	_
 9	en	en	ADP	IN	_	10	case	_	_
-10	obligaciones	_	NOUN	NN	Gender=Fem|Number=Plur	8	nmod	_	_
+10	obligaciones	obligación	NOUN	NN	Gender=Fem|Number=Plur	8	nmod	_	_
 11	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	aux	_	_
 12	esperar	esperar	VERB	VB	VerbForm=Inf	0	root	_	_
 13	recibir	recibir	VERB	VB	VerbForm=Inf	12	xcomp	_	_
@@ -7590,7 +7590,7 @@
 3	hiciesen	_	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
-6	obligaciones	_	NOUN	NN	Gender=Fem|Number=Plur	11	nsubj	_	_
+6	obligaciones	obligación	NOUN	NN	Gender=Fem|Number=Plur	11	nsubj	_	_
 7	con	con	ADP	IN	_	8	case	_	_
 8	prima	prima	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
 9	no	no	ADV	RB	Polarity=Neg	11	advmod	_	_
@@ -7611,7 +7611,7 @@
 2	dinero	dinero	NOUN	NN	Gender=Masc|Number=Sing	20	nsubj:pass	_	_
 3	invertido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
 4	en	en	ADP	IN	_	5	case	_	_
-5	obligaciones	_	NOUN	NN	Gender=Fem|Number=Plur	3	obl	_	_
+5	obligaciones	obligación	NOUN	NN	Gender=Fem|Number=Plur	3	obl	_	_
 6	con	con	ADP	IN	_	7	case	_	_
 7	prima	prima	NOUN	NN	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	12	punct	_	_
@@ -7802,7 +7802,7 @@
 24	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	humanidad	humanidad	NOUN	NN	Gender=Fem|Number=Sing	26	nsubj	_	_
 26	adopte	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
-27	acciones	_	NOUN	NN	Gender=Fem|Number=Plur	26	obj	_	_
+27	acciones	acción	NOUN	NN	Gender=Fem|Number=Plur	26	obj	_	_
 28	radicales	radical	ADJ	JJ	Gender=Fem|Number=Plur	27	amod	_	_
 29	para	para	ADP	IN	_	30	case	_	_
 30	impedir	impedir	VERB	VB	VerbForm=Inf	26	xcomp	_	_
@@ -8204,7 +8204,7 @@
 11	reconfortante	reconfortante	ADJ	JJ	Gender=Masc|Number=Sing	9	conj	_	_
 12	producto	producto	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	_
 13	sin	sin	ADP	IN	_	14	case	_	_
-14	pretensiones	_	NOUN	NN	Gender=Fem|Number=Plur	12	nmod	_	_
+14	pretensiones	pretensión	NOUN	NN	Gender=Fem|Number=Plur	12	nmod	_	_
 15	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	16	nsubj	_	_
 16	parece	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
 17	hecho	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	advcl	_	_
@@ -8709,7 +8709,7 @@
 5	que	que	SCONJ	IN	_	14	mark	_	_
 6	denunciar	denunciar	VERB	VB	VerbForm=Inf	14	csubj	_	_
 7	presuntas	presunto	ADJ	JJ	Gender=Fem|Number=Plur	8	amod	_	_
-8	infracciones	_	NOUN	NN	Gender=Fem|Number=Plur	6	obj	_	_
+8	infracciones	infracción	NOUN	NN	Gender=Fem|Number=Plur	6	obj	_	_
 9	y	y	CCONJ	CC	_	10	cc	_	_
 10	correos	correo	NOUN	NN	Gender=Masc|Number=Plur	8	conj	_	_
 11	electrónicos	electrónico	ADJ	JJ	Gender=Masc|Number=Plur	10	amod	_	_
@@ -8732,7 +8732,7 @@
 7	terror	terror	NOUN	NN	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	3	punct	_	_
 9	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
-10	votaciones	_	NOUN	NN	Gender=Fem|Number=Plur	13	nsubj	_	_
+10	votaciones	votación	NOUN	NN	Gender=Fem|Number=Plur	13	nsubj	_	_
 11	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	compound:prt	_	_
 12	han	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
 13	convertido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -8817,7 +8817,7 @@
 18	día	día	NOUN	NN	Gender=Masc|Number=Sing	13	obl:tmod	_	_
 19	de	de	ADP	IN	_	21	case	_	_
 20	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
-21	elecciones	_	NOUN	NN	Gender=Fem|Number=Plur	18	nmod	_	SpaceAfter=No
+21	elecciones	elección	NOUN	NN	Gender=Fem|Number=Plur	18	nmod	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	13	punct	_	_
 
 # newdoc id = n01130
@@ -8835,7 +8835,7 @@
 8	cero	cero	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	7	appos	_	_
 9	de	de	ADP	IN	_	11	case	_	_
 10	estas	este	DET	DT	Gender=Fem|Number=Plur|PronType=Dem	11	det	_	_
-11	elecciones	_	NOUN	NN	Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
+11	elecciones	elección	NOUN	NN	Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = n01130025
@@ -8910,7 +8910,7 @@
 11	gran	gran	ADJ	JJ	Gender=Masc|Number=Sing	12	amod	_	_
 12	número	número	NOUN	NN	Gender=Masc|Number=Sing	8	obl:agent	_	_
 13	de	de	ADP	IN	_	14	case	_	_
-14	abstenciones	_	NOUN	NN	Gender=Fem|Number=Plur	12	nmod	_	SpaceAfter=No
+14	abstenciones	abstención	NOUN	NN	Gender=Fem|Number=Plur	12	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	,	_	20	punct	_	_
 16	y	y	CCONJ	CC	_	20	cc	_	_
 17	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	det	_	_
@@ -8935,7 +8935,7 @@
 # text_en = It's the election, of course, not "Game of Thrones."
 1	Son	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 2	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
-3	elecciones	_	NOUN	NN	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+3	elecciones	elección	NOUN	NN	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	5	punct	_	_
 5	por	por	ADP	IN	_	3	discourse	_	_
 6	supuesto	supuesto	NOUN	NN	Gender=Masc|Number=Sing	5	fixed	_	SpaceAfter=No
@@ -9072,7 +9072,7 @@
 2	inversores	inversor	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
 3	están	estar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	vendiendo	vender	VERB	VBG	VerbForm=Ger	0	root	_	_
-5	obligaciones	_	NOUN	NN	Gender=Fem|Number=Plur	4	obj	_	_
+5	obligaciones	obligación	NOUN	NN	Gender=Fem|Number=Plur	4	obj	_	_
 6	estatales	estatal	ADJ	JJ	Gender=Fem|Number=Plur	5	amod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	14	punct	_	_
 8	y	y	CCONJ	CC	_	14	cc	_	_
@@ -9083,7 +9083,7 @@
 13	están	estar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
 14	sintiendo	sentir	VERB	VBG	VerbForm=Ger	4	conj	_	_
 15	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
-16	obligaciones	_	NOUN	NN	Gender=Fem|Number=Plur	14	nsubj	_	_
+16	obligaciones	obligación	NOUN	NN	Gender=Fem|Number=Plur	14	nsubj	_	_
 17	de	de	ADP	IN	_	19	case	_	_
 18	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
 19	EUA	_	PROPN	NNP	Gender=Masc|Number=Plur	16	nmod	_	_
@@ -9278,7 +9278,7 @@
 # text = Estas vacaciones los famosos, los seguidores e incluso los reporteros de la CNN se están disfrazando de personajes de "Stranger Things".
 # text_en = Celebrities, fans and even CNN reporters are dressing up like "Stranger Things" characters this holiday.
 1	Estas	este	DET	DT	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
-2	vacaciones	_	NOUN	NN	Gender=Fem|Number=Plur	17	obl:tmod	_	_
+2	vacaciones	vacación	NOUN	NN	Gender=Fem|Number=Plur	17	obl:tmod	_	_
 3	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
 4	famosos	famoso	NOUN	NN	Gender=Masc|Number=Plur	17	nsubj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	_	_
@@ -9488,7 +9488,7 @@
 14	hora	hora	NOUN	NN	Gender=Fem|Number=Sing	12	fixed	_	_
 15	de	de	ADP	IN	_	12	fixed	_	_
 16	rastrear	rastrear	VERB	VB	VerbForm=Inf	7	xcomp	_	_
-17	drones	_	NOUN	NN	Gender=Masc|Number=Plur	16	obj	_	SpaceAfter=No
+17	drones	drón	NOUN	NN	Gender=Masc|Number=Plur	16	obj	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	7	punct	_	_
 
 # newdoc id = n01141
@@ -10084,7 +10084,7 @@
 1	No	no	ADV	RB	Polarity=Neg	2	advmod	_	_
 2	todas	todo	DET	PDT	Gender=Fem|Number=Plur|PronType=Tot	4	det	_	_
 3	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
-4	transformaciones	_	NOUN	NN	Gender=Fem|Number=Plur	9	nsubj	_	_
+4	transformaciones	transformación	NOUN	NN	Gender=Fem|Number=Plur	9	nsubj	_	_
 5	de	de	ADP	IN	_	7	case	_	_
 6	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	región	región	NOUN	NN	Gender=Fem|Number=Sing	4	nmod	_	_
@@ -10719,7 +10719,7 @@
 7	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	8	nsubj	_	_
 8	opera	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
 9	con	con	ADP	IN	_	10	case	_	_
-10	embarcaciones	_	NOUN	NN	Gender=Fem|Number=Plur	8	obl	_	_
+10	embarcaciones	embarcación	NOUN	NN	Gender=Fem|Number=Plur	8	obl	_	_
 11	de	de	ADP	IN	_	12	case	_	_
 12	patrulla	patrulla	NOUN	NN	Gender=Fem|Number=Sing	10	nmod	_	_
 13	y	y	CCONJ	CC	_	14	cc	_	_
@@ -11033,7 +11033,7 @@
 10	Asamblea	asamblea	NOUN	NN	Gender=Fem|Number=Sing	7	nmod	_	_
 11	de	de	ADP	IN	_	13	case	_	_
 12	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
-13	regiones	_	NOUN	NN	Gender=Fem|Number=Plur	10	nmod	_	_
+13	regiones	región	NOUN	NN	Gender=Fem|Number=Plur	10	nmod	_	_
 14	y	y	CCONJ	CC	_	16	cc	_	_
 15	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
 16	distritos	distrito	NOUN	NN	Gender=Masc|Number=Plur	13	conj	_	_
@@ -11208,7 +11208,7 @@
 # text_en = During rains precipitation, the water droplets absorb and dissolve carbon dioxide from the surrounding air.
 1	Durante	durante	ADP	IN	_	3	case	_	_
 2	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
-3	precipitaciones	_	NOUN	NN	Gender=Fem|Number=Plur	9	obl	_	SpaceAfter=No
+3	precipitaciones	precipitación	NOUN	NN	Gender=Fem|Number=Plur	9	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	gotas	gota	NOUN	NN	Gender=Fem|Number=Plur	9	nsubj	_	_
@@ -11358,7 +11358,7 @@
 12	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	infraestructura	infraestructura	NOUN	NN	Gender=Fem|Number=Sing	11	obj	_	_
 14	con	con	ADP	IN	_	15	case	_	_
-15	inversiones	_	NOUN	NN	Gender=Fem|Number=Plur	11	obl	_	_
+15	inversiones	inversión	NOUN	NN	Gender=Fem|Number=Plur	11	obl	_	_
 16	de	de	ADP	IN	_	17	case	_	_
 17	capital	capital	NOUN	NN	Gender=Fem|Number=Sing	15	nmod	_	_
 18	y	y	CCONJ	CC	_	19	cc	_	_
@@ -11523,7 +11523,7 @@
 # text = Muchas civilizaciones antiguas estaban localizadas a las orillas del Mediterráneo, y estaban muy influenciadas por esa proximidad al mar.
 # text_en = Several ancient civilisations were located around the Mediterranean shores, and were greatly influenced by their proximity to the sea.
 1	Muchas	mucho	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	2	det	_	_
-2	civilizaciones	_	NOUN	NN	Gender=Fem|Number=Plur	5	nsubj	_	_
+2	civilizaciones	civilización	NOUN	NN	Gender=Fem|Number=Plur	5	nsubj	_	_
 3	antiguas	antiguo	ADJ	JJ	Gender=Fem|Number=Plur	2	amod	_	_
 4	estaban	estar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	aux	_	_
 5	localizadas	localizar	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
@@ -11635,7 +11635,7 @@
 1	Dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	0	root	_	_
 2	de	de	ADP	IN	_	4	case	_	_
 3	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
-4	civilizaciones	_	NOUN	NN	Gender=Fem|Number=Plur	1	nmod	_	_
+4	civilizaciones	civilización	NOUN	NN	Gender=Fem|Number=Plur	1	nmod	_	_
 5	más	más	ADV	RBR	Degree=Cmp	6	advmod	_	_
 6	relevantes	_	ADJ	JJ	Gender=Fem|Number=Plur	4	amod	_	_
 7-8	del	_	_	_	_	_	_	_	_
@@ -12555,7 +12555,7 @@
 10	patrón	patrón	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	_
 11	de	de	ADP	IN	_	13	case	_	_
 12	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
-13	estaciones	_	NOUN	NN	Gender=Fem|Number=Plur	10	nmod	_	_
+13	estaciones	estación	NOUN	NN	Gender=Fem|Number=Plur	10	nmod	_	_
 14	de	de	ADP	IN	_	15	case	_	_
 15	lluvia	lluvia	NOUN	NN	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	5	punct	_	_
@@ -12598,7 +12598,7 @@
 3	investigación	investigación	NOUN	NN	Gender=Fem|Number=Sing	10	nsubj	_	_
 4	como	como	ADP	IN	_	6	cc	_	_
 5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
-6	expediciones	_	NOUN	NN	Gender=Fem|Number=Plur	3	conj	_	_
+6	expediciones	expedición	NOUN	NN	Gender=Fem|Number=Plur	3	conj	_	_
 7	a	a	ADP	IN	_	9	case	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	isla	isla	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
@@ -12680,7 +12680,7 @@
 15	desastres	_	NOUN	NN	Gender=Masc|Number=Plur	9	nmod	_	_
 16	naturales	natural	ADJ	JJ	Gender=Masc|Number=Plur	15	amod	_	_
 17	como	como	ADP	IN	_	18	case	_	_
-18	inundaciones	_	NOUN	NN	Gender=Fem|Number=Plur	15	nmod	_	_
+18	inundaciones	inundación	NOUN	NN	Gender=Fem|Number=Plur	15	nmod	_	_
 19	y	y	CCONJ	CC	_	20	cc	_	_
 20	sequías	sequía	NOUN	NN	Gender=Fem|Number=Plur	18	conj	_	SpaceAfter=No
 21	,	,	PUNCT	,	_	22	punct	_	_
@@ -13721,7 +13721,7 @@
 5	ventaja	ventaja	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
 6	de	de	ADP	IN	_	8	case	_	_
 7	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
-8	conexiones	_	NOUN	NN	Gender=Fem|Number=Plur	5	nmod	_	_
+8	conexiones	conexión	NOUN	NN	Gender=Fem|Number=Plur	5	nmod	_	_
 9	personales	personal	ADJ	JJ	Gender=Fem|Number=Plur	8	amod	_	_
 10	con	con	ADP	IN	_	11	case	_	_
 11	científicos	científico	NOUN	NN	Gender=Masc|Number=Plur	8	nmod	_	_
@@ -14696,7 +14696,7 @@
 4	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
 5	hecho	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	agresivas	agresivo	ADJ	JJ	Gender=Fem|Number=Plur	7	amod	_	_
-7	negociaciones	_	NOUN	NN	Gender=Fem|Number=Plur	5	obj	_	_
+7	negociaciones	negociación	NOUN	NN	Gender=Fem|Number=Plur	5	obj	_	_
 8	para	para	ADP	IN	_	9	case	_	_
 9	presionar	presionar	VERB	VB	VerbForm=Inf	5	xcomp	_	_
 10	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
@@ -15292,7 +15292,7 @@
 16	muchas	mucho	NOUN	NN	Gender=Fem|Number=Plur	13	nmod	_	_
 17	de	de	ADP	IN	_	19	case	_	_
 18	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
-19	construcciones	_	NOUN	NN	Gender=Fem|Number=Plur	16	nmod	_	SpaceAfter=No
+19	construcciones	construcción	NOUN	NN	Gender=Fem|Number=Plur	16	nmod	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = w01067103
@@ -15421,7 +15421,7 @@
 5	de	de	ADP	IN	_	3	fixed	_	_
 6	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
 7	duras	duro	ADJ	JJ	Gender=Fem|Number=Plur	8	amod	_	_
-8	acciones	_	NOUN	NN	Gender=Fem|Number=Plur	12	obl	_	SpaceAfter=No
+8	acciones	acción	NOUN	NN	Gender=Fem|Number=Plur	12	obl	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	8	punct	_	_
 10	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	expl:pass	_	_
 11	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	_
@@ -15491,7 +15491,7 @@
 10	Mediterráneo	Mediterráneo	PROPN	NNP	Gender=Masc|Number=Sing	9	appos	_	_
 11	puso	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 12	estrictas	estricto	ADJ	JJ	Gender=Fem|Number=Plur	13	amod	_	_
-13	limitaciones	_	NOUN	NN	Gender=Fem|Number=Plur	11	obj	_	_
+13	limitaciones	limitación	NOUN	NN	Gender=Fem|Number=Plur	11	obj	_	_
 14	sobre	sobre	ADP	IN	_	16	case	_	_
 15	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	poder	poder	NOUN	NN	Gender=Masc|Number=Sing	13	nmod	_	_
@@ -16156,7 +16156,7 @@
 10	posible	_	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	_
 11	causa	causa	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
 12	de	de	ADP	IN	_	13	case	_	_
-13	reivindicaciones	_	NOUN	NN	Gender=Fem|Number=Plur	11	nmod	_	SpaceAfter=No
+13	reivindicaciones	reivindicación	NOUN	NN	Gender=Fem|Number=Plur	11	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	,	_	18	punct	_	_
 15	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	16	det	_	_
 16	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	18	nsubj	_	_
@@ -16184,7 +16184,7 @@
 11	a	a	ADP	IN	_	12	case	_	_
 12	disolver	disolver	VERB	VB	VerbForm=Inf	10	xcomp	_	_
 13	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
-14	tensiones	_	NOUN	NN	Gender=Fem|Number=Plur	12	obj	_	_
+14	tensiones	tensión	NOUN	NN	Gender=Fem|Number=Plur	12	obj	_	_
 15	entre	entre	ADP	IN	_	16	case	_	_
 16	comunidades	_	NOUN	NN	Gender=Fem|Number=Plur	14	nmod	_	_
 17	y	y	CCONJ	CC	_	19	cc	_	_
@@ -16484,7 +16484,7 @@
 1	Tras	tras	ADP	IN	_	2	case	_	_
 2	asegurar	asegurar	VERB	VB	VerbForm=Inf	10	xcomp	_	_
 3	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
-4	regiones	_	NOUN	NN	Gender=Fem|Number=Plur	2	obj	_	_
+4	regiones	región	NOUN	NN	Gender=Fem|Number=Plur	2	obj	_	_
 5	limítrofes	_	ADJ	JJ	Gender=Fem|Number=Plur	4	amod	_	_
 6	de	de	ADP	IN	_	7	case	_	_
 7	Macedonia	Macedonia	PROPN	NNP	Number=Sing	4	nmod	_	SpaceAfter=No
@@ -17507,7 +17507,7 @@
 # text = Las explicaciones del origen de la música dependen de cómo se define la música.
 # text_en = Explanations of the origin of music depend on how music is defined.
 1	Las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
-2	explicaciones	_	NOUN	NN	Gender=Fem|Number=Plur	9	nsubj	_	_
+2	explicaciones	explicación	NOUN	NN	Gender=Fem|Number=Plur	9	nsubj	_	_
 3-4	del	_	_	_	_	_	_	_	_
 3	de	de	ADP	INDT	_	5	case	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -17533,7 +17533,7 @@
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	tanto	tanto	ADV	RB	_	7	cc:preconj	_	_
 6	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
-7	varones	_	NOUN	NN	Gender=Masc|Number=Plur	12	nsubj	_	_
+7	varones	varón	NOUN	NN	Gender=Masc|Number=Plur	12	nsubj	_	_
 8	como	como	ADP	IN	_	10	cc	_	_
 9	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
 10	mujeres	mujer	NOUN	NN	Gender=Fem|Number=Plur	7	conj	_	_
@@ -17601,7 +17601,7 @@
 6	1842	1842	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	7	obl	_	_
 7	aceptó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
 8	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
-9	estipulaciones	_	NOUN	NN	Gender=Fem|Number=Plur	7	obj	_	_
+9	estipulaciones	estipulación	NOUN	NN	Gender=Fem|Number=Plur	7	obj	_	_
 10-11	del	_	_	_	_	_	_	_	_
 10	de	de	ADP	INDT	_	12	case	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
@@ -17716,7 +17716,7 @@
 3	a	a	ADP	IN	_	4	case	_	_
 4	Mandl	Mandl	PROPN	NNP	Gender=Masc|Number=Sing	2	obl	_	_
 5	a	a	ADP	IN	_	6	case	_	_
-6	reuniones	_	NOUN	NN	Gender=Fem|Number=Plur	2	obl	_	_
+6	reuniones	reunión	NOUN	NN	Gender=Fem|Number=Plur	2	obl	_	_
 7	de	de	ADP	IN	_	8	case	_	_
 8	negocios	negocio	NOUN	NN	Gender=Masc|Number=Plur	6	nmod	_	_
 9	donde	donde	ADV	WRB	PronType=Rel	10	advmod	_	_
@@ -17765,7 +17765,7 @@
 1	Le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obl:arg	_	_
 2	ofrecieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	varios	vario	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	4	det	_	_
-4	guiones	_	NOUN	NN	Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
+4	guiones	guión	NOUN	NN	Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	6	punct	_	_
 6	comerciales	comercial	NOUN	NN	Gender=Masc|Number=Plur	4	conj	_	_
 7	de	de	ADP	IN	_	8	case	_	_
@@ -19325,7 +19325,7 @@
 9	sucesión	sucesión	NOUN	NN	Gender=Fem|Number=Sing	5	conj	_	_
 10	de	de	ADP	IN	_	12	case	_	_
 11	malas	malo	ADJ	JJ	Gender=Fem|Number=Plur	12	amod	_	_
-12	inversiones	_	NOUN	NN	Gender=Fem|Number=Plur	9	nmod	_	_
+12	inversiones	inversión	NOUN	NN	Gender=Fem|Number=Plur	9	nmod	_	_
 13	por	por	ADP	IN	_	17	case	_	_
 14	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	13	fixed	_	_
 15	de	de	ADP	IN	_	13	fixed	_	_
@@ -19390,7 +19390,7 @@
 10	de	de	ADP	IN	_	13	case	_	_
 11	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
 12	mejores	_	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Plur	13	amod	_	_
-13	interpretaciones	_	NOUN	NN	Gender=Fem|Number=Plur	9	nmod	_	_
+13	interpretaciones	interpretación	NOUN	NN	Gender=Fem|Number=Plur	9	nmod	_	_
 14	de	de	ADP	IN	_	15	case	_	_
 15	LeBeouf	LeBeouf	PROPN	NNP	Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	6	punct	_	_
@@ -19683,7 +19683,7 @@
 # text = Los patrones que presentan los datos de la región de Petén y Uaxactún permitieron que estos sitios encajaran dentro de el desarrollo cultural de las tierras bajas mayas.
 # text_en = The patterns presented by the data from the Petén region and Uaxactun allowed for these sites to fit within the cultural development of the Maya lowlands.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
-2	patrones	_	NOUN	NN	Gender=Masc|Number=Plur	14	nsubj	_	_
+2	patrones	patrón	NOUN	NN	Gender=Masc|Number=Plur	14	nsubj	_	_
 3	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	4	nsubj	_	_
 4	presentan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 5	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
@@ -19901,7 +19901,7 @@
 25	ejercicios	ejercicio	NOUN	NN	Gender=Masc|Number=Plur	23	nmod	_	_
 26	de	de	ADP	IN	_	28	case	_	_
 27	tres	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	28	nummod	_	_
-28	sesiones	_	NOUN	NN	Gender=Fem|Number=Plur	23	nmod	_	_
+28	sesiones	sesión	NOUN	NN	Gender=Fem|Number=Plur	23	nmod	_	_
 29	por	por	ADP	IN	_	30	case	_	_
 30	semana	semana	NOUN	NN	Gender=Fem|Number=Sing	28	nmod	_	SpaceAfter=No
 31	.	.	PUNCT	.	_	7	punct	_	_
@@ -20427,7 +20427,7 @@
 10	polonio	polonio	NOUN	NN	Gender=Masc|Number=Sing	8	nmod	_	_
 11	y	y	CCONJ	CC	_	12	cc	_	_
 12	producir	producir	VERB	VB	VerbForm=Inf	7	conj	_	_
-13	emisiones	_	NOUN	NN	Gender=Fem|Number=Plur	12	obj	_	_
+13	emisiones	emisión	NOUN	NN	Gender=Fem|Number=Plur	12	obj	_	_
 14	alfa	alfa	NOUN	NN	Gender=Fem|Number=Sing	13	appos	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -20486,7 +20486,7 @@
 17	muchas	mucho	NOUN	NN	Gender=Fem|Number=Plur	15	obl	_	_
 18	de	de	ADP	IN	_	20	case	_	_
 19	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
-20	investigaciones	_	NOUN	NN	Gender=Fem|Number=Plur	17	nmod	_	_
+20	investigaciones	investigación	NOUN	NN	Gender=Fem|Number=Plur	17	nmod	_	_
 21	subsecuentes	_	ADJ	JJ	Gender=Fem|Number=Plur	20	amod	_	_
 22-23	del	_	_	_	_	_	_	_	_
 22	de	de	ADP	INDT	_	24	case	_	_
@@ -20681,7 +20681,7 @@
 15	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	mujeriego	mujeriego	NOUN	NN	Gender=Masc|Number=Sing	9	appos	_	_
 17	sin	sin	ADP	IN	_	18	case	_	_
-18	preocupaciones	_	NOUN	NN	Gender=Fem|Number=Plur	16	nmod	_	SpaceAfter=No
+18	preocupaciones	preocupación	NOUN	NN	Gender=Fem|Number=Plur	16	nmod	_	SpaceAfter=No
 19	,	,	PUNCT	,	_	21	punct	_	_
 20	en	en	ADP	IN	_	21	case	_	_
 21	Sabrina	Sabrina	PROPN	NNP	Number=Sing	1	obl	_	_
@@ -20711,7 +20711,7 @@
 10	siguiente	siguiente	ADJ	JJ	Gender=Masc|Number=Sing	11	amod	_	_
 11	ciclo	ciclo	NOUN	NN	Gender=Masc|Number=Sing	1	obj	_	_
 12	de	de	ADP	IN	_	13	case	_	_
-13	elecciones	_	NOUN	NN	Gender=Fem|Number=Plur	11	nmod	_	SpaceAfter=No
+13	elecciones	elección	NOUN	NN	Gender=Fem|Number=Plur	11	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = w01144056
@@ -20735,7 +20735,7 @@
 16	a	a	ADP	IN	_	17	case	_	_
 17	cabo	cabo	NOUN	NN	Gender=Masc|Number=Sing	15	obl	_	_
 18	entre	entre	ADP	IN	_	19	case	_	_
-19	preocupaciones	_	NOUN	NN	Gender=Fem|Number=Plur	15	obl	_	_
+19	preocupaciones	preocupación	NOUN	NN	Gender=Fem|Number=Plur	15	obl	_	_
 20	de	de	ADP	IN	_	21	case	_	_
 21	carácter	carácter	NOUN	NN	Gender=Masc|Number=Sing	19	nmod	_	_
 22	nacional	nacional	ADJ	JJ	Gender=Masc|Number=Sing	21	amod	_	_
@@ -20919,7 +20919,7 @@
 18	discográfico	discográfico	ADJ	JJ	Gender=Masc|Number=Sing	17	amod	_	_
 19	para	para	ADP	IN	_	20	case	_	_
 20	componer	componer	VERB	VB	VerbForm=Inf	17	xcomp	_	_
-21	canciones	_	NOUN	NN	Gender=Fem|Number=Plur	20	obj	_	SpaceAfter=No
+21	canciones	canción	NOUN	NN	Gender=Fem|Number=Plur	20	obj	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = w01147018
@@ -21262,7 +21262,7 @@
 39	Albania	Albania	PROPN	NNP	Number=Sing	37	nmod	_	_
 40	a	a	ADP	IN	_	42	case	_	_
 41	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	42	det	_	_
-42	regiones	_	NOUN	NN	Gender=Fem|Number=Plur	35	obl	_	_
+42	regiones	región	NOUN	NN	Gender=Fem|Number=Plur	35	obl	_	_
 43	centrales	central	ADJ	JJ	Gender=Fem|Number=Plur	42	amod	_	SpaceAfter=No
 44	.	.	PUNCT	.	_	14	punct	_	_
 
@@ -21590,7 +21590,7 @@
 2	ley	ley	NOUN	NN	Gender=Fem|Number=Sing	3	nsubj	_	_
 3	delinea	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	varias	vario	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	5	det	_	_
-5	condiciones	_	NOUN	NN	Gender=Fem|Number=Plur	3	obj	_	_
+5	condiciones	condición	NOUN	NN	Gender=Fem|Number=Plur	3	obj	_	_
 6	cuyo	cuyo	DET	DTP$	Gender=Masc|Number=Sing|Poss=Yes|PronType=Rel	7	det	_	_
 7	cumplimiento	cumplimiento	NOUN	NN	Gender=Masc|Number=Sing	9	nsubj	_	_
 8	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
@@ -21631,7 +21631,7 @@
 42	de	de	ADP	IN	_	45	case	_	_
 43	todas	todo	DET	PDT	Gender=Fem|Number=Plur|PronType=Tot	45	det	_	_
 44	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	45	det	_	_
-45	sanciones	_	NOUN	NN	Gender=Fem|Number=Plur	41	nmod	_	_
+45	sanciones	sanción	NOUN	NN	Gender=Fem|Number=Plur	41	nmod	_	_
 46	contra	contra	ADP	IN	_	47	case	_	_
 47	Rusia	Rusia	PROPN	NNP	Number=Sing	45	nmod	_	SpaceAfter=No
 48	,	,	PUNCT	,	_	52	punct	_	_
@@ -21647,7 +21647,7 @@
 58	resultado	resultado	NOUN	NN	Gender=Masc|Number=Sing	56	obl	_	_
 59	de	de	ADP	IN	_	61	case	_	_
 60	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	61	det	_	_
-61	sanciones	_	NOUN	NN	Gender=Fem|Number=Plur	58	nmod	_	SpaceAfter=No
+61	sanciones	sanción	NOUN	NN	Gender=Fem|Number=Plur	58	nmod	_	SpaceAfter=No
 62	.	.	PUNCT	.	_	3	punct	_	_
 
 # newdoc id = n02030
@@ -22221,7 +22221,7 @@
 4	llegaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	a	a	ADP	IN	_	7	case	_	_
 6	nuevas	nuevo	ADJ	JJ	Gender=Fem|Number=Plur	7	amod	_	_
-7	conclusiones	_	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
+7	conclusiones	conclusión	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
 8	a	a	ADP	IN	_	12	case	_	_
 9	partir	partir	VERB	VB	VerbForm=Inf	8	fixed	_	_
 10	de	de	ADP	IN	_	8	fixed	_	_
@@ -22318,7 +22318,7 @@
 13	a	a	ADP	IN	_	16	case	_	_
 14	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
 15	dos	dos	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	16	nummod	_	_
-16	facciones	_	NOUN	NN	Gender=Fem|Number=Plur	12	obl	_	_
+16	facciones	facción	NOUN	NN	Gender=Fem|Number=Plur	12	obl	_	_
 17	enemigas	enemigo	ADJ	JJ	Gender=Fem|Number=Plur	16	amod	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	12	punct	_	_
 
@@ -22568,7 +22568,7 @@
 4	sólo	sólo	ADV	RB	_	5	advmod	_	_
 5	atacan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
-7	pulmones	_	NOUN	NN	Gender=Masc|Number=Plur	5	obj	_	_
+7	pulmones	pulmón	NOUN	NN	Gender=Masc|Number=Plur	5	obj	_	_
 8	sin	sin	ADP	IN	_	9	case	_	_
 9	desarrollar	desarrollar	VERB	VB	VerbForm=Inf	7	xcomp	_	_
 10	de	de	ADP	IN	_	12	case	_	_
@@ -22766,7 +22766,7 @@
 3	lado	lado	NOUN	NN	Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	1	punct	_	_
 5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
-6	relaciones	_	NOUN	NN	Gender=Fem|Number=Plur	20	nsubj	_	_
+6	relaciones	relación	NOUN	NN	Gender=Fem|Number=Plur	20	nsubj	_	_
 7	de	de	ADP	IN	_	11	case	_	_
 8	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 9	últimos	último	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	_
@@ -22962,12 +22962,12 @@
 2	Cuáles	cuáles	PRON	WP	Number=Plur|PronType=Int	5	nsubj	_	_
 3	son	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
-5	limitaciones	_	NOUN	NN	Gender=Fem|Number=Plur	0	root	_	_
+5	limitaciones	limitación	NOUN	NN	Gender=Fem|Number=Plur	0	root	_	_
 6	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	8	nsubj	_	_
 7	podrían	poder	AUX	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	_
 8	inhibir	inhibir	VERB	VB	VerbForm=Inf	5	acl:relcl	_	_
 9	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
-10	expresiones	_	NOUN	NN	Gender=Fem|Number=Plur	8	obj	_	_
+10	expresiones	expresión	NOUN	NN	Gender=Fem|Number=Plur	8	obj	_	_
 11	de	de	ADP	IN	_	13	case	_	_
 12	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
 13	creencias	creencia	NOUN	NN	Gender=Fem|Number=Plur	10	nmod	_	_
@@ -22986,7 +22986,7 @@
 4	mayoría	mayoría	NOUN	NN	Gender=Fem|Number=Sing	17	nsubj:pass	_	_
 5	de	de	ADP	IN	_	7	case	_	_
 6	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
-7	situaciones	_	NOUN	NN	Gender=Fem|Number=Plur	4	nmod	_	_
+7	situaciones	situación	NOUN	NN	Gender=Fem|Number=Plur	4	nmod	_	_
 8	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	9	nsubj	_	_
 9	surgen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
 10	en	en	ADP	IN	_	12	case	_	_
@@ -23032,7 +23032,7 @@
 7	lamenta	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	que	que	SCONJ	IN	_	18	mark	_	_
 9	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
-10	observaciones	_	NOUN	NN	Gender=Fem|Number=Plur	18	nsubj:pass	_	_
+10	observaciones	observación	NOUN	NN	Gender=Fem|Number=Plur	18	nsubj:pass	_	_
 11	de	de	ADP	IN	_	13	case	_	_
 12	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	guía	guía	NOUN	NN	Gender=Fem|Number=Sing	10	nmod	_	_
@@ -23112,7 +23112,7 @@
 # text = Ambas organizaciones presentaron una apelación que fue rechazada por el tribunal de casación el 12 de octubre.
 # text_en = The two organisations launched an appeal which was thrown out by the Court of Cassation on the 12th of October.
 1	Ambas	ambos	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Tot	2	det	_	_
-2	organizaciones	_	NOUN	NN	Gender=Fem|Number=Plur	3	nsubj	_	_
+2	organizaciones	organización	NOUN	NN	Gender=Fem|Number=Plur	3	nsubj	_	_
 3	presentaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	apelación	apelación	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
@@ -23829,7 +23829,7 @@
 22	a	a	ADP	IN	_	23	case	_	_
 23	anticipar	anticipar	VERB	VB	VerbForm=Inf	21	xcomp	_	_
 24	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	25	det	_	_
-25	acciones	_	NOUN	NN	Gender=Fem|Number=Plur	23	obj	_	_
+25	acciones	acción	NOUN	NN	Gender=Fem|Number=Plur	23	obj	_	_
 26	de	de	ADP	IN	_	28	case	_	_
 27	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	28	det	_	_
 28	conductores	conductor	NOUN	NN	Gender=Masc|Number=Plur	25	nmod	_	SpaceAfter=No
@@ -24260,7 +24260,7 @@
 18	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	nación	nación	NOUN	NN	Gender=Fem|Number=Sing	9	ccomp	_	_
 20	de	de	ADP	IN	_	21	case	_	_
-21	naciones	_	NOUN	NN	Gender=Fem|Number=Plur	19	nmod	_	SpaceAfter=No
+21	naciones	nación	NOUN	NN	Gender=Fem|Number=Plur	19	nmod	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = n05004025
@@ -24969,7 +24969,7 @@
 18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	Centro	centro	NOUN	NN	Gender=Masc|Number=Sing	16	nmod	_	Proper=True
 20	de	de	ADP	IN	_	21	case	_	Proper=True
-21	Convenciones	_	NOUN	NN	Gender=Fem|Number=Plur	19	nmod	_	Proper=True
+21	Convenciones	convención	NOUN	NN	Gender=Fem|Number=Plur	19	nmod	_	Proper=True
 22	Moscone	Moscone	PROPN	NNP	Number=Sing	19	appos	_	_
 23	North	north	NOUN	NN	Number=Sing	22	appos	_	SpaceAfter=No|Proper=True
 24	.	.	PUNCT	.	_	6	punct	_	_
@@ -25012,7 +25012,7 @@
 # text_en = During the 2010 general election, the Labor Party was able to win all seven voting districts.
 1	Durante	durante	ADP	IN	_	3	case	_	_
 2	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
-3	elecciones	_	NOUN	NN	Gender=Fem|Number=Plur	10	obl	_	_
+3	elecciones	elección	NOUN	NN	Gender=Fem|Number=Plur	10	obl	_	_
 4	generales	general	ADJ	JJ	Gender=Fem|Number=Plur	3	amod	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	2010	2010	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	nmod	_	_
@@ -25333,7 +25333,7 @@
 32	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	33	det	_	_
 33	falta	falta	NOUN	NN	Gender=Fem|Number=Sing	25	conj	_	_
 34	de	de	ADP	IN	_	35	case	_	_
-35	provisiones	_	NOUN	NN	Gender=Fem|Number=Plur	33	nmod	_	SpaceAfter=No
+35	provisiones	provisión	NOUN	NN	Gender=Fem|Number=Plur	33	nmod	_	SpaceAfter=No
 36	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = w02009087
@@ -25343,7 +25343,7 @@
 2	Rey	rey	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	no	no	ADV	RB	Polarity=Neg	4	advmod	_	_
 4	tomó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5	precauciones	_	NOUN	NN	Gender=Fem|Number=Plur	4	obj	_	_
+5	precauciones	precaución	NOUN	NN	Gender=Fem|Number=Plur	4	obj	_	_
 6	especiales	especial	ADJ	JJ	Gender=Fem|Number=Plur	5	amod	_	_
 7	durante	durante	ADP	IN	_	9	case	_	_
 8	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
@@ -25396,7 +25396,7 @@
 3	Guerra	guerra	NOUN	NN	Gender=Fem|Number=Sing	5	nsubj	_	Proper=True
 4	Mundial	_	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	Proper=True
 5	ocasionó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-6	transformaciones	_	NOUN	NN	Gender=Fem|Number=Plur	5	obj	_	_
+6	transformaciones	transformación	NOUN	NN	Gender=Fem|Number=Plur	5	obj	_	_
 7	y	y	CCONJ	CC	_	9	cc	_	_
 8	nuevos	nuevo	ADJ	JJ	Gender=Masc|Number=Plur	9	amod	_	_
 9	cambios	cambio	NOUN	NN	Gender=Masc|Number=Plur	6	conj	_	_
@@ -25523,7 +25523,7 @@
 12	amenaza	amenaza	NOUN	NN	Gender=Fem|Number=Sing	1	nsubj	_	_
 13	de	de	ADP	IN	_	14	case	_	_
 14	imponer	imponer	VERB	VB	VerbForm=Inf	12	xcomp	_	_
-15	elecciones	_	NOUN	NN	Gender=Fem|Number=Plur	14	obj	_	_
+15	elecciones	elección	NOUN	NN	Gender=Fem|Number=Plur	14	obj	_	_
 16	generales	general	ADJ	JJ	Gender=Fem|Number=Plur	15	amod	_	_
 17	y	y	CCONJ	CC	_	18	cc	_	_
 18	libres	_	ADJ	JJ	Gender=Fem|Number=Plur	16	conj	_	SpaceAfter=No
@@ -25724,7 +25724,7 @@
 5	de	de	ADP	IN	_	8	case	_	_
 6	todas	todo	DET	PDT	Gender=Fem|Number=Plur|PronType=Tot	8	det	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	opiniones	_	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
+8	opiniones	opinión	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
 9	indeseables	indeseabl	ADJ	JJ	Gender=Fem|Number=Plur	8	amod	_	SpaceAfter=No
 10	;	;	PUNCT	:	_	21	punct	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
@@ -26054,7 +26054,7 @@
 10	romana	romano	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No|Proper=True
 11	,	,	PUNCT	,	_	13	punct	_	_
 12	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
-13	instituciones	_	NOUN	NN	Gender=Fem|Number=Plur	9	conj	_	_
+13	instituciones	institución	NOUN	NN	Gender=Fem|Number=Plur	9	conj	_	_
 14	de	de	ADP	IN	_	16	case	_	_
 15	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	República	república	NOUN	NN	Gender=Fem|Number=Sing	13	nmod	_	Proper=True
@@ -26579,7 +26579,7 @@
 # text_en = During the holiday, he began an extra-marital affair with the young girl, which he admitted shortly after.
 1	Durante	durante	ADP	IN	_	3	case	_	_
 2	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
-3	vacaciones	_	NOUN	NN	Gender=Fem|Number=Plur	5	obl	_	_
+3	vacaciones	vacación	NOUN	NN	Gender=Fem|Number=Plur	5	obl	_	_
 4	el	el	DET	PRP	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nsubj	_	_
 5	empezó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -27150,7 +27150,7 @@
 # text = Con expresiones de prácticas religiosas, Fiorello fue educado dentro de una iglesia espiscopal, y se mantuvo miembro de la iglesia protestante durante toda su vida.
 # text_en = With regards to religious practices, Fiorello was educated within the Episcopal Church, and remained a member of the Protestant Church throughout his life.
 1	Con	con	ADP	IN	_	2	case	_	_
-2	expresiones	_	NOUN	NN	Gender=Fem|Number=Plur	9	obl	_	_
+2	expresiones	expresión	NOUN	NN	Gender=Fem|Number=Plur	9	obl	_	_
 3	de	de	ADP	IN	_	4	case	_	_
 4	prácticas	práctica	NOUN	NN	Gender=Fem|Number=Plur	2	nmod	_	_
 5	religiosas	religioso	ADJ	JJ	Gender=Fem|Number=Plur	4	amod	_	SpaceAfter=No
@@ -27306,7 +27306,7 @@
 8	debido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	case	_	_
 9	a	a	ADP	IN	_	8	fixed	_	_
 10	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
-11	colaboraciones	_	NOUN	NN	Gender=Fem|Number=Plur	7	obl	_	_
+11	colaboraciones	colaboración	NOUN	NN	Gender=Fem|Number=Plur	7	obl	_	_
 12	no	no	ADV	RB	Polarity=Neg	13	advmod	_	_
 13	oficiales	oficial	ADJ	JJ	Gender=Fem|Number=Plur	11	amod	_	_
 14	entre	entre	ADP	IN	_	16	case	_	_
@@ -27327,7 +27327,7 @@
 1	Durante	durante	ADP	IN	_	4	case	_	_
 2	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 3	varias	vario	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	4	det	_	_
-4	colaboraciones	_	NOUN	NN	Gender=Fem|Number=Plur	9	obl	_	SpaceAfter=No
+4	colaboraciones	colaboración	NOUN	NN	Gender=Fem|Number=Plur	9	obl	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	_	_
 6	no	no	ADV	RB	Polarity=Neg	9	advmod	_	_
 7	está	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
@@ -27339,7 +27339,7 @@
 13	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	10	nmod	_	_
 14	imaginó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	ccomp	_	_
 15	algunas	alguno	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	16	det	_	_
-16	soluciones	_	NOUN	NN	Gender=Fem|Number=Plur	14	obj	_	_
+16	soluciones	solución	NOUN	NN	Gender=Fem|Number=Plur	14	obj	_	_
 17	estilísticas	estilístico	ADJ	JJ	Gender=Fem|Number=Plur	16	amod	_	_
 18	en	en	ADP	IN	_	20	case	_	_
 19	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
@@ -27980,7 +27980,7 @@
 4	mando	mando	NOUN	NN	Gender=Masc|Number=Sing	2	obj	_	_
 5	de	de	ADP	IN	_	7	case	_	_
 6	dos	dos	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	7	nummod	_	_
-7	legiones	_	NOUN	NN	Gender=Fem|Number=Plur	4	nmod	_	_
+7	legiones	legión	NOUN	NN	Gender=Fem|Number=Plur	4	nmod	_	_
 8	en	en	ADP	IN	_	9	case	_	_
 9	Capua	Capua	PROPN	NNP	Number=Sing	2	obl	_	_
 10	y	y	CCONJ	CC	_	13	cc	_	_
@@ -28014,7 +28014,7 @@
 3	informado	informar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	de	de	ADP	IN	_	6	case	_	_
 5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
-6	acciones	_	NOUN	NN	Gender=Fem|Number=Plur	3	obl	_	_
+6	acciones	acción	NOUN	NN	Gender=Fem|Number=Plur	3	obl	_	_
 7	de	de	ADP	IN	_	8	case	_	_
 8	Pompeyo	Pompeyo	PROPN	NNP	Gender=Masc|Number=Sing	6	nmod	_	_
 9	personalmente	personalmente	ADV	RB	_	3	advmod	_	_
