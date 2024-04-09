@@ -757,7 +757,7 @@
 7	agencia	agencia	NOUN	NN	Gender=Fem|Number=Sing	4	nmod	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	oradores	orador	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	_
-10	estadounidense	_	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	Proper=True
+10	estadounidense	estadounidense	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	Proper=True
 11	tras	tras	ADP	IN	_	13	case	_	_
 12	ser	ser	AUX	VB	VerbForm=Inf	13	aux:pass	_	_
 13	despedido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	xcomp	_	_
@@ -3678,7 +3678,7 @@
 17	afirman	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 18	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
 19	Servicios	servicio	NOUN	NN	Gender=Masc|Number=Plur	17	nsubj	_	Proper=True
-20	Canadienses	_	ADJ	JJ	Gender=Masc|Number=Plur	19	amod	_	Proper=True
+20	Canadienses	canadiense	ADJ	JJ	Gender=Masc|Number=Plur	19	amod	_	Proper=True
 21	de	de	ADP	IN	_	22	case	_	Proper=True
 22	Sangre	sangre	NOUN	NN	Gender=Fem|Number=Sing	19	nmod	_	Proper=True
 23	(	(	PUNCT	(	_	24	punct	_	SpaceAfter=No
@@ -3978,7 +3978,7 @@
 8	y	y	CCONJ	CC	_	10	cc	_	Proper=True
 9	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	Proper=True
 10	Comisión	comisión	NOUN	NN	Gender=Fem|Number=Sing	5	conj	_	Proper=True
-11	canadienses	_	ADJ	JJ	Gender=Fem|Number=Plur	5	amod	_	Proper=True
+11	canadienses	canadiense	ADJ	JJ	Gender=Fem|Number=Plur	5	amod	_	Proper=True
 12	de	de	ADP	IN	_	14	case	_	Proper=True
 13	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	Proper=True
 14	telecomunicaciones	telecomunicación	NOUN	NN	Gender=Fem|Number=Plur	10	nmod	_	Proper=True
@@ -5391,7 +5391,7 @@
 7	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	opinión	opinión	NOUN	NN	Gender=Fem|Number=Sing	15	nsubj	_	_
 9	pública	público	ADJ	JJ	Gender=Fem|Number=Sing	8	amod	_	_
-10	estadounidense	_	ADJ	JJ	Gender=Fem|Number=Sing	8	amod	_	Proper=True
+10	estadounidense	estadounidense	ADJ	JJ	Gender=Fem|Number=Sing	8	amod	_	Proper=True
 11	cansada	cansado	ADJ	JJ	Gender=Fem|Number=Sing	8	amod	_	_
 12	de	de	ADP	IN	_	14	case	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
@@ -5703,7 +5703,7 @@
 9	a	a	ADP	IN	_	11	case	_	_
 10	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 11	trabajadores	trabajador	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	_
-12	estadounidenses	_	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	Proper=True
+12	estadounidenses	estadounidense	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	Proper=True
 13	cuyos	cuyo	DET	DTP$	Gender=Masc|Number=Plur|Poss=Yes|PronType=Rel	14	det	_	_
 14	trabajos	trabajo	NOUN	NN	Gender=Masc|Number=Plur	20	obj	_	_
 15	y	y	CCONJ	CC	_	16	cc	_	_
@@ -6780,7 +6780,7 @@
 9	de	de	ADP	IN	_	11	case	_	_
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	frontera	frontera	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
-12	canadiense	_	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	SpaceAfter=No|Proper=True
+12	canadiense	canadiense	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	SpaceAfter=No|Proper=True
 13	.	.	PUNCT	.	_	3	punct	_	_
 
 # newdoc id = n01098
@@ -16540,7 +16540,7 @@
 10	Harbor	harbor	NOUN	NN	Number=Sing	9	flat:name	_	Proper=True
 11	como	como	ADP	IN	_	12	case	_	_
 12	propaganda	propaganda	NOUN	NN	Gender=Fem|Number=Sing	6	obl	_	_
-13	estadounidense	_	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	SpaceAfter=No|Proper=True
+13	estadounidense	estadounidense	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	SpaceAfter=No|Proper=True
 14	.	.	PUNCT	.	_	6	punct	_	_
 
 # newdoc id = w01083
@@ -20074,7 +20074,7 @@
 12	de	de	ADP	IN	_	13	case	_	_
 13	ciencia	ciencia	NOUN	NN	Gender=Fem|Number=Sing	11	nmod	_	_
 14	ficción	ficción	NOUN	NN	Gender=Fem|Number=Sing	13	nmod	_	_
-15	estadounidense	_	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	Proper=True
+15	estadounidense	estadounidense	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	Proper=True
 16	llamada	llamar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	11	acl	_	_
 17	Looper	Looper	PROPN	NNP	Number=Sing	16	xcomp	_	SpaceAfter=No
 18	,	,	PUNCT	,	_	19	punct	_	_
