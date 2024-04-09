@@ -26,7 +26,7 @@
 22	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
 23	habitual	habitual	ADJ	JJ	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 24	,	,	PUNCT	,	_	25	punct	_	_
-25	escribió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	parataxis	_	_
+25	escribió	escribir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	parataxis	_	_
 26	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
 27	lunes	lunes	NOUN	NN	Gender=Masc|Number=Sing	25	obl:tmod	_	_
 28	en	en	ADP	IN	_	30	case	_	_
@@ -1288,7 +1288,7 @@
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	mayoría	mayoría	NOUN	NN	Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
 15	,	,	PUNCT	,	_	16	punct	_	_
-16	escribió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	parataxis	_	_
+16	escribió	escribir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	parataxis	_	_
 17	Jesse	Jesse	PROPN	NNP	Gender=Masc|Number=Sing	16	nsubj	_	_
 18	LaBrocca	LaBrocca	PROPN	NNP	Gender=Masc|Number=Sing	17	flat:name	_	SpaceAfter=No
 19	,	,	PUNCT	,	_	20	punct	_	_
@@ -18630,7 +18630,7 @@
 7	de	de	ADP	IN	_	8	case	_	Proper=True
 8	Edimburgo	Edimburgo	PROPN	NNP	Number=Sing	6	nmod	_	_
 9	donde	donde	ADV	WRB	PronType=Rel	10	advmod	_	_
-10	escribió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	acl:relcl	_	_
+10	escribió	escribir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	acl:relcl	_	_
 11	críticas	crítica	NOUN	NN	Gender=Fem|Number=Plur	10	obj	_	_
 12	teatrales	teatral	ADJ	JJ	Gender=Fem|Number=Plur	11	amod	_	_
 13	para	para	ADP	IN	_	15	case	_	_
@@ -26523,7 +26523,7 @@
 17	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	artista	artista	NOUN	NN	Gender=Masc|Number=Sing	20	nsubj	_	_
 19	belga	belga	ADJ	JJ	Gender=Masc|Number=Sing	18	amod	_	Proper=True
-20	escribió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+20	escribió	escribir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 21	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	carta	carta	NOUN	NN	Gender=Fem|Number=Sing	20	obj	_	_
 23	a	a	ADP	IN	_	24	case	_	_
