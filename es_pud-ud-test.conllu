@@ -2459,7 +2459,7 @@
 # text_en = Trudeau will extend that invitation to the 45th president of the United States, whoever he or she may be.
 1	Trudeau	Trudeau	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
 2	extenderá	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
-3	esa	_	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+3	esa	ese	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
 4	invitación	invitación	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 5-6	al	_	_	_	_	_	_	_	_
 5	a	a	ADP	INDT	_	8	case	_	_
@@ -2984,7 +2984,7 @@
 2	médicos	_	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
 3	no	no	ADV	RB	Polarity=Neg	4	advmod	_	_
 4	tienen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	esas	_	DET	DT	Gender=Fem|Number=Plur|PronType=Dem	6	det	_	_
+5	esas	ese	DET	DT	Gender=Fem|Number=Plur|PronType=Dem	6	det	_	_
 6	herramientas	_	NOUN	NN	Gender=Fem|Number=Plur	4	obj	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	9	punct	_	_
 8	solo	solo	ADV	RB	_	9	advmod	_	_
@@ -3854,7 +3854,7 @@
 7	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 8	uno	uno	NOUN	NN	Gender=Masc|Number=Sing	4	conj	_	_
 9	de	de	ADP	IN	_	11	case	_	_
-10	esos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	11	det	_	_
+10	esos	ese	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	11	det	_	_
 11	jóvenes	_	NOUN	NN	Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	13	punct	_	_
 13	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
@@ -4256,7 +4256,7 @@
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl:pass	_	_
 9	debían	deber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
 10	considerar	considerar	VERB	VB	VerbForm=Inf	4	xcomp	_	_
-11	esos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	12	det	_	_
+11	esos	ese	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	12	det	_	_
 12	datos	_	NOUN	NN	Gender=Masc|Number=Plur	10	nsubj:pass	_	_
 13	como	como	ADP	IN	_	14	case	_	_
 14	prueba	prueba	NOUN	NN	Gender=Fem|Number=Sing	10	obl	_	_
@@ -4299,7 +4299,7 @@
 21	desarrollos	_	NOUN	NN	Gender=Masc|Number=Plur	26	nsubj	_	_
 22	institucionales	_	ADJ	JJ	Gender=Masc|Number=Plur	21	amod	_	_
 23	de	de	ADP	IN	_	25	case	_	_
-24	esos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	25	det	_	_
+24	esos	ese	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	25	det	_	_
 25	mandatos	_	NOUN	NN	Gender=Masc|Number=Plur	21	nmod	_	_
 26	tuvieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
 27	efectos	_	NOUN	NN	Gender=Masc|Number=Plur	26	obj	_	_
@@ -5825,7 +5825,7 @@
 # sent_id = n01084045
 # text = Esa tasa del 3% también se aplica a los titulares de una tarjeta Nectar que quieran tomar prestadas entre 15.001 y 19.999 libras durante un periodo de entre dos y tres años.
 # text_en = That 3% rate also applies to Nectar cardholders looking to borrow from £15,001-£19,999 over a period of between two and three years.
-1	Esa	_	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+1	Esa	ese	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
 2	tasa	tasa	NOUN	NN	Gender=Fem|Number=Sing	9	nsubj:pass	_	_
 3-4	del	_	_	_	_	_	_	_	_
 3	de	de	ADP	INDT	_	6	case	_	_
@@ -6561,7 +6561,7 @@
 10	pero	pero	CCONJ	CC	_	15	cc	_	_
 11	muchos	mucho	NOUN	NN	Gender=Masc|Number=Plur	15	nsubj	_	_
 12	de	de	ADP	IN	_	14	case	_	_
-13	esos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	14	det	_	_
+13	esos	ese	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	14	det	_	_
 14	mercados	_	NOUN	NN	Gender=Masc|Number=Plur	11	nmod	_	_
 15	son	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
 16	de	de	ADP	IN	_	18	case	_	_
@@ -7998,7 +7998,7 @@
 8	?	?	PUNCT	.	_	4	punct	_	_
 9	¿	¿	PUNCT	.	_	12	punct	_	SpaceAfter=No
 10	O	o	CCONJ	CC	_	12	cc	_	_
-11	esa	_	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	12	det	_	_
+11	esa	ese	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	12	det	_	_
 12	voz	voz	NOUN	NN	Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	16	punct	_	_
 14	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	16	nsubj	_	_
@@ -8800,7 +8800,7 @@
 2	cantidad	cantidad	NOUN	NN	Gender=Fem|Number=Sing	13	nsubj	_	_
 3	suficiente	_	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	_
 4	de	de	ADP	IN	_	5	case	_	_
-5	esos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	2	nmod	_	SpaceAfter=No
+5	esos	ese	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	2	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	2	punct	_	_
 7	en	en	ADP	IN	_	9	case	_	_
 8	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
@@ -11540,7 +11540,7 @@
 15	muy	muy	ADV	RB	_	16	advmod	_	_
 16	influenciadas	influenciar	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	conj	_	_
 17	por	por	ADP	IN	_	19	case	_	_
-18	esa	_	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	19	det	_	_
+18	esa	ese	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	19	det	_	_
 19	proximidad	proximidad	NOUN	NN	Gender=Fem|Number=Sing	16	obl:agent	_	_
 20-21	al	_	_	_	_	_	_	_	_
 20	a	a	ADP	INDT	_	22	case	_	_
@@ -12608,7 +12608,7 @@
 # sent_id = w01033067
 # text = Esos arreglos probablemente comenzaron en el 1000 a. C. cuando los melanesios del este viajaron al norte.
 # text_en = Such settlements probably began around 1000 BC, when eastern Melanesians travelled north.
-1	Esos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	2	det	_	_
+1	Esos	ese	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	2	det	_	_
 2	arreglos	_	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
 3	probablemente	probablemente	ADV	RB	_	4	advmod	_	_
 4	comenzaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -12859,7 +12859,7 @@
 # sent_id = w01036077
 # text = Esas familias de plantas aún están presentes en Papúa Nueva Guinea.
 # text_en = These plant families are still present in Papua New Guinea.
-1	Esas	_	DET	DT	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
+1	Esas	ese	DET	DT	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
 2	familias	_	NOUN	NN	Gender=Fem|Number=Plur	7	nsubj	_	_
 3	de	de	ADP	IN	_	4	case	_	_
 4	plantas	_	NOUN	NN	Gender=Fem|Number=Plur	2	nmod	_	_
@@ -14947,7 +14947,7 @@
 2	propósito	propósito	NOUN	NN	Gender=Masc|Number=Sing	9	nsubj:pass	_	_
 3	exacto	exacto	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	_
 4	de	de	ADP	IN	_	6	case	_	_
-5	esos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	6	det	_	_
+5	esos	ese	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	6	det	_	_
 6	megalitos	megalito	NOUN	NN	Gender=Masc|Number=Plur	2	nmod	_	_
 7	aún	aún	ADV	RB	_	9	advmod	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pass	_	_
@@ -16914,7 +16914,7 @@
 # text = En esa época solo había alrededor de cuarenta familias viviendo ahí con suficientes buenas tierras para pastoreo de ganado y cultivo.
 # text_en = At this time there were only around forty families living there with plenty of good farming land and grazing for cattle.
 1	En	en	ADP	IN	_	3	case	_	_
-2	esa	_	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
+2	esa	ese	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
 3	época	época	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
 4	solo	solo	ADV	RB	_	5	advmod	_	_
 5	había	haber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -20448,7 +20448,7 @@
 11	,	,	PUNCT	,	_	3	punct	_	_
 12	volvió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	con	con	ADP	IN	_	15	case	_	_
-14	esos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	15	det	_	_
+14	esos	ese	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	15	det	_	_
 15	conocimientos	_	NOUN	NN	Gender=Masc|Number=Plur	12	obl	_	_
 16-17	al	_	_	_	_	_	_	_	_
 16	a	a	ADP	INDT	_	18	case	_	_
@@ -26404,7 +26404,7 @@
 7	Bernard	Bernard	PROPN	NNP	Gender=Masc|Number=Sing	5	nmod	_	_
 8	Tapie	Tapie	PROPN	NNP	Gender=Masc|Number=Sing	7	flat:name	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	1	punct	_	_
-10	esas	_	DET	DT	Gender=Fem|Number=Plur|PronType=Dem	11	det	_	_
+10	esas	ese	DET	DT	Gender=Fem|Number=Plur|PronType=Dem	11	det	_	_
 11	escuelas	_	NOUN	NN	Gender=Fem|Number=Plur	13	nsubj:pass	_	_
 12	fueron	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	aux:pass	_	_
 13	cerradas	cerrar	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
@@ -26956,7 +26956,7 @@
 9	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	contienda	contienda	NOUN	NN	Gender=Fem|Number=Sing	8	obj	_	_
 11	por	por	ADP	IN	_	13	case	_	_
-12	esas	_	DET	DT	Gender=Fem|Number=Plur|PronType=Dem	13	det	_	_
+12	esas	ese	DET	DT	Gender=Fem|Number=Plur|PronType=Dem	13	det	_	_
 13	fechas	_	NOUN	NN	Gender=Fem|Number=Plur	8	obl	_	_
 14	para	para	ADP	IN	_	15	case	_	_
 15-16	centrarse	_	_	_	_	_	_	_	_
@@ -27575,7 +27575,7 @@
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	tramo	tramo	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 4	entre	entre	ADP	IN	_	7	case	_	_
-5	esa	_	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
+5	esa	ese	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
 6	segunda	_	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	_
 7	línea	línea	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	_
 8	hasta	hasta	ADP	IN	_	10	case	_	_
@@ -28023,7 +28023,7 @@
 12	,	,	PUNCT	,	_	19	punct	_	_
 13	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	19	nsubj	_	_
 14	en	en	ADP	IN	_	16	case	_	_
-15	esos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	16	det	_	_
+15	esos	ese	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	16	det	_	_
 16	momentos	_	NOUN	NN	Gender=Masc|Number=Plur	19	obl	_	_
 17	ya	ya	ADV	RB	_	19	advmod	_	_
 18	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	aux	_	_
