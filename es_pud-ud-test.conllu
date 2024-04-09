@@ -2047,7 +2047,7 @@
 22	país	país	NOUN	NN	Gender=Masc|Number=Sing	19	nmod	_	_
 23	en	en	ADP	IN	_	26	case	_	_
 24	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
-25	últimos	_	ADJ	JJ	Gender=Masc|Number=Plur	26	amod	_	_
+25	últimos	último	ADJ	JJ	Gender=Masc|Number=Plur	26	amod	_	_
 26	años	año	NOUN	NN	Gender=Masc|Number=Plur	17	obl	_	_
 27	y	y	CCONJ	CC	_	28	cc	_	_
 28	visitó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	conj	_	_
@@ -2133,7 +2133,7 @@
 5	Cuarón	Cuarón	PROPN	NNP	Gender=Masc|Number=Sing	20	nsubj	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	9	punct	_	_
 7	cuya	cuyo	DET	DTP$	Gender=Fem|Number=Sing|Poss=Yes|PronType=Rel	9	det	_	_
-8	última	_	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	_
+8	última	último	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	_
 9	película	película	NOUN	NN	Gender=Fem|Number=Sing	5	appos	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	11	punct	_	_
 11	Gravity	Gravity	PROPN	NNP	Number=Sing	9	appos	_	SpaceAfter=No
@@ -3169,7 +3169,7 @@
 22	,	,	PUNCT	,	_	30	punct	_	_
 23	pero	pero	CCONJ	CC	_	30	cc	_	_
 24	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
-25	última	_	ADJ	JJ	Gender=Fem|Number=Sing	26	amod	_	_
+25	última	último	ADJ	JJ	Gender=Fem|Number=Sing	26	amod	_	_
 26	publicación	publicación	NOUN	NN	Gender=Fem|Number=Sing	30	nsubj	_	_
 27	en	en	ADP	IN	_	29	case	_	_
 28	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
@@ -3279,7 +3279,7 @@
 5	revelación	revelación	NOUN	NN	Gender=Fem|Number=Sing	2	obl	_	_
 6	durante	durante	ADP	IN	_	10	case	_	_
 7	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
-8	últimos	_	ADJ	JJ	Gender=Masc|Number=Plur	10	amod	_	_
+8	últimos	último	ADJ	JJ	Gender=Masc|Number=Plur	10	amod	_	_
 9	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	10	nummod	_	_
 10	días	_	NOUN	NN	Gender=Masc|Number=Plur	5	nmod	_	_
 11	de	de	ADP	IN	_	23	case	_	_
@@ -4648,7 +4648,7 @@
 8	he	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	aux	_	_
 9	pasado	pasar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 10	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
-11	últimos	_	ADJ	JJ	Gender=Masc|Number=Plur	12	amod	_	_
+11	últimos	último	ADJ	JJ	Gender=Masc|Number=Plur	12	amod	_	_
 12	meses	_	NOUN	NN	Gender=Masc|Number=Plur	9	obj	_	_
 13	en	en	ADP	IN	_	14	case	_	_
 14	vela	vela	NOUN	NN	Gender=Fem|Number=Sing	9	obl	_	_
@@ -9594,7 +9594,7 @@
 # text_en = But its latest effort into the workplace chat game is a part of a larger trend from tech companies.
 1	Pero	pero	CCONJ	CC	_	13	discourse	_	_
 2	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
-3	última	_	ADJ	JJ	Gender=Fem|Number=Sing	4	amod	_	_
+3	última	último	ADJ	JJ	Gender=Fem|Number=Sing	4	amod	_	_
 4	iniciativa	iniciativa	NOUN	NN	Gender=Fem|Number=Sing	13	nsubj	_	_
 5	para	para	ADP	IN	_	6	case	_	_
 6	chats	_	NOUN	NN	Gender=Masc|Number=Plur	4	nmod	_	_
@@ -12755,7 +12755,7 @@
 # text_en = Over the past 50 years, the destruction of habitat surrounding agricultural land has degraded approximately 40% of agricultural land worldwide via erosion, salinization, compaction, nutrient depletion, pollution, and urbanization.
 1	Durante	durante	ADP	IN	_	5	case	_	_
 2	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
-3	últimos	_	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
+3	últimos	último	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
 4	50	50	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	nummod	_	_
 5	años	año	NOUN	NN	Gender=Masc|Number=Plur	18	obl	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	_	_
@@ -13773,7 +13773,7 @@
 31	para	para	ADP	IN	_	32	case	_	_
 32	obtener	obtener	VERB	VB	VerbForm=Inf	24	xcomp	_	_
 33	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	35	det	_	_
-34	últimas	_	ADJ	JJ	Gender=Fem|Number=Plur	35	amod	_	_
+34	últimas	último	ADJ	JJ	Gender=Fem|Number=Plur	35	amod	_	_
 35	sugerencias	_	NOUN	NN	Gender=Fem|Number=Plur	32	obj	_	SpaceAfter=No
 36	.	.	PUNCT	.	_	11	punct	_	_
 
@@ -14338,7 +14338,7 @@
 # text = La última fecha solo podía caer en viernes si se añadía un mes bisiesto ese año, pero esto fue lo recomendado por Newton.
 # text_en = The latter date can only have fallen on a Friday if an exceptional leap month had been introduced that year, but this was favoured by Newton.
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-2	última	_	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	_
+2	última	último	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	_
 3	fecha	fecha	NOUN	NN	Gender=Fem|Number=Sing	6	nsubj	_	_
 4	solo	solo	ADV	RB	_	6	advmod	_	_
 5	podía	poder	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
@@ -14559,7 +14559,7 @@
 # text = Los últimos Juegos Olímpicos se cree que tuvieron lugar en el 393.
 # text_en = The last Olympic Games are believed to have been held in 393.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
-2	últimos	_	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	_
+2	últimos	último	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	_
 3	Juegos	_	NOUN	NN	Gender=Masc|Number=Plur	8	nsubj	_	_
 4	Olímpicos	_	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl:pass	_	_
@@ -19607,7 +19607,7 @@
 1	Estos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	6	nsubj	_	_
 2	fueron	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
 3	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
-4	últimos	_	ADJ	JJ	Gender=Masc|Number=Plur	6	amod	_	_
+4	últimos	último	ADJ	JJ	Gender=Masc|Number=Plur	6	amod	_	_
 5	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	6	nummod	_	_
 6	discos	_	NOUN	NN	Gender=Masc|Number=Plur	0	root	_	_
 7	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	9	obj	_	_
@@ -19887,7 +19887,7 @@
 11	y	y	CCONJ	CC	_	21	cc	_	_
 12	en	en	ADP	IN	_	16	case	_	_
 13	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
-14	últimos	_	ADJ	JJ	Gender=Masc|Number=Plur	16	amod	_	_
+14	últimos	último	ADJ	JJ	Gender=Masc|Number=Plur	16	amod	_	_
 15	15	15	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	16	nummod	_	_
 16	años	año	NOUN	NN	Gender=Masc|Number=Plur	21	obl	_	_
 17	de	de	ADP	IN	_	19	case	_	_
@@ -19919,7 +19919,7 @@
 8	particular	particular	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	_
 9	en	en	ADP	IN	_	12	case	_	_
 10	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
-11	últimos	_	ADJ	JJ	Gender=Masc|Number=Plur	12	amod	_	_
+11	últimos	último	ADJ	JJ	Gender=Masc|Number=Plur	12	amod	_	_
 12	años	año	NOUN	NN	Gender=Masc|Number=Plur	2	obl	_	_
 13	de	de	ADP	IN	_	15	case	_	_
 14	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
@@ -22110,7 +22110,7 @@
 15	caliza	_	ADJ	JJ	Gender=Fem|Number=Sing	14	amod	_	_
 16	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	cop	_	_
 17	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
-18	última	_	ADJ	JJ	Gender=Fem|Number=Sing	19	amod	_	_
+18	última	último	ADJ	JJ	Gender=Fem|Number=Sing	19	amod	_	_
 19	morada	morada	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
 20	de	de	ADP	IN	_	21	case	_	_
 21	Jesús	Jesús	PROPN	NNP	Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
@@ -22769,7 +22769,7 @@
 6	relaciones	_	NOUN	NN	Gender=Fem|Number=Plur	20	nsubj	_	_
 7	de	de	ADP	IN	_	11	case	_	_
 8	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
-9	últimos	_	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	_
+9	últimos	último	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	_
 10	veinte	veinte	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	11	nummod	_	_
 11	años	año	NOUN	NN	Gender=Masc|Number=Plur	6	nmod	_	_
 12	de	de	ADP	IN	_	14	case	_	_
@@ -23196,7 +23196,7 @@
 3	está	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	en	en	ADP	IN	_	6	case	_	_
 5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
-6	últimas	_	NOUN	NN	Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
+6	últimas	último	NOUN	NN	Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
 7	"	"	PUNCT	''	_	3	punct	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	9	punct	_	_
 9	desveló	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
@@ -23570,7 +23570,7 @@
 # text = Las últimas cifras corresponden al 24 de octubre del año pasado y nos indican que nuestro diésel cuesta 1,335 euros por litro, en contraste con la media de la eurozona de 1,165 euros.
 # text_en = The latest figures relate to the 24th of October last year, and tell us that our diesel costs 1,335 euros per litre, compared with the eurozone average of 1,165 euros.
 1	Las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
-2	últimas	_	ADJ	JJ	Gender=Fem|Number=Plur	3	amod	_	_
+2	últimas	último	ADJ	JJ	Gender=Fem|Number=Plur	3	amod	_	_
 3	cifras	_	NOUN	NN	Gender=Fem|Number=Plur	4	nsubj	_	_
 4	corresponden	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5-6	al	_	_	_	_	_	_	_	_
@@ -24049,7 +24049,7 @@
 3	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	14	obl:agent	_	_
 4	en	en	ADP	IN	_	8	case	_	_
 5	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
-6	últimos	_	ADJ	JJ	Gender=Masc|Number=Plur	8	amod	_	_
+6	últimos	último	ADJ	JJ	Gender=Masc|Number=Plur	8	amod	_	_
 7	seis	seis	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	8	nummod	_	_
 8	años	año	NOUN	NN	Gender=Masc|Number=Plur	3	nmod	_	_
 9	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
@@ -25512,7 +25512,7 @@
 1	Uno	uno	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 2	de	de	ADP	IN	_	5	case	_	_
 3	sus	su	PRON	DTP$	Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
-4	últimos	_	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
+4	últimos	último	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
 5	modos	_	NOUN	NN	Gender=Masc|Number=Plur	1	nmod	_	_
 6	de	de	ADP	IN	_	7	case	_	_
 7	presionar	presionar	VERB	VB	VerbForm=Inf	5	xcomp	_	_
