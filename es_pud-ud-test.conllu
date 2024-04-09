@@ -1092,7 +1092,7 @@
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	gente	gente	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	_
 7	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	10	obl:arg	_	_
-8	resultaría	_	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
+8	resultaría	resultar	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
 9	más	más	ADV	RBR	Degree=Cmp	10	advmod	_	_
 10	útil	útil	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
 11	tener	tener	VERB	VB	VerbForm=Inf	10	csubj	_	_
@@ -2473,7 +2473,7 @@
 13	independientemente	independientemente	ADV	RB	_	8	advmod	_	_
 14	de	de	ADP	IN	_	17	case	_	_
 15	quien	quien	PRON	REL	Number=Sing|PronType=Rel	17	nsubj	_	_
-16	resulte	_	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+16	resulte	resultar	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
 17	elegido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	xcomp	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -2728,7 +2728,7 @@
 7	china	chino	ADJ	JJ	Gender=Fem|Number=Sing	5	amod	_	Proper=True
 8	no	no	ADV	RB	Polarity=Neg	11	advmod	_	_
 9	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl:pass	_	_
-10	suele	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+10	suele	soler	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
 11	quejar	quejar	VERB	VB	VerbForm=Inf	0	root	_	_
 12	verbalmente	verbalmente	ADV	RB	_	11	advmod	_	_
 13	sobre	sobre	ADP	IN	_	15	case	_	_
@@ -4104,7 +4104,7 @@
 # text = Todavía quedan preguntas sin responder.
 # text_en = Still, there are questions left unanswered.
 1	Todavía	todavía	ADV	RB	_	2	advmod	_	_
-2	quedan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	quedan	quedar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	preguntas	pregunta	NOUN	NN	Gender=Fem|Number=Plur	2	nsubj	_	_
 4	sin	sin	ADP	IN	_	5	case	_	_
 5	responder	responder	VERB	VB	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
@@ -5081,7 +5081,7 @@
 11	de	de	ADP	IN	_	12	case	_	_
 12	Delhi	Delhi	PROPN	NNP	Number=Sing	10	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	10	punct	_	_
-14	dejará	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	16	aux	_	_
+14	dejará	dejar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	16	aux	_	_
 15	de	de	ADP	IN	_	14	fixed	_	_
 16	funcionar	funcionar	VERB	VB	VerbForm=Inf	0	root	_	_
 17	durante	durante	ADP	IN	_	19	case	_	_
@@ -6235,7 +6235,7 @@
 16	,	,	PUNCT	,	_	21	punct	_	_
 17	ya	ya	ADV	RB	_	21	mark	_	_
 18	que	que	ADP	IN	_	17	fixed	_	_
-19	resulta	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
+19	resulta	resultar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
 20	muy	muy	ADV	RB	_	21	advmod	_	_
 21	interesante	interesante	ADJ	JJ	Gender=Masc|Number=Sing	2	advcl	_	_
 22	hacer	hacer	VERB	VB	VerbForm=Inf	21	csubj	_	_
@@ -9222,7 +9222,7 @@
 # text = Como queda claro en la película, los Loving, y en particular Richard, fueron participantes reacios de la historia.
 # text_en = As the movie makes clear, the Lovings -- and Richard in particular -- were reluctant participants in history.
 1	Como	como	SCONJ	IN	_	3	mark	_	_
-2	queda	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	queda	quedar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	claro	claro	ADJ	JJ	Gender=Masc|Number=Sing	17	advcl	_	_
 4	en	en	ADP	IN	_	6	case	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
@@ -12808,7 +12808,7 @@
 2	seres	ser	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj	_	_
 3	humanos	humano	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	_
 4	también	también	ADV	RB	_	7	advmod	_	_
-5	dejan	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+5	dejan	dejar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 6	de	de	ADP	IN	_	5	fixed	_	_
 7-8	beneficiarse	_	_	_	_	_	_	_	_
 7	beneficiar	beneficiar	VERB	VB	VerbForm=Inf	0	root	_	_
@@ -12935,7 +12935,7 @@
 6	debido	deber	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	mark	_	_
 7	a	a	ADP	IN	_	6	fixed	_	_
 8	que	que	ADP	IN	_	6	fixed	_	_
-9	solían	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
+9	solían	soler	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
 10-11	ubicarse	_	_	_	_	_	_	_	_
 10	ubicar	ubicar	VERB	VB	VerbForm=Inf	5	advcl	_	_
 11	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	compound:prt	_	_
@@ -13193,7 +13193,7 @@
 10	de	de	ADP	INDT	_	12	case	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	suelo	suelo	NOUN	NN	Gender=Masc|Number=Sing	9	nmod	_	_
-13	quedan	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+13	quedan	quedar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
 14	expuestas	_	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 15	y	y	CCONJ	CC	_	18	cc	_	_
 16	comienzan	comenzar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
@@ -19169,7 +19169,7 @@
 22	era	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	cop	_	_
 23	válida	válido	ADJ	JJ	Gender=Fem|Number=Sing	17	ccomp	_	_
 24	y	y	CCONJ	CC	_	26	cc	_	_
-25	declarase	_	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	26	cop	_	_
+25	declarase	declarar	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	26	cop	_	_
 26	vencedor	vencedor	NOUN	NN	Gender=Masc|Number=Sing	17	conj	_	_
 27-28	al	_	_	_	_	_	_	_	_
 27	a	a	ADP	INDT	_	29	case	_	_
@@ -20283,7 +20283,7 @@
 15	o	o	CCONJ	CC	_	16	cc	_	_
 16	discotecas	discoteca	NOUN	NN	Gender=Fem|Number=Plur	14	conj	_	SpaceAfter=No
 17	,	,	PUNCT	,	_	9	punct	_	_
-18	dejaban	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	21	cop	_	_
+18	dejaban	dejar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	21	cop	_	_
 19	a	a	ADP	IN	_	20	case	_	_
 20	Marcelle	Marcelle	PROPN	NNP	Gender=Fem|Number=Sing	21	obl	_	_
 21	sola	solo	ADJ	JJ	Gender=Fem|Number=Sing	0	root	_	_
@@ -22780,7 +22780,7 @@
 17	con	con	ADP	IN	_	19	case	_	_
 18	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	continente	continente	NOUN	NN	Gender=Masc|Number=Sing	6	nmod	_	_
-20	dejan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+20	dejan	dejar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 21	mucho	mucho	NOUN	NN	Gender=Masc|Number=Sing	20	obj	_	_
 22	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	23	obj	_	_
 23	desear	desear	VERB	VB	VerbForm=Inf	21	acl:relcl	_	SpaceAfter=No
@@ -25378,7 +25378,7 @@
 # sent_id = w02011029
 # text = Declaro cerrados los primeros Juegos Olímpicos internacionales.
 # text_en = I declare the first international Olympic games over.
-1	Declaro	_	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
+1	Declaro	declarar	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
 2	cerrados	cerrado	ADJ	JJ	Gender=Masc|Number=Plur	0	root	_	_
 3	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 4	primeros	primero	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
