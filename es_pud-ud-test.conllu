@@ -6872,7 +6872,7 @@
 10	(	(	PUNCT	(	_	13	punct	_	SpaceAfter=No
 11	de	de	ADP	IN	_	13	case	_	_
 12	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
-13	6.30	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	6	nmod	_	_
+13	6.30	6:30	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	6	nmod	_	_
 14	a	a	ADP	IN	_	16	case	_	_
 15	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
 16	10	10	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	13	nmod	_	_
@@ -22733,7 +22733,7 @@
 8	hablará	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 9	a	a	ADP	IN	_	11	case	_	_
 10	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
-11	23:45	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	8	obl	_	_
+11	23:45	23:45	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	8	obl	_	_
 12	p.m.	p.m.	ADV	RB	_	11	advmod	_	_
 
 # newdoc id = n03002
