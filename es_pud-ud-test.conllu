@@ -3563,7 +3563,7 @@
 37	,	,	PUNCT	,	_	40	punct	_	_
 38	donde	donde	ADV	WRB	PronType=Rel	40	advmod	_	_
 39	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	40	expl:pass	_	_
-40	vende	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	acl:relcl	_	_
+40	vende	vender	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	acl:relcl	_	_
 41	hierba	hierba	NOUN	NN	Gender=Fem|Number=Sing	40	nsubj:pass	_	_
 42	legalmente	legalmente	ADV	RB	_	40	advmod	_	SpaceAfter=No
 43	.	.	PUNCT	.	_	3	punct	_	_
@@ -9798,7 +9798,7 @@
 20	quería	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	12	ccomp	_	_
 21	que	que	SCONJ	IN	_	23	mark	_	_
 22	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	23	obj	_	_
-23	vendiesen	_	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	20	ccomp	_	SpaceAfter=No
+23	vendiesen	vender	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	20	ccomp	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = n01144038
@@ -26834,7 +26834,7 @@
 14	de	de	ADP	IN	_	17	case	_	_
 15	que	que	SCONJ	IN	_	17	mark	_	_
 16	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	expl:pass	_	_
-17	venda	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	xcomp	_	_
+17	venda	vender	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	xcomp	_	_
 18	principalmente	principalmente	ADV	RB	_	17	advmod	_	_
 19	a	a	ADP	IN	_	20	case	_	_
 20	coleccionistas	coleccionista	NOUN	NN	Number=Plur	17	obl	_	SpaceAfter=No
