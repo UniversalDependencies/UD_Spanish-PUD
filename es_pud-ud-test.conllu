@@ -2048,7 +2048,7 @@
 23	en	en	ADP	IN	_	26	case	_	_
 24	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
 25	últimos	_	ADJ	JJ	Gender=Masc|Number=Plur	26	amod	_	_
-26	años	_	NOUN	NN	Gender=Masc|Number=Plur	17	obl	_	_
+26	años	año	NOUN	NN	Gender=Masc|Number=Plur	17	obl	_	_
 27	y	y	CCONJ	CC	_	28	cc	_	_
 28	visitó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	conj	_	_
 29	Kamchatka	Kamchatka	PROPN	NNP	Number=Sing	28	obj	_	_
@@ -2214,7 +2214,7 @@
 7	masculinos	_	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
 8	unos	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
 9	20	20	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	nummod	_	_
-10	años	_	NOUN	NN	Gender=Masc|Number=Plur	3	obl:tmod	_	SpaceAfter=No
+10	años	año	NOUN	NN	Gender=Masc|Number=Plur	3	obl:tmod	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = n01031021
@@ -3184,7 +3184,7 @@
 37	de	de	SCONJ	IN	_	38	mark	_	_
 38	hace	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	xcomp	_	_
 39	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	40	nummod	_	_
-40	años	_	NOUN	NN	Gender=Masc|Number=Plur	38	obl:tmod	_	SpaceAfter=No
+40	años	año	NOUN	NN	Gender=Masc|Number=Plur	38	obl:tmod	_	SpaceAfter=No
 41	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = n01043027
@@ -3808,7 +3808,7 @@
 # text_en = She was 84 years old.
 1	Tenía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 2	84	84	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	nummod	_	_
-3	años	_	NOUN	NN	Gender=Masc|Number=Plur	1	obj	_	SpaceAfter=No
+3	años	año	NOUN	NN	Gender=Masc|Number=Plur	1	obj	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = n01052006
@@ -3873,7 +3873,7 @@
 2	tan	tan	ADV	RB	_	3	advmod	_	_
 3	solo	solo	ADV	RB	_	5	advmod	_	_
 4	20	20	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	nummod	_	_
-5	años	_	NOUN	NN	Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
+5	años	año	NOUN	NN	Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	_	_
 7	lucha	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	contra	contra	ADP	IN	_	10	case	_	_
@@ -5104,7 +5104,7 @@
 2	,	,	PUNCT	,	_	1	punct	_	_
 3	pasó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	cuatro	cuatro	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	5	nummod	_	_
-5	años	_	NOUN	NN	Gender=Masc|Number=Plur	3	obl:tmod	_	_
+5	años	año	NOUN	NN	Gender=Masc|Number=Plur	3	obl:tmod	_	_
 6	en	en	ADP	IN	_	8	case	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	radio	radio	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	_
@@ -5859,7 +5859,7 @@
 31	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	34	nummod	_	_
 32	y	y	CCONJ	CC	_	33	cc	_	_
 33	tres	tres	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	31	conj	_	_
-34	años	_	NOUN	NN	Gender=Masc|Number=Plur	28	nmod	_	SpaceAfter=No
+34	años	año	NOUN	NN	Gender=Masc|Number=Plur	28	nmod	_	SpaceAfter=No
 35	.	.	PUNCT	.	_	9	punct	_	_
 
 # newdoc id = n01085
@@ -6210,7 +6210,7 @@
 23	parecían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	21	acl:relcl	_	_
 24	de	de	ADP	IN	_	26	case	_	_
 25	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
-26	años	_	NOUN	NN	Gender=Masc|Number=Plur	23	obl	_	_
+26	años	año	NOUN	NN	Gender=Masc|Number=Plur	23	obl	_	_
 27	70	70	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	26	appos	_	SpaceAfter=No
 28	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -7261,7 +7261,7 @@
 12	estado	estar	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	aux	_	_
 13	sucediendo	sucedir	VERB	VBG	VerbForm=Ger	5	acl:relcl	_	_
 14	durante	durante	ADP	IN	_	15	case	_	_
-15	años	_	NOUN	NN	Gender=Masc|Number=Plur	13	obl	_	SpaceAfter=No
+15	años	año	NOUN	NN	Gender=Masc|Number=Plur	13	obl	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	13	punct	_	_
 17	hicieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 18	decrecer	decrecer	VERB	VB	VerbForm=Inf	17	xcomp	_	_
@@ -7961,7 +7961,7 @@
 5	mediados	_	NOUN	NN	Gender=Masc|Number=Plur	1	obl	_	_
 6	de	de	ADP	IN	_	8	case	_	_
 7	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
-8	años	_	NOUN	NN	Gender=Masc|Number=Plur	5	nmod	_	_
+8	años	año	NOUN	NN	Gender=Masc|Number=Plur	5	nmod	_	_
 9	60	60	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	8	appos	_	_
 10	representando	representar	VERB	VBG	VerbForm=Ger	1	advcl	_	_
 11	a	a	ADP	IN	_	13	case	_	_
@@ -8542,7 +8542,7 @@
 # text = Dos años más tarde, Jutting, que ahora tiene 31 años, está siendo juzgado en el Tribunal Supremo de Hong Kong, acusado de dos cargos de asesinato y uno de impedir un enterramiento legítimo.
 # text_en = Two years later, Jutting, now 31, is on trial at Hong Kong's High Court, charged with two counts of murder and one of preventing lawful burial.
 1	Dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	2	nummod	_	_
-2	años	_	NOUN	NN	Gender=Masc|Number=Plur	4	obl:tmod	_	_
+2	años	año	NOUN	NN	Gender=Masc|Number=Plur	4	obl:tmod	_	_
 3	más	más	ADV	RBR	Degree=Cmp	4	advmod	_	_
 4	tarde	tarde	ADV	RB	_	16	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	_	_
@@ -8552,7 +8552,7 @@
 9	ahora	ahora	ADV	RB	_	10	advmod	_	_
 10	tiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
 11	31	31	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	12	nummod	_	_
-12	años	_	NOUN	NN	Gender=Masc|Number=Plur	10	obj	_	SpaceAfter=No
+12	años	año	NOUN	NN	Gender=Masc|Number=Plur	10	obj	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	10	punct	_	_
 14	está	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
 15	siendo	ser	AUX	VBG	VerbForm=Ger	16	aux:pass	_	_
@@ -8605,7 +8605,7 @@
 7	Kong	Kong	PROPN	NNP	Number=Sing	6	flat:name	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	3	punct	_	_
 9	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	10	nummod	_	_
-10	años	_	NOUN	NN	Gender=Masc|Number=Plur	12	obl:tmod	_	_
+10	años	año	NOUN	NN	Gender=Masc|Number=Plur	12	obl:tmod	_	_
 11	más	más	ADV	RBR	Degree=Cmp	12	advmod	_	_
 12	tarde	tarde	ADV	RB	_	17	advmod	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	12	punct	_	_
@@ -10818,7 +10818,7 @@
 15	meterológica	_	ADJ	JJ	Gender=Fem|Number=Sing	14	amod	_	_
 16	durante	durante	ADP	IN	_	18	case	_	_
 17	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
-18	años	_	NOUN	NN	Gender=Masc|Number=Plur	10	obl	_	_
+18	años	año	NOUN	NN	Gender=Masc|Number=Plur	10	obl	_	_
 19	cincuenta	cincuenta	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	18	appos	_	SpaceAfter=No
 20	,	,	PUNCT	,	_	10	punct	_	_
 21	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
@@ -11439,7 +11439,7 @@
 26	5	5	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	29	nummod	_	_
 27	y	y	CCONJ	CC	_	28	cc	_	_
 28	14	14	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	26	conj	_	_
-29	años	_	NOUN	NN	Gender=Masc|Number=Plur	24	nmod	_	_
+29	años	año	NOUN	NN	Gender=Masc|Number=Plur	24	nmod	_	_
 30	estaban	estar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	31	aux	_	_
 31	trabajando	trabajar	VERB	VBG	VerbForm=Ger	15	ccomp	_	_
 32	y	y	CCONJ	CC	_	48	cc	_	_
@@ -11457,7 +11457,7 @@
 44	7	7	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	47	nummod	_	_
 45	y	y	CCONJ	CC	_	46	cc	_	_
 46	14	14	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	44	conj	_	_
-47	años	_	NOUN	NN	Gender=Masc|Number=Plur	42	nmod	_	_
+47	años	año	NOUN	NN	Gender=Masc|Number=Plur	42	nmod	_	_
 48	compaginaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	31	conj	_	_
 49	trabajar	trabajar	VERB	VB	VerbForm=Inf	48	xcomp	_	_
 50	con	con	ADP	IN	_	51	case	_	_
@@ -11587,7 +11587,7 @@
 33	través	través	NOUN	NN	Gender=Masc|Number=Sing	32	fixed	_	_
 34	de	de	ADP	IN	_	32	fixed	_	_
 35	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	36	det	_	_
-36	años	_	NOUN	NN	Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
+36	años	año	NOUN	NN	Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
 37	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = w01020018
@@ -12637,7 +12637,7 @@
 # text_en = During the family's years in Kentucky and Indiana, Thomas Lincoln worked as a farmer, cabinetmaker, and carpenter.
 1	Durante	durante	ADP	IN	_	3	case	_	_
 2	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
-3	años	_	NOUN	NN	Gender=Masc|Number=Plur	13	obl	_	_
+3	años	año	NOUN	NN	Gender=Masc|Number=Plur	13	obl	_	_
 4	en	en	ADP	IN	_	5	case	_	_
 5	familia	familia	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	_
 6	en	en	ADP	IN	_	7	case	_	_
@@ -12757,7 +12757,7 @@
 2	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 3	últimos	_	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
 4	50	50	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	nummod	_	_
-5	años	_	NOUN	NN	Gender=Masc|Number=Plur	18	obl	_	SpaceAfter=No
+5	años	año	NOUN	NN	Gender=Masc|Number=Plur	18	obl	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	destrucción	destrucción	NOUN	NN	Gender=Fem|Number=Sing	18	nsubj	_	_
@@ -13024,7 +13024,7 @@
 6	durante	durante	ADP	IN	_	7	case	_	_
 7	miles	_	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
 8	de	de	ADP	IN	_	9	case	_	_
-9	años	_	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	_
+9	años	año	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	_
 10	antes	antes	ADV	RB	_	4	advmod	_	_
 11	de	de	ADP	IN	_	13	case	_	_
 12	que	que	SCONJ	IN	_	13	mark	_	_
@@ -13816,7 +13816,7 @@
 # text_en = In the 1350s, King Gongmin was free at last to reform the Goryeo government when the Yuan dynasty began to crumble.
 1	En	en	ADP	IN	_	3	case	_	_
 2	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
-3	años	_	NOUN	NN	Gender=Masc|Number=Plur	11	obl	_	_
+3	años	año	NOUN	NN	Gender=Masc|Number=Plur	11	obl	_	_
 4	de	de	ADP	IN	_	5	case	_	_
 5	1350	1350	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	3	punct	_	_
@@ -13845,7 +13845,7 @@
 # text_en = Since the 1960s, the South Korean economy has grown enormously and the economic structure was radically transformed.
 1	Desde	desde	ADP	IN	_	3	case	_	_
 2	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
-3	años	_	NOUN	NN	Gender=Masc|Number=Plur	15	obl	_	_
+3	años	año	NOUN	NN	Gender=Masc|Number=Plur	15	obl	_	_
 4	de	de	ADP	IN	_	5	case	_	_
 5	1960	1960	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	3	punct	_	_
@@ -14222,7 +14222,7 @@
 37	,	,	PUNCT	,	_	41	punct	_	_
 38	casi	casi	ADV	RB	_	41	advmod	_	_
 39	120	120	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	40	nummod	_	_
-40	años	_	NOUN	NN	Gender=Masc|Number=Plur	41	obl:tmod	_	_
+40	años	año	NOUN	NN	Gender=Masc|Number=Plur	41	obl:tmod	_	_
 41	antes	antes	ADV	RB	_	30	advmod	_	SpaceAfter=No
 42	.	.	PUNCT	.	_	9	punct	_	_
 
@@ -14327,7 +14327,7 @@
 12	,	,	PUNCT	,	_	16	punct	_	_
 13	aproximadamente	aproximadamente	ADV	RB	_	16	advmod	_	_
 14	diecisiete	diecisiete	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	15	nummod	_	_
-15	años	_	NOUN	NN	Gender=Masc|Number=Plur	16	obl:tmod	_	_
+15	años	año	NOUN	NN	Gender=Masc|Number=Plur	16	obl:tmod	_	_
 16	después	después	ADV	RB	_	7	advmod	_	_
 17	de	de	ADP	IN	_	19	case	_	_
 18	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
@@ -14382,7 +14382,7 @@
 14	hace	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	xcomp	_	_
 15	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	16	nummod	_	_
 16	mil	mil	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	17	nummod	_	_
-17	años	_	NOUN	NN	Gender=Masc|Number=Plur	14	obl:tmod	_	_
+17	años	año	NOUN	NN	Gender=Masc|Number=Plur	14	obl:tmod	_	_
 18	siempre	siempre	ADV	RB	_	22	mark	_	_
 19	y	y	CCONJ	CC	_	18	fixed	_	_
 20	cuando	cuando	ADV	WRB	PronType=Rel	18	fixed	_	_
@@ -15278,7 +15278,7 @@
 2	reinó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	solo	solo	ADV	RB	_	5	advmod	_	_
 4	quince	quince	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	5	nummod	_	_
-5	años	_	NOUN	NN	Gender=Masc|Number=Plur	2	obl:tmod	_	SpaceAfter=No
+5	años	año	NOUN	NN	Gender=Masc|Number=Plur	2	obl:tmod	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	10	punct	_	_
 7	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	8	det	_	_
 8	cual	cual	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	10	nsubj:pass	_	_
@@ -16235,7 +16235,7 @@
 30	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	33	det	_	_
 31	primeros	_	ADJ	JJ	Gender=Masc|Number=Plur	33	amod	_	_
 32	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	33	nummod	_	_
-33	años	_	NOUN	NN	Gender=Masc|Number=Plur	26	obl	_	_
+33	años	año	NOUN	NN	Gender=Masc|Number=Plur	26	obl	_	_
 34	de	de	ADP	IN	_	36	case	_	_
 35	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
 36	guerra	guerra	NOUN	NN	Gender=Fem|Number=Sing	33	nmod	_	SpaceAfter=No
@@ -16588,7 +16588,7 @@
 16	desunión	desunión	NOUN	NN	Gender=Fem|Number=Sing	13	nmod	_	_
 17	en	en	ADP	IN	_	19	case	_	_
 18	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
-19	años	_	NOUN	NN	Gender=Masc|Number=Plur	12	obl	_	_
+19	años	año	NOUN	NN	Gender=Masc|Number=Plur	12	obl	_	_
 20	anteriores	_	ADJ	JJR	Gender=Masc|Number=Plur	19	amod	_	_
 21	a	a	ADP	IN	_	24	case	_	_
 22	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
@@ -17006,7 +17006,7 @@
 30	hace	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	xcomp	_	_
 31	ya	ya	ADV	RB	_	30	advmod	_	_
 32	5000	5000	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	33	nummod	_	_
-33	años	_	NOUN	NN	Gender=Masc|Number=Plur	30	obl:tmod	_	SpaceAfter=No
+33	años	año	NOUN	NN	Gender=Masc|Number=Plur	30	obl:tmod	_	SpaceAfter=No
 34	.	.	PUNCT	.	_	25	punct	_	_
 
 # sent_id = w01091045
@@ -18071,7 +18071,7 @@
 10	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	9	obj	_	_
 11	por	por	ADP	IN	_	13	case	_	_
 12	muchos	_	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	13	det	_	_
-13	años	_	NOUN	NN	Gender=Masc|Number=Plur	9	obl	_	_
+13	años	año	NOUN	NN	Gender=Masc|Number=Plur	9	obl	_	_
 14	después	después	ADV	RB	_	9	advmod	_	_
 15	de	de	ADP	IN	_	17	case	_	_
 16	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
@@ -19889,7 +19889,7 @@
 13	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
 14	últimos	_	ADJ	JJ	Gender=Masc|Number=Plur	16	amod	_	_
 15	15	15	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	16	nummod	_	_
-16	años	_	NOUN	NN	Gender=Masc|Number=Plur	21	obl	_	_
+16	años	año	NOUN	NN	Gender=Masc|Number=Plur	21	obl	_	_
 17	de	de	ADP	IN	_	19	case	_	_
 18	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
 19	vida	vida	NOUN	NN	Gender=Fem|Number=Sing	16	nmod	_	_
@@ -19920,7 +19920,7 @@
 9	en	en	ADP	IN	_	12	case	_	_
 10	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
 11	últimos	_	ADJ	JJ	Gender=Masc|Number=Plur	12	amod	_	_
-12	años	_	NOUN	NN	Gender=Masc|Number=Plur	2	obl	_	_
+12	años	año	NOUN	NN	Gender=Masc|Number=Plur	2	obl	_	_
 13	de	de	ADP	IN	_	15	case	_	_
 14	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
 15	vida	vida	NOUN	NN	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
@@ -21282,7 +21282,7 @@
 9	hombre	hombre	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	_
 10	de	de	ADP	IN	_	12	case	_	_
 11	53	53	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	12	nummod	_	_
-12	años	_	NOUN	NN	Gender=Masc|Number=Plur	9	nmod	_	_
+12	años	año	NOUN	NN	Gender=Masc|Number=Plur	9	nmod	_	_
 13	durante	durante	ADP	IN	_	15	case	_	_
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	acto	acto	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	_
@@ -21810,7 +21810,7 @@
 24	éxito	éxito	NOUN	NN	Gender=Masc|Number=Sing	20	appos	_	_
 25	de	de	ADP	IN	_	27	case	_	_
 26	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
-27	años	_	NOUN	NN	Gender=Masc|Number=Plur	24	nmod	_	_
+27	años	año	NOUN	NN	Gender=Masc|Number=Plur	24	nmod	_	_
 28	60	60	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	27	appos	_	SpaceAfter=No
 29	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -22027,7 +22027,7 @@
 11	jugadora	jugadora	NOUN	NN	Gender=Fem|Number=Sing	15	nsubj	_	_
 12	de	de	ADP	IN	_	14	case	_	_
 13	28	28	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	14	nummod	_	_
-14	años	_	NOUN	NN	Gender=Masc|Number=Plur	11	nmod	_	_
+14	años	año	NOUN	NN	Gender=Masc|Number=Plur	11	nmod	_	_
 15	perdió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 16	por	por	ADP	IN	_	18	case	_	_
 17	primera	_	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	_
@@ -22691,7 +22691,7 @@
 15	bajo	bajo	ADP	IN	_	16	case	_	_
 16	investigación	investigación	NOUN	NN	Gender=Fem|Number=Sing	12	obl	_	_
 17	por	por	ADP	IN	_	18	case	_	_
-18	años	_	NOUN	NN	Gender=Masc|Number=Plur	12	obl	_	SpaceAfter=No
+18	años	año	NOUN	NN	Gender=Masc|Number=Plur	12	obl	_	SpaceAfter=No
 19	"	"	PUNCT	''	_	9	punct	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	9	punct	_	_
 
@@ -22771,7 +22771,7 @@
 8	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 9	últimos	_	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	_
 10	veinte	veinte	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	11	nummod	_	_
-11	años	_	NOUN	NN	Gender=Masc|Number=Plur	6	nmod	_	_
+11	años	año	NOUN	NN	Gender=Masc|Number=Plur	6	nmod	_	_
 12	de	de	ADP	IN	_	14	case	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	sra	sra	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
@@ -24051,7 +24051,7 @@
 5	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 6	últimos	_	ADJ	JJ	Gender=Masc|Number=Plur	8	amod	_	_
 7	seis	seis	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	8	nummod	_	_
-8	años	_	NOUN	NN	Gender=Masc|Number=Plur	3	nmod	_	_
+8	años	año	NOUN	NN	Gender=Masc|Number=Plur	3	nmod	_	_
 9	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	tasa	tasa	NOUN	NN	Gender=Fem|Number=Sing	14	nsubj	_	_
 11	de	de	ADP	IN	_	12	case	_	_
@@ -24870,7 +24870,7 @@
 20	de	de	ADP	IN	_	23	case	_	Proper=True
 21	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	Proper=True
 22	Treinta	treinta	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	23	nummod	_	Proper=True
-23	Años	_	NOUN	NN	Gender=Masc|Number=Plur	19	nmod	_	SpaceAfter=No|Proper=True
+23	Años	año	NOUN	NN	Gender=Masc|Number=Plur	19	nmod	_	SpaceAfter=No|Proper=True
 24	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = w02004065
@@ -25003,7 +25003,7 @@
 9	decadencia	decadencia	NOUN	NN	Gender=Fem|Number=Sing	6	obl	_	_
 10	desde	desde	ADP	IN	_	12	case	_	_
 11	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
-12	años	_	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	_
+12	años	año	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	_
 13	60	60	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	12	appos	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	6	punct	_	_
 
@@ -25605,7 +25605,7 @@
 10	de	de	ADP	IN	_	13	case	_	Proper=True
 11	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	Proper=True
 12	Treinta	treinta	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	13	nummod	_	Proper=True
-13	Años	_	NOUN	NN	Gender=Masc|Number=Plur	9	nmod	_	Proper=True
+13	Años	año	NOUN	NN	Gender=Masc|Number=Plur	9	nmod	_	Proper=True
 14	en	en	ADP	IN	_	15	case	_	_
 15	1632	1632	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	6	obl	_	_
 16	por	por	ADP	IN	_	17	case	_	_
@@ -26562,7 +26562,7 @@
 18	chica	chica	NOUN	NN	Gender=Fem|Number=Sing	15	appos	_	_
 19	de	de	ADP	IN	_	21	case	_	_
 20	18	18	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	21	nummod	_	_
-21	años	_	NOUN	NN	Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
+21	años	año	NOUN	NN	Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	,	_	23	punct	_	_
 23	hija	hija	NOUN	NN	Gender=Fem|Number=Sing	15	appos	_	_
 24	de	de	ADP	IN	_	25	case	_	_
@@ -27260,7 +27260,7 @@
 10	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	11	nsubj	_	_
 11	duró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	_
 12	muchos	_	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	13	det	_	_
-13	años	_	NOUN	NN	Gender=Masc|Number=Plur	11	obl:tmod	_	SpaceAfter=No
+13	años	año	NOUN	NN	Gender=Masc|Number=Plur	11	obl:tmod	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = w04010029
@@ -27379,7 +27379,7 @@
 17	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	18	nsubj	_	_
 18	duró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	acl:relcl	_	_
 19	diez	diez	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	20	nummod	_	_
-20	años	_	NOUN	NN	Gender=Masc|Number=Plur	18	obl:tmod	_	SpaceAfter=No
+20	años	año	NOUN	NN	Gender=Masc|Number=Plur	18	obl:tmod	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	14	punct	_	_
 
 # sent_id = w05001036
