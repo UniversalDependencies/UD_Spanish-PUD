@@ -8356,7 +8356,7 @@
 2	Está	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	funcionando	funcionar	VERB	VBG	VerbForm=Ger	0	root	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-5	segunda	_	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	_
+5	segunda	segundo	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	_
 6	serie	serie	NOUN	NN	Gender=Fem|Number=Sing	3	nsubj	_	_
 7	hasta	hasta	ADP	IN	_	8	case	_	_
 8	ahora	ahora	ADV	RB	_	3	xcomp	_	SpaceAfter=No
@@ -17078,7 +17078,7 @@
 # text_en = In the Second Messenian War, Sparta established itself as a local power in Peloponnesus and the rest of Greece.
 1	En	en	ADP	IN	_	4	case	_	_
 2	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-3	segunda	_	ADJ	JJ	Gender=Fem|Number=Sing	4	amod	_	_
+3	segunda	segundo	ADJ	JJ	Gender=Fem|Number=Sing	4	amod	_	_
 4	guerra	guerra	NOUN	NN	Gender=Fem|Number=Sing	9	obl	_	_
 5	mesenia	_	ADJ	JJ	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No|Proper=True
 6	,	,	PUNCT	,	_	4	punct	_	_
@@ -17651,7 +17651,7 @@
 2	1856	1856	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	obl	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-5	Segunda	_	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	Proper=True
+5	Segunda	segundo	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	Proper=True
 6	Guerra	guerra	NOUN	NN	Gender=Fem|Number=Sing	10	nsubj	_	Proper=True
 7-8	del	_	_	_	_	_	_	_	_
 7	de	de	ADP	INDT	_	9	case	_	_
@@ -21970,7 +21970,7 @@
 7	arte	arte	NOUN	NN	Number=Sing	0	root	_	_
 8	en	en	ADP	IN	_	10	case	_	_
 9	seis	seis	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	10	nummod	_	_
-10	segundos	_	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
+10	segundos	segundo	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	7	punct	_	_
 
 # newdoc id = n02043
@@ -25707,7 +25707,7 @@
 25	de	de	ADP	IN	_	26	case	_	_
 26	ganar	ganar	VERB	VB	VerbForm=Inf	24	xcomp	_	_
 27	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	29	det	_	_
-28	segunda	_	ADJ	JJ	Gender=Fem|Number=Sing	29	amod	_	_
+28	segunda	segundo	ADJ	JJ	Gender=Fem|Number=Sing	29	amod	_	_
 29	medalla	medalla	NOUN	NN	Gender=Fem|Number=Sing	26	obj	_	_
 30	de	de	ADP	IN	_	31	case	_	_
 31	oro	oro	NOUN	NN	Gender=Masc|Number=Sing	29	nmod	_	SpaceAfter=No
@@ -26890,7 +26890,7 @@
 2	creó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 4	entonces	entonces	ADV	RB	_	6	advmod	_	_
-5	segunda	_	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	_
+5	segunda	segundo	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	_
 6	región	región	NOUN	NN	Gender=Fem|Number=Sing	2	nsubj:pass	_	_
 7	real	_	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	_
 8	de	de	ADP	IN	_	9	case	_	_
@@ -27053,7 +27053,7 @@
 22	a	a	ADP	IN	_	23	case	_	_
 23	Italia	Italia	PROPN	NNP	Number=Sing	21	obl	_	_
 24	por	por	ADP	IN	_	26	case	_	_
-25	segunda	_	ADJ	JJ	Gender=Fem|Number=Sing	26	amod	_	_
+25	segunda	segundo	ADJ	JJ	Gender=Fem|Number=Sing	26	amod	_	_
 26	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	21	obl	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	16	punct	_	_
 
@@ -27576,7 +27576,7 @@
 3	tramo	tramo	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 4	entre	entre	ADP	IN	_	7	case	_	_
 5	esa	ese	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
-6	segunda	_	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	_
+6	segunda	segundo	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	_
 7	línea	línea	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	_
 8	hasta	hasta	ADP	IN	_	10	case	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
