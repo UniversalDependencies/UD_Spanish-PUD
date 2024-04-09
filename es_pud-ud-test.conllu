@@ -3248,7 +3248,7 @@
 22	,	,	PUNCT	,	_	4	punct	_	_
 23	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 24	que	que	SCONJ	IN	_	28	mark	_	_
-25	ambos	_	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Tot	26	det	_	_
+25	ambos	ambos	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Tot	26	det	_	_
 26	organismos	_	NOUN	NN	Gender=Masc|Number=Plur	28	nsubj	_	_
 27	eran	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	28	cop	_	_
 28	esenciales	_	ADJ	JJ	Gender=Masc|Number=Plur	23	ccomp	_	_
@@ -11654,7 +11654,7 @@
 19	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
 20	fenicios	_	NOUN	NN	Gender=Masc|Number=Plur	16	conj	_	SpaceAfter=No|Proper=True
 21	,	,	PUNCT	,	_	23	punct	_	_
-22	ambos	_	NOUN	NN	Gender=Masc|Number=Plur	23	nsubj	_	_
+22	ambos	ambos	NOUN	NN	Gender=Masc|Number=Plur	23	nsubj	_	_
 23	colonizaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	_
 24	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	25	det	_	_
 25	líneas	_	NOUN	NN	Gender=Fem|Number=Plur	23	obj	_	_
@@ -14034,7 +14034,7 @@
 2	Khaan	Khaan	PROPN	NNP	Gender=Masc|Number=Sing	1	flat:name	_	_
 3	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	IN	_	13	mark	_	_
-5	ambos	_	NOUN	NN	Gender=Masc|Number=Plur	13	nsubj:pass	_	SpaceAfter=No
+5	ambos	ambos	NOUN	NN	Gender=Masc|Number=Plur	13	nsubj:pass	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	8	punct	_	_
 7	tanto	tanto	ADV	RB	_	8	cc:preconj	_	_
 8	Mongolia	Mongolia	PROPN	NNP	Number=Sing	5	appos	_	_
@@ -15217,7 +15217,7 @@
 16	con	con	ADP	IN	_	19	case	_	_
 17	respecto	respecto	NOUN	NN	Gender=Masc|Number=Sing	16	fixed	_	_
 18	a	a	ADP	IN	_	16	fixed	_	_
-19	ambas	_	NOUN	NN	Gender=Fem|Number=Plur	15	obl	_	SpaceAfter=No
+19	ambas	ambos	NOUN	NN	Gender=Fem|Number=Plur	15	obl	_	SpaceAfter=No
 20	,	,	PUNCT	,	_	25	punct	_	_
 21	ya	ya	ADV	RB	_	25	mark	_	_
 22	que	que	ADP	IN	_	21	fixed	_	_
@@ -15305,7 +15305,7 @@
 5	,	,	PUNCT	,	_	4	punct	_	_
 6	parece	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	que	que	SCONJ	IN	_	9	mark	_	_
-8	ambos	_	NOUN	NN	Gender=Masc|Number=Plur	9	nsubj	_	_
+8	ambos	ambos	NOUN	NN	Gender=Masc|Number=Plur	9	nsubj	_	_
 9	mantuvieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	ccomp	_	_
 10-11	al	_	_	_	_	_	_	_	_
 10	a	a	ADP	INDT	_	13	discourse	_	_
@@ -23111,7 +23111,7 @@
 # sent_id = n03007006
 # text = Ambas organizaciones presentaron una apelación que fue rechazada por el tribunal de casación el 12 de octubre.
 # text_en = The two organisations launched an appeal which was thrown out by the Court of Cassation on the 12th of October.
-1	Ambas	_	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Tot	2	det	_	_
+1	Ambas	ambos	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Tot	2	det	_	_
 2	organizaciones	_	NOUN	NN	Gender=Fem|Number=Plur	3	nsubj	_	_
 3	presentaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -23553,7 +23553,7 @@
 3	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	9	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	en	en	ADP	IN	_	7	case	_	_
-6	ambos	_	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Tot	7	det	_	_
+6	ambos	ambos	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Tot	7	det	_	_
 7	casos	_	NOUN	NN	Gender=Masc|Number=Plur	9	obl	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	7	punct	_	_
 9	está	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
@@ -27224,7 +27224,7 @@
 # sent_id = w04010027
 # text = Ambos estudiantes de Goffredo Petrassi, Ennio Morricone y Bruno Nicolai se conocieron en el conservatorio de Santa Cecelia.
 # text_en = Both students of Goffredo Petrassi, Ennio Morricone and Bruno Nicolai met at the Santa (Saint) Cecelia conservatory.
-1	Ambos	_	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Tot	2	det	_	_
+1	Ambos	ambos	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Tot	2	det	_	_
 2	estudiantes	_	NOUN	NN	Gender=Masc|Number=Plur	13	nsubj	_	_
 3	de	de	ADP	IN	_	4	case	_	_
 4	Goffredo	Goffredo	PROPN	NNP	Gender=Masc|Number=Sing	2	nmod	_	_
@@ -27290,7 +27290,7 @@
 22	eran	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	23	aux:pass	_	_
 23	escritas	_	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Fin	2	parataxis	_	_
 24	por	por	ADP	IN	_	25	case	_	_
-25	ambos	_	NOUN	NN	Gender=Masc|Number=Plur	23	obl	_	SpaceAfter=No
+25	ambos	ambos	NOUN	NN	Gender=Masc|Number=Plur	23	obl	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = w04010030
@@ -27349,7 +27349,7 @@
 23	los	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	24	obj	_	_
 24	caracterizó	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	20	acl:relcl	_	_
 25	a	a	ADP	IN	_	26	case	_	_
-26	ambos	_	NOUN	NN	Gender=Masc|Number=Plur	24	obl	_	_
+26	ambos	ambos	NOUN	NN	Gender=Masc|Number=Plur	24	obl	_	_
 27	como	como	ADP	IN	_	28	case	_	_
 28	artistas	_	NOUN	NN	Gender=Masc|Number=Plur	24	obl	_	_
 29	de	de	ADP	IN	_	30	case	_	_
