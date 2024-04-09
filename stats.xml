@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>1000</sentences><tokens>22820</tokens><words>23286</words><fused>466</fused></test>
   </size>
-  <lemmas unique="3594" /><!-- el, de, ,, ., en, a, que, él, uno, y, ser, por, haber, con, para -->
+  <lemmas unique="3594" /><!-- el, de, ,, ., en, a, que, él, uno, y, ser, su, por, haber, con -->
   <forms unique="5937" /><!-- de, el, ,, ., la, en, a, que, y, los, se, un, las, una, por -->
   <fusions unique="62" /><!-- del, al, verlo, beneficiarse, convirtiéndose, hacerlo, recuperarlo, Didn't, admitiéndolo, alejarse, aplicándolo, centrarse, centrándose, comprometerse, concentrase -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -24,7 +24,7 @@
     <tag name="NOUN">4818</tag><!-- _, año, parte, guerra, lugar, gobierno, ciudad, estado, mar, vez -->
     <tag name="NUM">435</tag><!-- _, dos, 1, 10, 3, cuatro, mil, tres, seis, 70 -->
     <tag name="PART">1</tag><!-- not -->
-    <tag name="PRON">1057</tag><!-- él, que, _, su, yo, cual, quien, tú, nuestro, cuál -->
+    <tag name="PRON">1057</tag><!-- él, que, su, yo, cual, _, quien, tú, nuestro, cuál -->
     <tag name="PROPN">1250</tag><!-- _, Cristo, China, Trump, mediterráneo, Europa, Hong, Italia, Kong, Albania -->
     <tag name="PUNCT">2291</tag><!-- ,, ., ", (, ), :, ;, -, ?, ¿ -->
     <tag name="SCONJ">261</tag><!-- que, si, como, aunque, porque, a, mientras, de, hasta, para -->
