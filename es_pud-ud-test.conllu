@@ -405,7 +405,7 @@
 23	,	,	PUNCT	,	_	13	punct	_	_
 24	costó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 25	103,7	103,7	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	26	nummod	_	_
-26	millones	_	NOUN	NN	Gender=Masc|Number=Plur	24	obj	_	_
+26	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	24	obj	_	_
 27	de	de	ADP	IN	_	28	case	_	_
 28	dólares	_	NOUN	NN	Gender=Masc|Number=Plur	26	nmod	_	SpaceAfter=No
 29	.	.	PUNCT	.	_	24	punct	_	_
@@ -1503,7 +1503,7 @@
 15	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
 16	221	221	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	17	nummod	_	_
 17	mil	mil	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	18	nummod	_	_
-18	millones	_	NOUN	NN	Gender=Masc|Number=Plur	14	obj	_	_
+18	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	14	obj	_	_
 19	de	de	ADP	IN	_	20	case	_	_
 20	dólares	_	NOUN	NN	Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	6	punct	_	_
@@ -3105,7 +3105,7 @@
 22	bote	bote	NOUN	NN	Gender=Masc|Number=Sing	20	obj	_	_
 23	de	de	ADP	IN	_	25	case	_	_
 24	1,5	1,5	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	25	nummod	_	_
-25	millones	_	NOUN	NN	Gender=Masc|Number=Plur	22	nmod	_	_
+25	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	22	nmod	_	_
 26	de	de	ADP	IN	_	27	case	_	_
 27	dólares	_	NOUN	NN	Gender=Masc|Number=Plur	25	nmod	_	_
 28	entre	entre	ADP	IN	_	29	case	_	_
@@ -3130,7 +3130,7 @@
 7	de	de	ADP	IN	_	10	case	_	_
 8	1,4	1,4	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	9	nummod	_	_
 9	mil	mil	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	10	nummod	_	_
-10	millones	_	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	_
+10	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	_
 11	de	de	ADP	IN	_	12	case	_	_
 12	dólares	_	NOUN	NN	Gender=Masc|Number=Plur	10	nmod	_	_
 13	y	y	CCONJ	CC	_	14	cc	_	_
@@ -3207,7 +3207,7 @@
 15	fue	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 16	de	de	ADP	IN	_	18	case	_	_
 17	1,5	1,5	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	18	nummod	_	_
-18	millones	_	NOUN	NN	Gender=Masc|Number=Plur	15	obl	_	_
+18	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	15	obl	_	_
 19	de	de	ADP	IN	_	20	case	_	_
 20	dólares	_	NOUN	NN	Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	,	_	22	punct	_	_
@@ -7274,7 +7274,7 @@
 25	de	de	ADP	IN	_	26	case	_	_
 26	miles	_	NOUN	NN	Gender=Masc|Number=Plur	24	nmod	_	_
 27	de	de	ADP	IN	_	28	case	_	_
-28	millones	_	NOUN	NN	Gender=Masc|Number=Plur	26	nmod	_	SpaceAfter=No
+28	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	26	nmod	_	SpaceAfter=No
 29	,	,	PUNCT	,	_	32	punct	_	_
 30	y	y	CCONJ	CC	_	32	cc	_	_
 31	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	32	obl:arg	_	_
@@ -7325,7 +7325,7 @@
 31	de	de	ADP	IN	_	34	case	_	_
 32	16	16	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	33	nummod	_	_
 33	mil	mil	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	34	nummod	_	_
-34	millones	_	NOUN	NN	Gender=Masc|Number=Plur	30	obl	_	_
+34	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	30	obl	_	_
 35	de	de	ADP	IN	_	36	case	_	_
 36	euros	_	NOUN	NN	Gender=Masc|Number=Plur	34	nmod	_	SpaceAfter=No
 37	.	.	PUNCT	.	_	3	punct	_	_
@@ -7690,11 +7690,11 @@
 27	depositaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	_
 28	2	2	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	29	nummod	_	_
 29	mil	mil	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	30	nummod	_	_
-30	millones	_	NOUN	NN	Gender=Masc|Number=Plur	27	obj	_	_
+30	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	27	obj	_	_
 31	y	y	CCONJ	CC	_	34	cc	_	_
 32	1,4	1,4	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	33	nummod	_	_
 33	mil	mil	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	34	nummod	_	_
-34	millones	_	NOUN	NN	Gender=Masc|Number=Plur	30	conj	_	_
+34	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	30	conj	_	_
 35	de	de	ADP	IN	_	36	case	_	_
 36	libras	_	NOUN	NN	Gender=Fem|Number=Plur	34	nmod	_	_
 37	respectivamente	respectivamente	ADV	RB	_	27	advmod	_	SpaceAfter=No
@@ -8875,7 +8875,7 @@
 1	Más	más	ADV	RBR	Degree=Cmp	9	nsubj	_	_
 2	de	de	ADP	IN	_	4	case	_	_
 3	5,7	5,7	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	nummod	_	_
-4	millones	_	NOUN	NN	Gender=Masc|Number=Plur	1	obl	_	_
+4	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	1	obl	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	personas	_	NOUN	NN	Gender=Fem|Number=Plur	4	nmod	_	_
 7	ya	ya	ADV	RB	_	9	advmod	_	_
@@ -12009,7 +12009,7 @@
 10	a	a	ADP	IN	_	13	case	_	_
 11	unas	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
 12	100	100	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	13	nummod	_	_
-13	millones	_	NOUN	NN	Gender=Masc|Number=Plur	9	obl	_	_
+13	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	9	obl	_	_
 14	de	de	ADP	IN	_	15	case	_	_
 15	toneladas	_	NOUN	NN	Gender=Fem|Number=Plur	13	nmod	_	_
 16	en	en	ADP	IN	_	17	case	_	_
@@ -17347,7 +17347,7 @@
 17	más	más	ADV	RBR	Degree=Cmp	15	conj	_	_
 18	de	de	ADP	IN	_	20	case	_	_
 19	10	10	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	20	nummod	_	_
-20	millones	_	NOUN	NN	Gender=Masc|Number=Plur	17	obl	_	_
+20	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	17	obl	_	_
 21	de	de	ADP	IN	_	22	case	_	_
 22	civiles	_	NOUN	NN	Gender=Masc|Number=Plur	20	nmod	_	SpaceAfter=No
 23	,	,	PUNCT	,	_	27	punct	_	_
@@ -17359,7 +17359,7 @@
 29	estimados	estimar	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	27	acl	_	_
 30	en	en	ADP	IN	_	32	case	_	_
 31	7,5	7,5	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	32	nummod	_	_
-32	millones	_	NOUN	NN	Gender=Masc|Number=Plur	29	obl	_	SpaceAfter=No
+32	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	29	obl	_	SpaceAfter=No
 33	)	)	PUNCT	)	_	29	punct	_	SpaceAfter=No
 34	.	.	PUNCT	.	_	13	punct	_	_
 
@@ -21352,7 +21352,7 @@
 23	invierten	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
 24	miles	_	NOUN	NN	Gender=Masc|Number=Plur	23	obj	_	_
 25	de	de	ADP	IN	_	26	case	_	_
-26	millones	_	NOUN	NN	Gender=Masc|Number=Plur	24	nmod	_	_
+26	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	24	nmod	_	_
 27	en	en	ADP	IN	_	30	case	_	_
 28	todo	todo	DET	PDT	Gender=Masc|Number=Sing|PronType=Tot	30	det	_	_
 29	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
@@ -21950,7 +21950,7 @@
 22	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	audiencia	audiencia	NOUN	NN	Gender=Fem|Number=Sing	21	obj	_	_
 24	de	de	ADP	IN	_	25	case	_	_
-25	millones	_	NOUN	NN	Gender=Masc|Number=Plur	23	nmod	_	_
+25	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	23	nmod	_	_
 26	a	a	ADP	IN	_	28	case	_	_
 27	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
 28	situación	situación	NOUN	NN	Gender=Fem|Number=Sing	21	obl	_	_
@@ -23272,7 +23272,7 @@
 10	liberar	liberar	VERB	VB	VerbForm=Inf	0	root	_	_
 11	hasta	hasta	ADV	RB	_	13	advmod	_	_
 12	42	42	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	13	nummod	_	_
-13	millones	_	NOUN	NN	Gender=Masc|Number=Plur	10	obj	_	_
+13	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	10	obj	_	_
 14	de	de	ADP	IN	_	15	case	_	_
 15	euros	_	NOUN	NN	Gender=Masc|Number=Plur	13	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	22	punct	_	_
@@ -23280,7 +23280,7 @@
 18	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
 19	cuales	cual	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	21	nmod	_	_
 20	15,5	15,5	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	21	nummod	_	_
-21	millones	_	NOUN	NN	Gender=Masc|Number=Plur	22	nsubj	_	_
+21	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	22	nsubj	_	_
 22	irían	_	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	acl:relcl	_	_
 23	hacia	hacia	ADP	IN	_	25	case	_	_
 24	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
@@ -23879,7 +23879,7 @@
 7	inversión	inversión	NOUN	NN	Gender=Fem|Number=Sing	5	obj	_	_
 8	de	de	ADP	IN	_	10	case	_	_
 9	mil	mil	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	10	nummod	_	_
-10	millones	_	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	_
+10	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	_
 11	de	de	ADP	IN	_	12	case	_	_
 12	dólares	_	NOUN	NN	Gender=Masc|Number=Plur	10	nmod	_	_
 13	y	y	CCONJ	CC	_	15	cc	_	_
