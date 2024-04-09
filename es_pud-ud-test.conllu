@@ -208,7 +208,7 @@
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	máximo	máximo	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	permitido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
-4	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	IN	_	7	case	_	_
 6	5 000	5 000	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	7	nummod	_	_
 7	$	_	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
@@ -1658,7 +1658,7 @@
 34	espaciales	espacial	ADJ	JJ	Gender=Fem|Number=Plur	33	amod	_	SpaceAfter=No
 35	,	,	PUNCT	,	_	37	punct	_	_
 36	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	37	nsubj	_	_
-37	era	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	acl:relcl	_	_
+37	era	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	acl:relcl	_	_
 38	de	de	ADP	IN	_	41	case	_	_
 39	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	40	det	_	_
 40	poco	poco	ADV	RB	_	41	advmod	_	_
@@ -1876,7 +1876,7 @@
 # text_en = Who are they?
 1	¿	¿	PUNCT	.	_	3	punct	_	SpaceAfter=No
 2	Quiénes	quién	PRON	WP	Number=Plur|PronType=Int	3	nsubj	_	_
-3	son	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	son	ser	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	.	_	3	punct	_	_
 
 # sent_id = n01027030
@@ -2026,7 +2026,7 @@
 2	abuela	abuela	NOUN	NN	Gender=Fem|Number=Sing	5	nsubj	_	_
 3	de	de	ADP	IN	_	4	case	_	_
 4	Seagal	Seagal	PROPN	NNP	Gender=Masc|Number=Sing	2	nmod	_	_
-5	era	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	era	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 6	de	de	ADP	IN	_	7	case	_	_
 7	Vladivostok	Vladivostok	PROPN	NNP	Number=Sing	5	obl	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	12	punct	_	_
@@ -2709,7 +2709,7 @@
 10	a	a	ADP	IN	_	12	case	_	_
 11	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	agente	agente	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	_
-13	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 14	de	de	ADP	IN	_	16	case	_	_
 15	25 000	25 000	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	16	nummod	_	_
 16	$	_	NOUN	NN	Gender=Masc|Number=Plur	13	obl	_	SpaceAfter=No
@@ -2875,7 +2875,7 @@
 # text = Eso es lo que no necesitamos en nuestro país, amigos.
 # text_en = That's not what we need in our country, folks.
 1	Eso	eso	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
-2	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	det	_	_
 4	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	6	obj	_	_
 5	no	no	ADV	RB	Polarity=Neg	6	advmod	_	_
@@ -3124,7 +3124,7 @@
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	presupuesto	presupuesto	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	anual	anual	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	_
-4	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	más	más	ADV	RBR	Degree=Cmp	4	xcomp	_	_
 7	de	de	ADP	IN	_	10	case	_	_
@@ -3174,11 +3174,11 @@
 27	en	en	ADP	IN	_	29	case	_	_
 28	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
 29	web	web	NOUN	NN	Gender=Fem|Number=Sing	26	nmod	_	_
-30	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+30	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
 31	de	de	ADP	IN	_	32	case	_	_
 32	2013-2014	2013-2014	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	30	obl	_	SpaceAfter=No
 33	,	,	PUNCT	,	_	34	punct	_	_
-34	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	discourse	_	_
+34	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	discourse	_	_
 35	decir	decir	VERB	VB	VerbForm=Inf	34	fixed	_	SpaceAfter=No
 36	,	,	PUNCT	,	_	38	punct	_	_
 37	de	de	SCONJ	IN	_	38	mark	_	_
@@ -3391,7 +3391,7 @@
 4	nuestros	_	PRON	DTP$	Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
 5	teléfonos	teléfono	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj	_	_
 6	móviles	móvil	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
-7	son	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	son	ser	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	mucho	mucho	ADV	RB	_	9	advmod	_	_
 9	más	más	ADV	RBR	Degree=Cmp	7	advmod	_	_
 10	que	que	ADP	IN	_	11	case	_	_
@@ -3650,7 +3650,7 @@
 3	de	de	ADP	IN	_	4	case	_	_
 4	espera	espera	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	_
 5	actual	actual	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	_
-6	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	de	de	ADP	IN	_	9	case	_	_
 8	ocho	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	9	nummod	_	_
 9	semanas	semana	NOUN	NN	Gender=Fem|Number=Plur	6	obl	_	SpaceAfter=No
@@ -4602,7 +4602,7 @@
 12	no	no	ADV	RB	Polarity=Neg	14	advmod	_	_
 13	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 14	artístico	artístico	ADJ	JJ	Gender=Masc|Number=Sing	15	advcl	_	_
-15	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+15	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 16	de	de	ADP	IN	_	17	case	_	_
 17	incomodidad	incomodidad	NOUN	NN	Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
 18	,	,	PUNCT	,	_	19	punct	_	_
@@ -5300,7 +5300,7 @@
 # sent_id = n01075028
 # text = Era como si estuviese pasando el balón hacia delante y hacia atrás por debajo de tres copas volteadas.
 # text_en = It was as though he was flicking the ball back and forth underneath three upturned cups.
-1	Era	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+1	Era	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 2	como	como	SCONJ	IN	_	5	mark	_	_
 3	si	si	ADP	IN	_	2	fixed	_	_
 4	estuviese	estar	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	aux	_	_
@@ -5694,7 +5694,7 @@
 # text_en = Her reason is that it provides insufficient protection to American workers whose jobs and living standards it might harm.
 1	Su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
 2	explicación	explicación	NOUN	NN	Gender=Fem|Number=Sing	3	nsubj	_	_
-3	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	IN	_	6	mark	_	_
 5	no	no	ADV	RB	Polarity=Neg	6	advmod	_	_
 6	ofrece	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
@@ -6553,7 +6553,7 @@
 2	acceso	acceso	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj	_	_
 3	a	a	ADP	IN	_	4	case	_	_
 4	Agora	Agora	PROPN	NNP	Number=Sing	2	nmod	_	_
-5	era	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+5	era	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 6	sólo	sólo	ADV	RB	_	8	advmod	_	_
 7	mediante	mediante	ADP	IN	_	8	case	_	_
 8	invitación	invitación	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
@@ -6563,7 +6563,7 @@
 12	de	de	ADP	IN	_	14	case	_	_
 13	esos	ese	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	14	det	_	_
 14	mercados	mercado	NOUN	NN	Gender=Masc|Number=Plur	11	nmod	_	_
-15	son	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+15	son	ser	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
 16	de	de	ADP	IN	_	18	case	_	_
 17	fácil	fácil	ADJ	JJ	Gender=Masc|Number=Sing	18	amod	_	_
 18	acceso	acceso	NOUN	NN	Gender=Masc|Number=Sing	15	obl	_	_
@@ -7147,7 +7147,7 @@
 8	caso	caso	NOUN	NN	Gender=Masc|Number=Sing	11	obl	_	_
 9	de	de	ADP	IN	_	10	case	_	_
 10	Andy	Andy	PROPN	NNP	Gender=Masc|Number=Sing	8	nmod	_	_
-11	era	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	xcomp	_	_
+11	era	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	xcomp	_	_
 12	así	así	ADV	RB	_	11	advmod	_	_
 13	cuando	cuando	ADV	WRB	PronType=Rel	14	advmod	_	_
 14	jugó	jugar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	advcl	_	_
@@ -7519,7 +7519,7 @@
 5	fija	fijo	ADJ	JJ	Gender=Fem|Number=Sing	4	amod	_	_
 6	de	de	ADP	IN	_	7	case	_	_
 7	Eon	Eon	PROPN	NNP	Number=Sing	2	nmod	_	_
-8	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	de	de	ADP	IN	_	11	case	_	_
 10	760	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	11	nummod	_	_
 11	libras	libra	NOUN	NN	Gender=Fem|Number=Plur	8	obl	_	_
@@ -8769,7 +8769,7 @@
 3	importa	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	csubj	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	martes	martes	NOUN	NN	Gender=Masc|Number=Sing	3	obl:tmod	_	_
-6	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	que	que	SCONJ	IN	_	10	mark	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	gente	gente	NOUN	NN	Gender=Fem|Number=Sing	10	nsubj	_	_
@@ -8916,7 +8916,7 @@
 17	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	det	_	_
 18	ventaja	ventaja	NOUN	NN	Gender=Fem|Number=Sing	20	nsubj	_	_
 19	general	general	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	_
-20	era	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	conj	_	_
+20	era	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	conj	_	_
 21	de	de	ADP	IN	_	23	case	_	_
 22	unos	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
 23	16.500	16.500	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	20	obl	_	_
@@ -13079,7 +13079,7 @@
 15	peor	peor	ADJ	JJR	Degree=Cmp|Gender=Masc|Number=Sing	16	amod	_	_
 16	momento	momento	NOUN	NN	Gender=Masc|Number=Sing	18	obl	_	_
 17	no	no	ADV	RB	Polarity=Neg	18	advmod	_	_
-18	era	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	ccomp	_	_
+18	era	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	ccomp	_	_
 19	más	más	ADV	RBR	Degree=Cmp	18	advmod	_	_
 20	que	que	ADP	IN	_	22	case	_	_
 21	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
@@ -13167,7 +13167,7 @@
 18	,	,	PUNCT	,	_	21	punct	_	_
 19	pues	pues	SCONJ	IN	_	21	mark	_	_
 20	ahí	ahí	ADV	RB	_	21	nsubj	_	_
-21	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+21	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
 22	donde	donde	ADV	WRB	PronType=Rel	27	advmod	_	_
 23	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
 24	finos	fino	ADJ	JJ	Gender=Masc|Number=Plur	25	amod	_	_
@@ -18800,7 +18800,7 @@
 4	de	de	ADP	IN	_	6	case	_	_
 5	no	no	ADV	RB	Polarity=Neg	6	advmod	_	_
 6	ficción	ficción	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	_
-7	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	acerca	acerca	ADV	RB	_	10	case	_	_
 9	de	de	ADP	IN	_	8	fixed	_	_
 10	Margaret	Margaret	PROPN	NNP	Gender=Fem|Number=Sing	7	obl	_	_
@@ -21520,7 +21520,7 @@
 9	raramente	raramente	ADV	RB	_	18	advmod	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	9	punct	_	_
 11	si	si	SCONJ	IN	_	15	mark	_	_
-12	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advmod	_	_
+12	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advmod	_	_
 13	que	que	ADP	IN	_	12	fixed	_	_
 14	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	obj	_	_
 15	hacen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	SpaceAfter=No
@@ -21666,7 +21666,7 @@
 10	estar	estar	AUX	VB	VerbForm=Inf	11	cop	_	_
 11	presente	presente	ADJ	JJ	Number=Sing	8	xcomp	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	13	punct	_	_
-13	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+13	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 14	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	det	_	_
 15	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	17	nsubj:pass	_	_
 16	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	expl:pass	_	_
@@ -21863,7 +21863,7 @@
 # text = Eso es porque todos y cada uno de los milagros, así como cada distrito especializado, ocupan un campo completo.
 # text_en = That is because each and every miracle and each specialized district occupies an entire field.
 1	Eso	eso	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
-2	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	porque	porque	SCONJ	IN	_	18	mark	_	_
 4	todos	todo	NOUN	NN	Gender=Masc|Number=Plur	18	nsubj	_	_
 5	y	y	CCONJ	CC	_	7	cc	_	_
@@ -21906,7 +21906,7 @@
 # sent_id = n02042005
 # text = Era el 30 de Agosto de 2015, cuando un ejército de patos conquistaba Internet.
 # text_en = It was August 30, 2015, as an army of ducks conquered the internet.
-1	Era	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+1	Era	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	30	30	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	1	obl:tmod	_	_
 4	de	de	ADP	IN	_	5	case	_	_
@@ -22052,7 +22052,7 @@
 5	está	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 6	claro	claro	ADJ	JJ	Gender=Masc|Number=Sing	2	acl:relcl	_	_
 7	ahora	ahora	ADV	RB	_	6	advmod	_	_
-8	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	en	en	ADP	IN	_	10	case	_	_
 10	cuál	cuál	PRON	WP	Number=Sing|PronType=Int	8	obl	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	8	punct	_	_
@@ -23719,7 +23719,7 @@
 # text = Esto es lo que se ha escrito en una nota a los parlamentarios tras la decisión del ex ministro de abandonar el partido.
 # text_en = This is what has been written in a note to Mps after the decision of the ex-minister to leave the party.
 1	Esto	esto	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
-2	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	det	_	_
 4	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	7	nsubj:pass	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pass	_	_
@@ -24294,14 +24294,14 @@
 8	"	"	PUNCT	``	_	11	punct	_	SpaceAfter=No
 9	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	payaso	payaso	NOUN	NN	Gender=Masc|Number=Sing	11	nsubj	_	_
-11	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+11	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
 12	a	a	ADP	IN	_	14	case	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	humanidad	humanidad	NOUN	NN	Gender=Fem|Number=Sing	11	obl	_	_
 15	como	como	ADV	WRB	_	18	advmod	_	_
 16	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	sombra	sombra	NOUN	NN	Gender=Fem|Number=Sing	18	nsubj	_	_
-18	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+18	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
 19-20	al	_	_	_	_	_	_	_	_
 19	a	a	ADP	INDT	_	21	case	_	_
 20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
@@ -27203,7 +27203,7 @@
 19	habían	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	20	aux	_	_
 20	predicho	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	advcl	_	SpaceAfter=No
 21	;	;	PUNCT	:	_	22	punct	_	_
-22	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
+22	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
 23	por	por	ADP	IN	_	25	case	_	_
 24	esta	este	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	25	det	_	_
 25	razón	razón	NOUN	NN	Gender=Fem|Number=Sing	22	obl	_	_
