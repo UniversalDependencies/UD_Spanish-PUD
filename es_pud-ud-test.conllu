@@ -1167,7 +1167,7 @@
 1	Sin	sin	ADP	IN	_	8	discourse	_	_
 2	embargo	embargo	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	1	punct	_	_
-4	algunos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	5	det	_	_
+4	algunos	alguno	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	5	det	_	_
 5	expertos	_	NOUN	NN	Gender=Masc|Number=Plur	8	nsubj	_	_
 6	en	en	ADP	IN	_	7	case	_	_
 7	seguridad	seguridad	NOUN	NN	Gender=Fem|Number=Sing	5	nmod	_	_
@@ -3845,7 +3845,7 @@
 # sent_id = n01053008
 # text = Algunos hombres lo entienden y Bono es uno de esos jóvenes, dijo Leive en una entrevista hace poco.
 # text_en = "Some men get it and Bono is one of those guys," Leive said in a recent interview.
-1	Algunos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+1	Algunos	alguno	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
 2	hombres	_	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
 3	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
 4	entienden	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -10148,7 +10148,7 @@
 2	Pyongyang	Pyongyang	PROPN	NNP	Number=Sing	3	obl	_	_
 3	vi	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 4	a	a	ADP	IN	_	6	case	_	_
-5	algunas	_	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	6	det	_	_
+5	algunas	alguno	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	6	det	_	_
 6	personas	_	NOUN	NN	Gender=Fem|Number=Plur	3	obl	_	_
 7	utilizando	utilizar	VERB	VBG	VerbForm=Ger	6	acl	_	_
 8	teléfonos	_	NOUN	NN	Gender=Masc|Number=Plur	7	obj	_	_
@@ -10937,7 +10937,7 @@
 33	de	de	ADP	IN	_	34	case	_	_
 34	Eslovaquia	Eslovaquia	PROPN	NNP	Number=Sing	32	nmod	_	_
 35	y	y	CCONJ	CC	_	37	cc	_	_
-36	algunas	_	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	37	det	_	_
+36	algunas	alguno	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	37	det	_	_
 37	partes	_	NOUN	NN	Gender=Fem|Number=Plur	24	conj	_	_
 38	de	de	ADP	IN	_	39	case	_	_
 39	Austria	Austria	PROPN	NNP	Number=Sing	37	nmod	_	SpaceAfter=No
@@ -13210,7 +13210,7 @@
 4	viento	viento	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
 5	mayores	_	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Plur	2	amod	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	2	punct	_	_
-7	algunas	_	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	8	det	_	_
+7	algunas	alguno	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	8	det	_	_
 8	partículas	_	NOUN	NN	Gender=Fem|Number=Plur	10	nsubj	_	_
 9	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	compound:prt	_	_
 10	elevan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -13767,7 +13767,7 @@
 25	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	manuscrito	manuscrito	NOUN	NN	Gender=Masc|Number=Sing	24	obj	_	_
 27	a	a	ADP	IN	_	29	case	_	_
-28	algunas	_	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	29	det	_	_
+28	algunas	alguno	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	29	det	_	_
 29	personas	_	NOUN	NN	Gender=Fem|Number=Plur	24	obl	_	_
 30	particulares	_	ADJ	JJ	Gender=Fem|Number=Plur	29	amod	_	_
 31	para	para	ADP	IN	_	32	case	_	_
@@ -17021,7 +17021,7 @@
 7	de	de	ADP	IN	_	8	case	_	_
 8	comida	comida	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	1	punct	_	_
-10	algunos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	11	det	_	_
+10	algunos	alguno	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	11	det	_	_
 11	animales	_	NOUN	NN	Gender=Masc|Number=Plur	12	nsubj	_	_
 12	proveían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 13	cuero	cuero	NOUN	NN	Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
@@ -17443,7 +17443,7 @@
 # sent_id = w01097104
 # text = Algunos historiadores, como Chandler y Weller, afirman que la caballería pesada británica fue destruida como una fuerza viable luego de su primer épico ataque.
 # text_en = Some historians, such as Chandler and Weller, assert that the British heavy cavalry were destroyed as a viable force following their first, epic charge.
-1	Algunos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+1	Algunos	alguno	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
 2	historiadores	_	NOUN	NN	Gender=Masc|Number=Plur	9	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	5	punct	_	_
 4	como	como	ADP	IN	_	5	case	_	_
@@ -18082,7 +18082,7 @@
 21	en	en	ADP	IN	_	22	case	_	_
 22	uso	uso	NOUN	NN	Gender=Masc|Number=Sing	20	obl	_	_
 23	en	en	ADP	IN	_	25	case	_	_
-24	algunos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	25	det	_	_
+24	algunos	alguno	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	25	det	_	_
 25	países	_	NOUN	NN	Gender=Masc|Number=Plur	20	obl	_	_
 26	en	en	ADP	IN	_	28	case	_	_
 27	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	28	det	_	_
@@ -18757,7 +18757,7 @@
 # sent_id = w01116100
 # text = Algunos eruditos cristianos critican las enseñanzas de Tolle, mientras otros las elogian.
 # text_en = Some Christian scholars criticize Tolle's teachings, while others praise them.
-1	Algunos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
+1	Algunos	alguno	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
 2	eruditos	_	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
 3	cristianos	_	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	Proper=True
 4	critican	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -25488,7 +25488,7 @@
 4	rusa	_	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	Proper=True
 5	de	de	ADP	IN	_	6	case	_	_
 6	1917	1917	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	nmod	_	_
-7	algunos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
+7	algunos	alguno	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
 8	países	_	NOUN	NN	Gender=Masc|Number=Plur	19	nsubj	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	11	punct	_	_
 10	como	como	ADP	IN	_	11	case	_	_
@@ -26920,7 +26920,7 @@
 3	siglo	siglo	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	_
 4	XIII	xiii	NUM	CD	Gender=Masc|NumForm=Roman|NumType=Card	3	appos	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	3	punct	_	_
-6	algunos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	7	det	_	_
+6	algunos	alguno	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	7	det	_	_
 7	autores	_	NOUN	NN	Gender=Masc|Number=Plur	8	nsubj	_	_
 8	empleaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
@@ -27286,7 +27286,7 @@
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	cena	cena	NOUN	NN	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
 20	;	;	PUNCT	:	_	23	punct	_	_
-21	algunas	_	NOUN	NN	Gender=Fem|Number=Plur	23	nsubj:pass	_	_
+21	algunas	alguno	NOUN	NN	Gender=Fem|Number=Plur	23	nsubj:pass	_	_
 22	eran	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	23	aux:pass	_	_
 23	escritas	_	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Fin	2	parataxis	_	_
 24	por	por	ADP	IN	_	25	case	_	_
@@ -27338,7 +27338,7 @@
 12	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
 13	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	10	nmod	_	_
 14	imaginó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	ccomp	_	_
-15	algunas	_	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	16	det	_	_
+15	algunas	alguno	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	16	det	_	_
 16	soluciones	_	NOUN	NN	Gender=Fem|Number=Plur	14	obj	_	_
 17	estilísticas	_	ADJ	JJ	Gender=Fem|Number=Plur	16	amod	_	_
 18	en	en	ADP	IN	_	20	case	_	_
