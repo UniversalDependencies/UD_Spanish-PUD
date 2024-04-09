@@ -5920,7 +5920,7 @@
 # text = Aunque parezca sorprendente, incluso las nubes de lluvia ácida pueden tener aspectos positivos.
 # text_en = Surprising as it may seem, even acid rain clouds can have a silver lining.
 1	Aunque	aunque	SCONJ	IN	_	3	mark	_	_
-2	parezca	_	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+2	parezca	parecer	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	sorprendente	sorprendente	ADJ	JJ	Gender=Masc|Number=Sing	12	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	incluso	incluso	ADV	RB	_	7	advmod	_	_
@@ -9870,7 +9870,7 @@
 5	México	México	PROPN	NNP	Number=Sing	6	nsubj	_	_
 6	espera	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
 7	que	que	SCONJ	IN	_	10	mark	_	_
-8	llegue	_	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+8	llegue	llegar	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
 9	a	a	ADP	IN	_	8	fixed	_	_
 10	competir	competir	VERB	VB	VerbForm=Inf	6	ccomp	_	_
 11	con	con	ADP	IN	_	13	case	_	_
@@ -19406,7 +19406,7 @@
 5	llamas	llama	NOUN	NN	Gender=Fem|Number=Plur	3	obl	_	_
 6	y	y	CCONJ	CC	_	9	cc	_	_
 7	Kenseth	Kenseth	PROPN	NNP	Gender=Masc|Number=Sing	9	nsubj	_	_
-8	salió	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
+8	salió	salir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
 9	ileso	ileso	ADJ	JJ	Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -20649,7 +20649,7 @@
 10	Holden	Holden	PROPN	NNP	Gender=Fem|Number=Sing	9	flat:name	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	14	punct	_	_
 12	pero	pero	CCONJ	CC	_	14	cc	_	_
-13	seguía	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	cop	_	_
+13	seguía	seguir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	cop	_	_
 14	enamorado	enamorado	ADJ	JJ	Gender=Masc|Number=Sing	5	conj	_	_
 15	después	después	ADV	RB	_	14	advmod	_	_
 16	de	de	ADP	IN	_	18	case	_	_
