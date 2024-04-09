@@ -2678,7 +2678,7 @@
 16	)	)	PUNCT	)	_	15	punct	_	SpaceAfter=No
 17	,	,	PUNCT	,	_	19	punct	_	_
 18	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	19	nsubj	_	_
-19	regula	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+19	regula	regular	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
 20	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
 21	agentes	agente	NOUN	NN	Gender=Masc|Number=Plur	19	obj	_	_
 22	en	en	ADP	IN	_	24	case	_	_
@@ -6020,7 +6020,7 @@
 8	,	,	PUNCT	,	_	9	punct	_	_
 9	vive	vivir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
 10	y	y	CCONJ	CC	_	11	cc	_	_
-11	respira	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+11	respira	respirar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
 12	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	estilo	estilo	NOUN	NN	Gender=Masc|Number=Sing	11	obj	_	_
 14	retro	retro	NOUN	NN	Gender=Masc|Number=Sing	13	appos	_	SpaceAfter=No
@@ -13296,7 +13296,7 @@
 7	pues	pues	SCONJ	IN	_	10	mark	_	_
 8	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
 9	ciudades	ciudad	NOUN	NN	Gender=Fem|Number=Plur	10	nsubj	_	_
-10	reportan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+10	reportan	reportar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
 11	truenos	trueno	NOUN	NN	Gender=Masc|Number=Plur	10	obj	_	_
 12	solamente	solamente	ADV	RB	_	14	advmod	_	_
 13	siete	siete	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	14	nummod	_	_
@@ -25190,7 +25190,7 @@
 16	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	hallazgo	hallazgo	NOUN	NN	Gender=Masc|Number=Sing	19	nsubj	_	_
 18	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	compound:prt	_	_
-19	remonta	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+19	remonta	remontar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 20-21	al	_	_	_	_	_	_	_	_
 20	a	a	ADP	INDT	_	22	case	_	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
