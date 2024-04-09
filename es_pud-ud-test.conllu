@@ -12275,7 +12275,7 @@
 9	y	y	CCONJ	CC	_	10	cc	_	_
 10	Ucrania	Ucrania	PROPN	NNP	Number=Sing	8	conj	_	_
 11	normalmente	normalmente	ADV	RB	_	12	advmod	_	_
-12	usaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+12	usaban	usar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 13	ramas	rama	NOUN	NN	Gender=Fem|Number=Plur	12	obj	_	_
 14	de	de	ADP	IN	_	15	case	_	_
 15	sauces	sauz	NOUN	NN	Gender=Masc|Number=Plur	13	nmod	_	_
@@ -12390,7 +12390,7 @@
 4	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	ríos	río	NOUN	NN	Gender=Masc|Number=Plur	2	nmod	_	_
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pass	_	_
-7	usa	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	usa	usar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	en	en	ADP	IN	_	9	case	_	_
 9	más	más	ADV	RBR	Degree=Cmp	7	xcomp	_	_
 10	de	de	ADP	IN	_	12	case	_	_
@@ -17067,7 +17067,7 @@
 10	metal	metal	NOUN	NN	Gender=Masc|Number=Sing	8	nmod	_	_
 11	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	13	nsubj:pass	_	_
 12	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl:pass	_	_
-13	usaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	acl:relcl	_	_
+13	usaban	usar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	acl:relcl	_	_
 14	en	en	ADP	IN	_	15	case	_	_
 15	maquinaria	maquinaria	NOUN	NN	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	4	punct	_	_
