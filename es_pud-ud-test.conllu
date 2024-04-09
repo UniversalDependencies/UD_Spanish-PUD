@@ -2101,7 +2101,7 @@
 7	Press	press	NOUN	NN	Number=Sing	4	obl	_	Proper=True
 8	de	de	ADP	IN	_	10	case	_	_
 9	que	que	SCONJ	IN	_	10	mark	_	_
-10	hubo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	xcomp	_	_
+10	hubo	haber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	xcomp	_	_
 11	"	"	PUNCT	''	_	13	punct	_	SpaceAfter=No
 12	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	intercambio	intercambio	NOUN	NN	Gender=Masc|Number=Sing	10	obj	_	_
@@ -18944,7 +18944,7 @@
 2	embargo	embargo	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	1	punct	_	_
 4	no	no	ADV	RB	Polarity=Neg	5	advmod	_	_
-5	hubo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	hubo	haber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	más	más	ADV	RBR	Degree=Cmp	7	advmod	_	_
 7	reconocimiento	reconocimiento	NOUN	NN	Gender=Masc|Number=Sing	5	obj	_	_
 8	público	público	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	_
@@ -23044,7 +23044,7 @@
 19	:	:	PUNCT	:	_	22	punct	_	_
 20	"	"	PUNCT	``	_	22	punct	_	SpaceAfter=No
 21	No	no	ADV	RB	Polarity=Neg	22	advmod	_	_
-22	hubo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	_
+22	hubo	haber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	_
 23	realmente	realmente	ADV	RB	_	22	advmod	_	_
 24	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	consulta	consulta	NOUN	NN	Gender=Fem|Number=Sing	22	obj	_	SpaceAfter=No
@@ -25469,7 +25469,7 @@
 9	nacionalsocialistas	nacionalsocialista	NOUN	NN	Gender=Masc|Number=Plur	6	nmod	_	Proper=True
 10	en	en	ADP	IN	_	11	case	_	_
 11	1933	1933	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	nmod	_	_
-12	hubo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	hubo	haber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	intentos	intento	NOUN	NN	Gender=Masc|Number=Plur	12	obj	_	_
 14	dispersos	disperso	ADJ	JJ	Gender=Masc|Number=Plur	13	amod	_	_
 15	de	de	ADP	IN	_	16	case	_	_
