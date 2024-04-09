@@ -136,7 +136,7 @@
 12	de	de	ADP	IN	_	14	case	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	república	república	NOUN	NN	Gender=Fem|Number=Sing	11	nmod	_	_
-15	recae	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+15	recae	recaer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
 16	en	en	ADP	IN	_	17	case	_	_
 17	ustedes	tú	PRON	PRP	Case=Acc,Nom|Number=Plur|Person=2|Polite=Form|PronType=Prs	15	obl	_	SpaceAfter=No
 18	,	,	PUNCT	,	_	19	punct	_	_
@@ -1075,7 +1075,7 @@
 19	tarifa	tarifa	NOUN	NN	Gender=Fem|Number=Sing	14	nsubj:pass	_	_
 20	de	de	ADP	IN	_	21	case	_	_
 21	acceso	acceso	NOUN	NN	Gender=Masc|Number=Sing	19	nmod	_	_
-22	recaería	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
+22	recaería	recaer	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
 23	sobre	sobre	ADP	IN	_	25	case	_	_
 24	cada	cada	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	25	det	_	_
 25	compañía	compañía	NOUN	NN	Gender=Fem|Number=Sing	22	obl	_	_
@@ -1784,7 +1784,7 @@
 5	,	,	PUNCT	,	_	4	punct	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	pelo	pelo	NOUN	NN	Gender=Masc|Number=Sing	8	nsubj	_	_
-8	recibe	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	recibe	recibir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	baño	baño	NOUN	NN	Gender=Masc|Number=Sing	8	obj	_	_
 11	químico	químico	ADJ	JJ	Gender=Masc|Number=Sing	10	amod	_	_
@@ -2365,7 +2365,7 @@
 # text_en = Ms Pugh has received treatment at Papworth and Addenbrooke's Hospitals in Cambridgeshire.
 1	Pugh	Pugh	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	_
-3	recibido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	recibido	recibir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	tratamiento	tratamiento	NOUN	NN	Gender=Masc|Number=Sing	3	obj	_	_
 5	en	en	ADP	IN	_	7	case	_	_
 6	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
@@ -3084,7 +3084,7 @@
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	directivos	directivo	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
 3	también	también	ADV	RB	_	4	advmod	_	_
-4	recibieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	recibieron	recibir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	conocidas	conocida	NOUN	NN	Gender=Fem|Number=Plur	4	obj	_	_
 7	como	como	ADP	IN	_	9	case	_	_
@@ -3727,7 +3727,7 @@
 18	,	,	PUNCT	,	_	19	punct	_	_
 19	Tejas	Tejas	PROPN	NNP	Number=Sing	17	appos	_	SpaceAfter=No
 20	,	,	PUNCT	,	_	17	punct	_	_
-21	recibió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	appos	_	_
+21	recibió	recibir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	appos	_	_
 22	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	noticia	noticia	NOUN	NN	Gender=Fem|Number=Sing	13	obj	_	_
 24	de	de	ADP	IN	_	30	case	_	_
@@ -4566,7 +4566,7 @@
 9	canciones	canción	NOUN	NN	Gender=Fem|Number=Plur	5	conj	_	_
 10	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	12	nsubj	_	_
 11	los	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	_
-12	recogen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	SpaceAfter=No
+12	recogen	recoger	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	9	punct	_	_
 14	añaden	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 15	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
@@ -17427,7 +17427,7 @@
 4	caballería	caballería	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	_
 5	británicos	británico	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	Proper=True
 6	también	también	ADV	RB	_	7	advmod	_	_
-7	recibieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	recibieron	recibir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 9	excelente	excelente	ADJ	JJ	Gender=Masc|Number=Sing	10	amod	_	_
 10	entrenamiento	entrenamiento	NOUN	NN	Gender=Masc|Number=Sing	7	obj	_	_
@@ -21932,7 +21932,7 @@
 4	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	teléfonos	teléfono	NOUN	NN	Gender=Masc|Number=Plur	2	nmod	_	_
 6	inteligentes	inteligente	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
-7	recibió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	recibió	recibir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	aplicación	aplicación	NOUN	NN	Gender=Fem|Number=Sing	7	obj	_	_
 10	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	12	obj	_	_
@@ -23874,7 +23874,7 @@
 2	cambio	cambio	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	1	punct	_	_
 4	Uber	Uber	PROPN	NNP	Number=Sing	5	nsubj	_	_
-5	recibirá	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+5	recibirá	recibir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 6	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	inversión	inversión	NOUN	NN	Gender=Fem|Number=Sing	5	obj	_	_
 8	de	de	ADP	IN	_	10	case	_	_
@@ -25366,7 +25366,7 @@
 2	himno	himno	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj:pass	_	_
 3	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
 4	bien	bien	ADV	RB	_	5	advmod	_	_
-5	recibido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	recibido	recibir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	y	y	CCONJ	CC	_	9	cc	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	audiencia	audiencia	NOUN	NN	Gender=Fem|Number=Sing	9	nsubj	_	_
