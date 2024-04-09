@@ -9056,7 +9056,7 @@
 15	mercado	mercado	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	_
 16	de	de	ADP	IN	_	18	case	_	_
 17	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
-18	EUA	_	PROPN	NNP	Gender=Masc|Number=Plur	15	nmod	_	SpaceAfter=No
+18	EUA	EUA	PROPN	NNP	Gender=Masc|Number=Plur	15	nmod	_	SpaceAfter=No
 19	,	,	PUNCT	,	_	23	punct	_	_
 20	junto	junto	ADV	RB	_	23	case	_	_
 21	con	con	ADP	IN	_	20	fixed	_	_
@@ -9086,7 +9086,7 @@
 16	obligaciones	obligación	NOUN	NN	Gender=Fem|Number=Plur	14	nsubj	_	_
 17	de	de	ADP	IN	_	19	case	_	_
 18	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
-19	EUA	_	PROPN	NNP	Gender=Masc|Number=Plur	16	nmod	_	_
+19	EUA	EUA	PROPN	NNP	Gender=Masc|Number=Plur	16	nmod	_	_
 20	y	y	CCONJ	CC	_	21	cc	_	_
 21	Australia	Australia	PROPN	NNP	Number=Sing	19	conj	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	4	punct	_	_
@@ -9135,7 +9135,7 @@
 15	Medioambiente	medioambiente	NOUN	NN	Gender=Masc|Number=Sing	12	nmod	_	Proper=True
 16	de	de	ADP	IN	_	18	case	_	Proper=True
 17	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	Proper=True
-18	EUA	_	PROPN	NNP	Gender=Masc|Number=Plur	9	nmod	_	_
+18	EUA	EUA	PROPN	NNP	Gender=Masc|Number=Plur	9	nmod	_	_
 19	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	aux	_	_
 20	alertado	alertar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	xcomp	_	_
 21-22	al	_	_	_	_	_	_	_	_
@@ -21604,7 +21604,7 @@
 16	efecto	efecto	NOUN	NN	Gender=Masc|Number=Sing	15	obj	_	SpaceAfter=No
 17	:	:	PUNCT	:	_	22	punct	_	_
 18	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
-19	EUA	_	PROPN	NNP	Gender=Masc|Number=Plur	22	nsubj	_	_
+19	EUA	EUA	PROPN	NNP	Gender=Masc|Number=Plur	22	nsubj	_	_
 20	tendrían	tener	AUX	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	22	aux	_	_
 21	que	que	ADP	IN	_	20	fixed	_	_
 22	retirar	retirar	VERB	VB	VerbForm=Inf	5	appos	_	_
@@ -21728,7 +21728,7 @@
 28	exterior	exterior	ADJ	JJ	Gender=Masc|Number=Sing	27	amod	_	_
 29	de	de	ADP	IN	_	31	case	_	_
 30	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	31	det	_	_
-31	EUA	_	PROPN	NNP	Gender=Masc|Number=Plur	21	nmod	_	_
+31	EUA	EUA	PROPN	NNP	Gender=Masc|Number=Plur	21	nmod	_	_
 32	están	estar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
 33	en	en	ADP	IN	_	36	case	_	_
 34	tan	tan	ADV	RB	_	35	advmod	_	_
@@ -25862,7 +25862,7 @@
 24	comunicación	comunicación	NOUN	NN	Gender=Fem|Number=Sing	22	nmod	_	_
 25	hacia	hacia	ADP	IN	_	27	case	_	_
 26	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
-27	EUA	_	PROPN	NNP	Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
+27	EUA	EUA	PROPN	NNP	Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
 28	.	.	PUNCT	.	_	8	punct	_	_
 
 # newdoc id = w03001
