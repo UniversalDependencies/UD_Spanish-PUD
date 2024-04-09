@@ -1383,7 +1383,7 @@
 11	reducir	reducir	VERB	VB	VerbForm=Inf	8	xcomp	_	_
 12	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	carbono	carbono	NOUN	NN	Gender=Masc|Number=Sing	11	obj	_	_
-14	afirma	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	afirma	afirmar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 15	que	que	SCONJ	IN	_	18	mark	_	_
 16	estos	este	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	18	nsubj	_	_
 17	no	no	ADV	RB	Polarity=Neg	18	advmod	_	_
@@ -1803,7 +1803,7 @@
 # text = Tarlo afirma que, a lo largo de la historia, el mercado internacional de pelo siempre ha tenido una dimensión política.
 # text_en = Throughout history, the international hair market has always had a political dimension, says Tarlo.
 1	Tarlo	Tarlo	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	afirma	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	afirma	afirmar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	IN	_	19	mark	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	19	punct	_	_
 5	a	a	ADP	IN	_	10	case	_	_
@@ -2278,7 +2278,7 @@
 # text_en = Researchers say analysing tumour DNA may help explain the underlying causes of other cancers.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	investigadores	investigador	NOUN	NN	Gender=Masc|Number=Plur	3	nsubj	_	_
-3	afirman	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	afirman	afirmar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	IN	_	12	mark	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	analizar	analizar	VERB	VB	VerbForm=Inf	12	csubj	_	_
@@ -2497,7 +2497,7 @@
 14	de	de	ADP	IN	_	15	case	_	_
 15	Columbia	Columbia	PROPN	NNP	Gender=Fem|Number=Sing	13	nmod	_	_
 16	Británica	británico	ADJ	JJ	Gender=Fem|Number=Sing	15	amod	_	Proper=True
-17	afirma	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+17	afirma	afirmar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 18	que	que	SCONJ	IN	_	20	mark	_	_
 19	todavía	todavía	ADV	RB	_	20	advmod	_	_
 20	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	ccomp	_	_
@@ -3675,7 +3675,7 @@
 14	en	en	ADP	IN	_	11	advmod	_	_
 15	general	general	NOUN	NN	Number=Sing	14	fixed	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	17	punct	_	_
-17	afirman	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+17	afirman	afirmar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 18	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
 19	Servicios	servicio	NOUN	NN	Gender=Masc|Number=Plur	17	nsubj	_	Proper=True
 20	Canadienses	canadiense	ADJ	JJ	Gender=Masc|Number=Plur	19	amod	_	Proper=True
@@ -4672,7 +4672,7 @@
 9	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	10	nummod	_	_
 10	académicos	académico	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	_
 11	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	12	nsubj	_	_
-12	afirman	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+12	afirman	afirmar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
 13	que	que	SCONJ	IN	_	16	mark	_	_
 14	"	"	PUNCT	``	_	16	punct	_	SpaceAfter=No
 15	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
@@ -17451,7 +17451,7 @@
 6	y	y	CCONJ	CC	_	7	cc	_	_
 7	Weller	Weller	PROPN	NNP	Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	5	punct	_	_
-9	afirman	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	afirman	afirmar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	que	que	SCONJ	IN	_	16	mark	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	caballería	caballería	NOUN	NN	Gender=Fem|Number=Sing	16	nsubj:pass	_	_
