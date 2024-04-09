@@ -2766,7 +2766,7 @@
 10	en	en	ADP	IN	_	14	discourse	_	_
 11	especial	especial	NOUN	NN	Number=Sing	10	fixed	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	10	punct	_	_
-13	grandes	_	ADJ	JJ	Gender=Masc|Number=Plur	14	amod	_	_
+13	grandes	grande	ADJ	JJ	Gender=Masc|Number=Plur	14	amod	_	_
 14	emisores	_	NOUN	NN	Gender=Masc|Number=Plur	7	conj	_	_
 15	como	como	ADP	IN	_	16	case	_	_
 16	Brasil	Brasil	PROPN	NNP	Number=Sing	14	nmod	_	SpaceAfter=No
@@ -6495,7 +6495,7 @@
 3	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl:pass	_	_
 4	han	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
 5	planificado	planificar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-6	grandes	_	ADJ	JJ	Gender=Fem|Number=Plur	7	amod	_	_
+6	grandes	grande	ADJ	JJ	Gender=Fem|Number=Plur	7	amod	_	_
 7	reducciones	_	NOUN	NN	Gender=Fem|Number=Plur	5	nsubj:pass	_	_
 8	para	para	ADP	IN	_	10	case	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
@@ -7300,7 +7300,7 @@
 6	sea	ser	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 7	vulnerable	vulnerable	ADJ	JJ	Number=Sing	3	ccomp	_	_
 8	a	a	ADP	IN	_	10	case	_	_
-9	grandes	_	ADJ	JJ	Gender=Fem|Number=Plur	10	amod	_	_
+9	grandes	grande	ADJ	JJ	Gender=Fem|Number=Plur	10	amod	_	_
 10	demandas	_	NOUN	NN	Gender=Fem|Number=Plur	7	obl	_	_
 11	de	de	ADP	IN	_	12	case	_	_
 12	indemnización	indemnización	NOUN	NN	Gender=Fem|Number=Sing	10	nmod	_	_
@@ -9164,7 +9164,7 @@
 11	uno	uno	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 12	de	de	ADP	IN	_	15	case	_	_
 13	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
-14	grandes	_	ADJ	JJ	Gender=Masc|Number=Plur	15	amod	_	_
+14	grandes	grande	ADJ	JJ	Gender=Masc|Number=Plur	15	amod	_	_
 15	motivos	_	NOUN	NN	Gender=Masc|Number=Plur	11	nmod	_	_
 16	por	por	ADP	IN	_	18	case	_	_
 17	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
@@ -10311,7 +10311,7 @@
 6	,	,	PUNCT	,	_	8	punct	_	_
 7	pues	pues	SCONJ	IN	_	8	mark	_	_
 8	contiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
-9	grandes	_	ADJ	JJ	Gender=Masc|Number=Plur	10	amod	_	_
+9	grandes	grande	ADJ	JJ	Gender=Masc|Number=Plur	10	amod	_	_
 10	depósitos	_	NOUN	NN	Gender=Masc|Number=Plur	8	obj	_	_
 11	de	de	ADP	IN	_	12	case	_	_
 12	oro	oro	NOUN	NN	Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
@@ -11195,7 +11195,7 @@
 18	crecer	crecer	VERB	VB	VerbForm=Inf	5	parataxis	_	_
 19	y	y	CCONJ	CC	_	20	cc	_	_
 20	ocasionar	ocasionar	VERB	VB	VerbForm=Inf	18	conj	_	_
-21	grandes	_	ADJ	JJ	Gender=Masc|Number=Plur	22	amod	_	_
+21	grandes	grande	ADJ	JJ	Gender=Masc|Number=Plur	22	amod	_	_
 22	efectos	_	NOUN	NN	Gender=Masc|Number=Plur	20	obj	_	_
 23	en	en	ADP	IN	_	26	case	_	_
 24	todo	todo	DET	PDT	Gender=Masc|Number=Sing|PronType=Tot	26	det	_	_
@@ -13331,7 +13331,7 @@
 17	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	ciudad	ciudad	NOUN	NN	Gender=Fem|Number=Sing	14	obl	_	_
 19	más	más	ADV	RBR	Degree=Cmp	20	advmod	_	_
-20	grande	_	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	_
+20	grande	grande	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	_
 21-22	al	_	_	_	_	_	_	_	_
 21	a	a	ADP	INDT	_	23	case	_	_
 22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
@@ -14893,7 +14893,7 @@
 16	de	de	ADP	IN	_	18	case	_	_
 17	diez	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	18	nummod	_	_
 18	rocas	_	NOUN	NN	Gender=Fem|Number=Plur	15	nmod	_	_
-19	grandes	_	ADJ	JJ	Gender=Fem|Number=Plur	18	amod	_	_
+19	grandes	grande	ADJ	JJ	Gender=Fem|Number=Plur	18	amod	_	_
 20	en	en	ADP	IN	_	21	case	_	_
 21	posición	posición	NOUN	NN	Gender=Fem|Number=Sing	18	nmod	_	_
 22	vertical	_	ADJ	JJ	Gender=Fem|Number=Sing	21	amod	_	SpaceAfter=No
@@ -21108,7 +21108,7 @@
 # text = Los Grandes Poderes no cumplieron con los requisitos para el reconocimiento de Albania.
 # text_en = The Great Powers did not fulfill the requests for recognition of Albania.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
-2	Grandes	_	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	Proper=True
+2	Grandes	grande	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	Proper=True
 3	Poderes	_	NOUN	NN	Gender=Masc|Number=Plur	5	nsubj	_	Proper=True
 4	no	no	ADV	RB	Polarity=Neg	5	advmod	_	_
 5	cumplieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -21143,7 +21143,7 @@
 15	de	de	ADP	IN	_	19	case	_	_
 16	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
 17	seis	seis	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	19	nummod	_	_
-18	Grandes	_	ADJ	JJ	Gender=Masc|Number=Plur	19	amod	_	Proper=True
+18	Grandes	grande	ADJ	JJ	Gender=Masc|Number=Plur	19	amod	_	Proper=True
 19	Poderes	_	NOUN	NN	Gender=Masc|Number=Plur	14	nmod	_	Proper=True
 20	rechazó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 21	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
@@ -21204,7 +21204,7 @@
 23	Albania	Albania	PROPN	NNP	Number=Sing	20	nmod	_	SpaceAfter=No
 24	,	,	PUNCT	,	_	1	punct	_	_
 25	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
-26	Grandes	_	ADJ	JJ	Gender=Masc|Number=Plur	27	amod	_	_
+26	Grandes	grande	ADJ	JJ	Gender=Masc|Number=Plur	27	amod	_	_
 27	Poderes	_	NOUN	NN	Gender=Masc|Number=Plur	29	nsubj	_	_
 28	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	29	compound:prt	_	_
 29	dieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -26291,7 +26291,7 @@
 10	que	que	ADP	IN	_	9	fixed	_	_
 11	barcos	_	NOUN	NN	Gender=Masc|Number=Plur	15	nsubj:pass	_	_
 12	suficientemente	suficientemente	ADV	RB	_	13	advmod	_	_
-13	grandes	_	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	_
+13	grandes	grande	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	_
 14	fueron	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	aux:pass	_	_
 15	contruídos	_	VERB	VBN	Gender=Masc|Number=Plur|VerbForm=Fin	8	advcl	_	_
 16	para	para	ADP	IN	_	17	case	_	_
