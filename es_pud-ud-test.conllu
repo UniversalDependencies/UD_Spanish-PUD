@@ -5022,7 +5022,7 @@
 3	de	de	ADP	IN	_	4	case	_	_
 4	más	más	ADV	RBR	Degree=Cmp	2	xcomp	_	_
 5	de	de	ADP	IN	_	7	case	_	_
-6	330	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	7	nummod	_	_
+6	330	330	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	7	nummod	_	_
 7	personas	persona	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
 8	está	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	a	a	ADP	IN	_	13	case	_	_
@@ -5757,7 +5757,7 @@
 21	entre	entre	ADP	IN	_	22	case	_	_
 22	12.000	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	25	nummod	_	_
 23	y	y	CCONJ	CC	_	24	cc	_	_
-24	360	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	22	conj	_	_
+24	360	360	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	22	conj	_	_
 25	libras	libra	NOUN	NN	Gender=Fem|Number=Plur	19	nmod	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	7	punct	_	_
 
@@ -6875,7 +6875,7 @@
 13	6.30	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	6	nmod	_	_
 14	a	a	ADP	IN	_	16	case	_	_
 15	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
-16	10	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	13	nmod	_	_
+16	10	10	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	13	nmod	_	_
 17	de	de	ADP	IN	_	19	case	_	_
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	mañana	mañana	NOUN	NN	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
@@ -7521,7 +7521,7 @@
 7	Eon	Eon	PROPN	NNP	Number=Sing	2	nmod	_	_
 8	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	de	de	ADP	IN	_	11	case	_	_
-10	760	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	11	nummod	_	_
+10	760	760	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	11	nummod	_	_
 11	libras	libra	NOUN	NN	Gender=Fem|Number=Plur	8	obl	_	_
 12	y	y	CCONJ	CC	_	18	cc	_	_
 13	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
@@ -7531,7 +7531,7 @@
 17	Energy	energy	NOUN	NN	Number=Sing	16	flat:name	_	Proper=True
 18	pagarían	_	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	conj	_	_
 19	unas	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
-20	760	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	21	nummod	_	_
+20	760	760	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	21	nummod	_	_
 21	libras	libra	NOUN	NN	Gender=Fem|Number=Plur	18	obj	_	_
 22	por	por	ADP	IN	_	24	case	_	_
 23	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	24	det	_	_
@@ -7574,7 +7574,7 @@
 11	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	aux	_	_
 12	esperar	esperar	VERB	VB	VerbForm=Inf	0	root	_	_
 13	recibir	recibir	VERB	VB	VerbForm=Inf	12	xcomp	_	_
-14	125	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	15	nummod	_	_
+14	125	125	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	15	nummod	_	_
 15	libras	libra	NOUN	NN	Gender=Fem|Number=Plur	13	obj	_	_
 16	en	en	ADP	IN	_	17	case	_	_
 17	premios	premio	NOUN	NN	Gender=Masc|Number=Plur	13	obl	_	_
@@ -12394,7 +12394,7 @@
 8	en	en	ADP	IN	_	9	case	_	_
 9	más	más	ADV	RBR	Degree=Cmp	7	xcomp	_	_
 10	de	de	ADP	IN	_	12	case	_	_
-11	500	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	12	nummod	_	_
+11	500	500	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	12	nummod	_	_
 12	plantas	planta	NOUN	NN	Gender=Fem|Number=Plur	9	obl	_	_
 13	hidroeléctricas	hidroeléctrico	ADJ	JJ	Gender=Fem|Number=Plur	12	amod	_	_
 14	y	y	CCONJ	CC	_	15	cc	_	_
@@ -18711,7 +18711,7 @@
 1	Solamente	solamente	ADV	RB	_	3	advmod	_	_
 2	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pass	_	_
 3	publicaron	publicar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	3000	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	5	nummod	_	_
+4	3000	3000	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	5	nummod	_	_
 5	copias	copia	NOUN	NN	Gender=Fem|Number=Plur	3	nsubj:pass	_	_
 6	de	de	ADP	IN	_	9	case	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
@@ -19446,9 +19446,9 @@
 11	lideró	liderar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
 12	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
 13	ultimas	ultimo	ADJ	JJ	Gender=Fem|Number=Plur	14	amod	_	_
-14	33	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	11	obj	_	_
+14	33	33	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	11	obj	_	_
 15	de	de	ADP	IN	_	17	case	_	_
-16	36	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	17	nummod	_	_
+16	36	36	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	17	nummod	_	_
 17	carreras	carrera	NOUN	NN	Gender=Fem|Number=Plur	14	nmod	_	SpaceAfter=No
 18	,	,	PUNCT	,	_	19	punct	_	_
 19-20	convirtiéndose	_	_	_	_	_	_	_	_
@@ -26718,7 +26718,7 @@
 6	de	de	ADP	IN	_	7	case	_	_
 7	golf	golf	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	_
 8	de	de	ADP	IN	_	10	case	_	_
-9	90	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	10	nummod	_	_
+9	90	90	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	10	nummod	_	_
 10	hectáreas	hectárea	NOUN	NN	Gender=Fem|Number=Plur	5	nmod	_	_
 11	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	_	_
 12	construído	_	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	_
