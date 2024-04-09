@@ -9760,7 +9760,7 @@
 10	propiedades	propiedad	NOUN	NN	Gender=Fem|Number=Plur	7	obj	_	_
 11	y	y	CCONJ	CC	_	13	cc	_	_
 12	siempre	siempre	ADV	RB	_	13	advmod	_	_
-13	volvía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	conj	_	_
+13	volvía	volver	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	conj	_	_
 14-15	al	_	_	_	_	_	_	_	_
 14	a	a	ADP	INDT	_	16	case	_	_
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
@@ -19197,7 +19197,7 @@
 9	,	,	PUNCT	,	_	10	punct	_	_
 10	permitiendo	permitir	VERB	VBG	VerbForm=Ger	6	advcl	_	_
 11	que	que	SCONJ	IN	_	12	mark	_	_
-12	volvieran	_	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	ccomp	_	_
+12	volvieran	volver	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	ccomp	_	_
 13-14	al	_	_	_	_	_	_	_	_
 13	a	a	ADP	INDT	_	15	case	_	_
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
