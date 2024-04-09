@@ -12200,7 +12200,7 @@
 6	sucesos	suceso	NOUN	NN	Gender=Masc|Number=Plur	2	nmod	_	_
 7	de	de	ADP	IN	_	8	case	_	_
 8	Kansas	Kansas	PROPN	NNP	Number=Sing	6	nmod	_	_
-9	puso	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	puso	poner	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	de	de	ADP	IN	_	11	case	_	_
 11	manifiesto	manifiesto	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	_
 12	cuánto	cuánto	ADV	WRB	_	15	advmod	_	_
@@ -15489,7 +15489,7 @@
 8	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	mar	mar	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	Proper=True
 10	Mediterráneo	Mediterráneo	PROPN	NNP	Gender=Masc|Number=Sing	9	appos	_	_
-11	puso	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11	puso	poner	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 12	estrictas	estricto	ADJ	JJ	Gender=Fem|Number=Plur	13	amod	_	_
 13	limitaciones	limitación	NOUN	NN	Gender=Fem|Number=Plur	11	obj	_	_
 14	sobre	sobre	ADP	IN	_	16	case	_	_
@@ -18980,7 +18980,7 @@
 3	Love	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	nsubj:pass	_	Proper=True
 4	You	_	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Ind	3	obj	_	Proper=True
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl:pass	_	_
-6	puso	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	puso	poner	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	a	a	ADP	IN	_	9	case	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	venta	venta	NOUN	NN	Gender=Fem|Number=Sing	6	obl	_	_
@@ -21183,7 +21183,7 @@
 2	de	de	ADP	IN	_	5	case	_	_
 3	que	que	SCONJ	IN	_	5	mark	_	_
 4	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl:pass	_	_
-5	puso	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	xcomp	_	_
+5	puso	poner	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	xcomp	_	_
 6	de	de	ADP	IN	_	7	case	_	_
 7	manifiesto	manifiesto	NOUN	NN	Gender=Masc|Number=Sing	5	obl	_	_
 8	que	que	SCONJ	IN	_	12	mark	_	_
@@ -25543,7 +25543,7 @@
 9	Francisco	Francisco	PROPN	NNP	Gender=Masc|Number=Sing	6	appos	_	_
 10	José	José	PROPN	NNP	Gender=Masc|Number=Sing	9	flat:name	_	_
 11	I	i	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	Proper=True
-12	puso	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	puso	poner	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	gran	gran	ADJ	JJ	Gender=Masc|Number=Sing	14	amod	_	_
 14	cuidado	cuidado	NOUN	NN	Gender=Masc|Number=Sing	12	obj	_	_
 15	en	en	ADP	IN	_	16	case	_	_
