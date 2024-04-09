@@ -5755,7 +5755,7 @@
 19	cantidad	cantidad	NOUN	NN	Gender=Fem|Number=Sing	13	obl	_	_
 20	de	de	ADP	IN	_	25	case	_	_
 21	entre	entre	ADP	IN	_	22	case	_	_
-22	12.000	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	25	nummod	_	_
+22	12.000	12000	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	25	nummod	_	_
 23	y	y	CCONJ	CC	_	24	cc	_	_
 24	360	360	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	22	conj	_	_
 25	libras	libra	NOUN	NN	Gender=Fem|Number=Plur	19	nmod	_	SpaceAfter=No
@@ -5782,9 +5782,9 @@
 15	sobre	sobre	ADP	IN	_	16	case	_	_
 16	saldos	saldo	NOUN	NN	Gender=Masc|Number=Plur	11	obl	_	_
 17	de	de	ADP	IN	_	18	case	_	_
-18	3.000	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	16	nmod	_	_
+18	3.000	3000	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	16	nmod	_	_
 19	a	a	ADP	IN	_	21	case	_	_
-20	5.000	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	21	nummod	_	_
+20	5.000	5000	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	21	nummod	_	_
 21	libras	libra	NOUN	NN	Gender=Fem|Number=Plur	18	nmod	_	_
 22-23	al	_	_	_	_	_	_	_	_
 22	a	a	ADP	INDT	_	24	case	_	_
@@ -5847,9 +5847,9 @@
 19	tomar	tomar	VERB	VB	VerbForm=Inf	18	xcomp	_	_
 20	prestadas	prestar	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	25	acl	_	_
 21	entre	entre	ADP	IN	_	25	case	_	_
-22	15.001	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	25	nummod	_	_
+22	15.001	15001	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	25	nummod	_	_
 23	y	y	CCONJ	CC	_	24	cc	_	_
-24	19.999	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	22	conj	_	_
+24	19.999	19999	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	22	conj	_	_
 25	libras	libra	NOUN	NN	Gender=Fem|Number=Plur	19	obl	_	_
 26	durante	durante	ADP	IN	_	28	case	_	_
 27	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
@@ -7567,7 +7567,7 @@
 4	afortunado	afortunado	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	_
 5	y	y	CCONJ	CC	_	8	cc	_	_
 6	con	con	ADP	IN	_	8	case	_	_
-7	10.000	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	8	nummod	_	_
+7	10.000	10000	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	8	nummod	_	_
 8	libras	libra	NOUN	NN	Gender=Fem|Number=Plur	4	conj	_	_
 9	en	en	ADP	IN	_	10	case	_	_
 10	obligaciones	obligación	NOUN	NN	Gender=Fem|Number=Plur	8	nmod	_	_
