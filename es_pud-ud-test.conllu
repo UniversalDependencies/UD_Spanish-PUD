@@ -1838,7 +1838,7 @@
 6	castigos	castigo	NOUN	NN	Gender=Masc|Number=Plur	3	obj	_	_
 7	utilizando	utilizar	VERB	VBG	VerbForm=Ger	3	advcl	_	_
 8	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
-9	luces	_	NOUN	NN	Gender=Fem|Number=Plur	7	obj	_	_
+9	luces	luz	NOUN	NN	Gender=Fem|Number=Plur	7	obj	_	_
 10	largas	largo	ADJ	JJ	Gender=Fem|Number=Plur	9	amod	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	14	punct	_	_
 12	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	14	expl:pass	_	_
@@ -3343,7 +3343,7 @@
 32	,	,	PUNCT	,	_	33	punct	_	_
 33	indicaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	parataxis	_	_
 34	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	35	det	_	_
-35	directrices	_	NOUN	NN	Gender=Fem|Number=Plur	33	nsubj	_	SpaceAfter=No
+35	directrices	directriz	NOUN	NN	Gender=Fem|Number=Plur	33	nsubj	_	SpaceAfter=No
 36	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = n01045035
@@ -3691,7 +3691,7 @@
 # text_en = The new iron guidelines mean more donors are needed.
 1	Las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 2	nuevas	nuevo	ADJ	JJ	Gender=Fem|Number=Plur	3	amod	_	_
-3	directrices	_	NOUN	NN	Gender=Fem|Number=Plur	7	nsubj	_	_
+3	directrices	directriz	NOUN	NN	Gender=Fem|Number=Plur	7	nsubj	_	_
 4	sobre	sobre	ADP	IN	_	6	case	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	hierro	hierro	NOUN	NN	Gender=Masc|Number=Sing	3	nmod	_	_
@@ -7108,7 +7108,7 @@
 15	hacer	hacer	VERB	VB	VerbForm=Inf	20	csubj	_	_
 16	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	obj	_	_
 17	tres	tres	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	18	nummod	_	_
-18	veces	_	NOUN	NN	Gender=Fem|Number=Plur	15	obl	_	_
+18	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	15	obl	_	_
 19	seguidas	seguido	ADJ	JJ	Gender=Fem|Number=Plur	18	amod	_	_
 20	indica	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
 21	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
@@ -8663,7 +8663,7 @@
 12	hace	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
 13	clic	clic	NOUN	NN	Gender=Masc|Number=Sing	12	obj	_	_
 14	en	en	ADP	IN	_	15	case	_	_
-15	enlaces	_	NOUN	NN	Gender=Masc|Number=Plur	12	obl	_	_
+15	enlaces	enlaz	NOUN	NN	Gender=Masc|Number=Plur	12	obl	_	_
 16	y	y	CCONJ	CC	_	17	cc	_	_
 17	archivos	archivo	NOUN	NN	Gender=Masc|Number=Plur	15	conj	_	_
 18	adjuntos	adjunto	ADJ	JJ	Gender=Masc|Number=Plur	17	amod	_	_
@@ -12075,7 +12075,7 @@
 7	estas	este	DET	DT	Gender=Fem|Number=Plur|PronType=Dem	8	det	_	_
 8	llanuras	llanura	NOUN	NN	Gender=Fem|Number=Plur	13	nsubj:pass	_	_
 9	a	a	ADP	IN	_	13	advmod	_	_
-10	veces	_	NOUN	NN	Gender=Fem|Number=Plur	9	fixed	_	_
+10	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	9	fixed	_	_
 11	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	compound:prt	_	_
 12	consideran	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
 13	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	4	xcomp	_	_
@@ -12278,7 +12278,7 @@
 12	usaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 13	ramas	rama	NOUN	NN	Gender=Fem|Number=Plur	12	obj	_	_
 14	de	de	ADP	IN	_	15	case	_	_
-15	sauces	_	NOUN	NN	Gender=Masc|Number=Plur	13	nmod	_	_
+15	sauces	sauz	NOUN	NN	Gender=Masc|Number=Plur	13	nmod	_	_
 16	en	en	ADP	IN	_	19	case	_	_
 17	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	16	fixed	_	_
 18	de	de	ADP	IN	_	16	fixed	_	_
@@ -12485,7 +12485,7 @@
 8	vulcanología	vulcanología	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	13	punct	_	_
 10	a	a	ADP	IN	_	13	advmod	_	_
-11	veces	_	NOUN	NN	Gender=Fem|Number=Plur	10	fixed	_	_
+11	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	10	fixed	_	_
 12	escrito	_	AUX	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	13	cop	_	_
 13	volcanología	volcanología	NOUN	NN	Gender=Fem|Number=Sing	8	acl	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	8	punct	_	_
@@ -12512,7 +12512,7 @@
 17	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	det	_	_
 18	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	22	obl	_	_
 19	muchas	mucho	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	20	det	_	_
-20	veces	_	NOUN	NN	Gender=Fem|Number=Plur	22	obl	_	_
+20	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	22	obl	_	_
 21	no	no	ADV	RB	Polarity=Neg	22	advmod	_	_
 22	alcanza	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 23	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
@@ -14770,7 +14770,7 @@
 10	y	y	CCONJ	CC	_	11	cc	_	_
 11	solicitó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
 12	varias	vario	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	13	det	_	_
-13	veces	_	NOUN	NN	Gender=Fem|Number=Plur	11	obl	_	_
+13	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	11	obl	_	_
 14	regresar	regresar	VERB	VB	VerbForm=Inf	11	xcomp	_	_
 15	a	a	ADP	IN	_	16	case	_	_
 16	Roma	Roma	PROPN	NNP	Number=Sing	14	obl	_	SpaceAfter=No
@@ -15369,7 +15369,7 @@
 3	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
 4	casado	casar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	tres	tres	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	6	nummod	_	_
-6	veces	_	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
+6	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	4	punct	_	_
 
 # newdoc id = w01069
@@ -18187,7 +18187,7 @@
 3	de	de	ADP	IN	_	4	case	_	_
 4	Hitchcock	Hitchcock	PROPN	NNP	Gender=Masc|Number=Sing	2	nmod	_	_
 5	a	a	ADP	IN	_	7	advmod	_	_
-6	veces	_	NOUN	NN	Gender=Fem|Number=Plur	5	fixed	_	_
+6	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	5	fixed	_	_
 7	presentan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	personajes	_	NOUN	NN	Gender=Masc|Number=Plur	7	obj	_	_
 9	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	10	nsubj	_	_
@@ -19151,7 +19151,7 @@
 4	y	y	CCONJ	CC	_	5	cc	_	_
 5	expulsado	expulsar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
 6	dos	dos	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	7	nummod	_	_
-7	veces	_	NOUN	NN	Gender=Fem|Number=Plur	9	obl	_	_
+7	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	9	obl	_	_
 8	más	más	ADV	RBR	Degree=Cmp	7	advmod	_	_
 9	antes	antes	ADV	RB	_	3	advmod	_	_
 10	de	de	ADP	IN	_	17	case	_	_
@@ -21273,7 +21273,7 @@
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	oficiales	oficial	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
 3	fueron	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
-4	capaces	_	ADJ	JJ	Gender=Masc|Number=Plur	0	root	_	_
+4	capaces	capaz	ADJ	JJ	Gender=Masc|Number=Plur	0	root	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	reducir	reducir	VERB	VB	VerbForm=Inf	4	xcomp	_	_
 7-8	al	_	_	_	_	_	_	_	_
@@ -25352,7 +25352,7 @@
 11	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	_	_
 12	reconocido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
 13	múltiples	múltipl	ADJ	JJ	Gender=Fem|Number=Plur	14	amod	_	_
-14	veces	_	NOUN	NN	Gender=Fem|Number=Plur	12	obl	_	_
+14	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	12	obl	_	_
 15	durante	durante	ADP	IN	_	17	case	_	_
 16	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
 17	estancias	estancia	NOUN	NN	Gender=Fem|Number=Plur	12	obl	_	SpaceAfter=No
@@ -25818,7 +25818,7 @@
 19	y	y	CCONJ	CC	_	20	cc	_	_
 20	viajó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	conj	_	_
 21	muchas	mucho	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	22	det	_	_
-22	veces	_	NOUN	NN	Gender=Fem|Number=Plur	20	obl	_	_
+22	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	20	obl	_	_
 23	a	a	ADP	IN	_	24	case	_	_
 24	Israel	Israel	PROPN	NNP	Number=Sing	20	obl	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	11	punct	_	_
