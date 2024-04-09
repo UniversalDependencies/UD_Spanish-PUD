@@ -2038,7 +2038,7 @@
 14	;	;	PUNCT	:	_	17	punct	_	_
 15	este	este	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	17	nsubj	_	_
 16	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	aux	_	_
-17	hecho	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	parataxis	_	_
+17	hecho	hacer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	parataxis	_	_
 18	varios	vario	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	19	det	_	_
 19	viajes	_	NOUN	NN	Gender=Masc|Number=Plur	17	obj	_	_
 20-21	al	_	_	_	_	_	_	_	_
@@ -2898,7 +2898,7 @@
 6	Melania	Melania	PROPN	NNP	Gender=Fem|Number=Sing	2	appos	_	_
 7	Trump	Trump	PROPN	NNP	Gender=Fem|Number=Sing	6	flat:name	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	6	punct	_	_
-9	hizo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	hizo	hacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
 11	primera	primero	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	_
 12	aparición	aparición	NOUN	NN	Gender=Fem|Number=Sing	9	obj	_	_
@@ -3182,7 +3182,7 @@
 35	decir	decir	VERB	VB	VerbForm=Inf	34	fixed	_	SpaceAfter=No
 36	,	,	PUNCT	,	_	38	punct	_	_
 37	de	de	SCONJ	IN	_	38	mark	_	_
-38	hace	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	xcomp	_	_
+38	hace	hacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	xcomp	_	_
 39	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	40	nummod	_	_
 40	años	año	NOUN	NN	Gender=Masc|Number=Plur	38	obl:tmod	_	SpaceAfter=No
 41	.	.	PUNCT	.	_	4	punct	_	_
@@ -3429,7 +3429,7 @@
 4	Rogers	Rogers	PROPN	NNP	Number=Sing	6	nsubj	_	_
 5	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 6	introducido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
-7	hace	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+7	hace	hacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
 8	poco	poco	ADV	RB	_	7	advmod	_	_
 9	aplicación	aplicación	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	_
 10	basada	basado	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	_
@@ -3862,7 +3862,7 @@
 15	en	en	ADP	IN	_	17	case	_	_
 16	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	entrevista	entrevista	NOUN	NN	Gender=Fem|Number=Sing	13	obl	_	_
-18	hace	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+18	hace	hacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	_
 19	poco	poco	ADV	RB	_	18	advmod	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -6744,7 +6744,7 @@
 15	lista	lista	NOUN	NN	Gender=Fem|Number=Sing	20	nsubj	_	_
 16	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	20	compound:prt	_	_
 17	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	aux	_	_
-18	hecho	_	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	cop	_	_
+18	hecho	hacer	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	cop	_	_
 19	excesivamente	excesivamente	ADV	RB	_	20	advmod	_	_
 20	larga	largo	ADJ	JJ	Gender=Fem|Number=Sing	0	root	_	_
 21	y	y	CCONJ	CC	_	22	cc	_	_
@@ -7294,7 +7294,7 @@
 # text_en = It has also opened VW up to huge compensation claims, legal action and has seen it take more than €16bn of provisions.
 1	También	también	ADV	RB	_	3	advmod	_	_
 2	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	_
-3	hecho	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	hecho	hacer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	que	que	SCONJ	IN	_	7	mark	_	_
 5	VW	VW	PROPN	NNP	Number=Sing	7	nsubj	_	_
 6	sea	ser	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
@@ -8093,7 +8093,7 @@
 3	,	,	PUNCT	,	_	1	punct	_	_
 4	si	si	SCONJ	IN	_	6	mark	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl:pass	_	_
-6	hace	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+6	hace	hacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
 7	bien	bien	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	6	punct	_	_
 9	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
@@ -8125,7 +8125,7 @@
 9	hasta	hasta	ADP	IN	_	10	case	_	_
 10	ahora	ahora	ADV	RB	_	12	xcomp	_	_
 11	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	_
-12	hecho	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+12	hecho	hacer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 13	ocho	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	14	nummod	_	_
 14	películas	película	NOUN	NN	Gender=Fem|Number=Plur	12	obj	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	12	punct	_	_
@@ -8207,7 +8207,7 @@
 14	pretensiones	pretensión	NOUN	NN	Gender=Fem|Number=Plur	12	nmod	_	_
 15	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	16	nsubj	_	_
 16	parece	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
-17	hecho	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	advcl	_	_
+17	hecho	hacer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	advcl	_	_
 18	a	a	ADP	IN	_	19	case	_	_
 19	medida	medida	NOUN	NN	Gender=Fem|Number=Sing	17	obl	_	_
 20	para	para	ADP	IN	_	22	case	_	_
@@ -8305,7 +8305,7 @@
 9	calidad	calidad	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	_
 10	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	15	nsubj	_	_
 11	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	obj	_	_
-12	hace	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+12	hace	hacer	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
 13	tanto	tanto	ADV	RB	_	14	advmod	_	_
 14	más	más	ADV	RBR	Degree=Cmp	15	advmod	_	_
 15	atractivo	atractivo	ADJ	JJ	Gender=Masc|Number=Sing	9	acl:relcl	_	SpaceAfter=No
@@ -8660,7 +8660,7 @@
 9	correos	correo	NOUN	NN	Gender=Masc|Number=Plur	6	obj	_	_
 10	electrónicos	electrónico	ADJ	JJ	Gender=Masc|Number=Plur	9	amod	_	_
 11	o	o	CCONJ	CC	_	12	cc	_	_
-12	hace	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+12	hace	hacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
 13	clic	clic	NOUN	NN	Gender=Masc|Number=Sing	12	obj	_	_
 14	en	en	ADP	IN	_	15	case	_	_
 15	enlaces	enlaz	NOUN	NN	Gender=Masc|Number=Plur	12	obl	_	_
@@ -9431,7 +9431,7 @@
 3	que	que	SCONJ	IN	_	12	mark	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	esfuerzo	esfuerzo	NOUN	NN	Gender=Masc|Number=Sing	12	nsubj	_	_
-6	hecho	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_
+6	hecho	hacer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_
 7	en	en	ADP	IN	_	8	case	_	_
 8	Internet	internet	NOUN	NN	Number=Sing	6	obl	_	_
 9	era	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	cop	_	_
@@ -13781,7 +13781,7 @@
 # text = Esto hizo que el libro consiguiera la atención de la industria química y sus grupos de presión, así como de un amplio porcentaje de la población americana.
 # text_en = This brought the book to the attention of the chemical industry and its lobbyists, as well as a wide swath of the American populace.
 1	Esto	esto	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
-2	hizo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	hizo	hacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	IN	_	6	mark	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	libro	libro	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -14379,7 +14379,7 @@
 11	determinado	determinado	ADJ	JJ	Gender=Masc|Number=Sing	12	amod	_	_
 12	día	día	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	_
 13	de	de	SCONJ	IN	_	14	mark	_	_
-14	hace	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	xcomp	_	_
+14	hace	hacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	xcomp	_	_
 15	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	16	nummod	_	_
 16	mil	mil	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	17	nummod	_	_
 17	años	año	NOUN	NN	Gender=Masc|Number=Plur	14	obl:tmod	_	_
@@ -14449,7 +14449,7 @@
 26	como	como	SCONJ	IN	_	29	mark	_	_
 27	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	29	expl:pass	_	_
 28	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	29	aux	_	_
-29	hecho	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
+29	hecho	hacer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	_
 30	antes	antes	ADV	RB	_	29	advmod	_	_
 31	desde	desde	ADP	IN	_	33	case	_	_
 32	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
@@ -14694,7 +14694,7 @@
 2	dinastía	dinastía	NOUN	NN	Gender=Fem|Number=Sing	5	nsubj	_	_
 3	Liao	Liao	PROPN	NNP	Number=Sing	2	appos	_	_
 4	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
-5	hecho	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	hecho	hacer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	agresivas	agresivo	ADJ	JJ	Gender=Fem|Number=Plur	7	amod	_	_
 7	negociaciones	negociación	NOUN	NN	Gender=Fem|Number=Plur	5	obj	_	_
 8	para	para	ADP	IN	_	9	case	_	_
@@ -15756,7 +15756,7 @@
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	emperador	emperador	NOUN	NN	Gender=Masc|Number=Sing	9	nsubj	_	_
 8	Caracalla	Caracalla	PROPN	NNP	Gender=Masc|Number=Sing	7	appos	_	_
-9	hizo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	hizo	hacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 11	nueva	nuevo	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	_
 12	división	división	NOUN	NN	Gender=Fem|Number=Sing	9	obj	_	_
@@ -17003,7 +17003,7 @@
 27	África	África	PROPN	NNP	Number=Sing	25	obl	_	_
 28	posiblemente	posiblemente	ADV	RB	_	30	advmod	_	_
 29	desde	desde	SCONJ	IN	_	30	mark	_	_
-30	hace	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	xcomp	_	_
+30	hace	hacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	xcomp	_	_
 31	ya	ya	ADV	RB	_	30	advmod	_	_
 32	5000	5000	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	33	nummod	_	_
 33	años	año	NOUN	NN	Gender=Masc|Number=Plur	30	obl:tmod	_	SpaceAfter=No
@@ -17854,7 +17854,7 @@
 # text_en = The film chronicles the destruction of Carangi's life and career as a result of her addiction to heroin, and her decline and death from AIDS in the mid-1980s.
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	película	película	NOUN	NN	Gender=Fem|Number=Sing	3	nsubj	_	_
-3	hace	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	hace	hacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	crónica	crónica	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
 6	de	de	ADP	IN	_	8	case	_	_
@@ -20638,7 +20638,7 @@
 # text = No hace mucho se divorció de la actriz Gloria Holden, pero seguía enamorado después de la ruptura del matrimonio.
 # text_en = Not long ago he was divorced from the actress, Gloria Holden, but carried the torch after the marital rift.
 1	No	no	ADV	RB	Polarity=Neg	2	advmod	_	_
-2	hace	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+2	hace	hacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
 3	mucho	mucho	ADV	RB	_	2	advmod	_	_
 4	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	compound:prt	_	_
 5	divorció	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -21523,7 +21523,7 @@
 12	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advmod	_	_
 13	que	que	ADP	IN	_	12	fixed	_	_
 14	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	obj	_	_
-15	hacen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	SpaceAfter=No
+15	hacen	hacer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	15	punct	_	_
 17	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	18	compound:prt	_	_
 18	posan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
@@ -24071,7 +24071,7 @@
 24	ocupados	ocupado	NOUN	NN	Gender=Masc|Number=Plur	22	obj	_	_
 25	más	más	ADV	RBR	Degree=Cmp	24	advmod	_	_
 26	que	que	SCONJ	IN	_	27	mark	_	_
-27	hace	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	xcomp	_	_
+27	hace	hacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	xcomp	_	_
 28	un	un	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	29	nummod	_	_
 29	año	año	NOUN	NN	Gender=Masc|Number=Sing	27	obl:tmod	_	SpaceAfter=No
 30	.	.	PUNCT	.	_	14	punct	_	_
@@ -25735,7 +25735,7 @@
 16	pública	público	ADJ	JJ	Gender=Fem|Number=Sing	15	amod	_	_
 17	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	21	compound:prt	_	_
 18	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	aux	_	_
-19	hecho	_	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	cop	_	_
+19	hecho	hacer	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	cop	_	_
 20	prácticamente	prácticamente	ADV	RB	_	21	advmod	_	_
 21	imposible	_	ADJ	JJ	Gender=Fem|Number=Sing	4	parataxis	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	4	punct	_	_
@@ -27139,7 +27139,7 @@
 40	y	y	CCONJ	CC	_	43	cc	_	_
 41	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	42	det	_	_
 42	mismo	mismo	NOUN	NN	Gender=Masc|Number=Sing	43	obj	_	_
-43	hizo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	36	conj	_	_
+43	hizo	hacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	36	conj	_	_
 44	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	45	det	_	_
 45	zar	zar	NOUN	NN	Gender=Masc|Number=Sing	43	nsubj	_	_
 46	Alejandro	Alejandro	PROPN	NNP	Gender=Masc|Number=Sing	45	appos	_	SpaceAfter=No
