@@ -16,7 +16,7 @@
 12	digital	_	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	_
 13	en	en	ADP	IN	_	14	case	_	_
 14	Estados	_	NOUN	NN	Gender=Masc|Number=Plur	3	obl	_	Proper=True
-15	Unidos	_	ADJ	JJ	Gender=Masc|Number=Plur	14	amod	_	SpaceAfter=No|Proper=True
+15	Unidos	unido	ADJ	JJ	Gender=Masc|Number=Plur	14	amod	_	SpaceAfter=No|Proper=True
 16	,	,	PUNCT	,	_	3	punct	_	_
 17	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	transición	transición	NOUN	NN	Gender=Fem|Number=Sing	23	nsubj	_	_
@@ -260,7 +260,7 @@
 37	Cinematográfica	_	ADJ	JJ	Gender=Fem|Number=Sing	36	amod	_	Proper=True
 38	de	de	ADP	IN	_	39	case	_	Proper=True
 39	Estados	_	NOUN	NN	Gender=Masc|Number=Plur	36	nmod	_	Proper=True
-40	Unidos	_	ADJ	JJ	Gender=Masc|Number=Plur	39	amod	_	Proper=True
+40	Unidos	unido	ADJ	JJ	Gender=Masc|Number=Plur	39	amod	_	Proper=True
 41	y	y	CCONJ	CC	_	44	cc	_	_
 42	de	de	ADP	IN	_	44	case	_	_
 43	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	44	det	_	_
@@ -2468,7 +2468,7 @@
 8	presidente	presidente	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	_
 9	de	de	ADP	IN	_	10	case	_	_
 10	Estados	_	NOUN	NN	Gender=Masc|Number=Plur	8	nmod	_	Proper=True
-11	Unidos	_	ADJ	JJ	Gender=Masc|Number=Plur	10	amod	_	SpaceAfter=No|Proper=True
+11	Unidos	unido	ADJ	JJ	Gender=Masc|Number=Plur	10	amod	_	SpaceAfter=No|Proper=True
 12	,	,	PUNCT	,	_	13	punct	_	_
 13	independientemente	independientemente	ADV	RB	_	8	advmod	_	_
 14	de	de	ADP	IN	_	17	case	_	_
@@ -4325,7 +4325,7 @@
 12	Roma	Roma	PROPN	NNP	Number=Sing	3	nmod	_	_
 13	y	y	CCONJ	CC	_	14	cc	_	_
 14	Estados	_	NOUN	NN	Gender=Masc|Number=Plur	12	conj	_	Proper=True
-15	Unidos	_	ADJ	JJ	Gender=Masc|Number=Plur	14	amod	_	SpaceAfter=No|Proper=True
+15	Unidos	unido	ADJ	JJ	Gender=Masc|Number=Plur	14	amod	_	SpaceAfter=No|Proper=True
 16	,	,	PUNCT	,	_	20	punct	_	_
 17	pero	pero	CCONJ	CC	_	20	cc	_	_
 18	eso	eso	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	20	nsubj	_	_
@@ -8865,7 +8865,7 @@
 22	para	para	ADP	IN	_	24	case	_	_
 23	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
 24	Estados	_	NOUN	NN	Gender=Masc|Number=Plur	21	obl	_	Proper=True
-25	Unidos	_	ADJ	JJ	Gender=Masc|Number=Plur	24	amod	_	SpaceAfter=No|Proper=True
+25	Unidos	unido	ADJ	JJ	Gender=Masc|Number=Plur	24	amod	_	SpaceAfter=No|Proper=True
 26	.	.	PUNCT	.	_	5	punct	_	_
 
 # newdoc id = n01131
@@ -9215,7 +9215,7 @@
 27	de	de	ADP	IN	_	29	case	_	Proper=True
 28	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	29	det	_	_
 29	Estados	_	NOUN	NN	Gender=Masc|Number=Plur	25	nmod	_	Proper=True
-30	Unidos	_	ADJ	JJ	Gender=Masc|Number=Plur	29	amod	_	SpaceAfter=No|Proper=True
+30	Unidos	unido	ADJ	JJ	Gender=Masc|Number=Plur	29	amod	_	SpaceAfter=No|Proper=True
 31	.	.	PUNCT	.	_	12	punct	_	_
 
 # sent_id = n01136006
@@ -16725,7 +16725,7 @@
 # text_en = The United States freed Cuba (after an occupation by the U.S. Army).
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	Estados	_	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	Proper=True
-3	Unidos	_	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	Proper=True
+3	Unidos	unido	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	Proper=True
 4	liberó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	a	a	ADP	IN	_	6	case	_	_
 6	Cuba	Cuba	PROPN	NNP	Number=Sing	4	obl	_	_
@@ -16759,7 +16759,7 @@
 10	a	a	ADP	IN	_	12	case	_	_
 11	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
 12	Estados	_	NOUN	NN	Gender=Masc|Number=Plur	9	obl	_	Proper=True
-13	Unidos	_	ADJ	JJ	Gender=Masc|Number=Plur	12	amod	_	Proper=True
+13	Unidos	unido	ADJ	JJ	Gender=Masc|Number=Plur	12	amod	_	Proper=True
 14	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
 15	colonias	_	NOUN	NN	Gender=Fem|Number=Plur	9	obj	_	_
 16	de	de	ADP	IN	_	17	case	_	_
@@ -22744,7 +22744,7 @@
 2	martes	martes	NOUN	NN	Gender=Masc|Number=Sing	9	obl:tmod	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	Estados	_	NOUN	NN	Gender=Masc|Number=Plur	9	nsubj	_	Proper=True
-5	Unidos	_	ADJ	JJ	Gender=Masc|Number=Plur	4	amod	_	Proper=True
+5	Unidos	unido	ADJ	JJ	Gender=Masc|Number=Plur	4	amod	_	Proper=True
 6	de	de	ADP	IN	_	7	case	_	Proper=True
 7	América	América	PROPN	NNP	Number=Sing	4	nmod	_	_
 8	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
