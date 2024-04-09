@@ -98,7 +98,7 @@
 22	afirmó	afirmar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	_
 23	que	que	SCONJ	IN	_	27	mark	_	_
 24	si	si	SCONJ	IN	_	26	mark	_	_
-25	fuese	_	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	26	cop	_	_
+25	fuese	ir	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	26	cop	_	_
 26	presidente	presidente	NOUN	NN	Gender=Masc|Number=Sing	27	advcl	_	_
 27	reconocería	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	ccomp	_	_
 28	a	a	ADP	IN	_	32	case	_	_
@@ -1229,7 +1229,7 @@
 2	,	,	PUNCT	,	_	1	punct	_	_
 3	como	como	ADP	IN	_	7	case	_	_
 4	China	China	PROPN	NNP	Number=Sing	7	nsubj	_	_
-5	va	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+5	va	ir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 6	a	a	ADP	IN	_	5	fixed	_	_
 7-8	convertirse	_	_	_	_	_	_	_	_
 7	convertir	convertir	VERB	VB	VerbForm=Inf	22	xcomp	_	_
@@ -4704,7 +4704,7 @@
 4	nada	nada	NOUN	NN	Gender=Masc|Number=Sing	3	obj	_	_
 5	más	más	ADV	RBR	Degree=Cmp	4	advmod	_	_
 6	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	9	nsubj	_	_
-7	fuese	_	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+7	fuese	ir	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
 8	evidentemente	evidentemente	ADV	RB	_	9	advmod	_	_
 9	artístico	artístico	ADJ	JJ	Gender=Masc|Number=Sing	4	acl:relcl	_	_
 10	sobre	sobre	ADP	IN	_	11	case	_	_
@@ -5208,7 +5208,7 @@
 # sent_id = n01074011
 # text = Van a ir a por todas y a intentar ganar a Inglaterra.
 # text_en = They have one crack at redemption, beating England.
-1	Van	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+1	Van	ir	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 2	a	a	ADP	IN	_	1	fixed	_	_
 3	ir	ir	VERB	VB	VerbForm=Inf	0	root	_	_
 4	a	a	ADP	IN	_	6	case	_	_
@@ -5497,7 +5497,7 @@
 10	y	y	CCONJ	CC	_	11	cc	_	_
 11	vaqueros	vaquero	NOUN	NN	Gender=Masc|Number=Plur	9	conj	_	SpaceAfter=No
 12	;	;	PUNCT	:	_	15	punct	_	_
-13	va	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+13	va	ir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
 14	tan	tan	ADV	RB	_	15	advmod	_	_
 15	discreta	discreto	ADJ	JJ	Gender=Fem|Number=Sing	4	parataxis	_	_
 16	que	que	ADP	IN	_	17	case	_	_
@@ -8998,7 +8998,7 @@
 6	que	que	ADP	IN	_	5	fixed	_	_
 7	decidir	decidir	VERB	VB	VerbForm=Inf	0	root	_	_
 8	si	si	SCONJ	IN	_	11	mark	_	_
-9	van	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+9	van	ir	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
 10	a	a	ADP	IN	_	9	fixed	_	_
 11	comercializar	comercializar	VERB	VB	VerbForm=Inf	7	ccomp	_	_
 12	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
@@ -9269,7 +9269,7 @@
 20	,	,	PUNCT	,	_	23	punct	_	_
 21	aunque	aunque	SCONJ	IN	_	23	mark	_	_
 22	solo	solo	ADV	RB	_	23	advmod	_	_
-23	fuese	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	advcl	_	_
+23	fuese	ir	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	advcl	_	_
 24	brevemente	brevemente	ADV	RB	_	23	advmod	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -16133,7 +16133,7 @@
 44	pueden	poder	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	45	aux	_	_
 45	asumir	asumir	VERB	VB	VerbForm=Inf	24	conj	_	_
 46	que	que	SCONJ	IN	_	49	mark	_	_
-47	van	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	49	aux	_	_
+47	van	ir	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	49	aux	_	_
 48	a	a	ADP	IN	_	47	fixed	_	_
 49	prosperar	prosperar	VERB	VB	VerbForm=Inf	45	ccomp	_	_
 50	en	en	ADP	IN	_	52	case	_	_
