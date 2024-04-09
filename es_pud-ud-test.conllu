@@ -950,7 +950,7 @@
 7	está	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
 8	en	en	ADP	IN	_	11	case	_	_
 9	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-10	mejor	_	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Sing	11	amod	_	_
+10	mejor	mejor	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Sing	11	amod	_	_
 11	posición	posición	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
 12	para	para	ADP	IN	_	13	case	_	_
 13-14	beneficiarse	_	_	_	_	_	_	_	_
@@ -7945,7 +7945,7 @@
 10	que	que	SCONJ	IN	_	13	mark	_	_
 11	seamos	ser	AUX	VBC	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	cop	_	_
 12	todavía	todavía	ADV	RB	_	13	advmod	_	_
-13	mejores	_	ADJ	JJR	Degree=Cmp|Number=Plur	9	ccomp	_	_
+13	mejores	mejor	ADJ	JJR	Degree=Cmp|Number=Plur	9	ccomp	_	_
 14	en	en	ADP	IN	_	15	case	_	_
 15	2017	2017	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	13	obl	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	6	punct	_	_
@@ -9358,7 +9358,7 @@
 3	uno	uno	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 4	de	de	ADP	IN	_	7	case	_	_
 5	mis	_	PRON	DTP$	Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
-6	mejores	_	ADJ	JJR	Degree=Cmp|Gender=Masc|Number=Plur	7	amod	_	_
+6	mejores	mejor	ADJ	JJR	Degree=Cmp|Gender=Masc|Number=Plur	7	amod	_	_
 7	amigos	amigo	NOUN	NN	Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	19	punct	_	_
 9	así	así	ADV	RB	_	19	mark	_	_
@@ -11420,7 +11420,7 @@
 7	Trabajo	trabajo	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	Proper=True
 8	sobre	sobre	ADP	IN	_	11	case	_	_
 9	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
-10	peores	_	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Plur	11	amod	_	_
+10	peores	peor	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Plur	11	amod	_	_
 11	formas	forma	NOUN	NN	Gender=Fem|Number=Plur	2	nmod	_	_
 12	de	de	ADP	IN	_	13	case	_	_
 13	trabajo	trabajo	NOUN	NN	Gender=Masc|Number=Sing	11	nmod	_	_
@@ -16077,7 +16077,7 @@
 21	unas	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
 22	ganancias	ganancia	NOUN	NN	Gender=Fem|Number=Plur	25	nsubj	_	_
 23	perdidas	_	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	22	acl	_	_
-24	menores	_	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Plur	22	amod	_	_
+24	menores	menor	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Plur	22	amod	_	_
 25	incitaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
 26	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
 27	rebelión	rebelión	NOUN	NN	Gender=Fem|Number=Sing	25	obj	_	SpaceAfter=No
@@ -18209,7 +18209,7 @@
 3	trabajar	trabajar	VERB	VB	VerbForm=Inf	2	xcomp	_	_
 4	con	con	ADP	IN	_	7	case	_	_
 5	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
-6	mejores	_	ADJ	JJR	Degree=Cmp|Gender=Masc|Number=Plur	7	amod	_	_
+6	mejores	mejor	ADJ	JJR	Degree=Cmp|Gender=Masc|Number=Plur	7	amod	_	_
 7	talentos	talento	NOUN	NN	Gender=Masc|Number=Plur	3	obl	_	_
 8	de	de	ADP	IN	_	10	case	_	_
 9	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
@@ -19389,7 +19389,7 @@
 9	una	una	NOUN	NN	Gender=Fem|Number=Sing	6	ccomp	_	_
 10	de	de	ADP	IN	_	13	case	_	_
 11	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
-12	mejores	_	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Plur	13	amod	_	_
+12	mejores	mejor	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Plur	13	amod	_	_
 13	interpretaciones	interpretación	NOUN	NN	Gender=Fem|Number=Plur	9	nmod	_	_
 14	de	de	ADP	IN	_	15	case	_	_
 15	LeBeouf	LeBeouf	PROPN	NNP	Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
