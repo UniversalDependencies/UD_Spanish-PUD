@@ -95,7 +95,7 @@
 19	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	inmigración	inmigración	NOUN	NN	Gender=Fem|Number=Sing	17	nmod	_	_
 21	y	y	CCONJ	CC	_	22	cc	_	_
-22	afirmó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	_
+22	afirmó	afirmar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	_
 23	que	que	SCONJ	IN	_	27	mark	_	_
 24	si	si	SCONJ	IN	_	26	mark	_	_
 25	fuese	_	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	26	cop	_	_
@@ -228,7 +228,7 @@
 7	equipo	equipo	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	transición	transición	NOUN	NN	Gender=Fem|Number=Sing	7	nmod	_	_
-10	utilizó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	utilizó	utilizar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 12	mismo	mismo	ADJ	JJ	Gender=Masc|Number=Sing	13	amod	_	_
 13	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	10	obj	_	_
@@ -248,7 +248,7 @@
 25	sector	sector	NOUN	NN	Gender=Masc|Number=Sing	20	nmod	_	_
 26	tecnológico	tecnológico	ADJ	JJ	Gender=Masc|Number=Sing	25	amod	_	_
 27	e	e	CCONJ	CC	_	28	cc	_	_
-28	invitó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	_
+28	invitó	invitar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	_
 29	a	a	ADP	IN	_	30	case	_	_
 30	representantes	representante	NOUN	NN	Number=Plur	28	obl	_	_
 31	de	de	ADP	IN	_	32	case	_	_
@@ -280,7 +280,7 @@
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	reunión	reunión	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj:pass	_	_
 3	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl:pass	_	_
-4	programó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	programó	programar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	inicialmente	inicialmente	ADV	RB	_	4	advmod	_	_
 6	en	en	ADP	IN	_	9	case	_	_
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
@@ -403,7 +403,7 @@
 21	línea	línea	NOUN	NN	Gender=Fem|Number=Sing	18	obl	_	_
 22	existente	existente	ADJ	JJ	Gender=Fem|Number=Sing	21	amod	_	SpaceAfter=No
 23	,	,	PUNCT	,	_	13	punct	_	_
-24	costó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+24	costó	costar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 25	103,7	103,7	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	26	nummod	_	_
 26	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	24	obj	_	_
 27	de	de	ADP	IN	_	28	case	_	_
@@ -428,7 +428,7 @@
 13	puede	poder	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
 14	ayudar	ayudar	VERB	VB	VerbForm=Inf	8	ccomp	_	SpaceAfter=No
 15	,	,	PUNCT	,	_	16	punct	_	_
-16	afirmó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	_
+16	afirmó	afirmar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	_
 17	Joe	Joe	PROPN	NNP	Gender=Masc|Number=Sing	16	nsubj	_	_
 18	Sternlieb	Sternlieb	PROPN	NNP	Gender=Masc|Number=Sing	17	flat:name	_	SpaceAfter=No
 19	,	,	PUNCT	,	_	20	punct	_	_
@@ -476,7 +476,7 @@
 # text_en = A witness told police that the victim had attacked the suspect in April.
 1	Un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	testigo	testigo	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	contó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	contó	contar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	a	a	ADP	IN	_	6	case	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	policía	policía	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	_
@@ -749,7 +749,7 @@
 # text = Osborne firmó un contrato con una agencia de oradores estadounidense tras ser despedido en julio.
 # text_en = Mr Osborne signed up with a US speakers agency after being sacked in July.
 1	Osborne	Osborne	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	firmó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	firmó	firmar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	contrato	contrato	NOUN	NN	Gender=Masc|Number=Sing	2	obj	_	_
 5	con	con	ADP	IN	_	7	case	_	_
@@ -771,7 +771,7 @@
 # text_en = Michael Fallon said the date for cutting the first steel would help secure new investment and safeguard hundreds of skilled jobs until 2035.
 1	Michael	Michael	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	Fallon	Fallon	PROPN	NNP	Gender=Masc|Number=Sing	1	flat:name	_	_
-3	afirmó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	afirmó	afirmar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	IN	_	13	mark	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	fecha	fecha	NOUN	NN	Gender=Fem|Number=Sing	13	nsubj	_	_
@@ -910,7 +910,7 @@
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	empresa	empresa	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	_
 3	surcoreana	surcoreano	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	Proper=True
-4	pensó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	pensó	pensar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	en	en	ADP	IN	_	7	case	_	_
 6	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	principio	principio	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	_
@@ -1543,7 +1543,7 @@
 # text = Se llevó a cabo a poca distancia de la costa mexicana de abril a junio.
 # text_en = It was conducted just off the Mexican coast from April to June.
 1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl:pass	_	_
-2	llevó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	llevó	llevar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	a	a	ADP	IN	_	4	case	_	_
 4	cabo	cabo	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	_
 5	a	a	ADP	IN	_	7	case	_	_
@@ -1727,7 +1727,7 @@
 4	de	de	ADP	IN	_	5	case	_	Proper=True
 5	Horticultura	horticultura	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	Proper=True
 6	británica	británico	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	Proper=True
-7	recopiló	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	recopiló	recopilar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
 9	cartas	carta	NOUN	NN	Gender=Fem|Number=Plur	7	obj	_	_
 10	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	11	obj	_	_
@@ -1991,7 +1991,7 @@
 15	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	cual	cual	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	18	obj	_	_
 17	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	18	compound:prt	_	_
-18	anexionó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_
+18	anexionó	anexionar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_
 19	en	en	ADP	IN	_	20	case	_	_
 20	2014	2014	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	18	obl	_	SpaceAfter=No
 21	,	,	PUNCT	,	_	25	punct	_	_
@@ -2050,7 +2050,7 @@
 25	últimos	último	ADJ	JJ	Gender=Masc|Number=Plur	26	amod	_	_
 26	años	año	NOUN	NN	Gender=Masc|Number=Plur	17	obl	_	_
 27	y	y	CCONJ	CC	_	28	cc	_	_
-28	visitó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	conj	_	_
+28	visitó	visitar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	conj	_	_
 29	Kamchatka	Kamchatka	PROPN	NNP	Number=Sing	28	obj	_	_
 30	y	y	CCONJ	CC	_	31	cc	_	_
 31	Sajalín	Sajalín	PROPN	NNP	Number=Sing	29	conj	_	_
@@ -2095,7 +2095,7 @@
 1	Un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	portavoz	portavoz	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	policial	policial	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	_
-4	informó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	informó	informar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	a	a	ADP	IN	_	7	case	_	_
 6	Associated	associated	ADJ	JJ	Number=Sing	7	amod	_	Proper=True
 7	Press	press	NOUN	NN	Number=Sing	4	obl	_	Proper=True
@@ -2172,7 +2172,7 @@
 9	,	,	PUNCT	,	_	3	punct	_	_
 10	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	pelea	pelea	NOUN	NN	Gender=Fem|Number=Sing	12	nsubj	_	_
-12	comenzó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	comenzó	comenzar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	después	después	ADV	RB	_	12	advmod	_	_
 14	de	de	ADP	IN	_	31	case	_	_
 15	que	que	SCONJ	IN	_	31	mark	_	_
@@ -2537,7 +2537,7 @@
 3	de	de	ADP	IN	_	4	case	_	_
 4	Columbia	Columbia	PROPN	NNP	Gender=Fem|Number=Sing	2	nmod	_	_
 5	Británica	británico	ADJ	JJ	Gender=Fem|Number=Sing	4	amod	_	Proper=True
-6	declaró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	declaró	declarar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	anteriormente	anteriormente	ADV	RB	_	6	advmod	_	_
 8	que	que	SCONJ	IN	_	10	mark	_	_
 9	no	no	ADV	RB	Polarity=Neg	10	advmod	_	_
@@ -3363,7 +3363,7 @@
 11	confianza	confianza	NOUN	NN	Gender=Fem|Number=Sing	9	nmod	_	_
 12	de	de	ADP	IN	_	13	case	_	_
 13	Duffy	Duffy	PROPN	NNP	Gender=Masc|Number=Sing	5	nmod	_	_
-14	dictaminó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+14	dictaminó	dictaminar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 15	que	que	SCONJ	IN	_	16	mark	_	_
 16	obedecían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	14	ccomp	_	_
 17	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
@@ -3373,7 +3373,7 @@
 20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	Senado	senado	NOUN	NN	Gender=Masc|Number=Sing	18	nmod	_	_
 22	cuando	cuando	ADV	WRB	PronType=Rel	23	advmod	_	_
-23	retiró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	advcl	_	_
+23	retiró	retirar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	advcl	_	_
 24	todos	todo	DET	PDT	Gender=Masc|Number=Plur|PronType=Tot	26	det	_	_
 25	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
 26	cargos	cargo	NOUN	NN	Gender=Masc|Number=Plur	23	obj	_	_
@@ -3404,7 +3404,7 @@
 1	Es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 2	increíble	increíble	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	4	punct	_	_
-4	afirmó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	_
+4	afirmó	afirmar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	consumidora	consumidora	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	_
 7	de	de	ADP	IN	_	9	case	_	_
@@ -3424,7 +3424,7 @@
 # text = También señaló que Rogers había introducido hace poco aplicación basada en una herramienta que ayuda a los usuarios a controlar el uso de sus datos.
 # text_en = He also pointed out that Rogers recently introduced a new app tool that helps customers monitor their data usage.
 1	También	también	ADV	RB	_	2	advmod	_	_
-2	señaló	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	señaló	señalar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	IN	_	6	mark	_	_
 4	Rogers	Rogers	PROPN	NNP	Number=Sing	6	nsubj	_	_
 5	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
@@ -3709,7 +3709,7 @@
 # text_en = What started as a routine ultrasound became complicated when expectant mother Margaret Boemer, of Plano, Texas, was told her unborn child had a rare condition and needed surgery to survive.
 1	Lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	det	_	_
 2	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	_
-3	empezó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	csubj	_	_
+3	empezó	empezar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	csubj	_	_
 4	como	como	ADP	IN	_	6	case	_	_
 5	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	ecografía	ecografía	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	_
@@ -3829,7 +3829,7 @@
 13	maravillosa	maravilloso	ADJ	JJ	Gender=Fem|Number=Sing	11	conj	_	SpaceAfter=No
 14	"	"	PUNCT	''	_	11	punct	_	_
 15	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	16	nsubj	_	_
-16	dejó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	_
+16	dejó	dejar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	_
 17	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	det	_	_
 18	marca	marca	NOUN	NN	Gender=Fem|Number=Sing	16	obj	_	_
 19	en	en	ADP	IN	_	21	case	_	_
@@ -4118,7 +4118,7 @@
 2	mes	mes	NOUN	NN	Gender=Masc|Number=Sing	5	obl:tmod	_	_
 3	pasado	pasado	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	_
 4	alguien	alguien	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj	_	_
-5	lanzó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	lanzó	lanzar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	cócteles	cóctel	NOUN	NN	Gender=Masc|Number=Plur	5	obj	_	_
 7	molotov	molotov	NOUN	NN	Number=Sing	6	nmod	_	_
 8	a	a	ADP	IN	_	10	case	_	_
@@ -4623,7 +4623,7 @@
 3	más	más	ADV	RBR	Degree=Cmp	4	advmod	_	_
 4	seguro	seguro	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	6	punct	_	_
-6	pensó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
+6	pensó	pensar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
 7	platón	platón	PROPN	NNP	Gender=Masc|Number=Sing	6	nsubj	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	9	punct	_	_
 9	otorgar	otorgar	VERB	VB	VerbForm=Inf	4	csubj	_	_
@@ -4788,7 +4788,7 @@
 6	propia	propio	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	_
 7	salud	salud	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	9	punct	_	_
-9	afirmó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
+9	afirmó	afirmar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
 10	Alice	Alice	PROPN	NNP	Gender=Fem|Number=Sing	9	nsubj	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	13	punct	_	_
 12	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
@@ -4879,7 +4879,7 @@
 18	de	de	ADP	IN	_	20	case	_	_
 19	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
 20	votantes	votante	NOUN	NN	Gender=Masc|Number=Plur	17	nmod	_	_
-21	respaldó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	acl:relcl	_	_
+21	respaldó	respaldar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	acl:relcl	_	_
 22	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	salir	salir	VERB	VB	VerbForm=Inf	21	xcomp	_	_
 24	de	de	ADP	IN	_	26	case	_	_
@@ -5002,7 +5002,7 @@
 3	amable	amable	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
 4	y	y	CCONJ	CC	_	6	cc	_	_
 5	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	obj	_	_
-6	aceptó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+6	aceptó	aceptar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
 7	como	como	ADP	IN	_	9	case	_	_
 8	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	hombre	hombre	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
@@ -5102,7 +5102,7 @@
 # text_en = He then spent four years with BBC World Service radio at Bush House.
 1	Después	después	ADV	RB	_	3	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	_	_
-3	pasó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	pasó	pasar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	cuatro	cuatro	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	5	nummod	_	_
 5	años	año	NOUN	NN	Gender=Masc|Number=Plur	3	obl:tmod	_	_
 6	en	en	ADP	IN	_	8	case	_	_
@@ -5124,7 +5124,7 @@
 # sent_id = n01072012
 # text = Trabajó para la BBC durante una década.
 # text_en = He worked for the BBC for a decade.
-1	Trabajó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Trabajó	trabajar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	para	para	ADP	IN	_	4	case	_	_
 3	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	BBC	BBC	PROPN	NNP	Gender=Fem|Number=Sing	1	obl	_	_
@@ -6299,7 +6299,7 @@
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	naturaleza	naturaleza	NOUN	NN	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	5	punct	_	_
-14	afirmó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+14	afirmó	afirmar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 15	:	:	PUNCT	:	_	18	punct	_	_
 16	"	"	PUNCT	``	_	18	punct	_	SpaceAfter=No
 17	me	yo	PRON	PRP	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	18	obj	_	_
@@ -6479,7 +6479,7 @@
 11	Mar	mar	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	Proper=True
 12	Céltico	céltico	ADJ	JJ	Gender=Masc|Number=Sing	11	amod	_	SpaceAfter=No|Proper=True
 13	,	,	PUNCT	,	_	14	punct	_	_
-14	afirmó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	parataxis	_	_
+14	afirmó	afirmar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	parataxis	_	_
 15	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	funcionario	funcionario	NOUN	NN	Gender=Masc|Number=Sing	14	nsubj	_	_
 17	de	de	ADP	IN	_	19	case	_	_
@@ -7021,7 +7021,7 @@
 15	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	ciudad	ciudad	NOUN	NN	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
 17	,	,	PUNCT	,	_	18	punct	_	_
-18	afirmó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	SpaceAfter=No
+18	afirmó	afirmar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = n01101017
@@ -7057,7 +7057,7 @@
 7	de	de	ADP	IN	_	9	case	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	BBC	BBC	PROPN	NNP	Gender=Fem|Number=Sing	3	nmod	_	_
-10	declaró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	declaró	declarar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 11	:	:	PUNCT	:	_	14	punct	_	_
 12	"	"	PUNCT	``	_	14	punct	_	SpaceAfter=No
 13	Lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	14	det	_	_
@@ -7150,7 +7150,7 @@
 11	era	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	xcomp	_	_
 12	así	así	ADV	RB	_	11	advmod	_	_
 13	cuando	cuando	ADV	WRB	PronType=Rel	14	advmod	_	_
-14	jugó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	advcl	_	_
+14	jugó	jugar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	advcl	_	_
 15	contra	contra	ADP	IN	_	16	case	_	_
 16	Benoît	Benoît	PROPN	NNP	Gender=Masc|Number=Sing	14	obl	_	_
 17	Paire	Paire	PROPN	NNP	Gender=Masc|Number=Sing	16	flat:name	_	_
@@ -7204,7 +7204,7 @@
 2	encuesta	encuesta	NOUN	NN	Gender=Fem|Number=Sing	5	nsubj	_	_
 3	anual	anual	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	_
 4	también	también	ADV	RB	_	5	advmod	_	_
-5	reveló	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	reveló	revelar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	que	que	SCONJ	IN	_	17	mark	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	preocupación	preocupación	NOUN	NN	Gender=Fem|Number=Sing	17	nsubj	_	_
@@ -7782,7 +7782,7 @@
 4	publicado	publicar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	_
 5	en	en	ADP	IN	_	6	case	_	_
 6	enero	enero	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	_
-7	informó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	informó	informar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	de	de	ADP	IN	_	16	case	_	_
 9	que	que	SCONJ	IN	_	16	mark	_	_
 10	para	para	ADP	IN	_	11	case	_	_
@@ -7863,7 +7863,7 @@
 19	enorme	_	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	SpaceAfter=No
 20	"	"	PUNCT	''	_	18	punct	_	SpaceAfter=No
 21	,	,	PUNCT	,	_	3	punct	_	_
-22	exhortó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+22	exhortó	exhortar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 23-24	al	_	_	_	_	_	_	_	_
 23	a	a	ADP	INDT	_	25	case	_	_
 24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
@@ -7954,7 +7954,7 @@
 # sent_id = n01116009
 # text = Empezó en RSC a mediados de los años 60 representando a un interno de un psiquiátrico en Marat/Sade.
 # text_en = She started out at the RSC in the mid-Sixties playing an asylum-inmate in Marat/Sade.
-1	Empezó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Empezó	empezar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	en	en	ADP	IN	_	3	case	_	_
 3	RSC	RSC	PROPN	NNP	Number=Sing	1	obl	_	_
 4	a	a	ADP	IN	_	5	case	_	_
@@ -8069,7 +8069,7 @@
 # sent_id = n01117007
 # text = Trabajó en noticias y asuntos de actualidad en la radio y televisión durante décadas.
 # text_en = He worked on the news and current affairs side of radio and TV for decades.
-1	Trabajó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Trabajó	trabajar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	en	en	ADP	IN	_	3	case	_	_
 3	noticias	noticia	NOUN	NN	Gender=Fem|Number=Plur	1	obl	_	_
 4	y	y	CCONJ	CC	_	5	cc	_	_
@@ -8499,7 +8499,7 @@
 5	Tower	tower	NOUN	NN	Number=Sing	3	flat:name	_	Proper=True
 6	de	de	ADP	IN	_	7	case	_	_
 7	Londres	Londres	PROPN	NNP	Number=Sing	5	nmod	_	_
-8	contrató	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	contrató	contratar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 9	a	a	ADP	IN	_	11	case	_	_
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	diseñadora	diseñadora	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
@@ -9014,7 +9014,7 @@
 3	de	de	ADP	IN	_	4	case	_	_
 4	Harley	Harley	PROPN	NNP	Gender=Masc|Number=Sing	2	nmod	_	_
 5	Davidson	Davidson	PROPN	NNP	Gender=Masc|Number=Sing	4	flat:name	_	_
-6	declaró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	declaró	declarar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	que	que	SCONJ	IN	_	23	mark	_	_
 8	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
 9	fechas	fecha	NOUN	NN	Gender=Fem|Number=Plur	23	nsubj	_	_
@@ -9206,7 +9206,7 @@
 19	caso	caso	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	_
 20	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	22	nsubj	_	_
 21	finalmente	finalmente	ADV	RB	_	22	advmod	_	_
-22	llegó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	acl:relcl	_	_
+22	llegó	llegar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	acl:relcl	_	_
 23-24	al	_	_	_	_	_	_	_	_
 23	a	a	ADP	INDT	_	25	case	_	_
 24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
@@ -9316,7 +9316,7 @@
 8	cuando	cuando	ADV	WRB	PronType=Rel	13	advmod	_	_
 9	mi	mi	PRON	DTP$	Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
 10	teléfono	teléfono	NOUN	NN	Gender=Masc|Number=Sing	13	nsubj	_	_
-11	empezó	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
+11	empezó	empezar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
 12	a	a	ADP	IN	_	11	fixed	_	_
 13-14	iluminarse	_	_	_	_	_	_	_	SpaceAfter=No
 13	iluminar	iluminar	VERB	VB	VerbForm=Inf	3	advcl	_	_
@@ -9563,7 +9563,7 @@
 # text_en = The move highlighted the company's desire for users to start thinking of its products as more than just productivity tools.
 1	Este	este	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
 2	movimiento	movimiento	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	resaltó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	resaltó	resaltar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	deseo	deseo	NOUN	NN	Gender=Masc|Number=Sing	3	obj	_	_
 6	de	de	ADP	IN	_	8	case	_	_
@@ -9623,7 +9623,7 @@
 1	Isner	Isner	PROPN	NNP	Gender=Masc|Number=Sing	24	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	,	_	4	punct	_	_
 3	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	_
-4	mostró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	acl:relcl	_	_
+4	mostró	mostrar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	acl:relcl	_	_
 5	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	poco	poco	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
 7	de	de	ADP	IN	_	10	case	_	_
@@ -9702,7 +9702,7 @@
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	Norte	norte	NOUN	NN	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No|Proper=True
 19	,	,	PUNCT	,	_	20	punct	_	_
-20	informó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	_
+20	informó	informar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	_
 21	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	cadena	cadena	NOUN	NN	Gender=Fem|Number=Sing	20	nsubj	_	_
 23	Nine	nine	NUM	CD	NumForm=Word|NumType=Card	24	nummod	_	Proper=True
@@ -10058,7 +10058,7 @@
 # text = También alimentó la aparición de modernos rascacielos, como el visionario MahaNakhon, el edificio más alto de Bangkok.
 # text_en = It's also fuelled the emergence of modern high-rises -- like the visionary MahaNakhon, Bangkok's tallest building.
 1	También	también	ADV	RB	_	2	advmod	_	_
-2	alimentó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	alimentó	alimentar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	aparición	aparición	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 5	de	de	ADP	IN	_	7	case	_	_
@@ -10131,7 +10131,7 @@
 # sent_id = n01149010
 # text = Habló para CNN Style acerca de la experiencia.
 # text_en = She spoke to CNN Style about the experience.
-1	Habló	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Habló	hablar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	para	para	ADP	IN	_	3	case	_	_
 3	CNN	CNN	PROPN	NNP	Number=Sing	1	obl	_	_
 4	Style	style	NOUN	NN	Number=Sing	3	flat:name	_	Proper=True
@@ -10547,7 +10547,7 @@
 15	,	,	PUNCT	,	_	16	punct	_	_
 16	Aminstas	Aminstas	PROPN	NNP	Gender=Masc|Number=Sing	11	appos	_	_
 17	I	i	ADJ	JJ	Gender=Masc|Number=Sing	16	amod	_	Proper=True
-18	aceptó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+18	aceptó	aceptar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 19	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	dominación	dominación	NOUN	NN	Gender=Fem|Number=Sing	18	obj	_	_
 21	de	de	ADP	IN	_	22	case	_	_
@@ -10810,7 +10810,7 @@
 7	de	de	ADP	IN	_	8	case	_	_
 8	aire	aire	NOUN	NN	Gender=Masc|Number=Sing	6	nmod	_	_
 9	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl:pass	_	_
-10	usó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	advcl	_	_
+10	usó	usar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	advcl	_	_
 11	originalmente	originalmente	ADV	RB	_	10	advmod	_	_
 12	para	para	ADP	IN	_	14	case	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
@@ -10984,7 +10984,7 @@
 5	Mojmír	Mojmír	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	_
 6	I	i	ADJ	JJ	Gender=Masc|Number=Sing	5	amod	_	Proper=True
 7	(	(	PUNCT	(	_	8	punct	_	SpaceAfter=No
-8	reinó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
+8	reinó	reinar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
 9-10	del	_	_	_	_	_	_	_	_
 9	de	de	ADP	INDT	_	11	case	_	_
 10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
@@ -11001,7 +11001,7 @@
 4	invadió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	Moravia	Moravia	PROPN	NNP	Number=Sing	4	obj	_	_
 6	y	y	CCONJ	CC	_	7	cc	_	_
-7	reemplazó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+7	reemplazó	reemplazar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
 8	a	a	ADP	IN	_	9	case	_	_
 9	Mojmír	Mojmír	PROPN	NNP	Gender=Masc|Number=Sing	7	obl	_	_
 10	I	i	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	Proper=True
@@ -11345,7 +11345,7 @@
 # text = Francia integró la economía de Camerún con la suya y mejoró la infraestructura con inversiones de capital y trabajadores cualificados, modificando el sistema de trabajos forzados.
 # text_en = France integrated the economy of Cameroun with that of France and improved the infrastructure with capital investments and skilled workers, modifying the system of forced labour.
 1	Francia	Francia	PROPN	NNP	Number=Sing	2	nsubj	_	_
-2	integró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	integró	integrar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	economía	economía	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 5	de	de	ADP	IN	_	6	case	_	_
@@ -11354,7 +11354,7 @@
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	suya	_	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	obl	_	_
 10	y	y	CCONJ	CC	_	11	cc	_	_
-11	mejoró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+11	mejoró	mejorar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
 12	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	infraestructura	infraestructura	NOUN	NN	Gender=Fem|Number=Sing	11	obj	_	_
 14	con	con	ADP	IN	_	15	case	_	_
@@ -11672,7 +11672,7 @@
 2	,	,	PUNCT	,	_	5	punct	_	_
 3	cuando	cuando	ADV	WRB	PronType=Rel	5	advmod	_	_
 4	Augusto	Augusto	PROPN	NNP	Gender=Masc|Number=Sing	5	nsubj	_	_
-5	fundó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	acl:relcl	_	_
+5	fundó	fundar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	acl:relcl	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	Imperio	imperio	NOUN	NN	Gender=Masc|Number=Sing	5	obj	_	Proper=True
 8	romano	romano	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No|Proper=True
@@ -12005,7 +12005,7 @@
 6	por	por	ADP	IN	_	8	case	_	_
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	Danubio	Danubio	PROPN	NNP	Gender=Masc|Number=Sing	5	obl:agent	_	_
-9	incrementó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	incrementó	incrementar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	a	a	ADP	IN	_	13	case	_	_
 11	unas	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
 12	100	100	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	13	nummod	_	_
@@ -12583,7 +12583,7 @@
 # text = Se declaró reserva natural en 1975.
 # text_en = It was declared a wildlife sanctuary in 1975.
 1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	compound:prt	_	_
-2	declaró	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+2	declaró	declarar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
 3	reserva	reserva	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
 4	natural	natural	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	_
 5	en	en	ADP	IN	_	6	case	_	_
@@ -12647,7 +12647,7 @@
 10	,	,	PUNCT	,	_	3	punct	_	_
 11	Thomas	Thomas	PROPN	NNP	Gender=Masc|Number=Sing	13	nsubj	_	_
 12	Lincoln	Lincoln	PROPN	NNP	Gender=Masc|Number=Sing	11	flat:name	_	_
-13	trabajó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+13	trabajó	trabajar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 14	como	como	ADP	IN	_	15	case	_	_
 15	granjero	granjero	NOUN	NN	Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	17	punct	_	_
@@ -12897,7 +12897,7 @@
 # text_en = Christopher Columbus sailed across the Atlantic Ocean to the West Indies in 1492, sparking a period of European exploration of the Americas.
 1	Cristóbal	Cristóbal	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	Colón	Colón	PROPN	NNP	Gender=Masc|Number=Sing	1	flat:name	_	_
-3	viajó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	viajó	viajar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	a	a	ADP	IN	_	8	case	_	_
 5	través	través	NOUN	NN	Gender=Masc|Number=Sing	4	fixed	_	_
 6-7	del	_	_	_	_	_	_	_	_
@@ -13472,7 +13472,7 @@
 23	tierras	tierra	NOUN	NN	Gender=Fem|Number=Plur	20	obl	_	SpaceAfter=No
 24	;	;	PUNCT	:	_	26	punct	_	_
 25	y	y	CCONJ	CC	_	26	cc	_	_
-26	derivó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	conj	_	_
+26	derivó	derivar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	conj	_	_
 27	a	a	ADP	IN	_	29	case	_	_
 28	"	"	PUNCT	``	_	29	punct	_	SpaceAfter=No
 29	mar	mar	NOUN	NN	Number=Sing	26	obl	_	Proper=True
@@ -13606,7 +13606,7 @@
 14	cuando	cuando	ADV	WRB	PronType=Rel	17	advmod	_	_
 15	Cristóbal	Cristóbal	PROPN	NNP	Gender=Masc|Number=Sing	17	nsubj	_	_
 16	Colón	Colón	PROPN	NNP	Gender=Masc|Number=Sing	15	flat:name	_	_
-17	navegó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	advcl	_	_
+17	navegó	navegar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	advcl	_	_
 18	por	por	ADP	IN	_	20	case	_	_
 19	primera	primero	ADJ	JJ	Gender=Fem|Number=Sing	20	amod	_	_
 20	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	17	obl	_	_
@@ -13716,7 +13716,7 @@
 # text_en = She also took advantage of her personal connections with many government scientists, who supplied her with confidential information.
 1	Ella	él	PRON	PRP	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	también	también	ADV	RB	_	3	advmod	_	_
-3	tomó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	tomó	tomar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	ventaja	ventaja	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
 6	de	de	ADP	IN	_	8	case	_	_
@@ -13835,7 +13835,7 @@
 19	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	dinastía	dinastía	NOUN	NN	Gender=Fem|Number=Sing	24	nsubj	_	_
 21	Yuan	Yuan	PROPN	NNP	Number=Sing	20	appos	_	_
-22	empezó	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	aux	_	_
+22	empezó	empezar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	aux	_	_
 23	a	a	ADP	IN	_	22	fixed	_	_
 24	flaquear	flaquear	VERB	VB	VerbForm=Inf	11	advcl	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	11	punct	_	_
@@ -14015,7 +14015,7 @@
 9	de	de	ADP	IN	_	10	case	_	Proper=True
 10	China	China	PROPN	NNP	Number=Sing	8	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	5	punct	_	_
-12	consideró	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	_
+12	consideró	considerar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 14	nueva	nuevo	ADJ	JJ	Gender=Fem|Number=Sing	15	amod	_	_
 15	república	república	NOUN	NN	Gender=Fem|Number=Sing	17	obj	_	_
@@ -14174,7 +14174,7 @@
 8	largo	largo	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	_
 9	asedio	asedio	NOUN	NN	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	3	punct	_	_
-11	regresó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11	regresó	regresar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 12	a	a	ADP	IN	_	13	case	_	_
 13	Egipto	Egipto	PROPN	NNP	Number=Sing	11	obl	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	11	punct	_	_
@@ -14190,7 +14190,7 @@
 6	faraón	faraón	NOUN	NN	Gender=Masc|Number=Sing	9	nsubj	_	_
 7	egipcio	egipcio	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	Proper=True
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	compound:prt	_	_
-9	encontró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	encontró	encontrar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10-11	al	_	_	_	_	_	_	_	_
 10	a	a	ADP	INDT	_	12	case	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
@@ -14233,7 +14233,7 @@
 2	ese	ese	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 3	tiempo	tiempo	NOUN	NN	Gender=Masc|Number=Sing	5	obl	_	_
 4	el	el	DET	PRP	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nsubj	_	_
-5	aseguró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	aseguró	asegurar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	que	que	SCONJ	IN	_	8	mark	_	_
 7	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
 8	luchado	luchar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	ccomp	_	_
@@ -14319,7 +14319,7 @@
 4	Testamento	testamento	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No|Proper=True
 5	,	,	PUNCT	,	_	4	punct	_	_
 6	Pablo	Pablo	PROPN	NNP	Gender=Masc|Number=Sing	7	nsubj	_	_
-7	pasó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	pasó	pasar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	dieciocho	dieciocho	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	9	nummod	_	_
 9	meses	mes	NOUN	NN	Gender=Masc|Number=Plur	7	obl:tmod	_	_
 10	en	en	ADP	IN	_	11	case	_	_
@@ -14579,7 +14579,7 @@
 1	Shen	Shen	PROPN	NNP	Gender=Masc|Number=Sing	4	nsubj	_	_
 2	Kuo	Kuo	PROPN	NNP	Gender=Masc|Number=Sing	1	flat:name	_	_
 3	pronto	pronto	ADV	RB	_	4	advmod	_	_
-4	impresionó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	impresionó	impresionar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	a	a	ADP	IN	_	6	case	_	_
 6	Wang	Wang	PROPN	NNP	Gender=Masc|Number=Sing	4	obl	_	_
 7	Anshi	Anshi	PROPN	NNP	Gender=Masc|Number=Sing	6	flat:name	_	_
@@ -14646,7 +14646,7 @@
 14	con	con	ADP	IN	_	15	case	_	_
 15	éxito	éxito	NOUN	NN	Gender=Masc|Number=Sing	11	obl	_	_
 16	y	y	CCONJ	CC	_	17	cc	_	_
-17	demostró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	_
+17	demostró	demostrar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	_
 18	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 19	gran	gran	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	_
 20	valor	valor	NOUN	NN	Gender=Masc|Number=Sing	17	obj	_	_
@@ -14662,7 +14662,7 @@
 # text = El ganó más reputación en la corte una vez que fue enviado como mensajero en la dinastía Khitan Liao en el verano de 1075.
 # text_en = He gained further reputation at court once he was dispatched as an envoy to the Khitan Liao Dynasty in the summer of 1075.
 1	El	el	DET	PRP	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
-2	ganó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	ganó	ganar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	más	más	ADV	RBR	Degree=Cmp	4	advmod	_	_
 4	reputación	reputación	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 5	en	en	ADP	IN	_	7	case	_	_
@@ -14768,7 +14768,7 @@
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	compound:prt	_	_
 9	marchado	marchar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	xcomp	_	_
 10	y	y	CCONJ	CC	_	11	cc	_	_
-11	solicitó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+11	solicitó	solicitar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
 12	varias	vario	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	13	det	_	_
 13	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	11	obl	_	_
 14	regresar	regresar	VERB	VB	VerbForm=Inf	11	xcomp	_	_
@@ -14777,7 +14777,7 @@
 17	,	,	PUNCT	,	_	20	punct	_	_
 18	pero	pero	CCONJ	CC	_	20	cc	_	_
 19	Augusto	augusto	NOUN	NN	Gender=Masc|Number=Sing	20	nsubj	_	Proper=True
-20	rechazó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+20	rechazó	rechazar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
 21	todas	todo	DET	PDT	Gender=Fem|Number=Plur|PronType=Tot	23	det	_	_
 22	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	23	det	_	_
 23	solicitudes	_	NOUN	NN	Gender=Fem|Number=Plur	20	obj	_	SpaceAfter=No
@@ -14985,7 +14985,7 @@
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	ciudad	ciudad	NOUN	NN	Gender=Fem|Number=Sing	5	nsubj	_	_
 3	cananita	cananito	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	Proper=True
-4	quedó	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
+4	quedó	quedar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
 5	destruida	_	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	por	por	ADP	IN	_	8	case	_	_
 7	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
@@ -15236,7 +15236,7 @@
 # text_en = In addition, he strengthened defenses between Egypt and Asia, building the Walls of the Ruler in the East Delta region.
 1	Además	además	ADV	RB	_	3	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	_	_
-3	reforzó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	reforzó	reforzar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	defensas	defensa	NOUN	NN	Gender=Fem|Number=Plur	3	obj	_	_
 6	entre	entre	ADP	IN	_	7	case	_	_
@@ -15275,7 +15275,7 @@
 # text = El reinó solo quince años, lo cual se evidencia en la estructura incompleta de muchas de sus construcciones.
 # text_en = He reigned only fifteen years, which is evidenced by the incomplete nature of many of his constructions.
 1	El	el	DET	PRP	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
-2	reinó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	reinó	reinar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	solo	solo	ADV	RB	_	5	advmod	_	_
 4	quince	quince	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	5	nummod	_	_
 5	años	año	NOUN	NN	Gender=Masc|Number=Plur	2	obl:tmod	_	SpaceAfter=No
@@ -15394,7 +15394,7 @@
 15	Habsburgo	_	NOUN	NN	Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No|Proper=True
 16	,	,	PUNCT	,	_	18	punct	_	_
 17	y	y	CCONJ	CC	_	18	cc	_	_
-18	ganó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
+18	ganó	ganar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
 19	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	título	título	NOUN	NN	Gender=Masc|Number=Sing	18	obj	_	_
 21	de	de	ADP	IN	_	23	case	_	_
@@ -15455,7 +15455,7 @@
 10	de	de	ADP	IN	_	12	case	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	nobleza	nobleza	NOUN	NN	Gender=Fem|Number=Sing	9	nmod	_	_
-13	presentó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+13	presentó	presentar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 14	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	petición	petición	NOUN	NN	Gender=Fem|Number=Sing	13	obj	_	_
 16	a	a	ADP	IN	_	18	case	_	_
@@ -15762,7 +15762,7 @@
 12	división	división	NOUN	NN	Gender=Fem|Number=Sing	9	obj	_	_
 13	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	15	nsubj	_	_
 14	solo	solo	ADV	RB	_	15	advmod	_	_
-15	duró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	acl:relcl	_	_
+15	duró	durar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	acl:relcl	_	_
 16	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 17	breve	breve	ADJ	JJ	Gender=Masc|Number=Sing	18	amod	_	_
 18	periodo	periodo	NOUN	NN	Gender=Masc|Number=Sing	15	obl:tmod	_	_
@@ -15817,7 +15817,7 @@
 8	conoció	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 9	y	y	CCONJ	CC	_	11	cc	_	_
 10	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	compound:prt	_	_
-11	enamoró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	conj	_	_
+11	enamoró	enamorar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	conj	_	_
 12	de	de	ADP	IN	_	13	case	_	_
 13	Florence	Florence	PROPN	NNP	Gender=Fem|Number=Sing	11	obl	_	_
 14	Garrand	Garrand	PROPN	NNP	Gender=Fem|Number=Sing	13	flat:name	_	SpaceAfter=No
@@ -15853,7 +15853,7 @@
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	editor	editor	NOUN	NN	Gender=Masc|Number=Sing	1	appos	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	_	_
-7	trabajó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	trabajó	trabajar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	arduamente	arduamente	ADV	RB	_	7	advmod	_	_
 9	con	con	ADP	IN	_	10	case	_	_
 10	Kipling	Kipling	PROPN	NNP	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
@@ -16056,7 +16056,7 @@
 # text_en = The study interpreted these three factors as proxies for earnings forgone by rebellion, and therefore that lower forgone earnings encourage rebellion.
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	estudio	estudio	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	interpretó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	interpretó	interpretar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	estos	este	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	6	det	_	_
 5	tres	tres	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	6	nummod	_	_
 6	factores	factor	NOUN	NN	Gender=Masc|Number=Plur	3	obj	_	_
@@ -16206,7 +16206,7 @@
 2	revuelta	revuelta	NOUN	NN	Gender=Fem|Number=Sing	9	nsubj	_	_
 3	árabe	_	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	Proper=True
 4	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	5	nsubj	_	_
-5	comenzó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
+5	comenzó	comenzar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
 6	en	en	ADP	IN	_	7	case	_	_
 7	1916	1916	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	obl	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	compound:prt	_	_
@@ -16416,7 +16416,7 @@
 # text_en = In Thessaly he defeated his enemies and by 352, he was firmly in control of this region.
 1	En	en	ADP	IN	_	2	case	_	_
 2	Tesalia	Tesalia	PROPN	NNP	Number=Sing	3	obl	_	_
-3	derrotó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	derrotó	derrotar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	a	a	ADP	IN	_	6	case	_	_
 5	sus	su	PRON	DTP$	Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
 6	enemigos	enemigo	NOUN	NN	Gender=Masc|Number=Plur	3	obl	_	_
@@ -16440,7 +16440,7 @@
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	ejército	ejército	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	macedonio	macedonio	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	Proper=True
-4	avanzó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	avanzó	avanzar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	hasta	hasta	ADP	IN	_	7	case	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	paso	paso	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	_
@@ -16458,7 +16458,7 @@
 19	,	,	PUNCT	,	_	22	punct	_	_
 20	pero	pero	CCONJ	CC	_	22	cc	_	_
 21	no	no	ADV	RB	Polarity=Neg	22	advmod	_	_
-22	intentó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+22	intentó	intentar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
 23-24	tomarlo	_	_	_	_	_	_	_	_
 23	tomar	tomar	VERB	VB	VerbForm=Inf	22	xcomp	_	_
 24	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	23	obj	_	_
@@ -16497,7 +16497,7 @@
 14	macedonio	macedonio	ADJ	JJ	Gender=Masc|Number=Sing	13	amod	_	Proper=True
 15	y	y	CCONJ	CC	_	17	cc	_	_
 16	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	compound:prt	_	_
-17	adentró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	_
+17	adentró	adentrar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	_
 18	en	en	ADP	IN	_	19	case	_	_
 19	Tracia	Tracia	PROPN	NNP	Number=Sing	17	obl	_	_
 20	para	para	ADP	IN	_	21	case	_	_
@@ -16533,7 +16533,7 @@
 3	guerra	guerra	NOUN	NN	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	compound:prt	_	_
-6	utilizó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	utilizó	utilizar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	constantemente	constantemente	ADV	RB	_	6	advmod	_	_
 8	a	a	ADP	IN	_	9	case	_	_
 9	Pearl	pearl	NOUN	NN	Number=Sing	6	obl	_	Proper=True
@@ -16726,7 +16726,7 @@
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	Estados	estado	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	Proper=True
 3	Unidos	unido	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	Proper=True
-4	liberó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	liberó	liberar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	a	a	ADP	IN	_	6	case	_	_
 6	Cuba	Cuba	PROPN	NNP	Number=Sing	4	obl	_	_
 7	(	(	PUNCT	(	_	8	punct	_	SpaceAfter=No
@@ -17141,7 +17141,7 @@
 10	de	de	ADP	IN	_	12	case	_	_
 11	American	_	ADJ	JJ	Number=Plur	12	amod	_	Proper=True
 12	Motors	_	NOUN	NN	Number=Plur	5	nmod	_	Proper=True
-13	incitó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+13	incitó	incitar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 14	a	a	ADP	IN	_	15	case	_	_
 15	GM	GM	PROPN	NNP	Number=Sing	13	obl	_	_
 16	y	y	CCONJ	CC	_	17	cc	_	_
@@ -17398,7 +17398,7 @@
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	guerra	guerra	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	_
 3	terrestre	_	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	_
-4	pasó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	pasó	pasar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	IN	_	7	case	_	_
 6	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
 7	trincheras	trinchera	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
@@ -17599,7 +17599,7 @@
 4	y	y	CCONJ	CC	_	7	cc	_	_
 5	en	en	ADP	IN	_	6	case	_	_
 6	1842	1842	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	7	obl	_	_
-7	aceptó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+7	aceptó	aceptar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
 8	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
 9	estipulaciones	estipulación	NOUN	NN	Gender=Fem|Number=Plur	7	obj	_	_
 10-11	del	_	_	_	_	_	_	_	_
@@ -17657,7 +17657,7 @@
 7	de	de	ADP	INDT	_	9	case	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	Opio	opio	NOUN	NN	Gender=Masc|Number=Sing	6	nmod	_	Proper=True
-10	estalló	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	estalló	estallar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 11	;	;	PUNCT	:	_	15	punct	_	_
 12	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
 13	chinos	chino	NOUN	NN	Gender=Masc|Number=Plur	15	nsubj:pass	_	Proper=True
@@ -17720,7 +17720,7 @@
 7	de	de	ADP	IN	_	8	case	_	_
 8	negocios	negocio	NOUN	NN	Gender=Masc|Number=Plur	6	nmod	_	_
 9	donde	donde	ADV	WRB	PronType=Rel	10	advmod	_	_
-10	consultó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	acl:relcl	_	_
+10	consultó	consultar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	acl:relcl	_	_
 11	con	con	ADP	IN	_	12	case	_	_
 12	científicos	científico	NOUN	NN	Gender=Masc|Number=Plur	10	obl	_	_
 13	y	y	CCONJ	CC	_	15	cc	_	_
@@ -17775,7 +17775,7 @@
 11	escénicos	escénico	ADJ	JJ	Gender=Masc|Number=Plur	10	amod	_	_
 12	pero	pero	CCONJ	CC	_	14	cc	_	_
 13	ninguno	ninguno	NOUN	NN	Gender=Masc|Number=Sing	14	nsubj	_	_
-14	despertó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+14	despertó	despertar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
 15	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
 16	interés	interés	NOUN	NN	Gender=Masc|Number=Sing	14	obj	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	2	punct	_	_
@@ -17797,7 +17797,7 @@
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	SS	SS	PROPN	NNP	Gender=Fem|Number=Sing	9	nmod	_	_
 13	y	y	CCONJ	CC	_	14	cc	_	_
-14	lideró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
+14	lideró	liderar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
 15	a	a	ADP	IN	_	17	case	_	_
 16	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
 17	paramilitares	paramilitar	NOUN	NN	Gender=Masc|Number=Plur	14	obl	_	_
@@ -17896,7 +17896,7 @@
 # text = Se completó bastante tarde en la guerra; aunque varios B-29 estaban equipados con el radar Eagle y funcionaba bien, llegó muy tarde como para marcar la diferencia.
 # text_en = It was completed rather late in the war; although a number of B-29s were equipped with Eagle and it worked well, it came too late to make much difference.
 1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	compound:prt	_	_
-2	completó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	completó	completar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	bastante	bastante	ADV	RB	_	4	advmod	_	_
 4	tarde	tarde	ADV	RB	_	2	advmod	_	_
 5	en	en	ADP	IN	_	7	case	_	_
@@ -17916,7 +17916,7 @@
 19	funcionaba	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	conj	_	_
 20	bien	bien	ADV	RB	_	19	advmod	_	SpaceAfter=No
 21	,	,	PUNCT	,	_	13	punct	_	_
-22	llegó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	_
+22	llegó	llegar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	_
 23	muy	muy	ADV	RB	_	24	advmod	_	_
 24	tarde	tarde	ADV	RB	_	22	advmod	_	_
 25	como	como	SCONJ	IN	_	27	mark	_	_
@@ -18263,7 +18263,7 @@
 18	conflicto	conflicto	NOUN	NN	Gender=Masc|Number=Sing	21	nsubj	_	_
 19	mental	mental	ADJ	JJ	Gender=Masc|Number=Sing	18	amod	_	_
 20	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	21	compound:prt	_	_
-21	apoderó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+21	apoderó	apoderar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 22	de	de	ADP	IN	_	23	case	_	_
 23	Herlz	Herlz	PROPN	NNP	Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	21	punct	_	_
@@ -18366,7 +18366,7 @@
 9	,	,	PUNCT	,	_	3	punct	_	_
 10	Winstone	Winstone	PROPN	NNP	Gender=Masc|Number=Sing	12	nsubj	_	_
 11	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	compound:prt	_	_
-12	matriculó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	matriculó	matricular	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	en	en	ADP	IN	_	15	case	_	_
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	Corona	Corona	PROPN	NNP	Number=Sing	12	obl	_	_
@@ -18399,7 +18399,7 @@
 # text = Se declaró en bancarrota a Winstone el 4 de octubre de 1988 y otra vez el 19 de marzo de 1993.
 # text_en = Winstone was declared bankrupt on 4 October 1988 and again on 19 March 1993.
 1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	compound:prt	_	_
-2	declaró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	declaró	declarar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	en	en	ADP	IN	_	4	case	_	_
 4	bancarrota	bancarrota	NOUN	NN	Gender=Fem|Number=Sing	2	obl	_	_
 5	a	a	ADP	IN	_	6	case	_	_
@@ -18428,7 +18428,7 @@
 1	Disney	Disney	PROPN	NNP	Gender=Masc|Number=Sing	4	nsubj	_	_
 2	también	también	ADV	RB	_	4	advmod	_	_
 3	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	compound:prt	_	_
-4	enteró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	enteró	enterar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	IN	_	13	case	_	_
 6	que	que	SCONJ	IN	_	13	mark	_	_
 7	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
@@ -18446,7 +18446,7 @@
 # text = Disney ganó otro Óscar honorífico que consistía en una estatuilla de tamaño normal y siete miniaturas.
 # text_en = Disney won another Honorary Academy Award, which consisted of one full-sized and seven miniature Oscar statuettes.
 1	Disney	Disney	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	ganó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	ganó	ganar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	otro	otro	DET	DT	Gender=Masc|Number=Sing|PronType=Ind	4	det	_	_
 4	Óscar	Óscar	PROPN	NNP	Gender=Masc|Number=Sing	2	obj	_	_
 5	honorífico	honorífico	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
@@ -18525,7 +18525,7 @@
 6	Prawobo	Prawobo	PROPN	NNP	Gender=Masc|Number=Sing	5	appos	_	_
 7	Subianto	Subianto	PROPN	NNP	Gender=Masc|Number=Sing	6	flat:name	_	_
 8	también	también	ADV	RB	_	9	advmod	_	_
-9	declaró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	declaró	declarar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	victoria	victoria	NOUN	NN	Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	13	punct	_	_
@@ -18545,7 +18545,7 @@
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	presidencia	presidencia	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
 6	Jokowi	Jokowi	PROPN	NNP	Gender=Masc|Number=Sing	7	nsubj	_	_
-7	solicitó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	solicitó	solicitar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	que	que	SCONJ	IN	_	13	mark	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	presidente	presidente	NOUN	NN	Gender=Masc|Number=Sing	13	nsubj	_	_
@@ -18669,7 +18669,7 @@
 4	de	de	ADP	IN	_	5	case	_	_
 5	trabajo	trabajo	NOUN	NN	Gender=Masc|Number=Sing	3	nmod	_	_
 6	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	7	obj	_	_
-7	encontró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	acl:relcl	_	_
+7	encontró	encontrar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	acl:relcl	_	_
 8	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
 9	hermana	hermana	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
 10	en	en	ADP	IN	_	12	case	_	_
@@ -18678,7 +18678,7 @@
 13	The	the	DET	DT	Gender=Masc|Number=Sing|PronType=Ind	14	det	_	Proper=True
 14	Scotsman	scotsman	NOUN	NN	Gender=Masc|Number=Sing	12	appos	_	SpaceAfter=No|Proper=True
 15	,	,	PUNCT	,	_	1	punct	_	_
-16	trabajó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+16	trabajó	trabajar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 17	por	por	ADP	IN	_	19	case	_	_
 18	un	un	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	19	nummod	_	_
 19	año	año	NOUN	NN	Gender=Masc|Number=Sing	16	obl	_	_
@@ -18699,7 +18699,7 @@
 # text = Luego regresó a Kirriemuir.
 # text_en = He then returned to Kirriemuir.
 1	Luego	luego	ADV	RB	_	2	advmod	_	_
-2	regresó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	regresó	regresar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	a	a	ADP	IN	_	4	case	_	_
 4	Kirriemuir	Kirriemuir	PROPN	NNP	Number=Sing	2	obl	_	SpaceAfter=No
 5	.	.	PUNCT	.	_	2	punct	_	_
@@ -18987,7 +18987,7 @@
 10	en	en	ADP	IN	_	11	case	_	_
 11	agosto	agosto	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	_
 12	y	y	CCONJ	CC	_	13	cc	_	_
-13	llegó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
+13	llegó	llegar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
 14-15	al	_	_	_	_	_	_	_	_
 14	a	a	ADP	INDT	_	16	case	_	_
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
@@ -19004,7 +19004,7 @@
 26	single	single	NOUN	NN	Gender=Masc|Number=Sing	21	appos	_	SpaceAfter=No
 27	,	,	PUNCT	,	_	26	punct	_	_
 28	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	29	expl:pass	_	_
-29	lanzó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	parataxis	_	_
+29	lanzó	lanzar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	parataxis	_	_
 30	en	en	ADP	IN	_	31	case	_	_
 31	septiembre	septiembre	NOUN	NN	Gender=Masc|Number=Sing	29	obl	_	_
 32	pero	pero	CCONJ	CC	_	36	cc	_	_
@@ -19036,7 +19036,7 @@
 14	natal	natal	ADJ	JJ	Number=Sing	13	amod	_	SpaceAfter=No
 15	,	,	PUNCT	,	_	2	punct	_	_
 16	Geyer	Geyer	PROPN	NNP	Gender=Masc|Number=Sing	17	nsubj	_	_
-17	regresó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+17	regresó	regresar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 18	a	a	ADP	IN	_	19	case	_	_
 19	vivir	vivir	VERB	VB	VerbForm=Inf	17	xcomp	_	_
 20	a	a	ADP	IN	_	22	case	_	_
@@ -19191,7 +19191,7 @@
 3	de	de	ADP	IN	_	4	case	_	_
 4	Grafton	Grafton	PROPN	NNP	Gender=Masc|Number=Sing	2	nmod	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	compound:prt	_	_
-6	desintegró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	desintegró	desintegrar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	en	en	ADP	IN	_	8	case	_	_
 8	1770	1770	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	6	obl	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	10	punct	_	_
@@ -19277,7 +19277,7 @@
 23	siguiente	siguiente	ADJ	JJ	Gender=Masc|Number=Sing	22	amod	_	_
 24	Cumberland	Cumberland	PROPN	NNP	Gender=Masc|Number=Sing	26	nsubj	_	_
 25	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	26	compound:prt	_	_
-26	casó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	conj	_	_
+26	casó	casar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	conj	_	_
 27	con	con	ADP	IN	_	30	case	_	_
 28	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
 29	joven	_	ADJ	JJ	Gender=Fem|Number=Sing	30	amod	_	_
@@ -19353,7 +19353,7 @@
 8	islándica	islándico	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	Proper=True
 9	Sigur	Sigur	PROPN	NNP	_	7	appos	_	_
 10	Rós	Rós	PROPN	NNP	_	9	flat:name	_	_
-11	lanzó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11	lanzó	lanzar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 12	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	video	video	NOUN	NN	Gender=Masc|Number=Sing	11	obj	_	_
 14	para	para	ADP	IN	_	16	case	_	_
@@ -19401,7 +19401,7 @@
 # text_en = The car burst into flames, and Kenseth walked away.
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	automóvil	automóvil	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	explotó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	explotó	explotar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	en	en	ADP	IN	_	5	case	_	_
 5	llamas	llama	NOUN	NN	Gender=Fem|Number=Plur	3	obl	_	_
 6	y	y	CCONJ	CC	_	9	cc	_	_
@@ -19437,13 +19437,13 @@
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	2003	2003	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
-5	dominó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	dominó	dominar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	en	en	ADP	IN	_	8	case	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	clasificación	clasificación	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
 9	general	general	ADJ	JJ	Gender=Fem|Number=Sing	8	amod	_	_
 10	y	y	CCONJ	CC	_	11	cc	_	_
-11	lideró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+11	lideró	liderar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
 12	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
 13	ultimas	ultimo	ADJ	JJ	Gender=Fem|Number=Plur	14	amod	_	_
 14	33	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	11	obj	_	_
@@ -19479,7 +19479,7 @@
 # text = Rafferty lanzó dos álbumes más en los 90, que luego el músico Tom Robinson describió como un "gran regreso en forma".
 # text_en = Rafferty released two further albums in the 1990s in what musician Tom Robinson later described as "a major return to form".
 1	Rafferty	Rafferty	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	lanzó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	lanzó	lanzar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	4	nummod	_	_
 4	álbumes	_	NOUN	NN	Gender=Masc|Number=Plur	2	obj	_	_
 5	más	más	ADV	RBR	Degree=Cmp	4	advmod	_	_
@@ -19794,7 +19794,7 @@
 10	de	de	ADP	IN	_	11	case	_	_
 11	conspirador	conspirador	NOUN	NN	Gender=Masc|Number=Sing	9	nmod	_	_
 12	y	y	CCONJ	CC	_	15	cc	_	_
-13	comenzó	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux	_	_
+13	comenzó	comenzar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux	_	_
 14	a	a	ADP	IN	_	13	fixed	_	_
 15	desarrollar	desarrollar	VERB	VB	VerbForm=Inf	7	conj	_	_
 16	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
@@ -19878,7 +19878,7 @@
 2	1955	1955	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	7	obl	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	Mishima	Mishima	PROPN	NNP	Gender=Masc|Number=Sing	7	nsubj	_	_
-5	comenzó	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
+5	comenzó	comenzar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
 6	a	a	ADP	IN	_	5	fixed	_	_
 7	hacer	hacer	VERB	VB	VerbForm=Inf	0	root	_	_
 8	levantamiento	levantamiento	NOUN	NN	Gender=Masc|Number=Sing	7	obj	_	_
@@ -19935,7 +19935,7 @@
 3	2011	2011	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	compound:prt	_	_
-6	nombró	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	_
+6	nombró	nombrar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	_
 7	a	a	ADP	IN	_	8	case	_	_
 8	Blunt	Blunt	PROPN	NNP	Gender=Fem|Number=Sing	10	nmod	_	_
 9	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
@@ -19956,7 +19956,7 @@
 # text = Blunt protagonizó la comedia británica de 2011 Salmon Fishing in Yemen, La pesca del salmón en Yemen o La pesca de salmón en Yemen en España, dirigida por Lasse Hallström y coprotagonizada por Ewan McGregor y Kristin Scott Thomas.
 # text_en = Blunt starred in the 2011 British comedy film Salmon Fishing in the Yemen, directed by Lasse Hallström and co-starring Ewan McGregor and Kristin Scott Thomas.
 1	Blunt	Blunt	PROPN	NNP	Gender=Fem|Number=Sing	2	nsubj	_	_
-2	protagonizó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	protagonizó	protagonizar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	comedia	comedia	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 5	británica	británico	ADJ	JJ	Gender=Fem|Number=Sing	4	amod	_	Proper=True
@@ -20030,7 +20030,7 @@
 # sent_id = w01135037
 # text = Protagonizó la película Eternamente comprometidos (The Five-Year Engagement, originalmente en inglés) dirigida por Nicholas Stoller y coprotagonizada por Jason Segel.
 # text_en = She starred in the 2012 film The Five-Year Engagement, directed by Nicholas Stoller and co-starring Jason Segel.
-1	Protagonizó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Protagonizó	protagonizar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	película	película	NOUN	NN	Gender=Fem|Number=Sing	1	obj	_	_
 4	Eternamente	eternamente	ADV	RB	_	5	advmod	_	Proper=True
@@ -20098,7 +20098,7 @@
 36	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	37	det	_	_
 37	película	película	NOUN	NN	Gender=Fem|Number=Sing	39	nsubj:pass	_	_
 38	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	39	expl:pass	_	_
-39	lanzó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	parataxis	_	_
+39	lanzó	lanzar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	parataxis	_	_
 40	en	en	ADP	IN	_	41	case	_	_
 41	septiembre	septiembre	NOUN	NN	Gender=Masc|Number=Sing	39	obl	_	_
 42	de	de	ADP	IN	_	43	case	_	_
@@ -20110,7 +20110,7 @@
 # text = Valentino intentó distanciar al personaje de una representación estereotípica de un hombre árabe.
 # text_en = Valentino tried to distance the character from a stereotypical portrayal of an Arab man.
 1	Valentino	Valentino	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	intentó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	intentó	intentar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	distanciar	distanciar	VERB	VB	VerbForm=Inf	2	xcomp	_	_
 4-5	al	_	_	_	_	_	_	_	_
 4	a	a	ADP	INDT	_	6	case	_	_
@@ -20174,7 +20174,7 @@
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	Consejo	consejo	NOUN	NN	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	5	punct	_	_
-11	visitó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11	visitó	visitar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 12	Alemania	Alemania	PROPN	NNP	Number=Sing	11	obj	_	_
 13	de	de	ADP	IN	_	14	case	_	_
 14	manera	manera	NOUN	NN	Gender=Fem|Number=Sing	11	obl	_	_
@@ -20416,7 +20416,7 @@
 # text = Rona desarrolló un método mejorado para preparar fuentes de polonio y producir emisiones alfa.
 # text_en = Rona developed an enhanced method of preparing polonium sources and producing alpha-emissions.
 1	Rona	Rona	PROPN	NNP	Gender=Fem|Number=Sing	2	nsubj	_	_
-2	desarrolló	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	desarrolló	desarrollar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	método	método	NOUN	NN	Gender=Masc|Number=Sing	2	obj	_	_
 5	mejorado	mejorado	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
@@ -20527,7 +20527,7 @@
 # text_en = She next faced defending champion and top seed Sara Errani, but was defeated.
 1	Luego	luego	ADV	RB	_	3	advmod	_	_
 2	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	compound:prt	_	_
-3	enfrentó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	enfrentó	enfrentar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	a	a	ADP	IN	_	5	case	_	_
 5	Sara	Sara	PROPN	NNP	Gender=Fem|Number=Sing	3	obl	_	_
 6	Erani	Erani	PROPN	NNP	Gender=Fem|Number=Sing	5	flat:name	_	SpaceAfter=No
@@ -20567,7 +20567,7 @@
 3	hija	hija	NOUN	NN	Gender=Fem|Number=Sing	6	nsubj	_	_
 4	Cecily	Cecily	PROPN	NNP	Gender=Fem|Number=Sing	3	appos	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	compound:prt	_	_
-6	casó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	30	advcl	_	_
+6	casó	casar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	30	advcl	_	_
 7	con	con	ADP	IN	_	8	case	_	_
 8	Plantagenet	Plantagenet	PROPN	NNP	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	12	punct	_	_
@@ -20731,7 +20731,7 @@
 12	Jimmy	Jimmy	PROPN	NNP	Gender=Masc|Number=Sing	11	appos	_	_
 13	Carter	Carter	PROPN	NNP	Gender=Masc|Number=Sing	12	flat:name	_	_
 14	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	15	expl:pass	_	_
-15	llevó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+15	llevó	llevar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 16	a	a	ADP	IN	_	17	case	_	_
 17	cabo	cabo	NOUN	NN	Gender=Masc|Number=Sing	15	obl	_	_
 18	entre	entre	ADP	IN	_	19	case	_	_
@@ -20784,7 +20784,7 @@
 # text = Se recuperó y lo dieron de alta del hospital el 11 de abril, convirtiéndose en el primer presidente de E.E.UU en activo en sobrevivir un disparo en un intento de asesinato.
 # text_en = He recovered and was released from the hospital on April 11, becoming the first serving U.S. president to survive being shot in an assassination attempt.
 1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	compound:prt	_	_
-2	recuperó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	recuperó	recuperar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	y	y	CCONJ	CC	_	5	cc	_	_
 4	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	obj	_	_
 5	dieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
@@ -20900,7 +20900,7 @@
 # text = Pebe trasladó a la familia a Nashville, Tennessee, en 1991 luego de obtener un contrato discográfico para componer canciones.
 # text_en = Pebe moved the family to Nashville, Tennessee, in 1991 after securing a new publishing deal for her songwriting.
 1	Pebe	Pebe	PROPN	NNP	Gender=Fem|Number=Sing	2	nsubj	_	_
-2	trasladó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	trasladó	trasladar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	a	a	ADP	IN	_	5	case	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	familia	familia	NOUN	NN	Gender=Fem|Number=Sing	2	obl	_	_
@@ -20993,11 +20993,11 @@
 1	Esta	este	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
 2	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
 3	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	obl:arg	_	_
-4	llegó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	llegó	llegar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	8	punct	_	_
 6	pero	pero	CCONJ	CC	_	8	cc	_	_
 7	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	compound:prt	_	_
-8	negó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+8	negó	negar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
 9	a	a	ADP	IN	_	10	case	_	_
 10	creer	creer	VERB	VB	VerbForm=Inf	8	xcomp	_	_
 11	que	que	SCONJ	IN	_	15	mark	_	_
@@ -21085,7 +21085,7 @@
 8	Garth	Garth	PROPN	NNP	Gender=Masc|Number=Sing	7	appos	_	_
 9	Jenning	Jenning	PROPN	NNP	Gender=Masc|Number=Sing	8	flat:name	_	_
 10	y	y	CCONJ	CC	_	11	cc	_	_
-11	realizó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+11	realizó	realizar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
 12	cameos	cameo	NOUN	NN	Gender=Masc|Number=Plur	11	obj	_	_
 13	en	en	ADP	IN	_	15	case	_	_
 14	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
@@ -21145,7 +21145,7 @@
 17	seis	seis	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	19	nummod	_	_
 18	Grandes	grande	ADJ	JJ	Gender=Masc|Number=Plur	19	amod	_	Proper=True
 19	Poderes	poder	NOUN	NN	Gender=Masc|Number=Plur	14	nmod	_	Proper=True
-20	rechazó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+20	rechazó	rechazar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 21	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	plan	plan	NOUN	NN	Gender=Masc|Number=Sing	20	obj	_	_
 23	para	para	ADP	IN	_	24	case	_	_
@@ -21426,7 +21426,7 @@
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	portavoz	portavoz	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	no	no	ADV	RB	Polarity=Neg	4	advmod	_	_
-4	descartó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	descartó	descartar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	posibilidad	posibilidad	NOUN	NN	Gender=Fem|Number=Sing	4	obj	_	_
 7	de	de	ADP	IN	_	14	case	_	_
@@ -21759,7 +21759,7 @@
 5	ZEIT	ZEIT	PROPN	NNP	Number=Sing	4	flat:name	_	SpaceAfter=No
 6	"	"	PUNCT	''	_	4	punct	_	_
 7	primero	primero	ADV	RB	_	8	advmod	_	_
-8	preguntó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	preguntó	preguntar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 9	a	a	ADP	IN	_	11	case	_	_
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	empresa	empresa	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
@@ -22180,7 +22180,7 @@
 9	accidente	accidente	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	_
 10	aéreo	aéreo	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	5	punct	_	_
-12	declaró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	declaró	declarar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	a	a	ADP	IN	_	14	case	_	_
 14	SPIEGEL	SPIEGEL	PROPN	NNP	Number=Sing	12	obl	_	_
 15	que	que	SCONJ	IN	_	17	mark	_	_
@@ -22270,7 +22270,7 @@
 2	cambio	cambio	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj	_	_
 3	de	de	ADP	IN	_	4	case	_	_
 4	Barrosos	Barrosos	PROPN	NNP	Number=Sing	2	nmod	_	_
-5	causó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	causó	causar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 7	gran	gran	ADJ	JJ	Gender=Masc|Number=Sing	8	amod	_	_
 8	revuelo	revuelo	NOUN	NN	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
@@ -22340,7 +22340,7 @@
 12	Hillary	Hillary	PROPN	NNP	Gender=Fem|Number=Sing	6	appos	_	_
 13	Clinton	Clinton	PROPN	NNP	Gender=Fem|Number=Sing	12	flat:name	_	SpaceAfter=No
 14	,	,	PUNCT	,	_	12	punct	_	_
-15	indultó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+15	indultó	indultar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 16	a	a	ADP	IN	_	18	case	_	_
 17	varias	vario	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	18	det	_	_
 18	personas	persona	NOUN	NN	Gender=Fem|Number=Plur	15	obl	_	SpaceAfter=No
@@ -22682,7 +22682,7 @@
 6	elegida	_	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	6	punct	_	_
 8	el	el	DET	PRP	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	nsubj	_	_
-9	aseguró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	aseguró	asegurar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	que	que	SCONJ	IN	_	12	mark	_	_
 11	ella	él	PRON	PRP	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 12	estaría	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	ccomp	_	SpaceAfter=No
@@ -22716,7 +22716,7 @@
 16	,	,	PUNCT	,	_	19	punct	_	_
 17	-	-	PUNCT	-	_	19	punct	_	_
 18	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	compound:prt	_	_
-19	burló	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	parataxis	_	_
+19	burló	burlar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	parataxis	_	_
 20	Obama	Obama	PROPN	NNP	Gender=Masc|Number=Sing	19	nsubj	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	13	punct	_	_
 
@@ -22926,7 +22926,7 @@
 7	ministro	ministro	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	Justicia	justicia	NOUN	NN	Gender=Fem|Number=Sing	7	nmod	_	_
-10	acusó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	acusó	acusar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	a	a	ADP	IN	_	12	case	_	_
 12	Brice	Brice	PROPN	NNP	Gender=Masc|Number=Sing	10	obl	_	_
 13	Hortefeux	Hortefeux	PROPN	NNP	Gender=Masc|Number=Sing	12	flat:name	_	_
@@ -23199,7 +23199,7 @@
 6	últimas	último	NOUN	NN	Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
 7	"	"	PUNCT	''	_	3	punct	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	9	punct	_	_
-9	desveló	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
+9	desveló	desvelar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
 10	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	grupo	grupo	NOUN	NN	Gender=Masc|Number=Sing	9	nsubj	_	_
 12	francés	francés	ADJ	JJ	Gender=Masc|Number=Sing	11	amod	_	SpaceAfter=No|Proper=True
@@ -23355,7 +23355,7 @@
 14	Tina	Tina	PROPN	NNP	Gender=Fem|Number=Sing	17	nsubj	_	_
 15	Anselmi	Anselmi	PROPN	NNP	Gender=Fem|Number=Sing	14	flat:name	_	_
 16	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	compound:prt	_	_
-17	ocupó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+17	ocupó	ocupar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 18	sobre	sobre	ADP	IN	_	17	advmod	_	_
 19	todo	todo	NOUN	NN	Gender=Masc|Number=Sing	18	fixed	_	_
 20	de	de	ADP	IN	_	22	case	_	_
@@ -25125,7 +25125,7 @@
 7	Rusia	Rusia	PROPN	NNP	Number=Sing	3	conj	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl:pass	_	_
 9	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	10	obl:arg	_	_
-10	denegó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	denegó	denegar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	permiso	permiso	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj:pass	_	_
 13	de	de	ADP	IN	_	14	case	_	_
@@ -25281,7 +25281,7 @@
 9	en	en	ADP	IN	_	11	case	_	_
 10	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	campo	campo	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	_
-12	alarmó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	alarmó	alarmar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	a	a	ADP	IN	_	15	case	_	_
 14	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	Corte	corte	NOUN	NN	Gender=Fem|Number=Sing	12	obl	_	_
@@ -25307,7 +25307,7 @@
 8	,	,	PUNCT	,	_	11	punct	_	_
 9	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	10	det	_	_
 10	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	11	nsubj	_	_
-11	incrementó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
+11	incrementó	incrementar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
 12	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	descontento	descontento	NOUN	NN	Gender=Masc|Number=Sing	11	obj	_	_
 14	en	en	ADP	IN	_	16	case	_	_
@@ -25342,7 +25342,7 @@
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	Rey	rey	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	no	no	ADV	RB	Polarity=Neg	4	advmod	_	_
-4	tomó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	tomó	tomar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	precauciones	precaución	NOUN	NN	Gender=Fem|Number=Plur	4	obj	_	_
 6	especiales	especial	ADJ	JJ	Gender=Fem|Number=Plur	5	amod	_	_
 7	durante	durante	ADP	IN	_	9	case	_	_
@@ -25395,7 +25395,7 @@
 2	Primera	primero	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	Proper=True
 3	Guerra	guerra	NOUN	NN	Gender=Fem|Number=Sing	5	nsubj	_	Proper=True
 4	Mundial	mundial	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	Proper=True
-5	ocasionó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	ocasionó	ocasionar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	transformaciones	transformación	NOUN	NN	Gender=Fem|Number=Plur	5	obj	_	_
 7	y	y	CCONJ	CC	_	9	cc	_	_
 8	nuevos	nuevo	ADJ	JJ	Gender=Masc|Number=Plur	9	amod	_	_
@@ -25433,7 +25433,7 @@
 2	Crisis	crisis	NOUN	NN	Gender=Fem|Number=Sing	5	nsubj	_	_
 3	de	de	ADP	IN	_	4	case	_	_
 4	Suez	Suez	PROPN	NNP	Number=Sing	2	nmod	_	_
-5	mostró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	mostró	mostrar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
 7	límites	_	NOUN	NN	Gender=Masc|Number=Plur	5	obj	_	_
 8	de	de	ADP	IN	_	11	case	_	_
@@ -25649,7 +25649,7 @@
 2	estos	este	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	3	det	_	_
 3	éxitos	éxito	NOUN	NN	Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
-5	firmó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	firmó	firmar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	contrato	contrato	NOUN	NN	Gender=Masc|Number=Sing	5	obj	_	_
 8	con	con	ADP	IN	_	9	case	_	_
@@ -25816,7 +25816,7 @@
 17	pueblo	pueblo	NOUN	NN	Gender=Masc|Number=Sing	14	nmod	_	_
 18	judío	judío	ADJ	JJ	Gender=Masc|Number=Sing	17	amod	_	Proper=True
 19	y	y	CCONJ	CC	_	20	cc	_	_
-20	viajó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	conj	_	_
+20	viajó	viajar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	conj	_	_
 21	muchas	mucho	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	22	det	_	_
 22	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	20	obl	_	_
 23	a	a	ADP	IN	_	24	case	_	_
@@ -25829,7 +25829,7 @@
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	chalet	chalet	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	compound:prt	_	_
-4	quemó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	quemó	quemar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	completamente	completamente	ADV	RB	_	4	advmod	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -25969,7 +25969,7 @@
 # text_en = Von Bellingshausen sighted Antarctica on the 27th of January 1820, three days before Bransfield sighted land, and ten months before Palmer did so in November 1820.
 1	Von	Von	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	Bellingshausen	Bellingshausen	PROPN	NNP	Gender=Masc|Number=Sing	1	flat:name	_	_
-3	avistó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	avistó	avistar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	Antártida	Antártida	PROPN	NNP	Gender=Fem|Number=Sing	3	obj	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
@@ -26027,7 +26027,7 @@
 19	Ernesto	Ernesto	PROPN	NNP	Gender=Masc|Number=Sing	18	appos	_	_
 20	Shackleton	Shackleton	PROPN	NNP	Gender=Masc|Number=Sing	19	flat:name	_	SpaceAfter=No
 21	,	,	PUNCT	,	_	16	punct	_	_
-22	zarpó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+22	zarpó	zarpar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 23	con	con	ADP	IN	_	25	case	_	_
 24	veintiocho	veintiocho	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	25	nummod	_	_
 25	hombres	_	NOUN	NN	Gender=Masc|Number=Plur	22	obl	_	_
@@ -26102,7 +26102,7 @@
 6	C.	Cristo	PROPN	NNP	Abbr=Yes|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	3	punct	_	_
 8	Grecia	Grecia	PROPN	NNP	Number=Sing	11	nsubj	_	_
-9	comenzó	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	_
+9	comenzó	comenzar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	_
 10	a	a	ADP	IN	_	9	fixed	_	_
 11	surgir	surgir	VERB	VB	VerbForm=Inf	0	root	_	_
 12	desde	desde	ADP	IN	_	14	case	_	_
@@ -26381,7 +26381,7 @@
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	Terror	terror	NOUN	NN	Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No|Proper=True
 23	,	,	PUNCT	,	_	17	punct	_	_
-24	tomó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+24	tomó	tomar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 25	varias	vario	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	26	det	_	_
 26	medidas	medida	NOUN	NN	Gender=Fem|Number=Plur	24	obj	_	_
 27	para	para	ADP	IN	_	28	case	_	_
@@ -26413,7 +26413,7 @@
 16	cuando	cuando	ADV	WRB	PronType=Rel	19	advmod	_	_
 17	el	el	DET	PRP	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	nsubj	_	_
 18	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	compound:prt	_	_
-19	declaró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	advcl	_	_
+19	declaró	declarar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	advcl	_	_
 20	en	en	ADP	IN	_	21	case	_	_
 21	bancarrota	bancarrota	NOUN	NN	Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	13	punct	_	_
@@ -26581,7 +26581,7 @@
 2	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 3	vacaciones	vacación	NOUN	NN	Gender=Fem|Number=Plur	5	obl	_	_
 4	el	el	DET	PRP	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	nsubj	_	_
-5	empezó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	empezó	empezar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	aventura	aventura	NOUN	NN	Gender=Fem|Number=Sing	5	obj	_	_
 8	extramarital	extramarital	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	_
@@ -26808,7 +26808,7 @@
 20	Vaticano	Vaticano	PROPN	NNP	Gender=Masc|Number=Sing	17	nmod	_	_
 21	y	y	CCONJ	CC	_	23	cc	_	_
 22	la	él	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	23	obj	_	_
-23	eliminó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	_
+23	eliminó	eliminar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	_
 24	de	de	ADP	IN	_	27	case	_	_
 25	todos	todo	DET	PDT	Gender=Masc|Number=Plur|PronType=Tot	27	det	_	_
 26	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
@@ -26952,7 +26952,7 @@
 5	sugiere	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	que	que	SCONJ	IN	_	8	mark	_	_
 7	Stephen	Stephen	PROPN	NNP	Gender=Masc|Number=Sing	8	nsubj	_	_
-8	abandonó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	ccomp	_	_
+8	abandonó	abandonar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	ccomp	_	_
 9	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	contienda	contienda	NOUN	NN	Gender=Fem|Number=Sing	8	obj	_	_
 11	por	por	ADP	IN	_	13	case	_	_
@@ -27044,7 +27044,7 @@
 13	batalla	batalla	NOUN	NN	Gender=Fem|Number=Sing	9	nmod	_	_
 14	de	de	ADP	IN	_	15	case	_	Proper=True
 15	Marengo	Marengo	PROPN	NNP	Number=Sing	13	nmod	_	_
-16	forzó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+16	forzó	forzar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 17	a	a	ADP	IN	_	19	case	_	_
 18	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
 19	austriacos	austriaco	NOUN	NN	Gender=Masc|Number=Plur	16	obl	_	Proper=True
@@ -27067,7 +27067,7 @@
 5	flota	flota	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	_
 6	de	de	ADP	IN	_	7	case	_	_
 7	Villaneuve	Villaneuve	PROPN	NNP	Gender=Masc|Number=Sing	5	nmod	_	_
-8	resultó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	resultó	resultar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 9	en	en	ADP	IN	_	11	case	_	_
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	renuncia	renuncia	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
@@ -27132,7 +27132,7 @@
 33	Lord	lord	NOUN	NN	Gender=Masc|Number=Sing	30	appos	_	Proper=True
 34	Grenville	Grenville	PROPN	NNP	Gender=Masc|Number=Sing	33	appos	_	SpaceAfter=No
 35	,	,	PUNCT	,	_	33	punct	_	_
-36	rechazó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
+36	rechazó	rechazar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
 37	cualquier	cualquier	DET	DT	Gender=Masc|Number=Sing|PronType=Ind	38	det	_	_
 38	acuerdo	acuerdo	NOUN	NN	Gender=Masc|Number=Sing	36	obj	_	SpaceAfter=No
 39	,	,	PUNCT	,	_	43	punct	_	_
@@ -27258,7 +27258,7 @@
 8	de	de	ADP	IN	_	9	case	_	_
 9	amistad	amistad	NOUN	NN	Gender=Fem|Number=Sing	6	conj	_	_
 10	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	11	nsubj	_	_
-11	duró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	_
+11	duró	durar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	_
 12	muchos	mucho	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	13	det	_	_
 13	años	año	NOUN	NN	Gender=Masc|Number=Plur	11	obl:tmod	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	3	punct	_	_
@@ -27302,7 +27302,7 @@
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	amistad	amistad	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	compound:prt	_	_
-7	desmoronó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	desmoronó	desmoronar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	debido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	case	_	_
 9	a	a	ADP	IN	_	8	fixed	_	_
 10	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
@@ -27315,7 +27315,7 @@
 17	,	,	PUNCT	,	_	20	punct	_	_
 18	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	19	det	_	_
 19	cual	cual	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	20	nsubj	_	_
-20	llevó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	_
+20	llevó	llevar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	_
 21	a	a	ADP	IN	_	22	case	_	_
 22	disputas	disputa	NOUN	NN	Gender=Fem|Number=Plur	20	obl	_	_
 23	legales	legal	ADJ	JJ	Gender=Fem|Number=Plur	22	amod	_	SpaceAfter=No
@@ -27337,7 +27337,7 @@
 11	de	de	ADP	IN	_	13	case	_	_
 12	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
 13	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	10	nmod	_	_
-14	imaginó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	ccomp	_	_
+14	imaginó	imaginar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	ccomp	_	_
 15	algunas	alguno	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	16	det	_	_
 16	soluciones	solución	NOUN	NN	Gender=Fem|Number=Plur	14	obj	_	_
 17	estilísticas	estilístico	ADJ	JJ	Gender=Fem|Number=Plur	16	amod	_	_
@@ -27347,7 +27347,7 @@
 21	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	24	nsubj	_	_
 22	lego	lego	ADV	RB	_	24	advmod	_	_
 23	los	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	24	obj	_	_
-24	caracterizó	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	20	acl:relcl	_	_
+24	caracterizó	caracterizar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	20	acl:relcl	_	_
 25	a	a	ADP	IN	_	26	case	_	_
 26	ambos	ambos	NOUN	NN	Gender=Masc|Number=Plur	24	obl	_	_
 27	como	como	ADP	IN	_	28	case	_	_
@@ -27373,11 +27373,11 @@
 11	,	,	PUNCT	,	_	8	punct	_	_
 12	Antonio	Antonio	PROPN	NNP	Gender=Masc|Number=Sing	14	nsubj	_	_
 13	Gaudí	Gaudí	PROPN	NNP	Gender=Masc|Number=Sing	12	flat:name	_	_
-14	realizó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+14	realizó	realizar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 15	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	reforma	reforma	NOUN	NN	Gender=Fem|Number=Sing	14	obj	_	_
 17	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	18	nsubj	_	_
-18	duró	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	acl:relcl	_	_
+18	duró	durar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	acl:relcl	_	_
 19	diez	diez	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	20	nummod	_	_
 20	años	año	NOUN	NN	Gender=Masc|Number=Plur	18	obl:tmod	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	14	punct	_	_
@@ -27513,7 +27513,7 @@
 2	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	gestión	gestión	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
 4	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl:pass	_	_
-5	decretó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	decretó	decretar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	sufragio	sufragio	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj:pass	_	_
 8	femenino	femenino	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	_
@@ -27553,7 +27553,7 @@
 7	decena	decena	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	bancos	banco	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	_
-10	culminó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	culminó	culminar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	con	con	ADP	IN	_	13	case	_	_
 12	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	fuga	fuga	NOUN	NN	Gender=Fem|Number=Sing	10	obl	_	_
@@ -27893,7 +27893,7 @@
 # text = Además trató sobre la federalización de la Ciudad de Buenos Aires, la extensión del código de comercio y el nombramiento en el ejército de nuevos generales.
 # text_en = He also discussed the federalization of the City of Buenos Aires, the extension of the commercial code and the appointment of new generals to the army.
 1	Además	además	ADV	RB	_	2	discourse	_	_
-2	trató	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	trató	tratar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	sobre	sobre	ADP	IN	_	5	case	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	federalización	federalización	NOUN	NN	Gender=Fem|Number=Sing	2	obl	_	_
@@ -27975,7 +27975,7 @@
 # text = Pompeyo tomó el mando de dos legiones en Capua y empezó a reclutar levas ilegalmente, un acto que, como era predecible, aprovecharon los cesarianos en su favor.
 # text_en = Pompey took command of two legions in Capua and began to raise levies illegally, an act that, as was predictable, took advantage of the Caesarians who were in his favor.
 1	Pompeyo	Pompeyo	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	tomó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	tomó	tomar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	mando	mando	NOUN	NN	Gender=Masc|Number=Sing	2	obj	_	_
 5	de	de	ADP	IN	_	7	case	_	_
@@ -27984,7 +27984,7 @@
 8	en	en	ADP	IN	_	9	case	_	_
 9	Capua	Capua	PROPN	NNP	Number=Sing	2	obl	_	_
 10	y	y	CCONJ	CC	_	13	cc	_	_
-11	empezó	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
+11	empezó	empezar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
 12	a	a	ADP	IN	_	11	fixed	_	_
 13	reclutar	reclutar	VERB	VB	VerbForm=Inf	2	conj	_	_
 14	levas	leva	NOUN	NN	Gender=Fem|Number=Plur	13	obj	_	_
