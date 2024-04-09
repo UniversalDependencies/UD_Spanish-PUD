@@ -10146,7 +10146,7 @@
 # text_en = In Pyongyang I did see some people on their smartphones, but far fewer.
 1	En	en	ADP	IN	_	2	case	_	_
 2	Pyongyang	Pyongyang	PROPN	NNP	Number=Sing	3	obl	_	_
-3	vi	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	vi	ver	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 4	a	a	ADP	IN	_	6	case	_	_
 5	algunas	alguno	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	6	det	_	_
 6	personas	persona	NOUN	NN	Gender=Fem|Number=Plur	3	obl	_	_
