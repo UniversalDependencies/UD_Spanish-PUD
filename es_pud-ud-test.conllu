@@ -9062,7 +9062,7 @@
 21	con	con	ADP	IN	_	20	fixed	_	_
 22	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
 23	mercados	_	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	_
-24	europeos	_	ADJ	JJ	Gender=Masc|Number=Plur	23	amod	_	SpaceAfter=No|Proper=True
+24	europeos	europeo	ADJ	JJ	Gender=Masc|Number=Plur	23	amod	_	SpaceAfter=No|Proper=True
 25	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = n01134007
@@ -12411,7 +12411,7 @@
 # text_en = Major European rivers flow from Switzerland, such as the Rhine, the Rhône, the Inn, the Ticino and the Po, all of which have headwaters in the Alps and flow into neighbouring countries, finally emptying into the North Sea, the Mediterranean Sea, the Adriatic Sea and the Black Sea.
 1	Importantes	_	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	_
 2	ríos	_	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
-3	europeos	_	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	Proper=True
+3	europeos	europeo	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	Proper=True
 4	nacen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	en	en	ADP	IN	_	6	case	_	_
 6	Suiza	Suiza	PROPN	NNP	Number=Sing	4	obl	_	SpaceAfter=No
@@ -13030,7 +13030,7 @@
 12	que	que	SCONJ	IN	_	13	mark	_	_
 13	llegasen	_	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	xcomp	_	_
 14	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
-15	europeos	_	NOUN	NN	Gender=Masc|Number=Plur	13	nsubj	_	Proper=True
+15	europeos	europeo	NOUN	NN	Gender=Masc|Number=Plur	13	nsubj	_	Proper=True
 16	a	a	ADP	IN	_	18	case	_	_
 17	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	zona	zona	NOUN	NN	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
@@ -13432,7 +13432,7 @@
 21	momento	momento	NOUN	NN	Gender=Masc|Number=Sing	15	obl	_	_
 22	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	25	obl	_	_
 23	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
-24	europeos	_	NOUN	NN	Gender=Masc|Number=Plur	25	nsubj	_	Proper=True
+24	europeos	europeo	NOUN	NN	Gender=Masc|Number=Plur	25	nsubj	_	Proper=True
 25	llegaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	21	acl:relcl	_	_
 26	a	a	ADP	IN	_	27	case	_	_
 27	finales	_	NOUN	NN	Gender=Masc|Number=Plur	25	obl	_	_
@@ -13495,7 +13495,7 @@
 46	en	en	ADP	IN	_	48	case	_	_
 47	muchas	mucho	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	48	det	_	_
 48	lenguas	_	NOUN	NN	Gender=Fem|Number=Plur	36	obl	_	_
-49	europeas	_	ADJ	JJ	Gender=Fem|Number=Plur	48	amod	_	SpaceAfter=No|Proper=True
+49	europeas	europeo	ADJ	JJ	Gender=Fem|Number=Plur	48	amod	_	SpaceAfter=No|Proper=True
 50	.	.	PUNCT	.	_	20	punct	_	_
 
 # sent_id = w01045004
@@ -13528,7 +13528,7 @@
 4	XVI	xvi	NUM	CD	Gender=Masc|NumForm=Roman|NumType=Card	3	appos	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	3	punct	_	_
 6	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
-7	europeos	_	NOUN	NN	Gender=Masc|Number=Plur	15	nsubj	_	Proper=True
+7	europeos	europeo	NOUN	NN	Gender=Masc|Number=Plur	15	nsubj	_	Proper=True
 8	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	9	nsubj	_	_
 9	visitaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	acl:relcl	_	_
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
