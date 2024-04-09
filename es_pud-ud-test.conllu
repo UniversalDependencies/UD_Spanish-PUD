@@ -505,7 +505,7 @@
 6	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
 7	juegos	juego	NOUN	NN	Gender=Masc|Number=Plur	3	obl	_	_
 8	y	y	CCONJ	CC	_	10	cc	_	_
-9	nuestras	_	PRON	DTP$	Gender=Fem|Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+9	nuestras	nuestro	PRON	DTP$	Gender=Fem|Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
 10	vidas	vida	NOUN	NN	Gender=Fem|Number=Plur	7	conj	_	_
 11	cotidianas	cotidiano	ADJ	JJ	Gender=Fem|Number=Plur	10	amod	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	3	punct	_	_
@@ -3388,7 +3388,7 @@
 1	Hoy	hoy	ADV	RB	_	7	advmod	_	_
 2	en	en	ADP	IN	_	1	fixed	_	_
 3	día	día	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	_
-4	nuestros	_	PRON	DTP$	Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+4	nuestros	nuestro	PRON	DTP$	Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
 5	teléfonos	teléfono	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj	_	_
 6	móviles	móvil	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
 7	son	ser	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -5264,7 +5264,7 @@
 4	equipo	equipo	NOUN	NN	Gender=Masc|Number=Sing	1	obj	_	_
 5	y	y	CCONJ	CC	_	8	cc	_	_
 6	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
-7	nuestra	_	PRON	DTP$	Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+7	nuestra	nuestro	PRON	DTP$	Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
 8	oportunidad	oportunidad	NOUN	NN	Gender=Fem|Number=Sing	1	conj	_	_
 9	para	para	ADP	IN	_	10	case	_	_
 10	progresar	progresar	VERB	VB	VerbForm=Inf	8	xcomp	_	SpaceAfter=No
@@ -5537,7 +5537,7 @@
 23	y	y	CCONJ	CC	_	24	cc	_	_
 24	dejamos	_	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	19	conj	_	_
 25	atrás	atrás	ADV	RB	_	24	advmod	_	_
-26	nuestras	_	PRON	DTP$	Gender=Fem|Number=Plur|Person=1|Poss=Yes|PronType=Prs	27	det	_	_
+26	nuestras	nuestro	PRON	DTP$	Gender=Fem|Number=Plur|Person=1|Poss=Yes|PronType=Prs	27	det	_	_
 27	diferencias	diferencia	NOUN	NN	Gender=Fem|Number=Plur	24	obj	_	SpaceAfter=No
 28	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -6586,7 +6586,7 @@
 1	No	no	ADV	RB	Polarity=Neg	2	advmod	_	_
 2	existían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 3	en	en	ADP	IN	_	5	case	_	_
-4	nuestros	_	PRON	DTP$	Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+4	nuestros	nuestro	PRON	DTP$	Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
 5	días	día	NOUN	NN	Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	14	punct	_	_
 7	y	y	CCONJ	CC	_	14	cc	_	_
@@ -8529,7 +8529,7 @@
 10	estrechamente	estrechamente	ADV	RB	_	11	advmod	_	_
 11	relacionada	relacionar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	xcomp	_	_
 12	con	con	ADP	IN	_	14	case	_	_
-13	nuestra	_	PRON	DTP$	Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+13	nuestra	nuestro	PRON	DTP$	Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
 14	obsesión	obsesión	NOUN	NN	Gender=Fem|Number=Sing	11	obl	_	_
 15	creciente	creciente	ADJ	JJ	Gender=Fem|Number=Sing	14	amod	_	_
 16	por	por	ADP	IN	_	17	case	_	_
@@ -22291,7 +22291,7 @@
 9	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
 10	jueguecitos	jueguecito	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	_
 11	en	en	ADP	IN	_	13	case	_	_
-12	nuestra	_	PRON	DTP$	Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
+12	nuestra	nuestro	PRON	DTP$	Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
 13	contra	contra	NOUN	NN	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
 14	"	"	PUNCT	''	_	7	punct	_	SpaceAfter=No
 15	,	,	PUNCT	,	_	16	punct	_	_
