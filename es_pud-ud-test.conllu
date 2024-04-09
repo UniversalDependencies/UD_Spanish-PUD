@@ -1197,7 +1197,7 @@
 3	solo	solo	ADV	RB	_	4	advmod	_	_
 4	blogueros	bloguero	NOUN	NN	Gender=Masc|Number=Plur	6	nsubj	_	_
 5	habían	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
-6	visto	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	visto	ver	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 7	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	jets	_	NOUN	NN	Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	6	punct	_	_
@@ -2741,7 +2741,7 @@
 20	Pekín	Pekín	PROPN	NNP	Number=Sing	18	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	,	_	23	punct	_	_
 22	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	23	nsubj	_	_
-23	ven	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
+23	ven	ver	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
 24	día	día	NOUN	NN	Gender=Masc|Number=Sing	23	obl	_	_
 25	tras	tras	ADP	IN	_	26	case	_	_
 26	día	día	NOUN	NN	Gender=Masc|Number=Sing	24	nmod	_	_
@@ -8212,7 +8212,7 @@
 19	medida	medida	NOUN	NN	Gender=Fem|Number=Sing	17	obl	_	_
 20	para	para	ADP	IN	_	22	case	_	_
 21	ser	ser	AUX	VB	VerbForm=Inf	22	aux:pass	_	_
-22	visto	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	xcomp	_	_
+22	visto	ver	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	xcomp	_	_
 23	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	domingo	domingo	NOUN	NN	Gender=Masc|Number=Sing	22	obl:tmod	_	_
 25	por	por	ADP	IN	_	27	case	_	_
@@ -9308,7 +9308,7 @@
 # text_en = I hadn't seen a lot of the episodes and then my phone started lighting up.
 1	No	no	ADV	RB	Polarity=Neg	3	advmod	_	_
 2	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	aux	_	_
-3	visto	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	visto	ver	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	muchos	mucho	NOUN	NN	Gender=Masc|Number=Plur	3	obj	_	_
 5	de	de	ADP	IN	_	7	case	_	_
 6	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
@@ -26338,7 +26338,7 @@
 2	asunto	asunto	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj:pass	_	_
 3	puede	poder	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 4	ser	ser	AUX	VB	VerbForm=Inf	5	aux:pass	_	_
-5	visto	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	visto	ver	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	como	como	ADP	IN	_	8	case	_	_
 7	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	punto	punto	NOUN	NN	Gender=Masc|Number=Sing	5	obl	_	_
