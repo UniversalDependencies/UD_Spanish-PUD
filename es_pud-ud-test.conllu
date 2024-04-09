@@ -4276,7 +4276,7 @@
 # text = No sé cuál fue el crecimiento del PIB durante el gobierno de Washington y de Lincoln, pero los desarrollos institucionales de esos mandatos tuvieron efectos largos y duraderos.
 # text_en = “I don’t know what G.D.P. growth was during the Washington and Lincoln Administrations, but the institutional developments in those terms had large and long-lasting effects.”
 1	No	no	ADV	RB	Polarity=Neg	2	advmod	_	_
-2	sé	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	sé	saber	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	cuál	cuál	PRON	WP	Number=Sing|PronType=Int	6	nsubj	_	_
 4	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -6569,7 +6569,7 @@
 18	acceso	acceso	NOUN	NN	Gender=Masc|Number=Sing	15	obl	_	_
 19	si	si	SCONJ	IN	_	21	mark	_	_
 20	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	21	expl:pass	_	_
-21	sabe	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_
+21	sabe	saber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_
 22	como	como	ADV	WRB	_	23	advmod	_	_
 23	buscar	buscar	VERB	VB	VerbForm=Inf	21	csubj:pass	_	SpaceAfter=No
 24	,	,	PUNCT	,	_	25	punct	_	_
@@ -8584,7 +8584,7 @@
 # text = No sé por qué la elegí a ella…
 # text_en = I don't know why I chose her ...
 1	No	no	ADV	RB	Polarity=Neg	2	advmod	_	_
-2	sé	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	sé	saber	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	por	por	ADP	IN	_	4	case	_	_
 4	qué	qué	PRON	WP	PronType=Int	6	obl	_	_
 5	la	él	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	obj	_	_
@@ -10368,7 +10368,7 @@
 3	2019	2019	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	6	obl	_	_
 4	Winter	winter	NOUN	NN	Number=Sing	6	nsubj	_	Proper=True
 5	Universiade	Universiade	PROPN	NNP	Number=Sing	4	flat:name	_	_
-6	será	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	será	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 7	en	en	ADP	IN	_	8	case	_	_
 8	Krasnoyark	Krasnoyark	PROPN	NNP	Number=Sing	6	obl	_	_
 
@@ -27297,7 +27297,7 @@
 # text = Como sea, la amistad se desmoronó debido a las colaboraciones no oficiales entre los dos, lo cual llevó a disputas legales.
 # text_en = However, the friendship has fallen apart due to unofficial collaborations between the two, which has given rise to legal disputes.
 1	Como	como	ADV	WRB	_	2	advmod	_	_
-2	sea	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	SpaceAfter=No
+2	sea	ser	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	amistad	amistad	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
