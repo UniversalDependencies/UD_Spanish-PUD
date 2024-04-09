@@ -168,7 +168,7 @@
 # text = Los nuevos gastos corren a cargo de la gran cuenta bancaria de Clinton.
 # text_en = The new spending is fueled by Clinton’s large bank account.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
-2	nuevos	_	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	_
+2	nuevos	nuevo	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	_
 3	gastos	_	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
 4	corren	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	a	a	ADP	IN	_	6	case	_	_
@@ -784,7 +784,7 @@
 13	ayudaría	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
 14	a	a	ADP	IN	_	15	case	_	_
 15	asegurar	asegurar	VERB	VB	VerbForm=Inf	13	xcomp	_	_
-16	nuevas	_	ADJ	JJ	Gender=Fem|Number=Plur	17	amod	_	_
+16	nuevas	nuevo	ADJ	JJ	Gender=Fem|Number=Plur	17	amod	_	_
 17	inversiones	_	NOUN	NN	Gender=Fem|Number=Plur	15	obj	_	_
 18	y	y	CCONJ	CC	_	19	cc	_	_
 19	protegería	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	conj	_	_
@@ -802,7 +802,7 @@
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	promesa	promesa	NOUN	NN	Gender=Fem|Number=Sing	21	nsubj	_	_
 3	de	de	ADP	IN	_	5	case	_	_
-4	nuevos	_	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
+4	nuevos	nuevo	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
 5	pedidos	_	NOUN	NN	Gender=Masc|Number=Plur	2	nmod	_	_
 6	de	de	ADP	IN	_	8	case	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
@@ -2268,7 +2268,7 @@
 17	oponen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
 18	a	a	ADP	IN	_	21	case	_	_
 19	cualquier	_	DET	DT	Gender=Fem|Number=Sing|PronType=Ind	21	det	_	_
-20	nueva	_	ADJ	JJ	Gender=Fem|Number=Sing	21	amod	_	_
+20	nueva	nuevo	ADJ	JJ	Gender=Fem|Number=Sing	21	amod	_	_
 21	legislación	legislación	NOUN	NN	Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -3479,7 +3479,7 @@
 6	porcentajes	_	NOUN	NN	Gender=Masc|Number=Plur	3	obl	_	_
 7	de	de	ADP	IN	_	10	case	_	_
 8	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
-9	nuevos	_	ADJ	JJ	Gender=Masc|Number=Plur	10	amod	_	_
+9	nuevos	nuevo	ADJ	JJ	Gender=Masc|Number=Plur	10	amod	_	_
 10	apartamentos	_	NOUN	NN	Gender=Masc|Number=Plur	6	nmod	_	_
 11	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	13	nsubj	_	_
 12	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	compound:prt	_	_
@@ -3690,7 +3690,7 @@
 # text = Las nuevas directrices sobre el hierro implican que se necesitan más donantes.
 # text_en = The new iron guidelines mean more donors are needed.
 1	Las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
-2	nuevas	_	ADJ	JJ	Gender=Fem|Number=Plur	3	amod	_	_
+2	nuevas	nuevo	ADJ	JJ	Gender=Fem|Number=Plur	3	amod	_	_
 3	directrices	_	NOUN	NN	Gender=Fem|Number=Plur	7	nsubj	_	_
 4	sobre	sobre	ADP	IN	_	6	case	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -4213,7 +4213,7 @@
 19	curiosa	_	ADJ	JJ	Gender=Fem|Number=Sing	20	amod	_	_
 20	intersección	intersección	NOUN	NN	Gender=Fem|Number=Sing	17	nsubj	_	_
 21	entre	entre	ADP	IN	_	25	case	_	_
-22	nuevas	_	ADJ	JJ	Gender=Fem|Number=Plur	25	amod	_	_
+22	nuevas	nuevo	ADJ	JJ	Gender=Fem|Number=Plur	25	amod	_	_
 23	y	y	CCONJ	CC	_	24	cc	_	_
 24	viejas	_	ADJ	JJ	Gender=Fem|Number=Plur	22	conj	_	_
 25	ideas	_	NOUN	NN	Gender=Fem|Number=Plur	20	nmod	_	SpaceAfter=No
@@ -5566,7 +5566,7 @@
 20	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	Ciudad	ciudad	NOUN	NN	Gender=Fem|Number=Sing	14	nmod	_	_
 22	de	de	ADP	IN	_	24	case	_	_
-23	Nueva	_	ADJ	JJ	Gender=Fem|Number=Sing	24	amod	_	Proper=True
+23	Nueva	nuevo	ADJ	JJ	Gender=Fem|Number=Sing	24	amod	_	Proper=True
 24	York	York	PROPN	NNP	Gender=Fem|Number=Sing	21	nmod	_	_
 25	(	(	PUNCT	(	_	26	punct	_	SpaceAfter=No
 26	HHC	HHC	PROPN	NNP	Gender=Fem|Number=Sing	14	appos	_	SpaceAfter=No
@@ -6113,7 +6113,7 @@
 10	Northampton	Northampton	PROPN	NNP	Number=Sing	8	nmod	_	_
 11	para	para	ADP	IN	_	12	case	_	_
 12	descubrir	descubrir	VERB	VB	VerbForm=Inf	1	xcomp	_	_
-13	nuevos	_	ADJ	JJ	Gender=Masc|Number=Plur	14	amod	_	_
+13	nuevos	nuevo	ADJ	JJ	Gender=Masc|Number=Plur	14	amod	_	_
 14	talentos	_	NOUN	NN	Gender=Masc|Number=Plur	12	obj	_	SpaceAfter=No
 15	,	,	PUNCT	,	_	16	punct	_	_
 16	dice	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	SpaceAfter=No
@@ -7211,7 +7211,7 @@
 9	acerca	acerca	ADV	RB	_	11	case	_	_
 10	de	de	ADP	IN	_	9	fixed	_	_
 11	asumir	asumir	VERB	VB	VerbForm=Inf	8	xcomp	_	_
-12	nuevas	_	ADJ	JJ	Gender=Fem|Number=Plur	13	amod	_	_
+12	nuevas	nuevo	ADJ	JJ	Gender=Fem|Number=Plur	13	amod	_	_
 13	cargas	_	NOUN	NN	Gender=Fem|Number=Plur	11	obj	_	_
 14	económicas	_	ADJ	JJ	Gender=Fem|Number=Plur	13	amod	_	_
 15	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	expl:pass	_	_
@@ -9380,7 +9380,7 @@
 # text_en = New episodes are followed by after show, "The Talking Dead."
 1	Tras	tras	ADP	IN	_	4	case	_	_
 2	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
-3	nuevos	_	ADJ	JJ	Gender=Masc|Number=Plur	4	amod	_	_
+3	nuevos	nuevo	ADJ	JJ	Gender=Masc|Number=Plur	4	amod	_	_
 4	episodios	_	NOUN	NN	Gender=Masc|Number=Plur	5	obl	_	_
 5	viene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
@@ -9503,7 +9503,7 @@
 6	lanzamiento	lanzamiento	NOUN	NN	Gender=Masc|Number=Sing	2	obj	_	_
 7	de	de	ADP	IN	_	10	case	_	_
 8	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-9	nueva	_	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	_
+9	nueva	nuevo	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	_
 10	herramienta	herramienta	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
 11	de	de	ADP	IN	_	12	case	_	_
 12	chat	chat	NOUN	NN	Gender=Masc|Number=Sing	10	nmod	_	_
@@ -9958,7 +9958,7 @@
 15	formato	formato	NOUN	NN	Gender=Masc|Number=Sing	10	obl	_	_
 16	y	y	CCONJ	CC	_	19	cc	_	_
 17	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
-18	nueva	_	ADJ	JJ	Gender=Fem|Number=Sing	19	amod	_	_
+18	nueva	nuevo	ADJ	JJ	Gender=Fem|Number=Sing	19	amod	_	_
 19	tradición	tradición	NOUN	NN	Gender=Fem|Number=Sing	15	conj	_	_
 20	para	para	ADP	IN	_	22	case	_	_
 21	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
@@ -12835,7 +12835,7 @@
 1	A	a	ADP	IN	_	7	advmod	_	_
 2	menudo	menudo	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	_
 3	Papúa	Papúa	PROPN	NNP	Number=Sing	7	nsubj:pass	_	_
-4	Nueva	_	ADJ	JJ	Gender=Fem|Number=Sing	5	amod	_	Proper=True
+4	Nueva	nuevo	ADJ	JJ	Gender=Fem|Number=Sing	5	amod	_	Proper=True
 5	Guinea	Guinea	PROPN	NNP	Gender=Fem|Number=Sing	3	flat:name	_	_
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pass	_	_
 7	identifica	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -12868,7 +12868,7 @@
 7	presentes	_	ADJ	JJ	Gender=Fem|Number=Plur	0	root	_	_
 8	en	en	ADP	IN	_	9	case	_	_
 9	Papúa	Papúa	PROPN	NNP	Number=Sing	7	obl	_	_
-10	Nueva	_	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	Proper=True
+10	Nueva	nuevo	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	Proper=True
 11	Guinea	Guinea	PROPN	NNP	Gender=Fem|Number=Sing	9	flat:name	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	7	punct	_	_
 
@@ -14017,7 +14017,7 @@
 11	,	,	PUNCT	,	_	5	punct	_	_
 12	consideró	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-14	nueva	_	ADJ	JJ	Gender=Fem|Number=Sing	15	amod	_	_
+14	nueva	nuevo	ADJ	JJ	Gender=Fem|Number=Sing	15	amod	_	_
 15	república	república	NOUN	NN	Gender=Fem|Number=Sing	17	obj	_	_
 16	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	sucesora	sucesora	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
@@ -14407,7 +14407,7 @@
 8	más	más	ADV	RBR	Degree=Cmp	9	advmod	_	_
 9	antiguas	_	ADJ	JJ	Gender=Fem|Number=Plur	7	amod	_	_
 10	de	de	ADP	IN	_	12	case	_	_
-11	Nueva	_	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	Proper=True
+11	Nueva	nuevo	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	Proper=True
 12	Francia	Francia	PROPN	NNP	Gender=Fem|Number=Sing	7	nmod	_	_
 13	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	17	nsubj:pass	_	_
 14	no	no	ADV	RB	Polarity=Neg	17	advmod	_	_
@@ -15758,7 +15758,7 @@
 8	Caracalla	Caracalla	PROPN	NNP	Gender=Masc|Number=Sing	7	appos	_	_
 9	hizo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-11	nueva	_	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	_
+11	nueva	nuevo	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	_
 12	división	división	NOUN	NN	Gender=Fem|Number=Sing	9	obj	_	_
 13	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	15	nsubj	_	_
 14	solo	solo	ADV	RB	_	15	advmod	_	_
@@ -16994,7 +16994,7 @@
 18	probable	probable	NOUN	NN	Gender=Masc|Number=Sing	13	appos	_	_
 19	en	en	ADP	IN	_	20	case	_	_
 20	Papúa	Papúa	PROPN	NNP	Number=Sing	18	nmod	_	_
-21	Nueva	_	ADJ	JJ	Gender=Fem|Number=Sing	22	amod	_	Proper=True
+21	Nueva	nuevo	ADJ	JJ	Gender=Fem|Number=Sing	22	amod	_	Proper=True
 22	Guinea	Guinea	PROPN	NNP	Gender=Fem|Number=Sing	20	flat:name	_	SpaceAfter=No
 23	,	,	PUNCT	,	_	18	punct	_	_
 24	fueron	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	25	aux:pass	_	_
@@ -17692,7 +17692,7 @@
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	tratado	tratado	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	abrió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	nuevo	_	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
+4	nuevo	nuevo	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
 5	puertos	_	NOUN	NN	Gender=Masc|Number=Plur	3	obj	_	_
 6	de	de	ADP	IN	_	7	case	_	_
 7	comercio	comercio	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	_
@@ -18102,7 +18102,7 @@
 7	,	,	PUNCT	,	_	3	punct	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pass	_	_
 9	crearon	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-10	nuevos	_	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	_
+10	nuevos	nuevo	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	_
 11	distritos	_	NOUN	NN	Gender=Masc|Number=Plur	9	nsubj:pass	_	_
 12	indígenas	_	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	9	punct	_	_
@@ -19942,7 +19942,7 @@
 10	embajadora	embajadora	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
 11	de	de	ADP	IN	_	14	case	_	_
 12	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
-13	nueva	_	ADJ	JJ	Gender=Fem|Number=Sing	14	amod	_	_
+13	nueva	nuevo	ADJ	JJ	Gender=Fem|Number=Sing	14	amod	_	_
 14	fragancia	fragancia	NOUN	NN	Gender=Fem|Number=Sing	10	nmod	_	_
 15	de	de	ADP	IN	_	16	case	_	_
 16	Yves	Yves	PROPN	NNP	Number=Sing	14	nmod	_	_
@@ -22220,7 +22220,7 @@
 3	australianos	_	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	Proper=True
 4	llegaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	a	a	ADP	IN	_	7	case	_	_
-6	nuevas	_	ADJ	JJ	Gender=Fem|Number=Plur	7	amod	_	_
+6	nuevas	nuevo	ADJ	JJ	Gender=Fem|Number=Plur	7	amod	_	_
 7	conclusiones	_	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
 8	a	a	ADP	IN	_	12	case	_	_
 9	partir	partir	VERB	VB	VerbForm=Inf	8	fixed	_	_
@@ -24133,7 +24133,7 @@
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	compound:prt	_	_
 6	enfrenta	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	a	a	ADP	IN	_	9	case	_	_
-8	nuevos	_	ADJ	JJ	Gender=Masc|Number=Plur	9	amod	_	_
+8	nuevos	nuevo	ADJ	JJ	Gender=Masc|Number=Plur	9	amod	_	_
 9	desafíos	_	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	6	punct	_	_
 
@@ -25398,7 +25398,7 @@
 5	ocasionó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	transformaciones	_	NOUN	NN	Gender=Fem|Number=Plur	5	obj	_	_
 7	y	y	CCONJ	CC	_	9	cc	_	_
-8	nuevos	_	ADJ	JJ	Gender=Masc|Number=Plur	9	amod	_	_
+8	nuevos	nuevo	ADJ	JJ	Gender=Masc|Number=Plur	9	amod	_	_
 9	cambios	_	NOUN	NN	Gender=Masc|Number=Plur	6	conj	_	_
 10	en	en	ADP	IN	_	12	case	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
@@ -27084,7 +27084,7 @@
 21	,	,	PUNCT	,	_	25	punct	_	_
 22	también	también	ADV	RB	_	25	advmod	_	_
 23	por	por	ADP	IN	_	25	case	_	_
-24	nuevas	_	ADJ	JJ	Gender=Fem|Number=Plur	25	amod	_	_
+24	nuevas	nuevo	ADJ	JJ	Gender=Fem|Number=Plur	25	amod	_	_
 25	mejoras	_	NOUN	NN	Gender=Fem|Number=Plur	8	obl	_	_
 26	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	27	nsubj	_	_
 27	tomaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	25	acl:relcl	_	_
@@ -27647,7 +27647,7 @@
 32	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
 33	estado	estado	NOUN	NN	Gender=Masc|Number=Sing	30	nmod	_	_
 34	de	de	ADP	IN	_	36	case	_	_
-35	Nueva	_	ADJ	JJ	Gender=Fem|Number=Sing	36	amod	_	Proper=True
+35	Nueva	nuevo	ADJ	JJ	Gender=Fem|Number=Sing	36	amod	_	Proper=True
 36	York	York	PROPN	NNP	Gender=Fem|Number=Sing	33	nmod	_	SpaceAfter=No
 37	.	.	PUNCT	.	_	5	punct	_	_
 
@@ -27919,7 +27919,7 @@
 24	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	ejército	ejército	NOUN	NN	Gender=Masc|Number=Sing	22	nmod	_	_
 26	de	de	ADP	IN	_	28	case	_	_
-27	nuevos	_	ADJ	JJ	Gender=Masc|Number=Plur	28	amod	_	_
+27	nuevos	nuevo	ADJ	JJ	Gender=Masc|Number=Plur	28	amod	_	_
 28	generales	_	NOUN	NN	Gender=Masc|Number=Plur	22	nmod	_	SpaceAfter=No
 29	.	.	PUNCT	.	_	2	punct	_	_
 
