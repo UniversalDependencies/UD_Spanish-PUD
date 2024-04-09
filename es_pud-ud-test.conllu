@@ -2627,7 +2627,7 @@
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	asociación	asociación	NOUN	NN	Gender=Fem|Number=Sing	11	nsubj	_	_
 3	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	4	nsubj	_	_
-4	representa	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+4	representa	representar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 5	a	a	ADP	IN	_	7	case	_	_
 6	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
 7	agentes	agente	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
@@ -14828,7 +14828,7 @@
 # text_en = The gods represented distinctly the practical needs of daily life, and they were scrupulously accorded the rites and offerings considered proper.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	dioses	dios	NOUN	NN	Gender=Masc|Number=Plur	3	nsubj	_	_
-3	representaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	representaban	representar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 4	claramente	claramente	ADV	RB	_	3	advmod	_	_
 5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	necesidades	_	NOUN	NN	Gender=Fem|Number=Plur	3	obj	_	_
@@ -18232,7 +18232,7 @@
 26	producían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	19	acl:relcl	_	_
 27	afiches	_	NOUN	NN	Gender=Masc|Number=Plur	26	obj	_	_
 28	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	29	nsubj	_	_
-29	representaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	27	acl:relcl	_	_
+29	representaban	representar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	27	acl:relcl	_	_
 30	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	31	det	_	_
 31	películas	película	NOUN	NN	Gender=Fem|Number=Plur	29	obj	_	_
 32	con	con	ADP	IN	_	33	case	_	_
@@ -18911,7 +18911,7 @@
 2	,	,	PUNCT	,	_	1	punct	_	_
 3	Jasmine	Jasmine	PROPN	NNP	Gender=Fem|Number=Sing	5	nsubj	_	_
 4	también	también	ADV	RB	_	5	advmod	_	_
-5	representa	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	representa	representar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
 7	derechos	derecho	NOUN	NN	Gender=Masc|Number=Plur	5	obj	_	_
 8	civiles	civil	ADJ	JJ	Gender=Masc|Number=Plur	7	amod	_	SpaceAfter=No
@@ -23997,7 +23997,7 @@
 9	Cristina	Cristina	PROPN	NNP	Gender=Fem|Number=Sing	2	appos	_	_
 10	Cifuentes	Cifuentes	PROPN	NNP	Gender=Fem|Number=Sing	9	flat:name	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	9	punct	_	_
-12	representa	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	representa	representar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 13	a	a	ADP	IN	_	16	case	_	_
 14	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
 15	más	más	ADV	RBR	Degree=Cmp	16	advmod	_	_
@@ -24019,7 +24019,7 @@
 30	Javier	Javier	PROPN	NNP	Gender=Masc|Number=Sing	28	appos	_	_
 31	Maroto	Maroto	PROPN	NNP	Gender=Masc|Number=Sing	30	flat:name	_	SpaceAfter=No
 32	,	,	PUNCT	,	_	28	punct	_	_
-33	representan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+33	representan	representar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
 34	a	a	ADP	IN	_	37	case	_	_
 35	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	37	det	_	_
 36	más	más	ADV	RBR	Degree=Cmp	37	advmod	_	_
@@ -26619,7 +26619,7 @@
 15	,	,	PUNCT	,	_	18	punct	_	_
 16	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	17	det	_	_
 17	cual	cual	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	18	nsubj	_	_
-18	representa	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	parataxis	_	_
+18	representa	representar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	parataxis	_	_
 19	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	amor	amor	NOUN	NN	Gender=Masc|Number=Sing	18	obj	_	_
 21	de	de	ADP	IN	_	23	case	_	_
