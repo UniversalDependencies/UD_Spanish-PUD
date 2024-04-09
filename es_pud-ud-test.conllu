@@ -5315,7 +5315,7 @@
 13	por	por	ADP	IN	_	14	case	_	_
 14	debajo	debajo	ADV	RB	_	5	xcomp	_	_
 15	de	de	ADP	IN	_	17	case	_	_
-16	tres	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	17	nummod	_	_
+16	tres	tres	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	17	nummod	_	_
 17	copas	copa	NOUN	NN	Gender=Fem|Number=Plur	14	obl	_	_
 18	volteadas	voltear	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	17	acl	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	1	punct	_	_
@@ -7107,7 +7107,7 @@
 15-16	hacerlo	_	_	_	_	_	_	_	_
 15	hacer	hacer	VERB	VB	VerbForm=Inf	20	csubj	_	_
 16	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	obj	_	_
-17	tres	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	18	nummod	_	_
+17	tres	tres	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	18	nummod	_	_
 18	veces	_	NOUN	NN	Gender=Fem|Number=Plur	15	obl	_	_
 19	seguidas	seguido	ADJ	JJ	Gender=Fem|Number=Plur	18	amod	_	_
 20	indica	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
@@ -15368,7 +15368,7 @@
 2	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	compound:prt	_	_
 3	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
 4	casado	casar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-5	tres	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	6	nummod	_	_
+5	tres	tres	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	6	nummod	_	_
 6	veces	_	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -15568,7 +15568,7 @@
 # sent_id = w01070033
 # text = Tres marcas localizan el amanecer en el verano, en el solsticio de invierno y en los dos equinoccios
 # text_en = Three markings locate sunrise at the summer and winter solstices and at the two equinoxes.
-1	Tres	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	2	nummod	_	_
+1	Tres	tres	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	2	nummod	_	_
 2	marcas	marca	NOUN	NN	Gender=Fem|Number=Plur	3	nsubj	_	_
 3	localizan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -19536,7 +19536,7 @@
 # text = Incluyó tres pistas coescritas con Jim, el hermano de Rafferty, quien también era un cantautor que había firmado con Decca Records en los 70.
 # text_en = It included three tracks cowritten with Rafferty's brother Jim, also a singer-songwriter, who had been signed to Decca Records in the 1970s.
 1	Incluyó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-2	tres	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	3	nummod	_	_
+2	tres	tres	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	3	nummod	_	_
 3	pistas	pista	NOUN	NN	Gender=Fem|Number=Plur	1	obj	_	_
 4	coescritas	_	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Fin	3	acl	_	_
 5	con	con	ADP	IN	_	6	case	_	_
@@ -19900,7 +19900,7 @@
 24	de	de	ADP	IN	_	25	case	_	_
 25	ejercicios	ejercicio	NOUN	NN	Gender=Masc|Number=Plur	23	nmod	_	_
 26	de	de	ADP	IN	_	28	case	_	_
-27	tres	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	28	nummod	_	_
+27	tres	tres	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	28	nummod	_	_
 28	sesiones	sesión	NOUN	NN	Gender=Fem|Number=Plur	23	nmod	_	_
 29	por	por	ADP	IN	_	30	case	_	_
 30	semana	semana	NOUN	NN	Gender=Fem|Number=Sing	28	nmod	_	SpaceAfter=No
@@ -27386,7 +27386,7 @@
 # text = Tiene tres capillas paralelas en la cabecera y numerosas capillas laterales entre los contrafuertes.
 # text_en = It has three parallel chapels at the apse and many lateral chapels between the buttresses.
 1	Tiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	tres	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	3	nummod	_	_
+2	tres	tres	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	3	nummod	_	_
 3	capillas	capilla	NOUN	NN	Gender=Fem|Number=Plur	1	obj	_	_
 4	paralelas	paralelo	ADJ	JJ	Gender=Fem|Number=Plur	3	amod	_	_
 5	en	en	ADP	IN	_	7	case	_	_

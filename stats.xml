@@ -22,7 +22,7 @@
     <tag name="CCONJ">582</tag><!-- y, pero, o, e, ni, and -->
     <tag name="DET">3321</tag><!-- el, uno, este, otro, todo, ese, mucho, esto, cada, vario -->
     <tag name="NOUN">4818</tag><!-- _, año, parte, estado, guerra, lugar, día, gobierno, persona, ciudad -->
-    <tag name="NUM">435</tag><!-- _, dos, 1, 10, 3, cuatro, mil, tres, seis, 70 -->
+    <tag name="NUM">435</tag><!-- dos, _, tres, 1, 10, 3, cuatro, mil, seis, 70 -->
     <tag name="PART">1</tag><!-- not -->
     <tag name="PRON">1057</tag><!-- él, que, su, yo, cual, _, quien, tú, nuestro, cuál -->
     <tag name="PROPN">1250</tag><!-- _, Cristo, China, Trump, mediterráneo, Europa, Hong, Italia, Kong, Albania -->
