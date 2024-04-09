@@ -83,7 +83,7 @@
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	Partido	partido	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	Proper=True
 9	Republicano	republicano	ADJ	JJ	Gender=Masc|Number=Sing	8	amod	_	Proper=True
-10	rompió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	rompió	romper	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	con	con	ADP	IN	_	13	case	_	_
 12	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	retórica	retórica	NOUN	NN	Gender=Fem|Number=Sing	10	obl	_	_
@@ -6135,7 +6135,7 @@
 10	,	,	PUNCT	,	_	3	punct	_	_
 11	ella	él	PRON	PRP	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
 12	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	compound:prt	_	_
-13	rie	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+13	rie	reír	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	13	punct	_	_
 
 # newdoc id = n01089
@@ -9644,7 +9644,7 @@
 21	decisiva	decisivo	ADJ	JJ	Gender=Fem|Number=Sing	20	amod	_	SpaceAfter=No
 22	,	,	PUNCT	,	_	4	punct	_	_
 23	también	también	ADV	RB	_	24	advmod	_	_
-24	rindió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+24	rindió	rendir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 25	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	26	det	_	_
 26	tributo	tributo	NOUN	NN	Gender=Masc|Number=Sing	24	obj	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	24	punct	_	_
@@ -12766,7 +12766,7 @@
 10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	hábitat	hábitat	NOUN	NN	Gender=Masc|Number=Sing	8	nmod	_	_
 12	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	13	nsubj	_	_
-13	rodea	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
+13	rodea	rodear	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	terreno	terreno	NOUN	NN	Gender=Masc|Number=Sing	13	obj	_	_
 16	agrícola	agrícola	ADJ	JJ	Gender=Masc|Number=Sing	15	amod	_	_
@@ -18388,7 +18388,7 @@
 7	Elaine	Elaine	PROPN	NNP	Gender=Fem|Number=Sing	5	appos	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	10	punct	_	_
 9	mientras	mientras	ADV	WRB	_	10	advmod	_	_
-10	rodaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+10	rodaban	rodar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
 11	That	that	DET	DT	Number=Sing|PronType=Ind	12	det	_	Proper=True
 12	Summer	summer	NOUN	NN	Number=Sing	10	obj	_	Proper=True
 13	en	en	ADP	IN	_	14	case	_	_
@@ -24336,7 +24336,7 @@
 21	mismo	mismo	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	_
 22	para	para	ADP	IN	_	23	case	_	_
 23	hacer	hacer	VERB	VB	VerbForm=Inf	16	xcomp	_	_
-24	reír	_	VERB	VB	Tense=Imp|VerbForm=Fin	23	xcomp	_	_
+24	reír	reír	VERB	VB	Tense=Imp|VerbForm=Fin	23	xcomp	_	_
 25-26	al	_	_	_	_	_	_	_	_
 25	a	a	ADP	INDT	_	27	case	_	_
 26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
@@ -27635,7 +27635,7 @@
 21	John	John	PROPN	NNP	Gender=Masc|Number=Sing	20	appos	_	_
 22	Burgoyne	Burgoyne	PROPN	NNP	Gender=Masc|Number=Sing	21	flat:name	_	_
 23	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	24	compound:prt	_	_
-24	rindió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	_
+24	rindió	rendir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	_
 25	en	en	ADP	IN	_	26	case	_	_
 26	Saratoga	Saratoga	PROPN	NNP	Number=Sing	24	obl	_	SpaceAfter=No
 27	,	,	PUNCT	,	_	30	punct	_	_
@@ -27861,7 +27861,7 @@
 3	de	de	ADP	IN	_	4	case	_	_
 4	paz	paz	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	compound:prt	_	_
-6	rompieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	rompieron	romper	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	por	por	ADP	IN	_	6	discourse	_	_
 8	fin	fin	NOUN	NN	Gender=Masc|Number=Sing	7	fixed	_	_
 9	en	en	ADP	IN	_	11	case	_	_
