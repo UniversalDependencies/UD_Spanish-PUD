@@ -10,12 +10,12 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>1000</sentences><tokens>22820</tokens><words>23286</words><fused>466</fused></test>
   </size>
-  <lemmas unique="4143" /><!-- el, de, ,, ., en, a, que, él, uno, y, ser, su, por, haber, con -->
+  <lemmas unique="4161" /><!-- el, de, ,, ., en, a, que, él, uno, y, ser, su, por, haber, con -->
   <forms unique="5937" /><!-- de, el, ,, ., la, en, a, que, y, los, se, un, las, una, por -->
   <fusions unique="62" /><!-- del, al, verlo, beneficiarse, convirtiéndose, hacerlo, recuperarlo, Didn't, admitiéndolo, alejarse, aplicándolo, centrarse, centrándose, comprometerse, concentrase -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
-    <tag name="ADJ">1480</tag><!-- _, nuevo, gran, primero, último, mayor, unido, británico, grande, antiguo -->
+    <tag name="ADJ">1480</tag><!-- _, nuevo, gran, primero, último, mayor, unido, británico, nacional, grande -->
     <tag name="ADP">3963</tag><!-- de, en, a, por, con, para, como, que, entre, durante -->
     <tag name="ADV">894</tag><!-- no, más, también, cuando, antes, después, ya, muy, tanto, donde -->
     <tag name="AUX">707</tag><!-- ser, haber, estar, _, poder, deber, do -->
