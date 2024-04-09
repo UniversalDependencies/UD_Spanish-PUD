@@ -397,7 +397,7 @@
 15	2004	2004	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	13	obl	_	_
 16	y	y	CCONJ	CC	_	18	cc	_	_
 17	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	18	expl:pass	_	_
-18	construyó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	conj	_	_
+18	construyó	construir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	conj	_	_
 19	sobre	sobre	ADP	IN	_	21	case	_	_
 20	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	línea	línea	NOUN	NN	Gender=Fem|Number=Sing	18	obl	_	_
@@ -10958,7 +10958,7 @@
 10	Gran	gran	ADJ	JJ	Number=Sing	11	amod	_	Proper=True
 11	Moravia	Moravia	PROPN	NNP	Number=Sing	8	nmod	_	_
 12	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	compound:prt	_	_
-13	constituyó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+13	constituyó	constituir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 14	con	con	ADP	IN	_	16	case	_	_
 15	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	conquista	conquista	NOUN	NN	Gender=Fem|Number=Sing	13	obl	_	_
@@ -18498,7 +18498,7 @@
 # text_en = He also built and renovated five traditional markets in 2013 and four traditional markets in 2014.
 1	Él	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	también	también	ADV	RB	_	3	advmod	_	_
-3	construyó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	construyó	construir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	cinco	cinco	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	5	nummod	_	_
 5	mercados	mercado	NOUN	NN	Gender=Masc|Number=Plur	3	obj	_	_
 6	tradicionales	tradicional	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
@@ -19535,7 +19535,7 @@
 # sent_id = w01130101
 # text = Incluyó tres pistas coescritas con Jim, el hermano de Rafferty, quien también era un cantautor que había firmado con Decca Records en los 70.
 # text_en = It included three tracks cowritten with Rafferty's brother Jim, also a singer-songwriter, who had been signed to Decca Records in the 1970s.
-1	Incluyó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Incluyó	incluir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	tres	tres	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	3	nummod	_	_
 3	pistas	pista	NOUN	NN	Gender=Fem|Number=Plur	1	obj	_	_
 4	coescritas	_	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Fin	3	acl	_	_
@@ -19832,7 +19832,7 @@
 7	70	70	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	4	punct	_	_
 9	Stralin	Stralin	PROPN	NNP	Gender=Masc|Number=Sing	10	nsubj	_	_
-10	contribuyó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	contribuyó	contribuir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	caché	caché	NOUN	NN	Gender=Masc|Number=Sing	10	obj	_	_
 13	de	de	ADP	IN	_	14	case	_	_
@@ -21302,7 +21302,7 @@
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	rey	rey	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	Salaman	Salaman	PROPN	NNP	Gender=Masc|Number=Sing	2	appos	_	_
-4	sustituyó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	sustituyó	sustituir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5-6	al	_	_	_	_	_	_	_	_
 5	a	a	ADP	INDT	_	8	case	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
@@ -25635,7 +25635,7 @@
 1	Más	más	ADV	RBR	Degree=Cmp	2	advmod	_	_
 2	tarde	tarde	ADV	RB	_	4	advmod	_	_
 3	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl:pass	_	_
-4	construyó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	construyó	construir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	sobre	sobre	ADP	IN	_	7	case	_	_
 6	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
 7	ruinas	ruina	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
@@ -26760,7 +26760,7 @@
 14	,	,	PUNCT	,	_	13	punct	_	_
 15	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	incendio	incendio	NOUN	NN	Gender=Masc|Number=Sing	17	nsubj	_	_
-17	destruyó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	parataxis	_	_
+17	destruyó	destruir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	parataxis	_	_
 18	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	19	det	_	_
 19	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	20	nsubj	_	_
 20	quedaba	quedar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	ccomp	_	_
