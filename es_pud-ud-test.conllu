@@ -4357,7 +4357,7 @@
 14	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux	_	_
 15	reconocido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl:relcl	_	_
 16	que	que	SCONJ	IN	_	19	mark	_	_
-17	tenemos	_	AUX	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	19	aux	_	_
+17	tenemos	tener	AUX	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	19	aux	_	_
 18	que	que	ADP	IN	_	17	fixed	_	_
 19	hacer	hacer	VERB	VB	VerbForm=Inf	15	ccomp	_	_
 20	algo	algo	NOUN	NN	Gender=Masc|Number=Sing	19	obj	_	_
@@ -5258,7 +5258,7 @@
 # sent_id = n01074026
 # text = Tenemos un gran equipo y es nuestra oportunidad para progresar.
 # text_en = We have a great squad and it is an opportunity for us to take the ship forward.
-1	Tenemos	_	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Tenemos	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 3	gran	gran	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
 4	equipo	equipo	NOUN	NN	Gender=Masc|Number=Sing	1	obj	_	_
@@ -6398,7 +6398,7 @@
 10	agenda	agenda	NOUN	NN	Gender=Fem|Number=Sing	7	nmod	_	_
 11	en	en	ADP	IN	_	12	case	_	_
 12	Marruecos	Marruecos	PROPN	NNP	Number=Sing	7	nmod	_	_
-13	tendrá	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+13	tendrá	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 14	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	13	obj	_	_
 15	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	sábado	sábado	NOUN	NN	Gender=Masc|Number=Sing	13	obl:tmod	_	_
@@ -20883,7 +20883,7 @@
 6	teología	teología	NOUN	NN	Gender=Fem|Number=Sing	11	nsubj:pass	_	_
 7	apropiada	apropiado	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl:pass	_	_
-9	tendría	_	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	_
+9	tendría	tener	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	_
 10	que	que	ADP	IN	_	9	fixed	_	_
 11	construir	construir	VERB	VB	VerbForm=Inf	0	root	_	_
 12	a	a	ADP	IN	_	14	case	_	_
@@ -21605,7 +21605,7 @@
 17	:	:	PUNCT	:	_	22	punct	_	_
 18	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
 19	EUA	_	PROPN	NNP	Gender=Masc|Number=Plur	22	nsubj	_	_
-20	tendrían	_	AUX	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	22	aux	_	_
+20	tendrían	tener	AUX	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	22	aux	_	_
 21	que	que	ADP	IN	_	20	fixed	_	_
 22	retirar	retirar	VERB	VB	VerbForm=Inf	5	appos	_	_
 23	todas	todo	DET	PDT	Gender=Fem|Number=Plur|PronType=Tot	25	det	_	_
@@ -24144,7 +24144,7 @@
 2	,	,	PUNCT	,	_	1	punct	_	_
 3	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	Gobierno	gobierno	NOUN	NN	Gender=Masc|Number=Sing	7	nsubj	_	_
-5	tendrá	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+5	tendrá	tener	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
 6	que	que	ADP	IN	_	5	fixed	_	_
 7	lidiar	lidiar	VERB	VB	VerbForm=Inf	0	root	_	_
 8	con	con	ADP	IN	_	10	case	_	_
