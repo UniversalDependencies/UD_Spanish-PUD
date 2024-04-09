@@ -10556,7 +10556,7 @@
 24	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	25	det	_	_
 25	país	país	NOUN	NN	Gender=Masc|Number=Sing	27	nsubj	_	_
 26	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	27	compound:prt	_	_
-27	convirtió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	conj	_	_
+27	convirtió	convertir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	conj	_	_
 28	en	en	ADP	IN	_	30	case	_	_
 29	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
 30	estado	estado	NOUN	NN	Gender=Masc|Number=Sing	27	obl	_	_
@@ -10914,7 +10914,7 @@
 11	de	de	ADP	IN	_	12	case	_	_
 12	Moravia	Moravia	PROPN	NNP	Number=Sing	10	nmod	_	_
 13	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	14	compound:prt	_	_
-14	convirtió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+14	convirtió	convertir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 15	en	en	ADP	IN	_	22	case	_	_
 16	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	17	det	_	_
 17	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	22	nsubj:pass	_	_
@@ -11011,7 +11011,7 @@
 14	Rastiv	Rastiv	PROPN	NNP	Gender=Masc|Number=Sing	13	appos	_	_
 15	quien	quien	PRON	REL	Number=Sing|PronType=Rel	17	nsubj	_	_
 16	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	compound:prt	_	_
-17	convirtió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_
+17	convirtió	convertir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_
 18	en	en	ADP	IN	_	20	case	_	_
 19	San	san	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	Proper=True
 20	Rastislav	Rastislav	PROPN	NNP	Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
@@ -13482,7 +13482,7 @@
 33	"	"	PUNCT	''	_	29	punct	_	_
 34	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	36	nsubj	_	_
 35	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	36	compound:prt	_	_
-36	convirtió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	29	acl:relcl	_	_
+36	convirtió	convertir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	29	acl:relcl	_	_
 37	en	en	ADP	IN	_	39	case	_	_
 38	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	39	det	_	_
 39	nombre	nombre	NOUN	NN	Gender=Masc|Number=Sing	36	obl	_	_
@@ -15381,7 +15381,7 @@
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	él	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	compound:prt	_	_
-6	convirtió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	convirtió	convertir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	en	en	ADP	IN	_	9	case	_	_
 8	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	gobernante	gobernante	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	_
@@ -16326,7 +16326,7 @@
 3	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	Inquisición	inquisición	NOUN	NN	Gender=Fem|Number=Sing	6	nsubj	_	Proper=True
 5	española	españolo	ADJ	JJ	Gender=Fem|Number=Sing	4	amod	_	Proper=True
-6	advirtió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	advirtió	advertir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	a	a	ADP	IN	_	9	case	_	_
 8	sus	su	PRON	DTP$	Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
 9	miembros	miembro	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	_
@@ -17789,7 +17789,7 @@
 3	,	,	PUNCT	,	_	6	punct	_	_
 4	quien	quien	PRON	REL	Number=Sing|PronType=Rel	6	nsubj	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	compound:prt	_	_
-6	convirtió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	acl:relcl	_	_
+6	convirtió	convertir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	acl:relcl	_	_
 7	en	en	ADP	IN	_	9	case	_	_
 8	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	oficial	oficial	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	_
@@ -18885,7 +18885,7 @@
 6	,	,	PUNCT	,	_	3	punct	_	_
 7	Jasmine	Jasmine	PROPN	NNP	Gender=Fem|Number=Sing	9	nsubj	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	compound:prt	_	_
-9	convirtió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	convirtió	convertir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	en	en	ADP	IN	_	13	case	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 12	primera	primero	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	_
@@ -20591,7 +20591,7 @@
 27	,	,	PUNCT	,	_	6	punct	_	_
 28	Juana	Juana	PROPN	NNP	Gender=Fem|Number=Sing	30	nsubj	_	_
 29	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	30	compound:prt	_	_
-30	convirtió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+30	convirtió	convertir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 31	en	en	ADP	IN	_	32	case	_	_
 32	abuela	abuela	NOUN	NN	Gender=Fem|Number=Sing	30	obl	_	_
 33	de	de	ADP	IN	_	35	case	_	_
@@ -22371,7 +22371,7 @@
 # text = Dündar advirtió a Europa contra una excesiva comprensión hacia la trayectoria de Erdogan.
 # text_en = Dündar warned Europe about having too much understanding for Erdogan's course.
 1	Dündar	Dündar	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	advirtió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	advirtió	advertir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	a	a	ADP	IN	_	4	case	_	_
 4	Europa	Europa	PROPN	NNP	Number=Sing	2	obl	_	_
 5	contra	contra	ADP	IN	_	8	case	_	_
