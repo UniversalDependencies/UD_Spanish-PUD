@@ -1325,7 +1325,7 @@
 8	"	"	PUNCT	''	_	6	punct	_	_
 9	sean	ser	AUX	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 10	ataques	_	NOUN	NN	Gender=Masc|Number=Plur	2	csubj	_	_
-11	producidos	_	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	acl	_	_
+11	producidos	producir	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	acl	_	_
 12	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	21	21	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	11	obl:tmod	_	_
 14	de	de	ADP	IN	_	15	case	_	_
@@ -1447,7 +1447,7 @@
 8	Acuerdo	acuerdo	NOUN	NN	Gender=Masc|Number=Sing	11	nsubj	_	Proper=True
 9	de	de	ADP	IN	_	10	case	_	Proper=True
 10	París	París	PROPN	NNP	Number=Sing	8	nmod	_	_
-11	reducirá	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	parataxis	_	_
+11	reducirá	reducir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	1	parataxis	_	_
 12	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	cambio	cambio	NOUN	NN	Gender=Masc|Number=Sing	11	obj	_	_
 14	climático	climático	ADJ	JJ	Gender=Masc|Number=Sing	13	amod	_	SpaceAfter=No
@@ -1703,7 +1703,7 @@
 28	sin	sin	ADP	IN	_	31	case	_	_
 29	que	que	SCONJ	IN	_	31	mark	_	_
 30	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	31	expl:pass	_	_
-31	produzcan	_	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	xcomp	_	_
+31	produzcan	producir	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	xcomp	_	_
 32	impactos	impacto	NOUN	NN	Gender=Masc|Number=Plur	31	nsubj:pass	_	_
 33	significantes	significante	ADJ	JJ	Gender=Masc|Number=Plur	32	amod	_	_
 34	en	en	ADP	IN	_	36	case	_	_
@@ -2119,7 +2119,7 @@
 25	no	no	ADV	RB	Polarity=Neg	28	advmod	_	_
 26	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	28	expl:pass	_	_
 27	habían	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	28	aux	_	_
-28	producido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
+28	producido	producir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
 29	heridas	herida	NOUN	NN	Gender=Fem|Number=Plur	28	nsubj:pass	_	SpaceAfter=No
 30	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -3793,7 +3793,7 @@
 9	bebés	_	NOUN	NN	Number=Plur	5	nmod	_	_
 10	y	y	CCONJ	CC	_	12	cc	_	_
 11	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	compound:prt	_	_
-12	produce	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+12	produce	producir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
 13	en	en	ADP	IN	_	14	case	_	_
 14	uno	uno	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	_
 15	de	de	ADP	IN	_	18	case	_	_
@@ -4208,7 +4208,7 @@
 14	conflictos	conflicto	NOUN	NN	Gender=Masc|Number=Plur	13	nsubj	_	_
 15	y	y	CCONJ	CC	_	17	cc	_	_
 16	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	compound:prt	_	_
-17	producía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	conj	_	_
+17	producía	producir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	conj	_	_
 18	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 19	curiosa	curioso	ADJ	JJ	Gender=Fem|Number=Sing	20	amod	_	_
 20	intersección	intersección	NOUN	NN	Gender=Fem|Number=Sing	17	nsubj	_	_
@@ -12712,7 +12712,7 @@
 8	con	con	ADP	IN	_	10	case	_	_
 9	buena	bueno	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	_
 10	administración	administración	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
-11	reducirá	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+11	reducirá	reducir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 12	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
 13	posibilidades	posibilidad	NOUN	NN	Gender=Fem|Number=Plur	11	obj	_	_
 14	de	de	ADP	IN	_	16	case	_	_
@@ -16008,7 +16008,7 @@
 17	de	de	ADP	IN	_	19	case	_	_
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	media	media	NOUN	NN	Gender=Fem|Number=Sing	16	obl	_	_
-20	redujo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+20	redujo	reducir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 21	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	posibilidad	posibilidad	NOUN	NN	Gender=Fem|Number=Sing	20	obj	_	_
 23	de	de	ADP	IN	_	25	case	_	_
@@ -16039,7 +16039,7 @@
 47	de	de	ADP	INDT	_	49	case	_	_
 48	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	49	det	_	_
 49	estudio	estudio	NOUN	NN	Gender=Masc|Number=Sing	46	nmod	_	_
-50	redujo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	advcl	_	_
+50	redujo	reducir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	advcl	_	_
 51	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	52	det	_	_
 52	posibilidad	posibilidad	NOUN	NN	Gender=Fem|Number=Sing	50	obj	_	_
 53	de	de	ADP	IN	_	55	case	_	_
@@ -16824,7 +16824,7 @@
 6	educación	educación	NOUN	NN	Gender=Fem|Number=Sing	9	nsubj	_	_
 7	básicamente	básicamente	ADV	RB	_	9	advmod	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	compound:prt	_	_
-9	reducía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+9	reducía	reducir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 10	a	a	ADP	IN	_	11	case	_	_
 11	literatura	literatura	NOUN	NN	Gender=Fem|Number=Sing	9	obl	_	_
 12	clásica	clásico	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	_
@@ -18166,7 +18166,7 @@
 5	salud	salud	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	_
 6	de	de	ADP	IN	_	7	case	_	_
 7	Hitchcock	Hitchcock	PROPN	NNP	Gender=Masc|Number=Sing	5	nmod	_	_
-8	redujo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	redujo	reducir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 9	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
 10	producción	producción	NOUN	NN	Gender=Fem|Number=Sing	8	obj	_	_
 11	en	en	ADP	IN	_	15	case	_	_
@@ -18229,7 +18229,7 @@
 23	Bass	Bass	PROPN	NNP	Gender=Masc|Number=Sing	22	flat:name	_	SpaceAfter=No
 24	,	,	PUNCT	,	_	26	punct	_	_
 25	quienes	quien	PRON	REL	Number=Plur|PronType=Rel	26	nsubj	_	_
-26	producían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	19	acl:relcl	_	_
+26	producían	producir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	19	acl:relcl	_	_
 27	afiches	_	NOUN	NN	Gender=Masc|Number=Plur	26	obj	_	_
 28	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	29	nsubj	_	_
 29	representaban	representar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	27	acl:relcl	_	_
@@ -19612,7 +19612,7 @@
 6	discos	disco	NOUN	NN	Gender=Masc|Number=Plur	0	root	_	_
 7	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	9	obj	_	_
 8	Rafferty	Rafferty	PROPN	NNP	Gender=Masc|Number=Sing	9	nsubj	_	_
-9	produjo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	acl:relcl	_	_
+9	produjo	producir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	acl:relcl	_	_
 10	con	con	ADP	IN	_	11	case	_	_
 11	High	High	PROPN	NNP	Number=Sing	9	obl	_	_
 12	Murphy	Murphy	PROPN	NNP	Number=Sing	11	flat:name	_	SpaceAfter=No
@@ -23854,7 +23854,7 @@
 14	de	de	ADP	IN	_	15	case	_	_
 15	seguridad	seguridad	NOUN	NN	Gender=Fem|Number=Sing	13	nmod	_	_
 16	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	aux	_	_
-17	producido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+17	producido	producir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 18	también	también	ADV	RB	_	17	advmod	_	_
 19	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	robot	robot	NOUN	NN	Gender=Masc|Number=Sing	17	obj	_	_
@@ -26644,7 +26644,7 @@
 6	en	en	ADP	IN	_	7	case	_	_
 7	verano	verano	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pass	_	_
-9	produzcan	_	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	csubj	_	_
+9	produzcan	producir	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	csubj	_	_
 10	huracanes	_	NOUN	NN	Gender=Masc|Number=Plur	9	nsubj:pass	_	_
 11	en	en	ADP	IN	_	13	case	_	_
 12	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
