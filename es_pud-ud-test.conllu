@@ -27939,7 +27939,7 @@
 10	en	en	ADP	IN	_	12	case	_	_
 11	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
 12	productora	productora	NOUN	NN	Gender=Fem|Number=Sing	9	obl	_	_
-13	The	the	DET	DT	Foreign=Yes|Definite=Def|PronType=Art	16	det	_	Lang=en|Proper=True
+13	The	the	DET	DT	Definite=Def|Foreign=Yes|PronType=Art	16	det	_	Lang=en|Proper=True
 14	Rocket	rocket	NOUN	NN	Foreign=Yes|Number=Sing	16	compound	_	Lang=en|Proper=True
 15	Record	record	NOUN	NN	Foreign=Yes|Number=Sing	16	compound	_	Lang=en|Proper=True
 16	Company	company	NOUN	NN	Foreign=Yes|Number=Sing	12	appos	_	Lang=en|SpaceAfter=No|Proper=True
