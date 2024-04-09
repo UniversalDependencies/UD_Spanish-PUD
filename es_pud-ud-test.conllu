@@ -6052,7 +6052,7 @@
 # text = Catalano volvió a vivir a la zona tras haber vivido primero en Londres y a continuación en Glasgow, donde había estudiado diseño de joyas, en la Escuela de Arte de Glasgow.
 # text_en = Catalano moved back to the area after living in London and then Glasgow, where he had studied jewellery design at Glasgow School of Art.
 1	Catalano	Catalano	PROPN	NNP	Gender=Masc|Number=Sing	4	nsubj	_	_
-2	volvió	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
+2	volvió	volver	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
 3	a	a	ADP	IN	_	2	fixed	_	_
 4	vivir	vivir	VERB	VB	VerbForm=Inf	0	root	_	_
 5	a	a	ADP	IN	_	7	case	_	_
@@ -6276,7 +6276,7 @@
 24	de	de	ADP	IN	_	22	fixed	_	_
 25	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	_	_
 26	armas	arma	NOUN	NN	Gender=Fem|Number=Plur	19	nmod	_	_
-27	vuelvan	_	AUX	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	aux	_	_
+27	vuelvan	volver	AUX	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	aux	_	_
 28	a	a	ADP	IN	_	27	fixed	_	_
 29	evitar	evitar	VERB	VB	VerbForm=Inf	16	ccomp	_	_
 30	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	31	det	_	_
@@ -8337,7 +8337,7 @@
 7	hecho	hecho	NOUN	NN	Gender=Masc|Number=Sing	5	obl	_	_
 8	que	que	SCONJ	IN	_	12	mark	_	_
 9	tampoco	tampoco	ADV	RB	_	12	advmod	_	_
-10	volveríamos	_	AUX	VBC	Mood=Cnd|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	12	aux	_	_
+10	volveríamos	volver	AUX	VBC	Mood=Cnd|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	12	aux	_	_
 11	a	a	ADP	IN	_	10	fixed	_	_
 12	ver	ver	VERB	VB	VerbForm=Inf	5	ccomp	_	_
 13-14	al	_	_	_	_	_	_	_	_
@@ -16210,7 +16210,7 @@
 6	en	en	ADP	IN	_	7	case	_	_
 7	1916	1916	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	obl	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	compound:prt	_	_
-9	volvió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	volvió	volver	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	en	en	ADP	IN	_	14	case	_	_
 11	contra	contra	NOUN	NN	Gender=Fem|Number=Sing	10	fixed	_	_
 12	de	de	ADP	IN	_	10	fixed	_	_
@@ -20446,7 +20446,7 @@
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	campo	campo	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	3	punct	_	_
-12	volvió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	volvió	volver	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	con	con	ADP	IN	_	15	case	_	_
 14	esos	ese	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	15	det	_	_
 15	conocimientos	conocimiento	NOUN	NN	Gender=Masc|Number=Plur	12	obl	_	_
@@ -21598,7 +21598,7 @@
 10	que	que	SCONJ	IN	_	15	mark	_	_
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	acuerdo	acuerdo	NOUN	NN	Gender=Masc|Number=Sing	15	nsubj	_	_
-13	vuelva	_	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+13	vuelva	volver	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
 14	a	a	ADP	IN	_	13	fixed	_	_
 15	tomar	tomar	VERB	VB	VerbForm=Inf	9	ccomp	_	_
 16	efecto	efecto	NOUN	NN	Gender=Masc|Number=Sing	15	obj	_	SpaceAfter=No
