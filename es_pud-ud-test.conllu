@@ -8773,7 +8773,7 @@
 7	que	que	SCONJ	IN	_	10	mark	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	gente	gente	NOUN	NN	Gender=Fem|Number=Sing	10	nsubj	_	_
-10	vaya	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
+10	vaya	ir	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
 11	a	a	ADP	IN	_	12	case	_	_
 12	votar	votar	VERB	VB	VerbForm=Inf	10	xcomp	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	17	punct	_	_
@@ -10040,7 +10040,7 @@
 5	momento	momento	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 6	para	para	SCONJ	IN	_	8	mark	_	_
 7	que	que	ADP	IN	_	6	fixed	_	_
-8	vaya	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+8	vaya	ir	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
 9	cualquiera	cualquiera	NOUN	NN	Gender=Masc|Number=Sing	8	nsubj	_	_
 10	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	11	nsubj	_	_
 11	quiera	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
