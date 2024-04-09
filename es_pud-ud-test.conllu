@@ -13196,7 +13196,7 @@
 13	quedan	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
 14	expuestas	_	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 15	y	y	CCONJ	CC	_	18	cc	_	_
-16	comienzan	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+16	comienzan	comenzar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
 17	a	a	ADP	IN	_	16	fixed	_	_
 18	vibrar	vibrar	VERB	VB	VerbForm=Inf	14	conj	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	14	punct	_	_
