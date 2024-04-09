@@ -140,7 +140,7 @@
 16	en	en	ADP	IN	_	17	case	_	_
 17	ustedes	tú	PRON	PRP	Case=Acc,Nom|Number=Plur|Person=2|Polite=Form|PronType=Prs	15	obl	_	SpaceAfter=No
 18	,	,	PUNCT	,	_	19	punct	_	_
-19	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
+19	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
 20-21	al	_	_	_	_	_	_	_	_
 20	a	a	ADP	INDT	_	22	case	_	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
@@ -697,7 +697,7 @@
 25	hija	hija	NOUN	NN	Gender=Fem|Number=Sing	20	obl	_	_
 26	Angel	Angel	PROPN	NNP	Gender=Fem|Number=Sing	25	appos	_	SpaceAfter=No
 27	,	,	PUNCT	,	_	28	punct	_	_
-28	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	_
+28	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	_
 29	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
 30	policía	policía	NOUN	NN	Gender=Fem|Number=Sing	28	obj	_	SpaceAfter=No
 31	.	.	PUNCT	.	_	1	punct	_	_
@@ -1056,7 +1056,7 @@
 # text_en = The company told the BBC it would be the responsibility of each airline brand to decide whether to charge passengers an access fee.
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	empresa	empresa	NOUN	NN	Gender=Fem|Number=Sing	3	nsubj	_	_
-3	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	a	a	ADP	IN	_	6	case	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	BBC	BBC	PROPN	NNP	Gender=Fem|Number=Sing	3	obl	_	_
@@ -1472,7 +1472,7 @@
 32	gases	gas	NOUN	NN	Gender=Masc|Number=Plur	30	obj	_	_
 33	HFC	hfc	NOUN	NN	_	32	appos	_	SpaceAfter=No|Proper=True
 34	,	,	PUNCT	,	_	35	punct	_	_
-35	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	_
+35	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	_
 36	Erik	Erik	PROPN	NNP	Gender=Masc|Number=Sing	35	nsubj	_	_
 37	Solheim	Solheim	PROPN	NNP	Gender=Masc|Number=Sing	36	flat:name	_	SpaceAfter=No
 38	,	,	PUNCT	,	_	39	punct	_	_
@@ -1949,7 +1949,7 @@
 5	de	de	ADP	IN	_	6	case	_	_
 6	Sony	Sony	PROPN	NNP	Number=Sing	4	nmod	_	_
 7	Australia	Australia	PROPN	NNP	Number=Sing	6	appos	_	_
-8	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+8	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	:	:	PUNCT	:	_	19	punct	_	_
 10	"	"	PUNCT	``	_	19	punct	_	SpaceAfter=No
 11	Ey	ey	X	UH	_	19	vocative	_	SpaceAfter=No
@@ -1966,7 +1966,7 @@
 22	esto	esto	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	20	nmod	_	SpaceAfter=No
 23	?	?	PUNCT	.	_	19	punct	_	SpaceAfter=No
 24	"	"	PUNCT	''	_	19	punct	_	_
-25	dice	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	parataxis	_	_
+25	dice	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	parataxis	_	_
 26	Pall	Pall	PROPN	NNP	Number=Sing	25	nsubj	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	25	punct	_	_
 
@@ -2584,14 +2584,14 @@
 21	Abbotsford	Abbotsford	PROPN	NNP	Number=Sing	19	nmod	_	_
 22	especialmente	especialmente	ADV	RB	_	19	advmod	_	SpaceAfter=No
 23	,	,	PUNCT	,	_	24	punct	_	_
-24	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	SpaceAfter=No
+24	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = n01035030
 # text = También dijo que Klein era poco hablador, no cooperaba y se negaba a subir de las celdas situadas bajo los juzgados para asistir al juicio.
 # text_en = He also said Klein was uncommunicative, uncooperative and unwilling to walk up from cells under the courthouse to attend his hearing.
 1	También	también	ADV	RB	_	2	advmod	_	_
-2	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	IN	_	7	mark	_	_
 4	Klein	Klein	PROPN	NNP	Gender=Masc|Number=Sing	7	nsubj	_	_
 5	era	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
@@ -2634,7 +2634,7 @@
 8	inmobiliarios	inmobiliario	ADJ	JJ	Gender=Masc|Number=Plur	7	amod	_	_
 9	en	en	ADP	IN	_	10	case	_	_
 10	Ontario	Ontario	PROPN	NNP	Number=Sing	4	obl	_	_
-11	dice	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	dice	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	que	que	SCONJ	IN	_	15	mark	_	_
 13	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	15	expl:pass	_	_
 14	debe	deber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
@@ -2789,7 +2789,7 @@
 33	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	34	det	_	_
 34	emisiones	emisión	NOUN	NN	Gender=Fem|Number=Plur	31	nmod	_	SpaceAfter=No
 35	,	,	PUNCT	,	_	36	punct	_	_
-36	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	_
+36	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	_
 37	Guilbeault	Guilbeault	PROPN	NNP	Number=Sing	36	nsubj	_	SpaceAfter=No
 38	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -2965,7 +2965,7 @@
 8	con	con	ADP	IN	_	9	case	_	_
 9	dolores	dolor	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	11	punct	_	_
-11	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
+11	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
 12	Mailis	Mailis	PROPN	NNP	Number=Sing	11	nsubj	_	_
 13	en	en	ADP	IN	_	15	case	_	_
 14	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
@@ -2997,7 +2997,7 @@
 15	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	inyección	inyección	NOUN	NN	Gender=Fem|Number=Sing	11	conj	_	SpaceAfter=No
 17	,	,	PUNCT	,	_	18	punct	_	_
-18	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
+18	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
 19	Mailis	Mailis	PROPN	NNP	Number=Sing	18	nsubj	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -3246,7 +3246,7 @@
 20	y	y	CCONJ	CC	_	21	cc	_	_
 21	2006	2006	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	19	conj	_	SpaceAfter=No
 22	,	,	PUNCT	,	_	4	punct	_	_
-23	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+23	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 24	que	que	SCONJ	IN	_	28	mark	_	_
 25	ambos	ambos	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Tot	26	det	_	_
 26	organismos	organismo	NOUN	NN	Gender=Masc|Number=Plur	28	nsubj	_	_
@@ -3857,7 +3857,7 @@
 10	esos	ese	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	11	det	_	_
 11	jóvenes	_	NOUN	NN	Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	13	punct	_	_
-13	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
+13	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
 14	Leive	Leive	PROPN	NNP	Gender=Fem|Number=Sing	13	nsubj	_	_
 15	en	en	ADP	IN	_	17	case	_	_
 16	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
@@ -3906,7 +3906,7 @@
 8	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	mundo	mundo	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	11	punct	_	_
-11	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
+11	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
 12	Leive	Leive	PROPN	NNP	Gender=Fem|Number=Sing	11	nsubj	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -6116,7 +6116,7 @@
 13	nuevos	nuevo	ADJ	JJ	Gender=Masc|Number=Plur	14	amod	_	_
 14	talentos	talento	NOUN	NN	Gender=Masc|Number=Plur	12	obj	_	SpaceAfter=No
 15	,	,	PUNCT	,	_	16	punct	_	_
-16	dice	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	SpaceAfter=No
+16	dice	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	1	punct	_	_
 
 # newdoc id = n01088
@@ -6455,7 +6455,7 @@
 22	proyecto	proyecto	NOUN	NN	Gender=Masc|Number=Sing	19	obl	_	SpaceAfter=No
 23	,	,	PUNCT	,	_	25	punct	_	_
 24	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	25	expl:pass	_	_
-25	dice	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+25	dice	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 26	que	que	SCONJ	IN	_	28	mark	_	_
 27	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	aux	_	_
 28	dicho	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	25	csubj:pass	_	SpaceAfter=No
@@ -8390,7 +8390,7 @@
 22	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	drama	drama	NOUN	NN	Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
 24	,	,	PUNCT	,	_	25	punct	_	_
-25	dice	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+25	dice	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 26	Zimmer	Zimmer	PROPN	NNP	Gender=Masc|Number=Sing	25	nsubj	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -9419,7 +9419,7 @@
 19	de	de	ADP	IN	_	20	case	_	_
 20	construcción	construcción	NOUN	NN	Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	,	_	22	punct	_	_
-22	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
+22	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
 23	Barratt	Barratt	PROPN	NNP	Number=Sing	22	nsubj	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -9427,7 +9427,7 @@
 # text = Se dijo que el esfuerzo hecho en Internet era el principal impulsor de los gastos de capital de la unidad.
 # text_en = The Internet effort was said to be the main driver of capital expenditures for the unit.
 1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl:pass	_	_
-2	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	IN	_	12	mark	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	esfuerzo	esfuerzo	NOUN	NN	Gender=Masc|Number=Sing	12	nsubj	_	_
@@ -9672,7 +9672,7 @@
 17	logro	logro	NOUN	NN	Gender=Masc|Number=Sing	1	parataxis	_	_
 18	increíble	increíble	ADJ	JJ	Gender=Masc|Number=Sing	17	amod	_	SpaceAfter=No
 19	,	,	PUNCT	,	_	20	punct	_	_
-20	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	_
+20	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	_
 21	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	estadounidense	estadounidense	NOUN	NN	Gender=Masc|Number=Sing	20	nsubj	_	SpaceAfter=No|Proper=True
 23	.	.	PUNCT	.	_	1	punct	_	_
@@ -9786,7 +9786,7 @@
 9	y	y	CCONJ	CC	_	12	cc	_	_
 10	yo	yo	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
 11	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	12	obl:arg	_	_
-12	decía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	1	conj	_	_
+12	decía	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	1	conj	_	_
 13	en	en	ADP	IN	_	14	case	_	_
 14	broma	broma	NOUN	NN	Gender=Fem|Number=Sing	12	obl	_	_
 15-16	al	_	_	_	_	_	_	_	_
@@ -9931,7 +9931,7 @@
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	desfile	desfile	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	10	punct	_	_
-10	dice	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+10	dice	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 11	González	González	PROPN	NNP	Gender=Fem|Number=Sing	10	nsubj	_	_
 12	Anaya	Anaya	PROPN	NNP	Gender=Fem|Number=Sing	11	flat:name	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	1	punct	_	_
@@ -14032,7 +14032,7 @@
 # text_en = Bogd Khaan said that both Mongolia and China had been administered by the Manchu during the Qing, and after the fall of the Qing dynasty in 1911, the contract of Mongolian submission to the Manchu had become invalid.
 1	Bogd	Bogd	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	Khaan	Khaan	PROPN	NNP	Gender=Masc|Number=Sing	1	flat:name	_	_
-3	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	IN	_	13	mark	_	_
 5	ambos	ambos	NOUN	NN	Gender=Masc|Number=Plur	13	nsubj:pass	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	8	punct	_	_
@@ -14813,7 +14813,7 @@
 25	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	26	det	_	_
 26	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	28	obj	_	_
 27	él	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	_
-28	decía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	csubj	_	_
+28	decía	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	csubj	_	_
 29	que	que	ADP	IN	_	31	case	_	_
 30	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
 31	legislación	legislación	NOUN	NN	Gender=Fem|Number=Sing	23	obl	_	_
@@ -16336,7 +16336,7 @@
 13	todo	todo	DET	PDT	Gender=Masc|Number=Sing|PronType=Tot	15	det	_	_
 14	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	det	_	_
 15	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	16	obj	_	_
-16	decía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	ccomp	_	_
+16	decía	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	ccomp	_	_
 17	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	Malleus	Malleus	PROPN	NNP	Gender=Masc|Number=Sing	16	nsubj	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	6	punct	_	_
@@ -19383,7 +19383,7 @@
 3	Louis	Louis	PROPN	NNP	Gender=Masc|Number=Sing	2	appos	_	_
 4	Post	post	NOUN	NN	Number=Sing	3	flat:name	_	Proper=True
 5	Dispatch	dispatch	NOUN	NN	Number=Sing	3	flat:name	_	Proper=True
-6	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	que	que	SCONJ	IN	_	9	mark	_	_
 8	era	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
 9	una	una	NOUN	NN	Gender=Fem|Number=Sing	6	ccomp	_	_
@@ -21670,7 +21670,7 @@
 14	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	det	_	_
 15	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	17	nsubj:pass	_	_
 16	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	expl:pass	_	_
-17	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	ccomp	_	SpaceAfter=No
+17	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	ccomp	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	3	punct	_	_
 
 # newdoc id = n02031
@@ -22295,7 +22295,7 @@
 13	contra	contra	NOUN	NN	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
 14	"	"	PUNCT	''	_	7	punct	_	SpaceAfter=No
 15	,	,	PUNCT	,	_	16	punct	_	_
-16	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	_
+16	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	_
 17	Dündar	Dündar	PROPN	NNP	Gender=Masc|Number=Sing	16	nsubj	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	7	punct	_	_
 
@@ -23050,7 +23050,7 @@
 25	consulta	consulta	NOUN	NN	Gender=Fem|Number=Sing	22	obj	_	SpaceAfter=No
 26	,	,	PUNCT	,	_	22	punct	_	SpaceAfter=No
 27	"	"	PUNCT	''	_	22	punct	_	_
-28	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	parataxis	_	_
+28	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	parataxis	_	_
 29	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
 30	sr	sr	NOUN	NN	Gender=Masc|Number=Sing	28	nsubj	_	SpaceAfter=No
 31	.	.	PUNCT	.	_	30	punct	_	_
@@ -24248,7 +24248,7 @@
 6	muchos	mucho	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	7	det	_	_
 7	socialistas	socialista	NOUN	NN	Gender=Masc|Number=Plur	9	obl	_	SpaceAfter=No|Proper=True
 8	,	,	PUNCT	,	_	7	punct	_	_
-9	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	en	en	ADP	IN	_	12	case	_	_
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	programa	programa	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	_
@@ -24284,7 +24284,7 @@
 # sent_id = n05005002
 # text = Dijo en una ocasión Federico Fellini: "El payaso es a la humanidad como la sombra es al hombre".
 # text_en = Federico Fellini once said: "The clown is to humanity as the shadow is to man".
-1	Dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	en	en	ADP	IN	_	4	case	_	_
 3	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	ocasión	ocasión	NOUN	NN	Gender=Fem|Number=Sing	1	obl	_	_
@@ -27186,7 +27186,7 @@
 2	viejo	viejo	ADJ	JJ	Gender=Masc|Number=Sing	3	amod	_	_
 3	hombre	hombre	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj	_	_
 4	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	obl:arg	_	_
-5	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	que	que	SCONJ	IN	_	13	mark	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	guerra	guerra	NOUN	NN	Gender=Fem|Number=Sing	13	nsubj	_	_
