@@ -5530,7 +5530,7 @@
 16	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	19	obl	_	_
 18	nos	yo	PRON	SE	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	compound:prt	_	_
-19	reunimos	_	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
+19	reunimos	reunir	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
 20	en	en	ADP	IN	_	22	case	_	_
 21	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	sitio	sitio	NOUN	NN	Gender=Masc|Number=Sing	19	obl	_	_
@@ -14542,7 +14542,7 @@
 4	,	,	PUNCT	,	_	1	punct	_	_
 5	esto	esto	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	7	nsubj:pass	_	_
 6	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
-7	revertido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	revertido	revertir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 8	cuando	cuando	ADV	WRB	PronType=Rel	10	advmod	_	_
 9	Julian	Julian	PROPN	NNP	Gender=Masc|Number=Sing	10	nsubj	_	_
 10	murió	morir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	advcl	_	_
@@ -16490,7 +16490,7 @@
 7	Macedonia	Macedonia	PROPN	NNP	Number=Sing	4	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	2	punct	_	_
 9	Filipo	Filipo	PROPN	NNP	Gender=Masc|Number=Sing	10	nsubj	_	_
-10	reunió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	reunió	reunir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 12	gran	gran	ADJ	JJ	Gender=Masc|Number=Sing	13	amod	_	_
 13	ejército	ejército	NOUN	NN	Gender=Masc|Number=Sing	10	obj	_	_
@@ -19517,7 +19517,7 @@
 8	1992	1992	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	1	appos	_	SpaceAfter=No
 9	)	)	PUNCT	)	_	8	punct	_	_
 10	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	11	obj	_	_
-11	reunió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+11	reunió	reunir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	15	punct	_	_
 13	en	en	ADP	IN	_	15	case	_	_
 14	varias	vario	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	15	det	_	_
@@ -20775,7 +20775,7 @@
 21	pero	pero	CCONJ	CC	_	24	cc	_	_
 22	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
 23	demócratas	demócrata	NOUN	NN	Gender=Masc|Number=Plur	24	nsubj	_	Proper=True
-24	retuvieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+24	retuvieron	retener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
 25	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
 26	mayoría	mayoría	NOUN	NN	Gender=Fem|Number=Sing	24	obj	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	3	punct	_	_
@@ -23648,7 +23648,7 @@
 # text_en = Corrado Passera withdraws the offer for Mps due to "the attitude of total closure that the Bank has shown to us".
 1	Corrado	Corrado	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	Passera	Passera	PROPN	NNP	Gender=Masc|Number=Sing	1	flat:name	_	_
-3	retira	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	retira	retirar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	oferta	oferta	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
 6-7	del	_	_	_	_	_	_	_	_
@@ -27930,7 +27930,7 @@
 1	En	en	ADP	IN	_	2	case	_	_
 2	1976	1976	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	obl	_	_
 3	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	compound:prt	_	_
-4	reunió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	reunió	reunir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	con	con	ADP	IN	_	7	case	_	_
 6	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	amiga	amiga	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
