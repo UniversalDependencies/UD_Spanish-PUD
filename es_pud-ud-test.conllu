@@ -9573,7 +9573,7 @@
 10	que	que	SCONJ	IN	_	15	mark	_	_
 11	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
 12	usuarios	usuario	NOUN	NN	Gender=Masc|Number=Plur	15	nsubj	_	_
-13	empezasen	_	AUX	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	15	aux	_	_
+13	empezasen	empezar	AUX	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	15	aux	_	_
 14	a	a	ADP	IN	_	13	fixed	_	_
 15	pensar	pensar	VERB	VB	VerbForm=Inf	5	xcomp	_	_
 16	en	en	ADP	IN	_	18	case	_	_
