@@ -36,6 +36,8 @@ employ ten-fold cross-validation.
 
 # Changelog
 
+* 2024-05-15 v2.14
+  * Manually added many lemmas.
 * 2023-11-15 v2.13
   * NumForm=Word, NumForm=Digit and NumForm=Roman used where appropriate.
   * "quién" is interrogative, not relative.
