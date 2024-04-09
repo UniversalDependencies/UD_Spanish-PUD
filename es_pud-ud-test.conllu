@@ -7991,7 +7991,7 @@
 1	¿	¿	PUNCT	.	_	4	punct	_	SpaceAfter=No
 2	De	de	ADP	IN	_	3	case	_	_
 3	donde	donde	ADV	WRB	PronType=Rel	4	xcomp	_	_
-4	viene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	viene	venir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	toda	todo	DET	PDT	Gender=Fem|Number=Sing|PronType=Tot	7	det	_	_
 6	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
 7	energía	energía	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	SpaceAfter=No
@@ -9382,7 +9382,7 @@
 2	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
 3	nuevos	nuevo	ADJ	JJ	Gender=Masc|Number=Plur	4	amod	_	_
 4	episodios	episodio	NOUN	NN	Gender=Masc|Number=Plur	5	obl	_	_
-5	viene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	viene	venir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	programa	programa	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj	_	_
 8	posterior	posterior	ADJ	JJR	Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
@@ -13413,7 +13413,7 @@
 3	"	"	PUNCT	``	_	4	punct	_	SpaceAfter=No
 4	Caribe	Caribe	PROPN	NNP	Number=Sing	2	appos	_	SpaceAfter=No
 5	"	"	PUNCT	''	_	4	punct	_	_
-6	viene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	viene	venir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	de	de	ADP	IN	_	9	case	_	_
 8	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	Caribs	_	PROPN	NNP	Gender=Masc|Number=Plur	6	obl	_	SpaceAfter=No
@@ -21686,7 +21686,7 @@
 7	trabajo	trabajo	NOUN	NN	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	5	punct	_	_
 9	entonces	entonces	ADV	RB	_	10	advmod	_	_
-10	vienen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	vienen	venir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
 12	consejos	consejo	NOUN	NN	Gender=Masc|Number=Plur	10	nsubj	_	_
 13	de	de	ADP	IN	_	14	case	_	_
