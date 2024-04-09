@@ -11394,7 +11394,7 @@
 15	,	,	PUNCT	,	_	16	punct	_	_
 16	Camerún	Camerún	PROPN	NNP	Number=Sing	10	appos	_	_
 17	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	18	compound:prt	_	_
-18	unió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+18	unió	unir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 19	con	con	ADP	IN	_	21	case	_	_
 20	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	Camerún	Camerún	PROPN	NNP	Gender=Masc|Number=Sing	18	obl	_	_
@@ -21616,7 +21616,7 @@
 28	países	país	NOUN	NN	Gender=Masc|Number=Plur	22	obl	_	_
 29	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	31	nsubj	_	_
 30	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	31	compound:prt	_	_
-31	unieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	28	acl:relcl	_	_
+31	unieron	unir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	28	acl:relcl	_	_
 32	a	a	ADP	IN	_	34	case	_	_
 33	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
 34	OTAN	OTAN	PROPN	NNP	Gender=Fem|Number=Sing	31	obl	_	_
@@ -27587,7 +27587,7 @@
 14	línea	línea	NOUN	NN	Gender=Fem|Number=Sing	3	appos	_	_
 15	imaginaria	imaginario	ADJ	JJ	Gender=Fem|Number=Sing	14	amod	_	_
 16	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	17	nsubj	_	_
-17	une	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
+17	une	unir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
 18-19	al	_	_	_	_	_	_	_	_
 18	a	a	ADP	INDT	_	20	case	_	_
 19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
