@@ -3027,7 +3027,7 @@
 20	después	después	ADV	RB	_	12	advmod	_	_
 21	de	de	ADP	IN	_	23	case	_	_
 22	que	que	SCONJ	IN	_	23	mark	_	_
-23	surgieran	_	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	20	xcomp	_	_
+23	surgieran	surgir	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	20	xcomp	_	_
 24	"	"	PUNCT	``	_	25	punct	_	SpaceAfter=No
 25	preguntas	pregunta	NOUN	NN	Gender=Fem|Number=Plur	23	nsubj	_	_
 26	alarmantes	alarmante	ADJ	JJ	Gender=Fem|Number=Plur	25	amod	_	SpaceAfter=No
@@ -4180,7 +4180,7 @@
 30	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	31	det	_	_
 31	problemas	problema	NOUN	NN	Gender=Masc|Number=Plur	29	obj	_	_
 32	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	33	nsubj	_	_
-33	surgen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	31	acl:relcl	_	_
+33	surgen	surgir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	31	acl:relcl	_	_
 34-35	al	_	_	_	_	_	_	_	_
 34	a	a	ADP	INDT	_	36	case	_	_
 35	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
@@ -22988,7 +22988,7 @@
 6	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
 7	situaciones	situación	NOUN	NN	Gender=Fem|Number=Plur	4	nmod	_	_
 8	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	9	nsubj	_	_
-9	surgen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+9	surgen	surgir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
 10	en	en	ADP	IN	_	12	case	_	_
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	_
@@ -26665,7 +26665,7 @@
 9	;	;	PUNCT	:	_	12	punct	_	_
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	falla	falla	NOUN	NN	Gender=Fem|Number=Sing	12	nsubj	_	_
-12	surgió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
+12	surgió	surgir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
 13	de	de	ADP	IN	_	15	case	_	_
 14	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	colisión	colisión	NOUN	NN	Gender=Fem|Number=Sing	12	obl	_	_
