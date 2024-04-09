@@ -1975,7 +1975,7 @@
 # text = Seagal apareció en los titulares cuando describió las acciones de Rusia en Crimea, la cual se anexionó en 2014, como "muy razonables".
 # text_en = Seagal made headlines when he described Russia's actions in Crimea, which it annexed in 2014, as "very reasonable".
 1	Seagal	Seagal	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	apareció	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	apareció	aparecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	en	en	ADP	IN	_	5	case	_	_
 4	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	titulares	titular	NOUN	NN	Gender=Masc|Number=Plur	2	obl	_	_
@@ -6163,7 +6163,7 @@
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 2	propia	propio	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	_
 3	Wintour	Wintour	PROPN	NNP	Gender=Fem|Number=Sing	4	nsubj	_	_
-4	aparece	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	aparece	aparecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	brevemente	brevemente	ADV	RB	_	4	advmod	_	_
 6	y	y	CCONJ	CC	_	8	cc	_	_
 7	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	_
@@ -8610,7 +8610,7 @@
 12	tarde	tarde	ADV	RB	_	17	advmod	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	12	punct	_	_
 14	Jutting	Jutting	PROPN	NNP	Gender=Masc|Number=Sing	17	nsubj	_	_
-15	apareció	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	_
+15	apareció	aparecer	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	_
 16	mayormente	mayormente	ADV	RB	_	17	advmod	_	_
 17	compuesto	compuesto	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	17	punct	_	_
@@ -19371,7 +19371,7 @@
 26	en	en	ADP	IN	_	28	case	_	_
 27	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	30	obl	_	_
-29	aparece	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	cop	_	_
+29	aparece	aparecer	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	cop	_	_
 30	desnudo	desnudo	ADJ	JJ	Gender=Masc|Number=Sing	13	acl:relcl	_	SpaceAfter=No
 31	.	.	PUNCT	.	_	11	punct	_	_
 
@@ -19745,7 +19745,7 @@
 1	Las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
 2	velas	vela	NOUN	NN	Gender=Fem|Number=Plur	5	nsubj	_	_
 3	no	no	ADV	RB	Polarity=Neg	5	advmod	_	_
-4	aparecen	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	aparecen	aparecer	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 5	representadas	representado	ADJ	JJ	Gender=Fem|Number=Plur	0	root	_	_
 6	en	en	ADP	IN	_	8	case	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
@@ -20006,7 +20006,7 @@
 1	Ese	ese	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
 2	año	año	NOUN	NN	Gender=Masc|Number=Sing	4	obl:tmod	_	_
 3	también	también	ADV	RB	_	4	advmod	_	_
-4	apareció	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	apareció	aparecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	brevemente	brevemente	ADV	RB	_	4	advmod	_	_
 6	en	en	ADP	IN	_	8	case	_	_
 7	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	Proper=True
@@ -20505,7 +20505,7 @@
 5	de	de	ADP	IN	_	6	case	_	_
 6	2013	2013	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	3	punct	_	_
-8	apareció	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	apareció	aparecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 9	en	en	ADP	IN	_	11	case	_	_
 10	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	canal	canal	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	_
