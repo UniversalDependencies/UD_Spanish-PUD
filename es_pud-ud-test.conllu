@@ -4330,7 +4330,7 @@
 17	pero	pero	CCONJ	CC	_	20	cc	_	_
 18	eso	eso	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	20	nsubj	_	_
 19	no	no	ADV	RB	Polarity=Neg	20	advmod	_	_
-20	quita	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+20	quita	quitar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
 21	valor	valor	NOUN	NN	Gender=Masc|Number=Sing	20	obj	_	_
 22	a	a	ADP	IN	_	24	case	_	_
 23	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
@@ -4478,7 +4478,7 @@
 4	de	de	ADP	IN	_	5	case	_	_
 5	artistas	artista	NOUN	NN	Number=Plur	3	obl	_	_
 6	que	que	PRON	REL	Number=Plur|PronType=Rel	7	nsubj	_	_
-7	quieren	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+7	quieren	querer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
 8	hacer	hacer	VERB	VB	VerbForm=Inf	7	xcomp	_	_
 9	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	montón	montón	NOUN	NN	Gender=Masc|Number=Sing	8	obj	_	_
@@ -5598,7 +5598,7 @@
 # sent_id = n01080042
 # text = Quería verlo con ellos, pero al final decidieron que preferían verlo sin mí.
 # text_en = I wanted to watch it with them, but they decided they’d rather watch it without me in the end.
-1	Quería	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+1	Quería	querer	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
 2-3	verlo	_	_	_	_	_	_	_	_
 2	ver	ver	VERB	VB	VerbForm=Inf	1	xcomp	_	_
 3	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
@@ -5843,7 +5843,7 @@
 15	tarjeta	tarjeta	NOUN	NN	Gender=Fem|Number=Sing	12	nmod	_	_
 16	Nectar	Nectar	PROPN	NNP	Number=Sing	15	appos	_	_
 17	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	18	nsubj	_	_
-18	quieran	_	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+18	quieran	querer	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
 19	tomar	tomar	VERB	VB	VerbForm=Inf	18	xcomp	_	_
 20	prestadas	prestar	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	25	acl	_	_
 21	entre	entre	ADP	IN	_	25	case	_	_
@@ -7063,7 +7063,7 @@
 13	Lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	14	det	_	_
 14	último	último	NOUN	NN	Gender=Masc|Number=Sing	10	ccomp	_	_
 15	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	16	obj	_	_
-16	quiere	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
+16	quiere	querer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
 17	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	gobierno	gobierno	NOUN	NN	Gender=Masc|Number=Sing	16	nsubj	_	_
 19	son	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
@@ -9795,7 +9795,7 @@
 17	tipo	tipo	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	_
 18	que	que	SCONJ	IN	_	20	mark	_	_
 19	no	no	ADV	RB	Polarity=Neg	20	advmod	_	_
-20	quería	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	12	ccomp	_	_
+20	quería	querer	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	12	ccomp	_	_
 21	que	que	SCONJ	IN	_	23	mark	_	_
 22	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	23	obj	_	_
 23	vendiesen	vender	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	20	ccomp	_	SpaceAfter=No
@@ -10043,7 +10043,7 @@
 8	vaya	ir	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
 9	cualquiera	cualquiera	NOUN	NN	Gender=Masc|Number=Sing	8	nsubj	_	_
 10	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	11	nsubj	_	_
-11	quiera	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+11	quiera	querer	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
 12	ver	ver	VERB	VB	VerbForm=Inf	11	xcomp	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	capital	capital	NOUN	NN	Gender=Fem|Number=Sing	12	obj	_	_
@@ -21004,7 +21004,7 @@
 12	ella	él	PRON	PRP	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
 13	ya	ya	ADV	RB	_	15	advmod	_	_
 14	no	no	ADV	RB	Polarity=Neg	15	advmod	_	_
-15	quería	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	ccomp	_	_
+15	quería	querer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	ccomp	_	_
 16	estar	estar	AUX	VB	VerbForm=Inf	17	aux	_	_
 17	casada	casar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	15	xcomp	_	_
 18	con	con	ADP	IN	_	19	case	_	_
@@ -25093,7 +25093,7 @@
 # text_en = The Ottomans wanted to prevent grain from being further transported because they had a great need for it.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	otomanos	otomano	NOUN	NN	Gender=Masc|Number=Plur	3	nsubj	_	Proper=True
-3	querían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	querían	querer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 4	evitar	evitar	VERB	VB	VerbForm=Inf	3	xcomp	_	_
 5	que	que	SCONJ	IN	_	8	mark	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
