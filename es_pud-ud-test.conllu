@@ -3287,7 +3287,7 @@
 13-14	al	_	_	_	_	_	_	_	_
 13	a	a	ADP	INDT	_	23	advmod	_	_
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
-15	menos	_	ADV	RBR	Degree=Cmp	13	fixed	_	_
+15	menos	menos	ADV	RBR	Degree=Cmp	13	fixed	_	_
 16	otros	_	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	18	det	_	_
 17	seis	seis	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	18	nummod	_	_
 18	periodistas	_	NOUN	NN	Gender=Masc|Number=Plur	23	nsubj	_	_
@@ -4894,7 +4894,7 @@
 2	echará	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 3	mucho	mucho	ADV	RB	_	2	advmod	_	_
 4	de	de	ADP	IN	_	5	case	_	_
-5	menos	_	ADV	RBR	Degree=Cmp	2	xcomp	_	_
+5	menos	menos	ADV	RBR	Degree=Cmp	2	xcomp	_	_
 6	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
 7	habilidad	habilidad	NOUN	NN	Gender=Fem|Number=Sing	2	nsubj:pass	_	_
 8	para	para	ADP	IN	_	9	case	_	_
@@ -5953,7 +5953,7 @@
 12-13	al	_	_	_	_	_	_	_	_
 12	a	a	ADP	INDT	_	15	advmod	_	_
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-14	menos	_	ADV	RBR	Degree=Cmp	12	fixed	_	_
+14	menos	menos	ADV	RBR	Degree=Cmp	12	fixed	_	_
 15	hay	haber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
 16	alguien	alguien	NOUN	NN	Gender=Masc|Number=Sing	15	obj	_	_
 17	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	18	nsubj	_	_
@@ -6704,7 +6704,7 @@
 2-3	al	_	_	_	_	_	_	_	_
 2	a	a	ADP	INDT	_	6	discourse	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-4	menos	_	ADV	RBR	Degree=Cmp	2	fixed	_	_
+4	menos	menos	ADV	RBR	Degree=Cmp	2	fixed	_	_
 5	pueden	poder	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 6	plantar	plantar	VERB	VB	VerbForm=Inf	0	root	_	_
 7	trampas	_	NOUN	NN	Gender=Fem|Number=Plur	6	obj	_	_
@@ -9481,7 +9481,7 @@
 7	adoptado	adoptar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 8	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	enfoque	enfoque	NOUN	NN	Gender=Masc|Number=Sing	7	obj	_	_
-10	menos	_	ADV	RBR	Degree=Cmp	11	advmod	_	_
+10	menos	menos	ADV	RBR	Degree=Cmp	11	advmod	_	_
 11	tecnológico	tecnológico	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	_
 12	a	a	ADP	IN	_	16	case	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	fixed	_	_
@@ -10156,7 +10156,7 @@
 10	,	,	PUNCT	,	_	12	punct	_	_
 11	pero	pero	CCONJ	CC	_	12	cc	_	_
 12	muchas	_	NOUN	NN	Gender=Fem|Number=Plur	6	conj	_	_
-13	menos	_	ADV	RBR	Degree=Cmp	12	advmod	_	SpaceAfter=No
+13	menos	menos	ADV	RBR	Degree=Cmp	12	advmod	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	3	punct	_	_
 
 # newdoc id = n01150
@@ -11480,7 +11480,7 @@
 6	similar	similar	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	10	punct	_	_
 8	pero	pero	CCONJ	CC	_	10	cc	_	_
-9	menos	_	ADV	RBR	Degree=Cmp	10	advmod	_	_
+9	menos	menos	ADV	RBR	Degree=Cmp	10	advmod	_	_
 10	extremo	extremo	ADJ	JJ	Gender=Masc|Number=Sing	6	conj	_	_
 11	que	que	ADP	IN	_	12	case	_	_
 12	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	obl	_	_
@@ -12724,7 +12724,7 @@
 20	o	o	CCONJ	CC	_	24	cc	_	_
 21	por	por	ADP	IN	_	24	discourse	_	_
 22	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	21	fixed	_	_
-23	menos	_	ADV	RBR	Degree=Cmp	21	fixed	_	_
+23	menos	menos	ADV	RBR	Degree=Cmp	21	fixed	_	_
 24	mitigaría	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	conj	_	_
 25	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
 26	impactos	_	NOUN	NN	Gender=Masc|Number=Plur	24	obj	_	_
@@ -15310,7 +15310,7 @@
 10-11	al	_	_	_	_	_	_	_	_
 10	a	a	ADP	INDT	_	13	discourse	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-12	menos	_	ADV	RBR	Degree=Cmp	10	fixed	_	_
+12	menos	menos	ADV	RBR	Degree=Cmp	10	fixed	_	_
 13	partes	_	NOUN	NN	Gender=Fem|Number=Plur	9	obj	_	_
 14-15	del	_	_	_	_	_	_	_	_
 14	de	de	ADP	INDT	_	17	case	_	_
@@ -16108,7 +16108,7 @@
 20	civiles	_	ADJ	JJ	Gender=Fem|Number=Plur	19	amod	_	SpaceAfter=No
 21	)	)	PUNCT	)	_	10	punct	_	_
 22	son	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	_
-23	menos	_	ADV	RBR	Degree=Cmp	24	advmod	_	_
+23	menos	menos	ADV	RBR	Degree=Cmp	24	advmod	_	_
 24	propensos	_	ADJ	JJ	Gender=Masc|Number=Plur	0	root	_	_
 25	de	de	ADP	IN	_	26	case	_	_
 26-27	unirse	_	_	_	_	_	_	_	_
@@ -19630,7 +19630,7 @@
 1-2	Al	_	_	_	_	_	_	_	_
 1	A	a	ADP	INDT	_	5	advmod	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-3	menos	_	ADV	RBR	Degree=Cmp	1	fixed	_	_
+3	menos	menos	ADV	RBR	Degree=Cmp	1	fixed	_	_
 4	330 000	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	5	nummod	_	_
 5	personas	_	NOUN	NN	Gender=Fem|Number=Plur	12	nsubj	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	7	punct	_	_
@@ -23180,7 +23180,7 @@
 10	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 11	mas	mas	ADV	RBR	_	14	advmod	_	_
 12	o	o	CCONJ	CC	_	11	fixed	_	_
-13	menos	_	ADV	RBR	Degree=Cmp	11	fixed	_	_
+13	menos	menos	ADV	RBR	Degree=Cmp	11	fixed	_	_
 14	igual	igual	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
 15	a	a	ADP	IN	_	17	case	_	_
 16	45	45	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	17	nummod	_	_
@@ -23380,7 +23380,7 @@
 4	que	que	SCONJ	IN	_	6	mark	_	_
 5	Italia	Italia	PROPN	NNP	Number=Sing	6	nsubj	_	_
 6	tenga	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
-7	menos	_	ADV	RBR	Degree=Cmp	8	advmod	_	_
+7	menos	menos	ADV	RBR	Degree=Cmp	8	advmod	_	_
 8	kilómetros	_	NOUN	NN	Gender=Masc|Number=Plur	6	obj	_	_
 9	de	de	ADP	IN	_	10	case	_	_
 10	red	red	NOUN	NN	Gender=Fem|Number=Sing	8	nmod	_	_
@@ -23540,7 +23540,7 @@
 16-17	al	_	_	_	_	_	_	_	_
 16	a	a	ADP	INDT	_	20	advmod	_	_
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
-18	menos	_	ADV	RBR	Degree=Cmp	16	fixed	_	_
+18	menos	menos	ADV	RBR	Degree=Cmp	16	fixed	_	_
 19	en	en	ADP	IN	_	20	case	_	_
 20	2017	2017	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	11	obl	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	5	punct	_	_
