@@ -52,7 +52,7 @@
 1	Para	para	ADP	IN	_	4	case	_	_
 2	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	4	nsubj	_	_
-4	sigan	_	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	xcomp	_	_
+4	sigan	seguir	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	xcomp	_	_
 5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	transiciones	transición	NOUN	NN	Gender=Fem|Number=Plur	4	obj	_	_
 7	de	de	ADP	IN	_	9	case	_	_
@@ -1635,7 +1635,7 @@
 11	de	de	ADP	IN	_	12	case	_	_
 12	semillas	semilla	NOUN	NN	Gender=Fem|Number=Plur	10	obl	_	_
 13	terrestres	_	ADJ	JJ	Gender=Fem|Number=Plur	12	amod	_	_
-14	seguían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+14	seguían	seguir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 15	con	con	ADP	IN	_	16	case	_	_
 16	vida	vida	NOUN	NN	Gender=Fem|Number=Sing	14	obl	_	_
 17	17	17	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	18	nummod	_	_
@@ -2108,7 +2108,7 @@
 14	de	de	ADP	IN	_	15	case	_	_
 15	palabras	palabra	NOUN	NN	Gender=Fem|Number=Plur	13	nmod	_	SpaceAfter=No
 16	"	"	PUNCT	''	_	13	punct	_	_
-17	seguido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	acl	_	_
+17	seguido	seguir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	acl	_	_
 18	de	de	ADP	IN	_	21	case	_	_
 19	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 20	"	"	PUNCT	``	_	21	punct	_	SpaceAfter=No
@@ -7662,7 +7662,7 @@
 # text = Fue seguido por los fondos de renta y multi-estrategia con un objetivo de rentabilidad para inversores de Aviva, en los que los inversores depositaron 2 mil millones y 1,4 mil millones de libras respectivamente.
 # text_en = It was followed by the Aviva Investors Multi Strategy Target Return and Income funds, into which investors put £2bn and £1.4bn respectively.
 1	Fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux:pass	_	_
-2	seguido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	seguido	seguir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 3	por	por	ADP	IN	_	5	case	_	_
 4	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	fondos	fondo	NOUN	NN	Gender=Masc|Number=Plur	2	obl:agent	_	_
@@ -15095,7 +15095,7 @@
 14	de	de	ADP	IN	_	15	case	_	_
 15	nacimiento	nacimiento	NOUN	NN	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	17	punct	_	_
-17	seguido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	acl	_	_
+17	seguido	seguir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	acl	_	_
 18-19	del	_	_	_	_	_	_	_	_
 18	de	de	ADP	INDT	_	20	case	_	_
 19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
@@ -15179,7 +15179,7 @@
 19	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	semana	semana	NOUN	NN	Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	,	_	22	punct	_	_
-22	seguidos	_	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	11	advcl	_	_
+22	seguidos	seguir	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	11	advcl	_	_
 23	por	por	ADP	IN	_	25	case	_	_
 24	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	enlace	enlace	NOUN	NN	Gender=Masc|Number=Sing	22	obl:agent	_	_
@@ -26113,7 +26113,7 @@
 17	tinieblas	tiniebla	NOUN	NN	Gender=Fem|Number=Plur	14	nmod	_	Proper=True
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	cual	cual	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	20	nsubj	_	_
-20	siguió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	acl:relcl	_	_
+20	siguió	seguir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	acl:relcl	_	_
 21	a	a	ADP	IN	_	23	case	_	_
 22	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	civilización	civilización	NOUN	NN	Gender=Fem|Number=Sing	20	obl	_	_
