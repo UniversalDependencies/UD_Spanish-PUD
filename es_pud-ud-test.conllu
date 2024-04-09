@@ -1077,7 +1077,7 @@
 21	acceso	acceso	NOUN	NN	Gender=Masc|Number=Sing	19	nmod	_	_
 22	recaería	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
 23	sobre	sobre	ADP	IN	_	25	case	_	_
-24	cada	_	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	25	det	_	_
+24	cada	cada	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	25	det	_	_
 25	compañía	compañía	NOUN	NN	Gender=Fem|Number=Sing	22	obl	_	_
 26	aérea	_	ADJ	JJ	Gender=Fem|Number=Sing	25	amod	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	3	punct	_	_
@@ -2757,7 +2757,7 @@
 1	Estamos	estar	AUX	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	_
 2	viendo	ver	VERB	VBG	VerbForm=Ger	0	root	_	_
 3	como	como	ADV	WRB	_	23	advmod	_	_
-4	cada	_	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	5	det	_	_
+4	cada	cada	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	5	det	_	_
 5	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
 6	más	más	ADV	RBR	Degree=Cmp	7	advmod	_	_
 7	países	_	NOUN	NN	Gender=Masc|Number=Plur	23	nsubj	_	_
@@ -3797,7 +3797,7 @@
 13	en	en	ADP	IN	_	14	case	_	_
 14	uno	uno	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	_
 15	de	de	ADP	IN	_	18	case	_	_
-16	cada	_	DET	DT	Gender=Masc|Number=Plur|PronType=Tot	18	det	_	_
+16	cada	cada	DET	DT	Gender=Masc|Number=Plur|PronType=Tot	18	det	_	_
 17	35 000	35 000	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	18	nummod	_	_
 18	nacimientos	_	NOUN	NN	Gender=Masc|Number=Plur	14	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	2	punct	_	_
@@ -4457,7 +4457,7 @@
 15	Karel	Karel	PROPN	NNP	Gender=Fem|Number=Sing	17	obl	_	_
 16	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	17	obl:arg	_	_
 17	preocupa	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-18	cada	_	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	19	det	_	_
+18	cada	cada	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	19	det	_	_
 19	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	17	obl	_	_
 20	más	más	ADV	RBR	Degree=Cmp	17	advmod	_	_
 21	algo	algo	NOUN	NN	Gender=Masc|Number=Sing	17	nsubj	_	_
@@ -5654,7 +5654,7 @@
 # sent_id = n01082014
 # text = Cada vez más gente se está pasando al crédito… aunque por ahora pedir dinero prestado sea cómodo, un repentino cambio de las circunstancias podría producir problemas de endeudamiento.
 # text_en = “More people are turning to credit … While this borrowing might be manageable now, a sudden change in circumstances could lead to debt problems.”
-1	Cada	_	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	2	det	_	_
+1	Cada	cada	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	2	det	_	_
 2	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
 3	más	más	ADV	RBR	Degree=Cmp	4	advmod	_	_
 4	gente	gente	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
@@ -5910,7 +5910,7 @@
 4	y	y	CCONJ	CC	_	6	cc	_	_
 5	esto	esto	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	6	nsubj	_	_
 6	merece	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
-7	cada	_	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	8	det	_	_
+7	cada	cada	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	8	det	_	_
 8	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	6	obl	_	_
 9	más	más	ADV	RBR	Degree=Cmp	10	advmod	_	_
 10	atención	atención	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
@@ -6818,7 +6818,7 @@
 # text = En cada estación, un guardia con una gorra roja preside la plataforma y una persona encargada de puntear las ruedas camina a lo largo del tren con un martillo, golpeando suavemente el chasis.
 # text_en = At each station, a red-capped guard presides over the platform and a wheel-tapper walks along the train with a hammer, gently knocking the undercarriage.
 1	En	en	ADP	IN	_	3	case	_	_
-2	cada	_	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	3	det	_	_
+2	cada	cada	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	3	det	_	_
 3	estación	estación	NOUN	NN	Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -7903,7 +7903,7 @@
 17	que	que	ADP	IN	_	16	fixed	_	_
 18	nueve	nueve	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	22	nsubj	_	_
 19	de	de	ADP	IN	_	21	case	_	_
-20	cada	_	DET	DT	Gender=Masc|Number=Plur|PronType=Tot	21	det	_	_
+20	cada	cada	DET	DT	Gender=Masc|Number=Plur|PronType=Tot	21	det	_	_
 21	10	10	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	18	nmod	_	_
 22	subestiman	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
 23	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	24	det	_	_
@@ -25935,7 +25935,7 @@
 8	cinco	cinco	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	9	nummod	_	_
 9	doctores	_	NOUN	NN	Gender=Masc|Number=Plur	7	obj	_	_
 10	por	por	ADP	IN	_	13	case	_	_
-11	cada	_	DET	DT	Gender=Masc|Number=Plur|PronType=Tot	13	det	_	_
+11	cada	cada	DET	DT	Gender=Masc|Number=Plur|PronType=Tot	13	det	_	_
 12	100.000	100.000	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	13	nummod	_	_
 13	habitantes	_	NOUN	NN	Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	7	punct	_	_
@@ -26195,7 +26195,7 @@
 18	geografía	geografía	NOUN	NN	Gender=Fem|Number=Sing	15	obl:agent	_	_
 19	griega	_	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	SpaceAfter=No|Proper=True
 20	:	:	PUNCT	:	_	28	punct	_	_
-21	cada	_	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	22	det	_	_
+21	cada	cada	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	22	det	_	_
 22	isla	isla	NOUN	NN	Gender=Fem|Number=Sing	28	nsubj	_	SpaceAfter=No
 23	,	,	PUNCT	,	_	24	punct	_	_
 24	valle	valle	NOUN	NN	Gender=Masc|Number=Sing	22	conj	_	_
