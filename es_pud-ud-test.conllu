@@ -27939,10 +27939,10 @@
 10	en	en	ADP	IN	_	12	case	_	_
 11	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
 12	productora	productora	NOUN	NN	Gender=Fem|Number=Sing	9	obl	_	_
-13	The	the	DET	DT	Number=Sing|PronType=Ind	16	det	_	Proper=True
-14	Rocket	rocket	NOUN	NN	Number=Sing	12	appos	_	Proper=True
-15	Record	record	NOUN	NN	Number=Sing	14	flat:name	_	Proper=True
-16	Company	company	NOUN	NN	Number=Sing	14	flat:name	_	SpaceAfter=No|Proper=True
+13	The	the	DET	DT	Foreign=Yes|Definite=Def|PronType=Art	16	det	_	Lang=en|Proper=True
+14	Rocket	rocket	NOUN	NN	Foreign=Yes|Number=Sing	16	compound	_	Lang=en|Proper=True
+15	Record	record	NOUN	NN	Foreign=Yes|Number=Sing	16	compound	_	Lang=en|Proper=True
+16	Company	company	NOUN	NN	Foreign=Yes|Number=Sing	12	appos	_	Lang=en|SpaceAfter=No|Proper=True
 17	,	,	PUNCT	,	_	18	punct	_	_
 18	Kiki	Kiki	PROPN	NNP	Gender=Fem|Number=Sing	7	appos	_	_
 19	Dee	Dee	PROPN	NNP	Gender=Fem|Number=Sing	18	flat:name	_	SpaceAfter=No
@@ -27958,17 +27958,17 @@
 29	para	para	ADP	IN	_	31	case	_	_
 30	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
 31	británico	británico	NOUN	NN	Gender=Masc|Number=Sing	27	nmod	_	SpaceAfter=No|Proper=True
-32	:	:	PUNCT	:	_	37	punct	_	_
-33	"	"	PUNCT	``	_	37	punct	_	SpaceAfter=No
-34	Don	_	AUX	VBC	Mood=Imp|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	37	aux	_	SpaceAfter=No|Proper=True
-35	'	'	PUNCT	-	_	36	punct	_	SpaceAfter=No
-36	t	_	ADV	RB	Polarity=Neg	34	advmod	_	Proper=True
-37	Go	_	VERB	VB	Tense=Imp|VerbForm=Fin	27	appos	_	Proper=True
-38	Breaking	_	VERB	VBG	Tense=Imp|VerbForm=Fin	37	advcl	_	Proper=True
-39	My	my	PRON	DTP$	Number=Sing|Person=1|PronType=Ind	40	det	_	Proper=True
-40	Heart	heart	NOUN	NN	Number=Sing	38	obj	_	SpaceAfter=No|Proper=True
-41	"	"	PUNCT	''	_	37	punct	_	SpaceAfter=No
-42	.	.	PUNCT	.	_	4	punct	_	_
+32	:	:	PUNCT	:	_	36	punct	_	_
+33	"	"	PUNCT	``	_	36	punct	_	SpaceAfter=No
+34-35	Don't	_	_	_	_	_	_	_	Proper=True
+34	Do	do	AUX	VBC	Foreign=Yes|Mood=Imp|Person=2|VerbForm=Fin	36	aux	_	Lang=en|Proper=True
+35	n't	not	PART	RB	Foreign=Yes|Polarity=Neg	36	advmod	_	Lang=en|Proper=True
+36	Go	go	VERB	VB	Foreign=Yes|VerbForm=Inf	27	appos	_	Lang=en|Proper=True
+37	Breaking	break	VERB	VBG	Foreign=Yes|Tense=Pres|VerbForm=Part	36	advcl	_	Lang=en|Proper=True
+38	My	my	PRON	DTP$	Foreign=Yes|Number=Sing|Person=1|PronType=Prs	39	det	_	Lang=en|Proper=True
+39	Heart	heart	NOUN	NN	Foreign=Yes|Number=Sing	37	obj	_	Lang=en|SpaceAfter=No|Proper=True
+40	"	"	PUNCT	''	_	36	punct	_	SpaceAfter=No
+41	.	.	PUNCT	.	_	4	punct	_	_
 
 # newdoc id = w05010
 # sent_id = w05010023
