@@ -1469,7 +1469,7 @@
 29	objetivo	objetivo	NOUN	NN	Gender=Masc|Number=Sing	27	obl	_	_
 30	reducir	reducir	VERB	VB	VerbForm=Inf	27	xcomp	_	_
 31	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	32	det	_	_
-32	gases	_	NOUN	NN	Gender=Masc|Number=Plur	30	obj	_	_
+32	gases	gas	NOUN	NN	Gender=Masc|Number=Plur	30	obj	_	_
 33	HFC	hfc	NOUN	NN	_	32	appos	_	SpaceAfter=No|Proper=True
 34	,	,	PUNCT	,	_	35	punct	_	_
 35	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	_
@@ -1699,7 +1699,7 @@
 24	Internacional	_	ADJ	JJ	Gender=Fem|Number=Sing	22	amod	_	Proper=True
 25	durante	durante	ADP	IN	_	27	case	_	_
 26	seis	seis	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	27	nummod	_	_
-27	meses	_	NOUN	NN	Gender=Masc|Number=Plur	19	obl	_	_
+27	meses	mes	NOUN	NN	Gender=Masc|Number=Plur	19	obl	_	_
 28	sin	sin	ADP	IN	_	31	case	_	_
 29	que	que	SCONJ	IN	_	31	mark	_	_
 30	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	31	expl:pass	_	_
@@ -2760,7 +2760,7 @@
 4	cada	cada	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	5	det	_	_
 5	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
 6	más	más	ADV	RBR	Degree=Cmp	7	advmod	_	_
-7	países	_	NOUN	NN	Gender=Masc|Number=Plur	23	nsubj	_	_
+7	países	país	NOUN	NN	Gender=Masc|Number=Plur	23	nsubj	_	_
 8	y	y	CCONJ	CC	_	14	cc	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	14	punct	_	_
 10	en	en	ADP	IN	_	14	discourse	_	_
@@ -4649,7 +4649,7 @@
 9	pasado	pasar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 10	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
 11	últimos	último	ADJ	JJ	Gender=Masc|Number=Plur	12	amod	_	_
-12	meses	_	NOUN	NN	Gender=Masc|Number=Plur	9	obj	_	_
+12	meses	mes	NOUN	NN	Gender=Masc|Number=Plur	9	obj	_	_
 13	en	en	ADP	IN	_	14	case	_	_
 14	vela	vela	NOUN	NN	Gender=Fem|Number=Sing	9	obl	_	_
 15	leyendo	leer	VERB	VBG	VerbForm=Ger	9	advcl	_	_
@@ -6411,7 +6411,7 @@
 22	,	,	PUNCT	,	_	28	punct	_	_
 23	cuando	cuando	ADV	WRB	PronType=Rel	28	advmod	_	_
 24	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
-25	países	_	NOUN	NN	Gender=Masc|Number=Plur	28	nsubj	_	_
+25	países	país	NOUN	NN	Gender=Masc|Number=Plur	28	nsubj	_	_
 26	desarrollados	desarrollado	ADJ	JJ	Gender=Masc|Number=Plur	25	amod	_	_
 27	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	28	compound:prt	_	_
 28	cuestionarán	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	16	acl:relcl	_	_
@@ -10849,7 +10849,7 @@
 8	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	9	nsubj	_	_
 9	dura	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
 10	varios	vario	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	11	det	_	_
-11	meses	_	NOUN	NN	Gender=Masc|Number=Plur	9	obl:tmod	_	_
+11	meses	mes	NOUN	NN	Gender=Masc|Number=Plur	9	obl:tmod	_	_
 12	y	y	CCONJ	CC	_	15	cc	_	_
 13	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
@@ -12359,7 +12359,7 @@
 37	y	y	CCONJ	CC	_	40	cc	_	_
 38	durante	durante	ADP	IN	_	40	case	_	_
 39	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	40	det	_	_
-40	meses	_	NOUN	NN	Gender=Masc|Number=Plur	35	conj	_	_
+40	meses	mes	NOUN	NN	Gender=Masc|Number=Plur	35	conj	_	_
 41	de	de	ADP	IN	_	42	case	_	_
 42	verano	verano	NOUN	NN	Gender=Masc|Number=Sing	40	nmod	_	SpaceAfter=No
 43	.	.	PUNCT	.	_	17	punct	_	_
@@ -12444,7 +12444,7 @@
 33	y	y	CCONJ	CC	_	34	cc	_	_
 34	transcurren	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27	conj	_	_
 35	por	por	ADP	IN	_	36	case	_	_
-36	países	_	NOUN	NN	Gender=Masc|Number=Plur	34	obl	_	_
+36	países	país	NOUN	NN	Gender=Masc|Number=Plur	34	obl	_	_
 37	vecinos	vecino	ADJ	JJ	Gender=Masc|Number=Plur	36	amod	_	SpaceAfter=No
 38	,	,	PUNCT	,	_	41	punct	_	_
 39	para	para	ADP	IN	_	41	case	_	_
@@ -13008,7 +13008,7 @@
 28	congelación	congelación	NOUN	NN	Gender=Fem|Number=Sing	26	nmod	_	_
 29	en	en	ADP	IN	_	31	case	_	_
 30	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	31	det	_	_
-31	meses	_	NOUN	NN	Gender=Masc|Number=Plur	21	obl	_	_
+31	meses	mes	NOUN	NN	Gender=Masc|Number=Plur	21	obl	_	_
 32	de	de	ADP	IN	_	33	case	_	_
 33	invierno	invierno	NOUN	NN	Gender=Masc|Number=Sing	31	nmod	_	SpaceAfter=No
 34	.	.	PUNCT	.	_	6	punct	_	_
@@ -13758,7 +13758,7 @@
 16	estaban	estar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	17	aux	_	_
 17	estableciendo	establecer	VERB	VBG	VerbForm=Ger	11	conj	_	_
 18	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
-19	bases	_	NOUN	NN	Gender=Fem|Number=Plur	17	obj	_	_
+19	bases	bas	NOUN	NN	Gender=Fem|Number=Plur	17	obj	_	_
 20	para	para	ADP	IN	_	21	case	_	_
 21	promocionar	promocionar	VERB	VB	VerbForm=Inf	19	xcomp	_	_
 22	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
@@ -14321,7 +14321,7 @@
 6	Pablo	Pablo	PROPN	NNP	Gender=Masc|Number=Sing	7	nsubj	_	_
 7	pasó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	dieciocho	dieciocho	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	9	nummod	_	_
-9	meses	_	NOUN	NN	Gender=Masc|Number=Plur	7	obl:tmod	_	_
+9	meses	mes	NOUN	NN	Gender=Masc|Number=Plur	7	obl:tmod	_	_
 10	en	en	ADP	IN	_	11	case	_	_
 11	Corinto	Corinto	PROPN	NNP	Number=Sing	7	obl	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	16	punct	_	_
@@ -14827,7 +14827,7 @@
 # text = Los dioses representaban claramente las necesidades prácticas de la vida diaria, y se les había otorgado con mucho cuidado unos ritos y ofrendas consideradas como las apropiadas.
 # text_en = The gods represented distinctly the practical needs of daily life, and they were scrupulously accorded the rites and offerings considered proper.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
-2	dioses	_	NOUN	NN	Gender=Masc|Number=Plur	3	nsubj	_	_
+2	dioses	dios	NOUN	NN	Gender=Masc|Number=Plur	3	nsubj	_	_
 3	representaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 4	claramente	claramente	ADV	RB	_	3	advmod	_	_
 5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
@@ -15622,7 +15622,7 @@
 4	duración	duración	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 5	de	de	ADP	IN	_	7	case	_	_
 6	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
-7	meses	_	NOUN	NN	Gender=Masc|Number=Plur	4	nmod	_	_
+7	meses	mes	NOUN	NN	Gender=Masc|Number=Plur	4	nmod	_	_
 8	lunares	_	ADJ	JJ	Gender=Masc|Number=Plur	7	amod	_	SpaceAfter=No|Proper=True
 9	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -15723,7 +15723,7 @@
 1	Durante	durante	ADP	IN	_	4	case	_	_
 2	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
 3	primeras	primero	ADJ	JJ	Gender=Fem|Number=Plur	4	amod	_	_
-4	fases	_	NOUN	NN	Gender=Fem|Number=Plur	12	obl	_	_
+4	fases	fas	NOUN	NN	Gender=Fem|Number=Plur	12	obl	_	_
 5	de	de	ADP	IN	_	7	case	_	_
 6	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	romanización	romanización	NOUN	NN	Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
@@ -18083,7 +18083,7 @@
 22	uso	uso	NOUN	NN	Gender=Masc|Number=Sing	20	obl	_	_
 23	en	en	ADP	IN	_	25	case	_	_
 24	algunos	alguno	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	25	det	_	_
-25	países	_	NOUN	NN	Gender=Masc|Number=Plur	20	obl	_	_
+25	países	país	NOUN	NN	Gender=Masc|Number=Plur	20	obl	_	_
 26	en	en	ADP	IN	_	28	case	_	_
 27	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	28	det	_	_
 28	80	80	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	20	obl	_	SpaceAfter=No
@@ -21532,7 +21532,7 @@
 21	tras	tras	ADP	IN	_	24	case	_	_
 22	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
 23	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	24	nummod	_	_
-24	meses	_	NOUN	NN	Gender=Masc|Number=Plur	18	obl	_	_
+24	meses	mes	NOUN	NN	Gender=Masc|Number=Plur	18	obl	_	_
 25-26	del	_	_	_	_	_	_	_	_
 25	de	de	ADP	INDT	_	27	case	_	_
 26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
@@ -21613,7 +21613,7 @@
 25	tropas	tropa	NOUN	NN	Gender=Fem|Number=Plur	22	obj	_	_
 26	de	de	ADP	IN	_	28	case	_	_
 27	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	28	det	_	_
-28	países	_	NOUN	NN	Gender=Masc|Number=Plur	22	obl	_	_
+28	países	país	NOUN	NN	Gender=Masc|Number=Plur	22	obl	_	_
 29	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	31	nsubj	_	_
 30	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	31	compound:prt	_	_
 31	unieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	28	acl:relcl	_	_
@@ -23624,7 +23624,7 @@
 10	promedio	promedio	NOUN	NN	Gender=Masc|Number=Sing	8	obj	_	_
 11	de	de	ADP	IN	_	13	case	_	_
 12	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
-13	países	_	NOUN	NN	Gender=Masc|Number=Plur	10	nmod	_	_
+13	países	país	NOUN	NN	Gender=Masc|Number=Plur	10	nmod	_	_
 14	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	15	nsubj	_	_
 15	adoptan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
 16	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
@@ -25489,7 +25489,7 @@
 5	de	de	ADP	IN	_	6	case	_	_
 6	1917	1917	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	nmod	_	_
 7	algunos	alguno	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
-8	países	_	NOUN	NN	Gender=Masc|Number=Plur	19	nsubj	_	SpaceAfter=No
+8	países	país	NOUN	NN	Gender=Masc|Number=Plur	19	nsubj	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	11	punct	_	_
 10	como	como	ADP	IN	_	11	case	_	_
 11	Finlandia	Finlandia	PROPN	NNP	Number=Sing	8	nmod	_	SpaceAfter=No
@@ -25990,7 +25990,7 @@
 21	,	,	PUNCT	,	_	25	punct	_	_
 22	y	y	CCONJ	CC	_	25	cc	_	_
 23	diez	diez	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	24	nummod	_	_
-24	meses	_	NOUN	NN	Gender=Masc|Number=Plur	25	obl:tmod	_	_
+24	meses	mes	NOUN	NN	Gender=Masc|Number=Plur	25	obl:tmod	_	_
 25	antes	antes	ADV	RB	_	15	conj	_	_
 26	de	de	ADP	IN	_	30	case	_	_
 27	que	que	SCONJ	IN	_	30	mark	_	_
