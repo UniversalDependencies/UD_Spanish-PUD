@@ -6039,7 +6039,7 @@
 8	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	11	obl	_	_
 10	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	compound:prt	_	_
-11	sumergieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	acl:relcl	_	_
+11	sumergieron	sumergir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	acl:relcl	_	_
 12	en	en	ADP	IN	_	14	case	_	_
 13	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
 14	patrones	patrón	NOUN	NN	Gender=Masc|Number=Plur	11	obl	_	_
@@ -7704,7 +7704,7 @@
 # text = Esto significa que no se han beneficiado del crecimiento de los activos en el extranjero causado por la caída de la libra.
 # text_en = This means that they have not benefited from the uplift that the fall in sterling has given to overseas assets.
 1	Esto	esto	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
-2	significa	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	significa	significar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	IN	_	7	mark	_	_
 4	no	no	ADV	RB	Polarity=Neg	7	advmod	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	compound:prt	_	_
@@ -7905,7 +7905,7 @@
 19	de	de	ADP	IN	_	21	case	_	_
 20	cada	cada	DET	DT	Gender=Masc|Number=Plur|PronType=Tot	21	det	_	_
 21	10	10	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	18	nmod	_	_
-22	subestiman	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+22	subestiman	subestimar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
 23	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	24	det	_	_
 24	frío	frío	NOUN	NN	Gender=Masc|Number=Sing	22	obj	_	_
 25	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	24	acl:relcl	_	_
@@ -8406,7 +8406,7 @@
 6	por	por	ADP	IN	_	7	case	_	_
 7	Cotton	Cotton	PROPN	NNP	Gender=Fem|Number=Sing	5	obl:agent	_	_
 8	no	no	ADV	RB	Polarity=Neg	9	advmod	_	_
-9	sucedieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	sucedieron	suceder	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	debido	deber	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	case	_	_
 11	a	a	ADP	IN	_	10	fixed	_	_
 12	ningún	ningún	DET	DT	Gender=Masc|Number=Sing|PronType=Neg	13	det	_	_
@@ -8780,7 +8780,7 @@
 14	pero	pero	CCONJ	CC	_	17	cc	_	_
 15	eso	eso	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	17	nsubj	_	_
 16	no	no	ADV	RB	Polarity=Neg	17	advmod	_	_
-17	significa	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+17	significa	significar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
 18	nada	nada	NOUN	NN	Gender=Masc|Number=Sing	17	obj	_	_
 19	si	si	SCONJ	IN	_	24	mark	_	_
 20	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
