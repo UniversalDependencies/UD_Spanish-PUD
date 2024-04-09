@@ -6018,7 +6018,7 @@
 6	Catalano	Catalano	PROPN	NNP	Gender=Masc|Number=Sing	5	flat:name	_	_
 7	trabaja	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	9	punct	_	_
-9	vive	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+9	vive	vivir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
 10	y	y	CCONJ	CC	_	11	cc	_	_
 11	respira	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
 12	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
@@ -6060,7 +6060,7 @@
 7	zona	zona	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
 8	tras	tras	ADP	IN	_	10	case	_	_
 9	haber	haber	AUX	VB	VerbForm=Inf	10	aux	_	_
-10	vivido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	xcomp	_	_
+10	vivido	vivir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	xcomp	_	_
 11	primero	primero	ADV	RB	_	13	advmod	_	_
 12	en	en	ADP	IN	_	13	case	_	_
 13	Londres	Londres	PROPN	NNP	Number=Sing	10	obl	_	_
@@ -15534,7 +15534,7 @@
 20	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	comunidad	comunidad	NOUN	NN	Gender=Fem|Number=Sing	18	obl	_	_
 22	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	23	nsubj	_	_
-23	vivía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	21	acl:relcl	_	_
+23	vivía	vivir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	21	acl:relcl	_	_
 24	cerca	cerca	ADV	RB	_	23	advmod	_	_
 25	hasta	hasta	ADP	IN	_	29	case	_	_
 26	alrededor	alrededor	ADV	RB	_	29	advmod	_	_
@@ -23322,7 +23322,7 @@
 19	antifascista	antifascisto	ADJ	JJ	Gender=Fem|Number=Sing	17	amod	_	SpaceAfter=No
 20	,	,	PUNCT	,	_	22	punct	_	_
 21	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	22	nsubj	_	_
-22	vivió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	acl:relcl	_	_
+22	vivió	vivir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	acl:relcl	_	_
 23	marcada	marcar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	22	advcl	_	_
 24	por	por	ADP	IN	_	26	case	_	_
 25	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
@@ -25228,7 +25228,7 @@
 18	momia	momia	NOUN	NN	Gender=Fem|Number=Sing	15	appos	_	_
 19	congelada	congelar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	18	acl	_	_
 20	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	21	nsubj	_	_
-21	vivió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	acl:relcl	_	_
+21	vivió	vivir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	acl:relcl	_	_
 22	en	en	ADP	IN	_	24	case	_	_
 23	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	3300	3300	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	21	obl	_	_
@@ -25669,7 +25669,7 @@
 22	Südbaden	Südbaden	PROPN	NNP	Number=Sing	20	flat:name	_	SpaceAfter=No
 23	,	,	PUNCT	,	_	25	punct	_	_
 24	donde	donde	ADV	WRB	PronType=Rel	25	advmod	_	_
-25	vivió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	acl:relcl	_	_
+25	vivió	vivir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	acl:relcl	_	_
 26	hasta	hasta	ADP	IN	_	28	case	_	_
 27	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	año	año	NOUN	NN	Gender=Masc|Number=Sing	25	obl	_	_
