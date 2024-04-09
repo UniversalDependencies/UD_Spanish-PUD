@@ -1171,7 +1171,7 @@
 5	expertos	experto	NOUN	NN	Gender=Masc|Number=Plur	8	nsubj	_	_
 6	en	en	ADP	IN	_	7	case	_	_
 7	seguridad	seguridad	NOUN	NN	Gender=Fem|Number=Sing	5	nmod	_	_
-8	cuestionaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	cuestionaron	cuestionar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 9	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	necesidad	necesidad	NOUN	NN	Gender=Fem|Number=Sing	8	obj	_	_
 11-12	del	_	_	_	_	_	_	_	_
@@ -1331,7 +1331,7 @@
 14	de	de	ADP	IN	_	15	case	_	_
 15	octubre	octubre	NOUN	NN	Gender=Masc|Number=Sing	13	nmod	_	_
 16	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	17	obl	_	_
-17	cerraron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_
+17	cerraron	cerrar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_
 18	sitios	sitio	NOUN	NN	Gender=Masc|Number=Plur	17	nsubj	_	_
 19	web	web	NOUN	NN	Gender=Fem|Number=Sing	18	nmod	_	_
 20	populares	_	ADJ	JJ	Gender=Masc|Number=Plur	18	amod	_	_
@@ -1351,7 +1351,7 @@
 # text_en = Analysis revealed that historic amounts of data had been used to cause the disruption.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	análisis	_	NOUN	NN	Gender=Masc|Number=Plur	3	nsubj	_	_
-3	revelaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	revelaron	revelar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	IN	_	7	mark	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pass	_	_
 6	habían	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
@@ -1491,7 +1491,7 @@
 3	en	en	ADP	IN	_	5	case	_	_
 4	este	este	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 5	campo	campo	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
-6	aumentaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	aumentaron	aumentar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	en	en	ADP	IN	_	10	case	_	_
 8	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 9	6	6	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	nummod	_	_
@@ -1499,7 +1499,7 @@
 11	en	en	ADP	IN	_	12	case	_	_
 12	2015	2015	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	6	obl	_	_
 13	y	y	CCONJ	CC	_	14	cc	_	_
-14	alcanzaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
+14	alcanzaron	alcanzar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
 15	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
 16	221	221	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	17	nummod	_	_
 17	mil	mil	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	18	nummod	_	_
@@ -1731,7 +1731,7 @@
 8	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
 9	cartas	carta	NOUN	NN	Gender=Fem|Number=Plur	7	obj	_	_
 10	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	11	obj	_	_
-11	enviaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	acl:relcl	_	_
+11	enviaron	enviar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	acl:relcl	_	_
 12	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
 13	escolares	escolar	NOUN	NN	Gender=Masc|Number=Plur	11	nsubj	_	_
 14	y	y	CCONJ	CC	_	16	cc	_	_
@@ -2192,7 +2192,7 @@
 28	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
 29	distrito	distrito	NOUN	NN	Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
 30	"	"	PUNCT	''	_	19	punct	_	_
-31	llegaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	xcomp	_	_
+31	llegaron	llegar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	xcomp	_	_
 32-33	al	_	_	_	_	_	_	_	_
 32	a	a	ADP	INDT	_	34	case	_	_
 33	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
@@ -3917,7 +3917,7 @@
 1	En	en	SCONJ	IN	_	4	mark	_	_
 2	cuanto	cuanto	ADV	WRB	_	1	fixed	_	_
 3	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl:pass	_	_
-4	publicaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	advcl	_	_
+4	publicaron	publicar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	advcl	_	_
 5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	fotos	foto	NOUN	NN	Gender=Fem|Number=Plur	4	nsubj:pass	_	_
 7	oficiales	oficial	ADJ	JJ	Gender=Fem|Number=Plur	6	amod	_	_
@@ -3929,7 +3929,7 @@
 13	redes	_	NOUN	NN	Gender=Fem|Number=Plur	16	nsubj	_	_
 14	sociales	social	ADJ	JJ	Gender=Fem|Number=Plur	13	amod	_	_
 15	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	compound:prt	_	_
-16	llenaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+16	llenaron	llenar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 17	de	de	ADP	IN	_	18	case	_	_
 18	comentarios	comentario	NOUN	NN	Gender=Masc|Number=Plur	16	obl	_	_
 19	y	y	CCONJ	CC	_	22	cc	_	_
@@ -4071,7 +4071,7 @@
 # text_en = The debris formed a ring around the Earth's equator and was eventually drawn together by gravity to form the moon.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	escombros	escombro	NOUN	NN	Gender=Masc|Number=Plur	3	nsubj	_	_
-3	formaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	formaron	formar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	anillo	anillo	NOUN	NN	Gender=Masc|Number=Sing	3	obj	_	_
 6	alrededor	alrededor	ADV	RB	_	3	advmod	_	_
@@ -4087,7 +4087,7 @@
 15	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	tiempo	tiempo	NOUN	NN	Gender=Masc|Number=Sing	18	obl	_	_
 17	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	18	compound:prt	_	_
-18	juntaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+18	juntaron	juntar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
 19	debido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	22	case	_	_
 20	a	a	ADP	IN	_	19	fixed	_	_
 21	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
@@ -4249,7 +4249,7 @@
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	economistas	economista	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
 3	Republicanos	republicano	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	Proper=True
-4	alertaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	alertaron	alertar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	IN	_	10	case	_	_
 6	que	que	SCONJ	IN	_	10	mark	_	_
 7	no	no	ADV	RB	Polarity=Neg	10	advmod	_	_
@@ -4506,7 +4506,7 @@
 4	Miami	Miami	PROPN	NNP	Number=Sing	2	nmod	_	_
 5	Bass	bass	NOUN	NN	Number=Sing	4	flat:name	_	Proper=True
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	compound:prt	_	_
-7	mostraron	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
+7	mostraron	mostrar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
 8	indiferentes	indiferente	ADJ	JJ	Gender=Masc|Number=Plur	0	root	_	_
 9	en	en	ADP	IN	_	11	case	_	_
 10	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
@@ -4534,7 +4534,7 @@
 8	Zayion	Zayion	PROPN	NNP	Gender=Masc|Number=Sing	6	conj	_	_
 9	describieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	cómo	cómo	ADV	WRB	_	11	advmod	_	_
-11	grabaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	ccomp	_	_
+11	grabaron	grabar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	ccomp	_	_
 12	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
 13	versión	versión	NOUN	NN	Gender=Fem|Number=Sing	11	obj	_	_
 14	de	de	ADP	IN	_	16	case	_	_
@@ -4847,7 +4847,7 @@
 23	y	y	CCONJ	CC	_	26	cc	_	_
 24	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	26	nsubj:pass	_	_
 25	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	26	expl:pass	_	_
-26	utilizaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	17	conj	_	_
+26	utilizaron	utilizar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	17	conj	_	_
 27	en	en	ADP	IN	_	28	case	_	_
 28	exámenes	_	NOUN	NN	Gender=Masc|Number=Plur	26	obl	_	_
 29	de	de	ADP	IN	_	30	case	_	_
@@ -4942,7 +4942,7 @@
 2	demócratas	demócrata	NOUN	NN	Gender=Masc|Number=Plur	15	nsubj	_	_
 3	liberales	liberal	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	_
 4	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	5	nsubj	_	_
-5	representaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
+5	representaron	representar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
 6-7	al	_	_	_	_	_	_	_	_
 6	a	a	ADP	INDT	_	9	case	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
@@ -6090,7 +6090,7 @@
 # text = Me encantaron los colores tropicales, dice.
 # text_en = “I loved the tropical colours,” he says.
 1	Me	yo	PRON	PRP	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl:arg	_	_
-2	encantaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	encantaron	encantar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
 4	colores	color	NOUN	NN	Gender=Masc|Number=Plur	2	nsubj	_	_
 5	tropicales	tropical	ADJ	JJ	Gender=Masc|Number=Plur	4	amod	_	SpaceAfter=No
@@ -7278,7 +7278,7 @@
 29	,	,	PUNCT	,	_	32	punct	_	_
 30	y	y	CCONJ	CC	_	32	cc	_	_
 31	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	32	obl:arg	_	_
-32	costaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	17	conj	_	_
+32	costaron	costar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	17	conj	_	_
 33	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	34	det	_	_
 34	trabajo	trabajo	NOUN	NN	Gender=Masc|Number=Sing	32	obj	_	_
 35	Martin	Martin	PROPN	NNP	Gender=Masc|Number=Sing	32	dep	_	_
@@ -7687,7 +7687,7 @@
 24	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	27	obl	_	_
 25	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
 26	inversores	inversor	NOUN	NN	Gender=Masc|Number=Plur	27	nsubj	_	_
-27	depositaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	_
+27	depositaron	depositar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	_
 28	2	2	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	29	nummod	_	_
 29	mil	mil	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	30	nummod	_	_
 30	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	27	obj	_	_
@@ -9193,7 +9193,7 @@
 7	de	de	ADP	IN	_	8	case	_	Proper=True
 8	Libertades	_	NOUN	NN	Gender=Fem|Number=Plur	5	nmod	_	Proper=True
 9	Civiles	civil	ADJ	JJ	Gender=Fem|Number=Plur	8	amod	_	Proper=True
-10	llegaron	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	_
+10	llegaron	llegar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	_
 11	a	a	ADP	IN	_	10	fixed	_	_
 12	desafiar	desafiar	VERB	VB	VerbForm=Inf	0	root	_	_
 13-14	al	_	_	_	_	_	_	_	_
@@ -10513,7 +10513,7 @@
 1	Las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
 2	tropas	tropa	NOUN	NN	Gender=Fem|Number=Plur	4	nsubj	_	_
 3	aqueménidas	aqueménido	ADJ	JJ	Gender=Fem|Number=Plur	2	amod	_	Proper=True
-4	conquistaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	conquistaron	conquistar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	Tracia	Tracia	PROPN	NNP	Number=Sing	4	obj	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	8	punct	_	_
 7	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
@@ -10823,7 +10823,7 @@
 20	,	,	PUNCT	,	_	10	punct	_	_
 21	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
 22	climatólogos	climatólogo	NOUN	NN	Gender=Masc|Number=Plur	25	nsubj	_	_
-23	empezaron	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	25	aux	_	_
+23	empezaron	empezar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	25	aux	_	_
 24	a	a	ADP	IN	_	23	fixed	_	_
 25	establecer	establecer	VERB	VB	VerbForm=Inf	0	root	_	_
 26	climatologías	climatología	NOUN	NN	Gender=Fem|Number=Plur	25	obj	_	_
@@ -10874,7 +10874,7 @@
 4	muchas	mucho	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	5	det	_	_
 5	tribus	_	NOUN	NN	Gender=Fem|Number=Plur	2	conj	_	_
 6	eslavas	eslavo	ADJ	JJ	Gender=Fem|Number=Plur	5	amod	_	Proper=True
-7	cruzaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	cruzaron	cruzar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	Moravia	Moravia	PROPN	NNP	Number=Sing	7	obj	_	_
 9	durante	durante	ADP	IN	_	11	case	_	_
 10	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
@@ -11089,7 +11089,7 @@
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	finés	finés	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	Proper=True
 8	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	9	nsubj	_	_
-9	evolucionaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	acl:relcl	_	_
+9	evolucionaron	evolucionar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	acl:relcl	_	_
 10	separadamente	separadamente	ADV	RB	_	9	advmod	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	13	punct	_	_
 12	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl:pass	_	_
@@ -11268,7 +11268,7 @@
 9	de	de	ADP	IN	_	10	case	_	_
 10	placas	placa	NOUN	NN	Gender=Fem|Number=Plur	8	nmod	_	_
 11	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	12	nsubj	_	_
-12	crearon	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	acl:relcl	_	_
+12	crearon	crear	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	acl:relcl	_	_
 13	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 14	Gran	gran	ADJ	JJ	Gender=Masc|Number=Sing	15	amod	_	Proper=True
 15	Valle	valle	NOUN	NN	Gender=Masc|Number=Sing	12	obj	_	Proper=True
@@ -11655,7 +11655,7 @@
 20	fenicios	fenicio	NOUN	NN	Gender=Masc|Number=Plur	16	conj	_	SpaceAfter=No|Proper=True
 21	,	,	PUNCT	,	_	23	punct	_	_
 22	ambos	ambos	NOUN	NN	Gender=Masc|Number=Plur	23	nsubj	_	_
-23	colonizaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	_
+23	colonizaron	colonizar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	_
 24	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	25	det	_	_
 25	líneas	línea	NOUN	NN	Gender=Fem|Number=Plur	23	obj	_	_
 26	costeras	costero	ADJ	JJ	Gender=Fem|Number=Plur	25	amod	_	_
@@ -11949,7 +11949,7 @@
 3	de	de	ADP	IN	_	5	case	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	retirada	retirada	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	_
-6	llegaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	llegaron	llegar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	como	como	ADP	IN	_	10	case	_	_
 8	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 9	gran	gran	ADJ	JJ	Gender=Masc|Number=Sing	10	amod	_	_
@@ -12611,7 +12611,7 @@
 1	Esos	ese	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	2	det	_	_
 2	arreglos	arreglo	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
 3	probablemente	probablemente	ADV	RB	_	4	advmod	_	_
-4	comenzaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	comenzaron	comenzar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	en	en	ADP	IN	_	7	case	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	1000	1000	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	obl	_	_
@@ -12624,7 +12624,7 @@
 13	de	de	ADP	INDT	_	15	case	_	_
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	este	este	NOUN	NN	Gender=Masc|Number=Sing	12	nmod	_	_
-16	viajaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	_
+16	viajaron	viajar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	_
 17-18	al	_	_	_	_	_	_	_	_
 17	a	a	ADP	INDT	_	19	case	_	_
 18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
@@ -13019,7 +13019,7 @@
 1	Numerosos	numeroso	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	_
 2	pueblos	pueblo	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
 3	indígenas	indígeno	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	_
-4	poblaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	poblaron	poblar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	Alaska	Alaska	PROPN	NNP	Number=Sing	4	obj	_	_
 6	durante	durante	ADP	IN	_	7	case	_	_
 7	miles	mil	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
@@ -13043,7 +13043,7 @@
 1	Fue	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	aquí	aquí	ADV	RB	_	1	advmod	_	_
 3	donde	donde	ADV	WRB	PronType=Rel	4	advmod	_	_
-4	robaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	ccomp	_	_
+4	robaron	robar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	ccomp	_	_
 5	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 6	pequeña	pequeño	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	_
 7	canoa	canoa	NOUN	NN	Gender=Fem|Number=Sing	4	obj	_	_
@@ -13352,7 +13352,7 @@
 6	de	de	ADP	INDT	_	8	case	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	Nilo	Nilo	PROPN	NNP	Gender=Masc|Number=Sing	4	nmod	_	_
-9	propiciaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	propiciaron	propiciar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	desarrollo	desarrollo	NOUN	NN	Gender=Masc|Number=Sing	9	obj	_	_
 12	en	en	ADP	IN	_	14	case	_	_
@@ -13433,7 +13433,7 @@
 22	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	25	obl	_	_
 23	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
 24	europeos	europeo	NOUN	NN	Gender=Masc|Number=Plur	25	nsubj	_	Proper=True
-25	llegaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	21	acl:relcl	_	_
+25	llegaron	llegar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	21	acl:relcl	_	_
 26	a	a	ADP	IN	_	27	case	_	_
 27	finales	final	NOUN	NN	Gender=Masc|Number=Plur	25	obl	_	_
 28-29	del	_	_	_	_	_	_	_	_
@@ -13732,7 +13732,7 @@
 16	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
 17	cuales	cual	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	19	nsubj	_	_
 18	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	19	obl:arg	_	_
-19	proporcionaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	acl:relcl	_	_
+19	proporcionaron	proporcionar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	acl:relcl	_	_
 20	información	información	NOUN	NN	Gender=Fem|Number=Sing	19	obj	_	_
 21	confidencial	confidencial	ADJ	JJ	Gender=Fem|Number=Sing	20	amod	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	3	punct	_	_
@@ -15799,7 +15799,7 @@
 21	nació	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	advcl	_	SpaceAfter=No
 22	,	,	PUNCT	,	_	21	punct	_	_
 23	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	24	obj	_	_
-24	llamaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	xcomp	_	_
+24	llamaron	llamar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	xcomp	_	_
 25	como	como	ADP	IN	_	26	case	_	_
 26	él	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	obl	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	4	punct	_	_
@@ -16078,7 +16078,7 @@
 22	ganancias	ganancia	NOUN	NN	Gender=Fem|Number=Plur	25	nsubj	_	_
 23	perdidas	_	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	22	acl	_	_
 24	menores	menor	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Plur	22	amod	_	_
-25	incitaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
+25	incitaron	incitar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
 26	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
 27	rebelión	rebelión	NOUN	NN	Gender=Fem|Number=Sing	25	obj	_	SpaceAfter=No
 28	.	.	PUNCT	.	_	3	punct	_	_
@@ -16581,7 +16581,7 @@
 9	grupos	grupo	NOUN	NN	Gender=Masc|Number=Plur	6	nmod	_	_
 10	étnicos	étnico	ADJ	JJ	Gender=Masc|Number=Plur	9	amod	_	_
 11	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	12	nsubj	_	_
-12	mostraron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	acl:relcl	_	_
+12	mostraron	mostrar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	acl:relcl	_	_
 13	señales	señal	NOUN	NN	Gender=Fem|Number=Plur	12	obj	_	_
 14	significativas	significativo	ADJ	JJ	Gender=Fem|Number=Plur	13	amod	_	_
 15	de	de	ADP	IN	_	16	case	_	_
@@ -17340,7 +17340,7 @@
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	ocupación	ocupación	NOUN	NN	Gender=Fem|Number=Sing	8	nmod	_	_
 12	japonesa	japoneso	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	Proper=True
-13	mataron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+13	mataron	matar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 14	entre	entre	ADP	IN	_	15	case	_	_
 15	3	3	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	13	obl	_	_
 16	y	y	CCONJ	CC	_	17	cc	_	_
@@ -18101,7 +18101,7 @@
 6	población	población	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	3	punct	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pass	_	_
-9	crearon	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	crearon	crear	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	nuevos	nuevo	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	_
 11	distritos	distrito	NOUN	NN	Gender=Masc|Number=Plur	9	nsubj:pass	_	_
 12	indígenas	indígeno	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	SpaceAfter=No
@@ -18125,7 +18125,7 @@
 12	de	de	ADP	INDT	_	14	case	_	_
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	Congo	Congo	PROPN	NNP	Gender=Masc|Number=Sing	11	nmod	_	_
-15	capturaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+15	capturaron	capturar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 16	a	a	ADP	IN	_	17	case	_	_
 17	Lubumbashi	Lubumbashi	PROPN	NNP	Number=Sing	15	obl	_	_
 18	en	en	ADP	IN	_	19	case	_	_
@@ -18710,7 +18710,7 @@
 # text_en = Only 3000 copies were published of the first edition.
 1	Solamente	solamente	ADV	RB	_	3	advmod	_	_
 2	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pass	_	_
-3	publicaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	publicaron	publicar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	3000	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	5	nummod	_	_
 5	copias	copia	NOUN	NN	Gender=Fem|Number=Plur	3	nsubj:pass	_	_
 6	de	de	ADP	IN	_	9	case	_	_
@@ -20238,7 +20238,7 @@
 5	guardias	guardia	NOUN	NN	Gender=Masc|Number=Plur	8	nsubj	_	_
 6	fronterizos	fronterizo	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
 7	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	8	obl:arg	_	_
-8	dispararon	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	dispararon	disparar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 9	a	a	ADP	IN	_	11	case	_	_
 10	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	11	nummod	_	_
 11	granjeros	granjero	NOUN	NN	Gender=Masc|Number=Plur	8	obl	_	_
@@ -20481,7 +20481,7 @@
 12	,	,	PUNCT	,	_	15	punct	_	_
 13	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	15	nsubj:pass	_	_
 14	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	15	expl:pass	_	_
-15	usaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	_
+15	usaron	usar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	_
 16	en	en	ADP	IN	_	17	case	_	_
 17	muchas	mucho	NOUN	NN	Gender=Fem|Number=Plur	15	obl	_	_
 18	de	de	ADP	IN	_	20	case	_	_
@@ -20753,7 +20753,7 @@
 # text_en = Republicans captured the Senate for the first time since 1952, and gained 34 House seats, but the Democrats retained a majority.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	republicanos	republicano	NOUN	NN	Gender=Masc|Number=Plur	3	nsubj	_	Proper=True
-3	tomaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	tomaron	tomar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	control	control	NOUN	NN	Gender=Masc|Number=Sing	3	obj	_	_
 5-6	del	_	_	_	_	_	_	_	_
 5	de	de	ADP	INDT	_	7	case	_	_
@@ -22140,7 +22140,7 @@
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	oficiales	oficial	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
 3	me	yo	PRON	PRP	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl:arg	_	_
-4	preguntaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	preguntaron	preguntar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	8	punct	_	_
 6	a	a	ADP	IN	_	8	case	_	_
 7	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
@@ -22218,7 +22218,7 @@
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	expertos	experto	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
 3	australianos	australiano	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	Proper=True
-4	llegaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	llegaron	llegar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	a	a	ADP	IN	_	7	case	_	_
 6	nuevas	nuevo	ADJ	JJ	Gender=Fem|Number=Plur	7	amod	_	_
 7	conclusiones	conclusión	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
@@ -22456,7 +22456,7 @@
 3	números	número	NOUN	NN	Gender=Masc|Number=Plur	6	nsubj	_	_
 4	en	en	ADP	IN	_	5	case	_	_
 5	Asia	Asia	PROPN	NNP	Number=Sing	3	nmod	_	_
-6	impulsaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	impulsaron	impulsar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	rápidamente	rápidamente	ADV	RB	_	6	advmod	_	_
 8	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	mercados	mercado	NOUN	NN	Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
@@ -23113,7 +23113,7 @@
 # text_en = The two organisations launched an appeal which was thrown out by the Court of Cassation on the 12th of October.
 1	Ambas	ambos	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Tot	2	det	_	_
 2	organizaciones	organización	NOUN	NN	Gender=Fem|Number=Plur	3	nsubj	_	_
-3	presentaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	presentaron	presentar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	apelación	apelación	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
 6	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	8	nsubj:pass	_	_
@@ -24817,7 +24817,7 @@
 14	de	de	ADP	IN	_	16	case	_	_
 15	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
 16	60	60	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	13	nmod	_	_
-17	emigraron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+17	emigraron	emigrar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 18	mayormente	mayormente	ADV	RB	_	17	advmod	_	_
 19	desde	desde	ADP	IN	_	20	case	_	_
 20	Turquía	Turquía	PROPN	NNP	Number=Sing	17	obl	_	SpaceAfter=No
@@ -25500,7 +25500,7 @@
 16	Estados	estado	NOUN	NN	Gender=Masc|Number=Plur	11	conj	_	_
 17	Bálticos	báltico	ADJ	JJ	Gender=Masc|Number=Plur	16	amod	_	SpaceAfter=No|Proper=True
 18	,	,	PUNCT	,	_	11	punct	_	_
-19	ganaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+19	ganaron	ganar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 20	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	det	_	_
 21	independencia	independencia	NOUN	NN	Gender=Fem|Number=Sing	19	obj	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	19	punct	_	_
@@ -26139,13 +26139,13 @@
 14	pero	pero	CCONJ	CC	_	17	cc	_	_
 15	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
 16	griegos	griego	NOUN	NN	Gender=Masc|Number=Plur	17	nsubj	_	Proper=True
-17	adoptaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+17	adoptaron	adoptar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
 18	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	alfabeto	alfabeto	NOUN	NN	Gender=Masc|Number=Sing	17	obj	_	_
 20	fenicio	fenicio	ADJ	JJ	Gender=Masc|Number=Sing	19	amod	_	Proper=True
 21	y	y	CCONJ	CC	_	23	cc	_	_
 22	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	23	obj	_	_
-23	modificaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	17	conj	_	_
+23	modificaron	modificar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	17	conj	_	_
 24	para	para	ADP	IN	_	25	case	_	_
 25	crear	crear	VERB	VB	VerbForm=Inf	23	xcomp	_	_
 26	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
@@ -26167,7 +26167,7 @@
 9	primeros	primero	ADJ	JJ	Gender=Masc|Number=Plur	10	amod	_	_
 10	textos	texto	NOUN	NN	Gender=Masc|Number=Plur	14	nsubj	_	_
 11	griegos	griego	ADJ	JJ	Gender=Masc|Number=Plur	10	amod	_	Proper=True
-12	empezaron	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	aux	_	_
+12	empezaron	empezar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	aux	_	_
 13	a	a	ADP	IN	_	12	fixed	_	_
 14	aparecer	aparecer	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	14	punct	_	_
@@ -26233,7 +26233,7 @@
 12	de	de	ADP	IN	_	14	case	_	_
 13	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
 14	ciudades	_	NOUN	NN	Gender=Fem|Number=Plur	11	nmod	_	_
-15	empezaron	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	17	aux	_	_
+15	empezaron	empezar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	17	aux	_	_
 16	a	a	ADP	IN	_	15	fixed	_	_
 17	aparecer	aparecer	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No
 18	:	:	PUNCT	:	_	20	punct	_	_
@@ -26459,7 +26459,7 @@
 6	,	,	PUNCT	,	_	2	punct	_	_
 7	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	Remis	_	PROPN	NNP	Gender=Masc|Number=Plur	9	nsubj	_	_
-9	pasaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	pasaron	pasar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	en	en	ADP	IN	_	11	case	_	_
 11	Suiza	Suiza	PROPN	NNP	Number=Sing	9	obl	_	_
 12	casi	casi	ADV	RB	_	13	advmod	_	_
@@ -26477,7 +26477,7 @@
 2	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	vuelta	vuelta	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
-5	contemplaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	contemplaron	contemplar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	idea	idea	NOUN	NN	Gender=Fem|Number=Sing	5	obj	_	_
 8	de	de	ADP	IN	_	9	case	_	_
@@ -26550,7 +26550,7 @@
 6	y	y	CCONJ	CC	_	8	cc	_	_
 7	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
 8	esposa	esposa	NOUN	NN	Gender=Fem|Number=Sing	5	conj	_	_
-9	regresaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	regresaron	regresar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	a	a	ADP	IN	_	11	case	_	_
 11	Suiza	Suiza	PROPN	NNP	Number=Sing	9	obl	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	13	punct	_	_
@@ -27495,7 +27495,7 @@
 13	línea	línea	NOUN	NN	Gender=Fem|Number=Sing	10	nmod	_	_
 14	progresista	progresisto	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	SpaceAfter=No
 15	,	,	PUNCT	,	_	3	punct	_	_
-16	provocaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+16	provocaron	provocar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 17	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	Revolución	revolución	NOUN	NN	Gender=Fem|Number=Sing	16	obj	_	Proper=True
 19	Reivindicadora	reivindicadoro	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	Proper=True
@@ -27613,7 +27613,7 @@
 # text_en = Things started to change in October 1777 when British forces under the command of General John Burgoyne surrendered in Saratoga in the north of the state of New York.
 1	Las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
 2	cosas	cosa	NOUN	NN	Gender=Fem|Number=Plur	5	nsubj	_	_
-3	empezaron	_	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
+3	empezaron	empezar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
 4	a	a	ADP	IN	_	3	fixed	_	_
 5	cambiar	cambiar	VERB	VB	VerbForm=Inf	0	root	_	_
 6	en	en	ADP	IN	_	7	case	_	_
@@ -27676,7 +27676,7 @@
 # text_en = Indians arrived from Canada, led by Joseph Brant; they supported the British because the colonists were expropriating more and more of their lands.
 1	Desde	desde	ADP	IN	_	2	case	_	_
 2	Canadá	Canadá	PROPN	NNP	Number=Sing	3	obl	_	_
-3	llegaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	llegaron	llegar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	indios	indio	NOUN	NN	Gender=Masc|Number=Plur	3	nsubj	_	_
 5	(	(	PUNCT	(	_	6	punct	_	SpaceAfter=No
 6	dirigidos	_	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	acl	_	_
@@ -27998,7 +27998,7 @@
 22	era	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	cop	_	_
 23	predecible	predecible	ADJ	JJ	Gender=Masc|Number=Sing	25	advcl	_	SpaceAfter=No
 24	,	,	PUNCT	,	_	23	punct	_	_
-25	aprovecharon	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	18	acl:relcl	_	_
+25	aprovecharon	aprovechar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	18	acl:relcl	_	_
 26	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
 27	cesarianos	cesariano	NOUN	NN	Gender=Masc|Number=Plur	25	nsubj	_	Proper=True
 28	en	en	ADP	IN	_	30	case	_	_
