@@ -6265,7 +6265,7 @@
 13	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	dep	_	_
 15	peor	peor	NOUN	NN	Gender=Masc|Number=Sing	16	obl	_	_
-16	permitiría	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	conj	_	_
+16	permitiría	permitir	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	conj	_	_
 17	que	que	SCONJ	IN	_	29	mark	_	_
 18	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
 19	grupos	grupo	NOUN	NN	Gender=Masc|Number=Plur	29	nsubj	_	_
@@ -10266,7 +10266,7 @@
 # text_en = The charter allowed for the creation of a merchants' guild, run by the town's burgesses to tax people passing through the borough.
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	carta	carta	NOUN	NN	Gender=Fem|Number=Sing	3	nsubj	_	_
-3	permitía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	permitía	permitir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	creación	creación	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
 6-7	del	_	_	_	_	_	_	_	_
@@ -10576,7 +10576,7 @@
 3	multiétnico	multiétnico	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	_
 4	de	de	ADP	IN	_	5	case	_	_
 5	Aqueménida	aqueménida	NOUN	NN	Number=Sing	2	nmod	_	Proper=True
-6	poseía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	poseía	poseer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 7	muchos	mucho	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	8	det	_	_
 8	soldados	soldado	NOUN	NN	Gender=Masc|Number=Plur	6	obj	_	_
 9	de	de	ADP	IN	_	11	case	_	_
@@ -12030,7 +12030,7 @@
 7	de	de	ADP	INDT	_	9	case	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	Danubio	Danubio	PROPN	NNP	Gender=Masc|Number=Sing	6	nmod	_	_
-10	permanece	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	permanece	permanecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	en	en	ADP	IN	_	12	case	_	_
 12	Rumanía	Rumanía	PROPN	NNP	Number=Sing	10	obl	_	_
 13	(	(	PUNCT	(	_	14	punct	_	SpaceAfter=No
@@ -12954,7 +12954,7 @@
 1	Distintos	distinto	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	_
 2	inversores	inversor	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
 3	privados	privado	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	_
-4	poseen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	poseen	poseer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	territorio	territorio	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
 7	restante	restante	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
@@ -16315,7 +16315,7 @@
 23	ahí	ahí	ADV	RB	_	26	advmod	_	_
 24	también	también	ADV	RB	_	26	advmod	_	_
 25	fueron	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	26	aux:pass	_	_
-26	perseguidos	_	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	16	conj	_	SpaceAfter=No
+26	perseguidos	perseguir	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	16	conj	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = w01079057
@@ -17805,7 +17805,7 @@
 19	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	milicia	milicia	NOUN	NN	Gender=Fem|Number=Sing	17	nmod	_	_
 21	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	22	nsubj	_	_
-22	persiguió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	acl:relcl	_	_
+22	persiguió	perseguir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	acl:relcl	_	_
 23	a	a	ADP	IN	_	25	case	_	_
 24	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
 25	miembros	miembro	NOUN	NN	Gender=Masc|Number=Plur	22	obl	_	_
@@ -18437,7 +18437,7 @@
 10	de	de	ADP	IN	_	11	case	_	_
 11	Oswald	Oswald	PROPN	NNP	Gender=Masc|Number=Sing	8	nmod	_	_
 12	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	13	obl:arg	_	_
-13	pertenecían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	xcomp	_	_
+13	pertenecían	pertenecer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	xcomp	_	_
 14	a	a	ADP	IN	_	15	case	_	_
 15	Universal	Universal	PROPN	NNP	Number=Sing	13	obl	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	4	punct	_	_
@@ -21406,7 +21406,7 @@
 17	cuatro	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	18	nummod	_	_
 18	personas	persona	NOUN	NN	Gender=Fem|Number=Plur	15	obl	_	_
 19	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	20	nsubj	_	_
-20	permanecieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	18	acl:relcl	_	_
+20	permanecieron	permanecer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	18	acl:relcl	_	_
 21	de	de	ADP	IN	_	22	case	_	_
 22	pie	pie	NOUN	NN	Gender=Masc|Number=Sing	20	obl	_	_
 23	mirando	mirar	VERB	VBG	VerbForm=Ger	20	advcl	_	_
@@ -21526,7 +21526,7 @@
 15	hacen	hacer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	15	punct	_	_
 17	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	18	compound:prt	_	_
-18	posan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+18	posan	posar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
 19	en	en	ADP	IN	_	20	case	_	_
 20	tierra	tierra	NOUN	NN	Gender=Fem|Number=Sing	18	obl	_	_
 21	tras	tras	ADP	IN	_	24	case	_	_
@@ -25144,7 +25144,7 @@
 # sent_id = w02008010
 # text = Pertenece al ámbito de las culturas más ambiciosas de la época, de la que se conocen muchos yacimientos.
 # text_en = In its scope it belongs to the most far-reaching cultures of the time, in which many sites are known.
-1	Pertenece	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Pertenece	pertenecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2-3	al	_	_	_	_	_	_	_	_
 2	a	a	ADP	INDT	_	4	case	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -25701,7 +25701,7 @@
 19	de	de	ADP	IN	_	20	case	_	_
 20	carretera	carretera	NOUN	NN	Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	,	_	15	punct	_	_
-22	persiguió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+22	persiguió	perseguir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 23	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	objetivo	objetivo	NOUN	NN	Gender=Masc|Number=Sing	22	obj	_	_
 25	de	de	ADP	IN	_	26	case	_	_
