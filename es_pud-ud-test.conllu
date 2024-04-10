@@ -781,7 +781,7 @@
 10	cortes	corte	NOUN	NN	Gender=Masc|Number=Plur	6	nmod	_	_
 11	de	de	ADP	IN	_	12	case	_	_
 12	acero	acero	NOUN	NN	Gender=Masc|Number=Sing	10	nmod	_	_
-13	ayudaría	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
+13	ayudaría	ayudar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
 14	a	a	ADP	IN	_	15	case	_	_
 15	asegurar	asegurar	VERB	VB	VerbForm=Inf	13	xcomp	_	_
 16	nuevas	nuevo	ADJ	JJ	Gender=Fem|Number=Plur	17	amod	_	_
@@ -3437,7 +3437,7 @@
 12	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	herramienta	herramienta	NOUN	NN	Gender=Fem|Number=Sing	10	obl	_	_
 14	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	15	nsubj	_	_
-15	ayuda	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
+15	ayuda	ayudar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
 16	a	a	ADP	IN	_	18	case	_	_
 17	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
 18	usuarios	usuario	NOUN	NN	Gender=Masc|Number=Plur	15	obl	_	_
@@ -3526,7 +3526,7 @@
 # text_en = "This strain helps with back pain, this strain helps with nausea, this product makes you sleep at night," says Dietrich from the company's headquarters in Denver, Colorado, where pot is sold legally.
 1	Esta	este	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
 2	cepa	cepa	NOUN	NN	Gender=Fem|Number=Sing	3	nsubj	_	_
-3	ayuda	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ayuda	ayudar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	con	con	ADP	IN	_	6	case	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	dolor	dolor	NOUN	NN	Gender=Masc|Number=Sing	3	obl	_	_
@@ -3880,7 +3880,7 @@
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	acoso	acoso	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
 11	y	y	CCONJ	CC	_	12	cc	_	_
-12	ayuda	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+12	ayuda	ayudar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
 13	a	a	ADP	IN	_	15	case	_	_
 14	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
 15	chicas	chica	NOUN	NN	Gender=Fem|Number=Plur	12	obl	_	_
@@ -4007,7 +4007,7 @@
 1	Esto	esto	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj:pass	_	_
 2	no	no	ADV	RB	Polarity=Neg	4	advmod	_	_
 3	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl:pass	_	_
-4	aplicaría	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	aplicaría	aplicar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 5	únicamente	únicamente	ADV	RB	_	4	advmod	_	_
 6-7	al	_	_	_	_	_	_	_	_
 6	a	a	ADP	INDT	_	8	case	_	_
@@ -4018,7 +4018,7 @@
 11	,	,	PUNCT	,	_	14	punct	_	_
 12	también	también	ADV	RB	_	14	advmod	_	_
 13	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	14	expl:pass	_	_
-14	aplicaría	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	parataxis	_	_
+14	aplicaría	aplicar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	parataxis	_	_
 15	a	a	ADP	IN	_	17	case	_	_
 16	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	educación	educación	NOUN	NN	Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
@@ -5291,7 +5291,7 @@
 15	a	a	ADP	IN	_	18	case	_	_
 16	que	que	SCONJ	IN	_	18	mark	_	_
 17	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	18	compound:prt	_	_
-18	andara	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	xcomp	_	_
+18	andara	andar	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	xcomp	_	_
 19	con	con	ADP	IN	_	20	case	_	_
 20	rodeos	rodeo	NOUN	NN	Gender=Masc|Number=Plur	18	obl	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	3	punct	_	_
@@ -5834,7 +5834,7 @@
 6	%	%	SYM	SYM	_	2	nmod	_	_
 7	también	también	ADV	RB	_	9	advmod	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pass	_	_
-9	aplica	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	aplica	aplicar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	a	a	ADP	IN	_	12	case	_	_
 11	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
 12	titulares	titular	NOUN	NN	Gender=Masc|Number=Plur	9	obl	_	_
@@ -7801,7 +7801,7 @@
 23	que	que	ADP	IN	_	20	fixed	_	_
 24	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	humanidad	humanidad	NOUN	NN	Gender=Fem|Number=Sing	26	nsubj	_	_
-26	adopte	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+26	adopte	adoptar	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
 27	acciones	acción	NOUN	NN	Gender=Fem|Number=Plur	26	obj	_	_
 28	radicales	radical	ADJ	JJ	Gender=Fem|Number=Plur	27	amod	_	_
 29	para	para	ADP	IN	_	30	case	_	_
@@ -7870,7 +7870,7 @@
 25	público	público	NOUN	NN	Gender=Masc|Number=Sing	22	obl	_	_
 26	a	a	ADP	IN	_	28	case	_	_
 27	que	que	SCONJ	IN	_	28	mark	_	_
-28	acepten	_	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	xcomp	_	_
+28	acepten	aceptar	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	xcomp	_	_
 29	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
 30	mayor	mayor	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Sing	31	amod	_	_
 31	responsabilidad	responsabilidad	NOUN	NN	Gender=Fem|Number=Sing	28	obj	_	_
@@ -13466,7 +13466,7 @@
 17	Antillas	Antillas	PROPN	NNP	Number=Sing	14	appos	_	SpaceAfter=No
 18	"	"	PUNCT	''	_	17	punct	_	_
 19	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	20	compound:prt	_	_
-20	aplicó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+20	aplicó	aplicar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 21	a	a	ADP	IN	_	23	case	_	_
 22	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	23	det	_	_
 23	tierras	tierra	NOUN	NN	Gender=Fem|Number=Plur	20	obl	_	SpaceAfter=No
@@ -15335,7 +15335,7 @@
 9	,	,	PUNCT	,	_	3	punct	_	_
 10	Aldrin	Aldrin	PROPN	NNP	Gender=Masc|Number=Sing	12	nsubj:pass	_	_
 11	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	_	_
-12	atraído	_	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	_
+12	atraído	atraer	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	_
 13	a	a	ADP	IN	_	15	case	_	_
 14	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	hotel	hotel	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	_
@@ -23626,7 +23626,7 @@
 12	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
 13	países	país	NOUN	NN	Gender=Masc|Number=Plur	10	nmod	_	_
 14	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	15	nsubj	_	_
-15	adoptan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
+15	adoptan	adoptar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
 16	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 17	sola	solo	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	_
 18	moneda	moneda	NOUN	NN	Gender=Fem|Number=Sing	15	obj	_	SpaceAfter=No
@@ -24180,7 +24180,7 @@
 # text_en = The consulted sources have said that it is "100% Cospedal".
 1	Es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	SpaceAfter=No
 2	,	,	PUNCT	,	_	11	punct	_	_
-3	aseguran	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	parataxis	_	_
+3	aseguran	asegurar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	parataxis	_	_
 4	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	fuentes	fuente	NOUN	NN	Gender=Fem|Number=Plur	3	nsubj	_	_
 6	consultadas	consultar	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	SpaceAfter=No
@@ -26794,7 +26794,7 @@
 7	Papa	papa	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
 8	Pablo	Pablo	PROPN	NNP	Gender=Masc|Number=Sing	7	appos	_	_
 9	VI	vi	ADJ	JJ	Gender=Masc|Number=Sing	8	amod	_	Proper=True
-10	abolió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	abolió	abolir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	pena	pena	NOUN	NN	Gender=Fem|Number=Sing	10	obj	_	_
 13	de	de	ADP	IN	_	14	case	_	_
