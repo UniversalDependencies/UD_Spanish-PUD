@@ -2040,7 +2040,7 @@
 16	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	aux	_	_
 17	hecho	hacer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	parataxis	_	_
 18	varios	vario	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	19	det	_	_
-19	viajes	_	NOUN	NN	Gender=Masc|Number=Plur	17	obj	_	_
+19	viajes	viaje	NOUN	NN	Gender=Masc|Number=Plur	17	obj	_	_
 20-21	al	_	_	_	_	_	_	_	_
 20	a	a	ADP	INDT	_	22	case	_	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
@@ -3476,7 +3476,7 @@
 3	coinciden	coincidir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	con	con	ADP	IN	_	6	case	_	_
 5	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
-6	porcentajes	_	NOUN	NN	Gender=Masc|Number=Plur	3	obl	_	_
+6	porcentajes	porcentaje	NOUN	NN	Gender=Masc|Number=Plur	3	obl	_	_
 7	de	de	ADP	IN	_	10	case	_	_
 8	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
 9	nuevos	nuevo	ADJ	JJ	Gender=Masc|Number=Plur	10	amod	_	_
@@ -16247,7 +16247,7 @@
 # text_en = It specifically discusses in several passages the socially and culturally degenerative effects of war on humanity itself.
 1	En	en	ADP	IN	_	3	case	_	_
 2	varios	vario	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
-3	pasajes	_	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	SpaceAfter=No
+3	pasajes	pasaje	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl:pass	_	_
 6	discute	discutir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -18189,7 +18189,7 @@
 5	a	a	ADP	IN	_	7	advmod	_	_
 6	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	5	fixed	_	_
 7	presentan	presentar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	personajes	_	NOUN	NN	Gender=Masc|Number=Plur	7	obj	_	_
+8	personajes	personaje	NOUN	NN	Gender=Masc|Number=Plur	7	obj	_	_
 9	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	10	nsubj	_	_
 10	tienen	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
 11	dificultades	dificultad	NOUN	NN	Gender=Fem|Number=Plur	10	obj	_	_
@@ -24208,7 +24208,7 @@
 11	entendieron	entender	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 12	ayer	ayer	ADV	RB	_	11	advmod	_	_
 13	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
-14	mensajes	_	NOUN	NN	Gender=Masc|Number=Plur	11	obj	_	_
+14	mensajes	mensaje	NOUN	NN	Gender=Masc|Number=Plur	11	obj	_	_
 15	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	19	obj	_	_
 16	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	presidente	presidente	NOUN	NN	Gender=Masc|Number=Sing	18	nsubj	_	_
@@ -25755,7 +25755,7 @@
 10	forma	forma	NOUN	NN	Gender=Fem|Number=Sing	8	obj	_	_
 11	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	25	obj	_	_
 12	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
-13	reportajes	_	NOUN	NN	Gender=Masc|Number=Plur	23	nsubj	_	_
+13	reportajes	reportaje	NOUN	NN	Gender=Masc|Number=Plur	23	nsubj	_	_
 14	de	de	ADP	IN	_	15	case	_	_
 15	noticias	noticia	NOUN	NN	Gender=Fem|Number=Plur	13	nmod	_	_
 16-17	del	_	_	_	_	_	_	_	_
