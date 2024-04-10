@@ -1324,7 +1324,7 @@
 7	recientes	reciente	ADJ	JJ	Gender=Masc|Number=Plur	6	amod	_	SpaceAfter=No
 8	"	"	PUNCT	''	_	6	punct	_	_
 9	sean	ser	AUX	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
-10	ataques	_	NOUN	NN	Gender=Masc|Number=Plur	2	csubj	_	_
+10	ataques	ataque	NOUN	NN	Gender=Masc|Number=Plur	2	csubj	_	_
 11	producidos	producir	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	acl	_	_
 12	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	21	21	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	11	obl:tmod	_	_
