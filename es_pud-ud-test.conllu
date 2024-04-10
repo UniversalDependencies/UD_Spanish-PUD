@@ -4539,10 +4539,10 @@
 13	versión	versión	NOUN	NN	Gender=Fem|Number=Sing	11	obj	_	_
 14	de	de	ADP	IN	_	16	case	_	_
 15	"	"	PUNCT	``	_	16	punct	_	SpaceAfter=No
-16	Knuck	_	VERB	VBC	Mood=Imp|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	13	nmod	_	Proper=True
-17	If	if	SCONJ	IN	_	19	mark	_	Proper=True
-18	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Ind	19	nsubj	_	Proper=True
-19	Buck	_	VERB	VBC	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	16	advcl	_	SpaceAfter=No|Proper=True
+16	Knuck	knuck	VERB	VBC	Foreign=Yes|Mood=Imp|Person=2|VerbForm=Fin	13	nmod	_	Lang=en|Proper=True
+17	If	if	SCONJ	IN	Foreign=Yes	19	mark	_	Lang=en|Proper=True
+18	You	you	PRON	PRP	Foreign=Yes|Person=2|PronType=Prs	19	nsubj	_	Lang=en|Proper=True
+19	Buck	buck	VERB	VBC	Foreign=Yes|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	16	advcl	_	Lang=en|SpaceAfter=No|Proper=True
 20	"	"	PUNCT	''	_	16	punct	_	_
 21	en	en	ADP	IN	_	23	case	_	_
 22	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
@@ -18975,10 +18975,10 @@
 # sent_id = w01122031
 # text = Really Really Love You se puso a la venta en agosto y llegó al top 50; "Shaky Ground", el primer single, se lanzó en septiembre pero Geyer ya se encontraba en EE. UU.
 # text_en = Really Really Love You was released in August and reach the top 50; "Shaky Ground", the related single, appeared in September but Geyer was already in the US.
-1	Really	really	ADV	RB	_	3	advmod	_	Proper=True
-2	Really	really	ADV	RB	_	3	advmod	_	Proper=True
-3	Love	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	nsubj:pass	_	Proper=True
-4	You	_	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Ind	3	obj	_	Proper=True
+1	Really	really	ADV	RB	Foreign=Yes	3	advmod	_	Lang=en|Proper=True
+2	Really	really	ADV	RB	Foreign=Yes	3	advmod	_	Lang=en|Proper=True
+3	Love	love	VERB	VBC	Foreign=Yes|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	nsubj:pass	_	Lang=en|Proper=True
+4	You	you	PRON	PRP	Foreign=Yes|Person=2|PronType=Prs	3	obj	_	Lang=en|Proper=True
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl:pass	_	_
 6	puso	poner	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	a	a	ADP	IN	_	9	case	_	_
