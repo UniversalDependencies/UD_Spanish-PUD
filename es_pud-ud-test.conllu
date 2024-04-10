@@ -1131,7 +1131,7 @@
 # text_en = The scheme makes money through sponsorship and advertising.
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	programa	programa	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	gana	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	gana	ganar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	dinero	dinero	NOUN	NN	Gender=Masc|Number=Sing	3	obj	_	_
 5	mediante	mediante	ADP	IN	_	7	case	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
@@ -5645,7 +5645,7 @@
 19	como	como	ADP	IN	_	20	case	_	_
 20	Donald	Donald	PROPN	NNP	Gender=Masc|Number=Sing	5	nmod	_	_
 21	Trump	Trump	PROPN	NNP	Gender=Masc|Number=Sing	20	flat:name	_	_
-22	gane	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+22	gane	ganar	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
 23	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	24	det	_	_
 24	elecciones	elección	NOUN	NN	Gender=Fem|Number=Plur	22	obj	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	3	punct	_	_
@@ -5775,7 +5775,7 @@
 8	Bank	bank	NOUN	NN	Number=Sing	5	nmod	_	Proper=True
 9	of	of	ADP	IN	_	10	case	_	Proper=True
 10	Scotland	Scotland	PROPN	NNP	Number=Sing	8	nmod	_	_
-11	ganan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	ganan	ganar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 13	3	3	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	14	nummod	_	SpaceAfter=No
 14	%	%	SYM	SYM	_	11	obj	_	_
@@ -12398,7 +12398,7 @@
 12	plantas	planta	NOUN	NN	Gender=Fem|Number=Plur	9	obl	_	_
 13	hidroeléctricas	hidroeléctrico	ADJ	JJ	Gender=Fem|Number=Plur	12	amod	_	_
 14	y	y	CCONJ	CC	_	15	cc	_	_
-15	genera	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+15	genera	generar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
 16	hasta	hasta	ADP	IN	_	18	case	_	_
 17	2900	2900	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	18	nummod	_	_
 18	kilovatios	kilovatio	NOUN	NN	Gender=Masc|Number=Plur	15	obl	_	_
@@ -23481,7 +23481,7 @@
 # text = Se genera un cupón que puedes guardar en tu smartphone o presentar en caja.
 # text_en = A voucher is generated that can be saved on your smartphone, or presented at the till.
 1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl:pass	_	_
-2	genera	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	genera	generar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	cupón	cupón	NOUN	NN	Gender=Masc|Number=Sing	2	nsubj:pass	_	_
 5	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	7	obj	_	_
