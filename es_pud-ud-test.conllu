@@ -2066,7 +2066,7 @@
 3	de	de	ADP	IN	_	4	case	_	_
 4	año	año	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
 5	Seagal	Seagal	PROPN	NNP	Gender=Masc|Number=Sing	6	nsubj	_	_
-6	obtuvo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	obtuvo	obtener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	nacionalidad	nacionalidad	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	_
 9	serbia	serbio	ADJ	JJ	Gender=Fem|Number=Sing	8	amod	_	Proper=True
@@ -3365,7 +3365,7 @@
 13	Duffy	Duffy	PROPN	NNP	Gender=Masc|Number=Sing	5	nmod	_	_
 14	dictaminó	dictaminar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 15	que	que	SCONJ	IN	_	16	mark	_	_
-16	obedecían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	14	ccomp	_	_
+16	obedecían	obedecer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	14	ccomp	_	_
 17	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
 18	normas	norma	NOUN	NN	Gender=Fem|Number=Plur	16	obj	_	_
 19-20	del	_	_	_	_	_	_	_	_
@@ -12717,7 +12717,7 @@
 13	posibilidades	posibilidad	NOUN	NN	Gender=Fem|Number=Plur	11	obj	_	_
 14	de	de	ADP	IN	_	16	case	_	_
 15	que	que	SCONJ	IN	_	16	mark	_	_
-16	ocurran	_	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	xcomp	_	_
+16	ocurran	ocurrir	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	xcomp	_	_
 17	estos	este	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	18	det	_	_
 18	eventos	evento	NOUN	NN	Gender=Masc|Number=Plur	16	nsubj	_	SpaceAfter=No
 19	,	,	PUNCT	,	_	24	punct	_	_
@@ -13132,7 +13132,7 @@
 8	eventos	evento	NOUN	NN	Gender=Masc|Number=Plur	0	root	_	_
 9	naturales	natural	ADJ	JJ	Gender=Masc|Number=Plur	8	amod	_	_
 10	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	11	nsubj	_	_
-11	ocurren	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+11	ocurren	ocurrir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
 12	en	en	ADP	IN	_	13	case	_	_
 13	áreas	área	NOUN	NN	Gender=Fem|Number=Plur	11	obl	_	_
 14	áridas	árido	ADJ	JJ	Gender=Fem|Number=Plur	13	amod	_	_
@@ -16119,7 +16119,7 @@
 30	rebelión	rebelión	NOUN	NN	Gender=Fem|Number=Sing	26	obl	_	_
 31	si	si	SCONJ	IN	_	33	mark	_	_
 32	ellos	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	33	nsubj	_	_
-33	obtienen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	advcl	_	_
+33	obtienen	obtener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	advcl	_	_
 34	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	35	det	_	_
 35	educación	educación	NOUN	NN	Gender=Fem|Number=Sing	33	obj	_	_
 36	o	o	CCONJ	CC	_	37	cc	_	_
@@ -18010,7 +18010,7 @@
 31	radares	radar	NOUN	NN	Gender=Masc|Number=Plur	28	nmod	_	SpaceAfter=No
 32	,	,	PUNCT	,	_	34	punct	_	_
 33	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	34	nsubj	_	_
-34	observan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	acl:relcl	_	_
+34	observan	observar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	acl:relcl	_	_
 35	despliegues	_	NOUN	NN	Gender=Masc|Number=Plur	34	obj	_	_
 36	de	de	ADP	IN	_	37	case	_	_
 37	precisión	precisión	NOUN	NN	Gender=Fem|Number=Sing	35	nmod	_	_
@@ -18647,7 +18647,7 @@
 1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	compound:prt	_	_
 2	graduó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	y	y	CCONJ	CC	_	4	cc	_	_
-4	obtuvo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+4	obtuvo	obtener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
 5	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	máster	máster	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
 7	en	en	ADP	IN	_	8	case	_	_
@@ -21879,7 +21879,7 @@
 15	distrito	distrito	NOUN	NN	Gender=Masc|Number=Sing	4	conj	_	_
 16	especializado	especializado	ADJ	JJ	Gender=Masc|Number=Sing	15	amod	_	SpaceAfter=No
 17	,	,	PUNCT	,	_	15	punct	_	_
-18	ocupan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+18	ocupan	ocupar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
 19	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	campo	campo	NOUN	NN	Gender=Masc|Number=Sing	18	obj	_	_
 21	completo	completo	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	SpaceAfter=No
