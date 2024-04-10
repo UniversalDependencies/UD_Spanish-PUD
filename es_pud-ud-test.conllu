@@ -1020,7 +1020,7 @@
 24	poco	poco	ADV	RB	_	25	advmod	_	_
 25	probable	probable	ADJ	JJ	Gender=Masc|Number=Sing	20	conj	_	_
 26	que	que	SCONJ	IN	_	27	mark	_	_
-27	influenciase	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	25	csubj	_	_
+27	influenciase	influenciar	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	25	csubj	_	_
 28	a	a	ADP	IN	_	30	case	_	_
 29	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	30	det	_	_
 30	pasajeros	pasajero	NOUN	NN	Gender=Masc|Number=Plur	27	obl	_	_
@@ -2128,7 +2128,7 @@
 # text_en = Cuaron, whose last film was the Oscar-winning Gravity, was reportedly not on set at the time of the incident.
 1	Según	según	ADP	IN	_	3	case	_	_
 2	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	compound:prt	_	_
-3	informa	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	xcomp	_	SpaceAfter=No
+3	informa	informar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	xcomp	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	Cuarón	Cuarón	PROPN	NNP	Gender=Masc|Number=Sing	20	nsubj	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	9	punct	_	_
@@ -3148,7 +3148,7 @@
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	gobierno	gobierno	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	federal	federal	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	_
-4	informa	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	informa	informar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	manera	manera	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
 7	proactiva	proactivo	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	_
@@ -3341,7 +3341,7 @@
 30	partidos	partido	NOUN	NN	Gender=Masc|Number=Plur	27	conj	_	_
 31	políticos	político	ADJ	JJ	Gender=Masc|Number=Plur	30	amod	_	SpaceAfter=No
 32	,	,	PUNCT	,	_	33	punct	_	_
-33	indicaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	parataxis	_	_
+33	indicaban	indicar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	parataxis	_	_
 34	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	35	det	_	_
 35	directrices	directriz	NOUN	NN	Gender=Fem|Number=Plur	33	nsubj	_	SpaceAfter=No
 36	.	.	PUNCT	.	_	4	punct	_	_
@@ -3496,7 +3496,7 @@
 22	,	,	PUNCT	,	_	25	punct	_	_
 23	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	24	det	_	_
 24	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	25	nsubj	_	_
-25	indica	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+25	indica	indicar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 26	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 27	importate	importate	ADJ	JJ	Gender=Masc|Number=Sing	28	amod	_	_
 28	papel	papel	NOUN	NN	Gender=Masc|Number=Sing	25	obj	_	_
@@ -7110,7 +7110,7 @@
 17	tres	tres	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	18	nummod	_	_
 18	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	15	obl	_	_
 19	seguidas	seguido	ADJ	JJ	Gender=Fem|Number=Plur	18	amod	_	_
-20	indica	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+20	indica	indicar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
 21	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	debilidad	debilidad	NOUN	NN	Gender=Fem|Number=Sing	20	obj	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	2	punct	_	_
@@ -11425,7 +11425,7 @@
 12	de	de	ADP	IN	_	13	case	_	_
 13	trabajo	trabajo	NOUN	NN	Gender=Masc|Number=Sing	11	nmod	_	_
 14	infantil	infantil	ADJ	JJ	Gender=Masc|Number=Sing	13	amod	_	_
-15	indicaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+15	indicaban	indicar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 16	que	que	SCONJ	IN	_	31	mark	_	_
 17	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 18	56	56	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	19	nummod	_	SpaceAfter=No
@@ -14745,7 +14745,7 @@
 15	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	medicina	medicina	NOUN	NN	Gender=Fem|Number=Sing	18	nsubj	_	_
 17	islámica	islámico	ADJ	JJ	Gender=Fem|Number=Sing	16	amod	_	Proper=True
-18	influenció	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	acl:relcl	_	_
+18	influenció	influenciar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	acl:relcl	_	_
 19	a	a	ADP	IN	_	21	case	_	_
 20	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	escuela	escuela	NOUN	NN	Gender=Fem|Number=Sing	18	obl	_	_
@@ -15085,7 +15085,7 @@
 4	nacimiento	nacimiento	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	Tailandia	Tailandia	PROPN	NNP	Number=Sing	2	nmod	_	_
-7	indican	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	indican	indicar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	día	día	NOUN	NN	Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	11	punct	_	_
