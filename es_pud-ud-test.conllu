@@ -2220,7 +2220,7 @@
 # sent_id = n01031021
 # text = Añadió: "Este ha sido un paso de un largo viaje para encontrar la combinación adecuada para la anticoncepción hormonal masculina."
 # text_en = He added: "This has been one step in a long journey of finding the right combination for male hormonal contraception."
-1	Añadió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+1	Añadió	añadir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 2	:	:	PUNCT	:	_	8	punct	_	_
 3	"	"	PUNCT	``	_	8	punct	_	SpaceAfter=No
 4	Este	este	NOUN	NN	Gender=Masc|Number=Sing	8	nsubj	_	_
@@ -2776,7 +2776,7 @@
 20	India	India	PROPN	NNP	Number=Sing	16	conj	_	_
 21	y	y	CCONJ	CC	_	22	cc	_	_
 22	China	China	PROPN	NNP	Number=Sing	16	conj	_	_
-23	asumen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+23	asumen	asumir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
 24	responsabilidades	responsabilidad	NOUN	NN	Gender=Fem|Number=Plur	23	obj	_	_
 25	y	y	CCONJ	CC	_	26	cc	_	_
 26	desempeñan	desempeñar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	conj	_	_
@@ -4344,7 +4344,7 @@
 1	y	y	CCONJ	CC	_	8	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	_	_
 3	como	como	SCONJ	IN	_	4	mark	_	_
-4	admitió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	advcl	_	SpaceAfter=No
+4	admitió	admitir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	_	_
 6	"	"	PUNCT	``	_	8	punct	_	SpaceAfter=No
 7	debemos	deber	AUX	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	_
@@ -4568,7 +4568,7 @@
 11	los	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	_
 12	recogen	recoger	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	9	punct	_	_
-14	añaden	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	añaden	añadir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 15	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	sistema	sistema	NOUN	NN	Gender=Masc|Number=Sing	14	obj	_	_
 17	nervioso	nervioso	ADJ	JJ	Gender=Masc|Number=Sing	16	amod	_	_
@@ -6573,7 +6573,7 @@
 22	como	como	ADV	WRB	_	23	advmod	_	_
 23	buscar	buscar	VERB	VB	VerbForm=Inf	21	csubj:pass	_	SpaceAfter=No
 24	,	,	PUNCT	,	_	25	punct	_	_
-25	añade	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
+25	añade	añadir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
 26	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
 27	doctor	doctor	NOUN	NN	Gender=Masc|Number=Sing	25	nsubj	_	_
 28	Lee	Lee	PROPN	NNP	Gender=Masc|Number=Sing	27	appos	_	SpaceAfter=No
@@ -7648,7 +7648,7 @@
 6	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
 7	inversores	inversor	NOUN	NN	Gender=Masc|Number=Plur	9	nsubj	_	_
 8	hayan	haber	AUX	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	_
-9	acudido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	ccomp	_	_
+9	acudido	acudir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	ccomp	_	_
 10	a	a	ADP	IN	_	11	case	_	_
 11	depositar	depositar	VERB	VB	VerbForm=Inf	9	xcomp	_	_
 12	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
@@ -9171,7 +9171,7 @@
 18	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	21	obl	_	_
 19	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
 20	inversores	inversor	NOUN	NN	Gender=Masc|Number=Plur	21	nsubj	_	_
-21	amaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	15	acl:relcl	_	_
+21	amaban	amar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	15	acl:relcl	_	_
 22	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	matriz	matriz	NOUN	NN	Gender=Fem|Number=Sing	21	obj	_	_
 24	de	de	ADP	IN	_	25	case	_	_
@@ -9717,7 +9717,7 @@
 1	Dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	2	nummod	_	_
 2	australianos	australiano	NOUN	NN	Gender=Masc|Number=Plur	10	nsubj	_	Proper=True
 3	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	4	nsubj	_	_
-4	admiten	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+4	admiten	admitir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 5	ser	ser	AUX	VB	VerbForm=Inf	7	cop	_	_
 6	terribles	terribl	ADJ	JJ	Gender=Masc|Number=Plur	7	amod	_	_
 7	jugadores	jugador	NOUN	NN	Gender=Masc|Number=Plur	4	xcomp	_	_
@@ -9725,7 +9725,7 @@
 9	golf	golf	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	_
 10	consiguieron	conseguir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	ser	ser	AUX	VB	VerbForm=Inf	12	aux:pass	_	_
-12	admitidos	_	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	xcomp	_	_
+12	admitidos	admitir	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	xcomp	_	_
 13	en	en	ADP	IN	_	16	case	_	_
 14	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 15	importante	importante	ADJ	JJ	Gender=Masc|Number=Sing	16	amod	_	_
@@ -9827,7 +9827,7 @@
 20	sobre	sobre	ADP	IN	_	21	case	_	_
 21	él	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obl	_	SpaceAfter=No
 22	,	,	PUNCT	,	_	23	punct	_	_
-23	añade	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	SpaceAfter=No
+23	añade	añadir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = n01144041
@@ -14347,7 +14347,7 @@
 8	viernes	viernes	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	_
 9	si	si	SCONJ	IN	_	11	mark	_	_
 10	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl:pass	_	_
-11	añadía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+11	añadía	añadir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
 12	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	mes	mes	NOUN	NN	Gender=Masc|Number=Sing	11	nsubj:pass	_	_
 14	bisiesto	bisiesto	ADJ	JJ	Gender=Masc|Number=Sing	13	amod	_	_
@@ -19720,7 +19720,7 @@
 3	escrito	escribir	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	2	acl	_	_
 4	por	por	ADP	IN	_	5	case	_	_
 5	Thompson	Thompson	PROPN	NNP	Gender=Masc|Number=Sing	3	obl	_	_
-6	asume	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	asume	asumir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	que	que	SCONJ	IN	_	14	mark	_	_
 8	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	mayas	maya	NOUN	NN	Gender=Masc|Number=Plur	14	nsubj	_	Proper=True
@@ -19788,7 +19788,7 @@
 4	edición	edición	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	_	_
 6	Starlin	Starlin	PROPN	NNP	Gender=Masc|Number=Sing	7	nsubj	_	_
-7	asumió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	asumió	asumir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	rol	rol	NOUN	NN	Gender=Masc|Number=Sing	7	obj	_	_
 10	de	de	ADP	IN	_	11	case	_	_
@@ -19910,7 +19910,7 @@
 # text = Mishima apoyó un tipo de nacionalismo muy particular en los últimos años de su vida.
 # text_en = Mishima espoused a very individual brand of nationalism towards the end of his life.
 1	Mishima	Mishima	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	apoyó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	apoyó	apoyar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	tipo	tipo	NOUN	NN	Gender=Masc|Number=Sing	2	obj	_	_
 5	de	de	ADP	IN	_	6	case	_	_
@@ -20765,7 +20765,7 @@
 11	desde	desde	ADP	IN	_	12	case	_	_
 12	1952	1952	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	nmod	_	_
 13	y	y	CCONJ	CC	_	14	cc	_	_
-14	adquirieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+14	adquirieron	adquirir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
 15	34	34	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	16	nummod	_	_
 16	escaños	escaño	NOUN	NN	Gender=Masc|Number=Plur	14	obj	_	_
 17	en	en	ADP	IN	_	19	case	_	_
@@ -22906,7 +22906,7 @@
 11	cuales	cual	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	14	obl	_	_
 12	Rachida	Rachida	PROPN	NNP	Gender=Fem|Number=Sing	14	nsubj	_	_
 13	Dati	Dati	PROPN	NNP	Gender=Fem|Number=Sing	12	flat:name	_	_
-14	apoya	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+14	apoya	apoyar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
 15	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	candidatura	candidatura	NOUN	NN	Gender=Fem|Number=Sing	14	obj	_	_
 17	de	de	ADP	IN	_	18	case	_	_
@@ -24437,7 +24437,7 @@
 7	de	de	ADP	IN	_	8	case	_	_
 8	espuma	espuma	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
 9	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	10	obl:arg	_	_
-10	aniebla	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	aniebla	anieblar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
 12	pupilas	pupila	NOUN	NN	Gender=Fem|Number=Plur	10	obj	_	_
 13	mientras	mientras	ADV	WRB	_	19	mark	_	_
@@ -26202,7 +26202,7 @@
 25	y	y	CCONJ	CC	_	26	cc	_	_
 26	llanura	llanura	NOUN	NN	Gender=Fem|Number=Sing	22	conj	_	_
 27	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	28	compound:prt	_	_
-28	aisla	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+28	aisla	aislar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 29	de	de	ADP	IN	_	31	case	_	_
 30	sus	su	PRON	DTP$	Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	31	det	_	_
 31	vecinos	vecino	NOUN	NN	Gender=Masc|Number=Plur	28	obl	_	_
@@ -26684,7 +26684,7 @@
 1	Un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	factor	factor	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 3	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	_
-4	apoya	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+4	apoya	apoyar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 5	esta	este	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
 6	hipótesis	hipótesis	NOUN	NN	Gender=Fem|Number=Sing	4	obj	_	_
 7	sería	ser	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
