@@ -23040,7 +23040,7 @@
 15	contenido	contenido	NOUN	NN	Gender=Masc|Number=Sing	13	nmod	_	_
 16	no	no	ADV	RB	Polarity=Neg	18	advmod	_	_
 17	fueran	ser	AUX	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	18	aux:pass	_	_
-18	incluídas	_	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Fin	7	ccomp	_	SpaceAfter=No
+18	incluídas	incluir	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Fin	7	ccomp	_	SpaceAfter=No
 19	:	:	PUNCT	:	_	22	punct	_	_
 20	"	"	PUNCT	``	_	22	punct	_	SpaceAfter=No
 21	No	no	ADV	RB	Polarity=Neg	22	advmod	_	_
@@ -23088,7 +23088,7 @@
 # text_en = This clause included the time taken to travel to clients' homes in working hours.
 1	Esta	este	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
 2	cláusula	cláusula	NOUN	NN	Gender=Fem|Number=Sing	3	nsubj	_	_
-3	incluía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	incluía	incluir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	tiempo	tiempo	NOUN	NN	Gender=Masc|Number=Sing	3	obj	_	_
 6	empleado	emplear	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_
