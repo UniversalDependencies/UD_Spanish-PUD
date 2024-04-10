@@ -5819,7 +5819,7 @@
 15	momento	momento	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	_
 16	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	18	obl	_	_
 17	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	obj	_	_
-18	desee	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	SpaceAfter=No
+18	desee	desear	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = n01084045
@@ -9456,7 +9456,7 @@
 3	,	,	PUNCT	,	_	1	punct	_	_
 4	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	analistas	analista	NOUN	NN	Gender=Masc|Number=Plur	6	nsubj	_	_
-6	dudan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	dudan	dudar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	a	a	ADP	IN	_	11	case	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	fixed	_	_
 9	hora	hora	NOUN	NN	Gender=Fem|Number=Sing	7	fixed	_	_
@@ -11973,7 +11973,7 @@
 27	Meza	Meza	PROPN	NNP	Gender=Masc|Number=Sing	26	flat:name	_	_
 28	pronto	pronto	ADV	RB	_	30	advmod	_	_
 29	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	30	aux:pass	_	_
-30	destituido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_
+30	destituido	destituir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_
 31	de	de	ADP	IN	_	33	case	_	_
 32	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	33	det	_	_
 33	cargo	cargo	NOUN	NN	Gender=Masc|Number=Sing	30	obl	_	SpaceAfter=No
@@ -12126,7 +12126,7 @@
 8	zona	zona	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
 9	donde	donde	ADV	WRB	PronType=Rel	11	advmod	_	_
 10	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	compound:prt	_	_
-11	disfruta	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+11	disfruta	disfrutar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
 12-13	del	_	_	_	_	_	_	_	_
 12	de	de	ADP	INDT	_	15	case	_	_
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
@@ -16250,7 +16250,7 @@
 3	pasajes	_	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl:pass	_	_
-6	discute	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	discute	discutir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	específicamente	específicamente	ADV	RB	_	6	advmod	_	_
 8	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	efectos	efecto	NOUN	NN	Gender=Masc|Number=Plur	6	nsubj:pass	_	_
@@ -16652,7 +16652,7 @@
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	ejército	ejército	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	compound:prt	_	_
-4	desempeñó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	desempeñó	desempeñar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	bien	bien	ADV	RB	_	4	advmod	_	_
 6	en	en	ADP	IN	_	7	case	_	_
 7	combate	combate	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	_
@@ -17175,7 +17175,7 @@
 13	ahora	ahora	ADV	RB	_	16	advmod	_	_
 14	todavía	todavía	ADV	RB	_	16	advmod	_	_
 15	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	expl:pass	_	_
-16	desaconseja	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+16	desaconseja	desaconsejar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
 17	llamar	llamar	VERB	VB	VerbForm=Inf	16	csubj:pass	_	_
 18	a	a	ADP	IN	_	20	case	_	_
 19	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
@@ -22062,7 +22062,7 @@
 # text = ¿Discute con su despertador?
 # text_en = Do you argue with your alarm clock?
 1	¿	¿	PUNCT	.	_	2	punct	_	SpaceAfter=No
-2	Discute	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Discute	discutir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	con	con	ADP	IN	_	5	case	_	_
 4	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
 5	despertador	despertador	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
@@ -25044,7 +25044,7 @@
 10	este	este	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
 11	incidente	incidente	NOUN	NN	Gender=Masc|Number=Sing	3	nmod	_	_
 12	fueron	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	aux:pass	_	_
-13	discutidos	_	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+13	discutidos	discutir	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 14	enérgicamente	enérgicamente	ADV	RB	_	13	advmod	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	13	punct	_	_
 
@@ -28050,7 +28050,7 @@
 13	,	,	PUNCT	,	_	16	punct	_	_
 14	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	16	nsubj	_	_
 15	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	16	obj	_	_
-16	desempeñó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	acl:relcl	_	_
+16	desempeñó	desempeñar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	acl:relcl	_	_
 17	hasta	hasta	ADP	IN	_	18	case	_	_
 18	diciembre	diciembre	NOUN	NN	Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	9	punct	_	_
