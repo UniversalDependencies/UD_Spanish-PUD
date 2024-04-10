@@ -8021,7 +8021,7 @@
 1	Su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
 2	cuello	cuello	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	compound:prt	_	_
-4	dirige	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	dirige	dirigir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	hacia	hacia	ADP	IN	_	7	case	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	frente	frente	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	_
@@ -10642,7 +10642,7 @@
 10	Greco	Greco	PROPN	NNP	Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
 11	"	"	PUNCT	''	_	10	punct	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	13	punct	_	_
-13	dirigida	_	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	acl	_	_
+13	dirigida	dirigir	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	10	acl	_	_
 14	por	por	ADP	IN	_	15	case	_	_
 15	Yannis	Yannis	PROPN	NNP	Gender=Masc|Number=Sing	13	obl:agent	_	_
 16	Smaragdis	Smaragdis	PROPN	NNP	Gender=Masc|Number=Sing	15	flat:name	_	SpaceAfter=No
@@ -13594,7 +13594,7 @@
 2	mar	mar	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj:pass	_	Proper=True
 3	Caribe	Caribe	PROPN	NNP	Gender=Masc|Number=Sing	2	appos	_	_
 4	era	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	aux:pass	_	_
-5	desconocido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	desconocido	desconocer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	para	para	ADP	IN	_	8	case	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	población	población	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
@@ -14986,7 +14986,7 @@
 2	ciudad	ciudad	NOUN	NN	Gender=Fem|Number=Sing	5	nsubj	_	_
 3	cananita	cananito	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	Proper=True
 4	quedó	quedar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
-5	destruida	_	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	destruida	destruir	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	por	por	ADP	IN	_	8	case	_	_
 7	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	incendio	incendio	NOUN	NN	Gender=Masc|Number=Sing	5	obl:agent	_	SpaceAfter=No
@@ -16804,7 +16804,7 @@
 6	de	de	ADP	IN	_	7	case	_	_
 7	Venecia	Venecia	PROPN	NNP	Number=Sing	5	nmod	_	_
 8	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	_
-9	descendido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	descendido	descender	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 10	a	a	ADP	IN	_	14	case	_	_
 11	alrededor	alrededor	ADV	RB	_	14	advmod	_	_
 12	de	de	ADP	IN	_	11	fixed	_	_
@@ -17458,7 +17458,7 @@
 13	pesada	pesado	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	_
 14	británica	británico	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	Proper=True
 15	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	aux:pass	_	_
-16	destruida	_	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	ccomp	_	_
+16	destruida	destruir	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	ccomp	_	_
 17	como	como	ADP	IN	_	19	case	_	_
 18	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	fuerza	fuerza	NOUN	NN	Gender=Fem|Number=Sing	16	obl	_	_
@@ -18780,7 +18780,7 @@
 2	1991	1991	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	obl	_	_
 3	y	y	CCONJ	CC	_	4	cc	_	_
 4	1997	1997	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	conj	_	_
-5	dirigió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	dirigió	dirigir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	escuela	escuela	NOUN	NN	Gender=Fem|Number=Sing	5	obj	_	_
 8	de	de	ADP	IN	_	9	case	_	_
@@ -19985,7 +19985,7 @@
 27	en	en	ADP	IN	_	28	case	_	_
 28	España	España	PROPN	NNP	Number=Sing	22	nmod	_	SpaceAfter=No
 29	,	,	PUNCT	,	_	30	punct	_	_
-30	dirigida	_	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_
+30	dirigida	dirigir	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_
 31	por	por	ADP	IN	_	32	case	_	_
 32	Lasse	Lasse	PROPN	NNP	Gender=Masc|Number=Sing	30	obl:agent	_	_
 33	Hallström	Hallström	PROPN	NNP	Gender=Masc|Number=Sing	32	flat:name	_	_
@@ -20046,7 +20046,7 @@
 14	en	en	ADP	IN	_	15	case	_	_
 15	inglés	inglés	NOUN	NN	Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No|Proper=True
 16	)	)	PUNCT	)	_	10	punct	_	_
-17	dirigida	_	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	_
+17	dirigida	dirigir	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	_
 18	por	por	ADP	IN	_	19	case	_	_
 19	Nicholas	Nicholas	PROPN	NNP	Gender=Masc|Number=Sing	17	obl:agent	_	_
 20	Stoller	Stoller	PROPN	NNP	Gender=Masc|Number=Sing	19	flat:name	_	_
@@ -25598,7 +25598,7 @@
 3	de	de	ADP	IN	_	4	case	_	_
 4	Rupertsberg	Rupertsberg	PROPN	NNP	Number=Sing	2	nmod	_	_
 5	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
-6	destruido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	destruido	destruir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 7	durante	durante	ADP	IN	_	9	case	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	Guerra	guerra	NOUN	NN	Gender=Fem|Number=Sing	6	obl	_	Proper=True
@@ -27679,7 +27679,7 @@
 3	llegaron	llegar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	indios	indio	NOUN	NN	Gender=Masc|Number=Plur	3	nsubj	_	_
 5	(	(	PUNCT	(	_	6	punct	_	SpaceAfter=No
-6	dirigidos	_	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	acl	_	_
+6	dirigidos	dirigir	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	acl	_	_
 7	por	por	ADP	IN	_	8	case	_	_
 8	Joseph	Joseph	PROPN	NNP	Gender=Masc|Number=Sing	6	obl:agent	_	_
 9	Brant	Brant	PROPN	NNP	Gender=Masc|Number=Sing	8	flat:name	_	SpaceAfter=No
