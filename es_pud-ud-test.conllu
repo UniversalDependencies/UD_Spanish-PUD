@@ -21165,7 +21165,7 @@
 5	decidieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	que	que	SCONJ	IN	_	8	mark	_	_
 7	Albania	Albania	PROPN	NNP	Number=Sing	8	nsubj	_	_
-8	estaría	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
+8	estaría	estar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
 9	bajo	bajo	ADP	IN	_	10	case	_	_
 10	protectorado	protectorado	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	_
 11	otomano	otomano	ADJ	JJ	Gender=Masc|Number=Sing	10	amod	_	Proper=True
@@ -22685,7 +22685,7 @@
 9	aseguró	asegurar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	que	que	SCONJ	IN	_	12	mark	_	_
 11	ella	él	PRON	PRP	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
-12	estaría	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	ccomp	_	SpaceAfter=No
+12	estaría	estar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	ccomp	_	SpaceAfter=No
 13	:	:	PUNCT	:	_	16	punct	_	_
 14	"	"	PUNCT	``	_	16	punct	_	SpaceAfter=No
 15	bajo	bajo	ADP	IN	_	16	case	_	_
@@ -24361,7 +24361,7 @@
 12	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	13	det	_	_
 13	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	14	nsubj	_	_
 14	molaba	molar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	ccomp	_	_
-15	eran	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+15	eran	ser	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 16	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
 17	batallas	batalla	NOUN	NN	Gender=Fem|Number=Plur	15	nsubj	_	SpaceAfter=No
 18	,	,	PUNCT	,	_	20	punct	_	_
@@ -25239,7 +25239,7 @@
 # sent_id = w02008055
 # text = Estaban sobre todo en colinas.
 # text_en = They were primarily on hills.
-1	Estaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+1	Estaban	estar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 2	sobre	sobre	ADP	IN	_	5	advmod	_	_
 3	todo	todo	NOUN	NN	Gender=Masc|Number=Sing	2	fixed	_	_
 4	en	en	ADP	IN	_	5	case	_	_
