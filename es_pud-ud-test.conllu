@@ -3875,7 +3875,7 @@
 4	20	20	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	nummod	_	_
 5	años	año	NOUN	NN	Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	_	_
-7	lucha	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	lucha	luchar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	contra	contra	ADP	IN	_	10	case	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	acoso	acoso	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
@@ -10463,7 +10463,7 @@
 19	desde	desde	ADP	IN	_	20	case	_	_
 20	Scynthia	Scynthia	PROPN	NNP	Number=Sing	18	obl	_	SpaceAfter=No
 21	,	,	PUNCT	,	_	22	punct	_	_
-22	mantenía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	parataxis	_	_
+22	mantenía	mantener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	parataxis	_	_
 23	importantes	importante	ADJ	JJ	Gender=Fem|Number=Plur	24	amod	_	_
 24	alianzas	alianza	NOUN	NN	Gender=Fem|Number=Plur	22	obj	_	_
 25	con	con	ADP	IN	_	26	case	_	_
@@ -14707,7 +14707,7 @@
 14	sur	sur	NOUN	NN	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	,	_	17	punct	_	_
 16	mientras	mientras	ADV	WRB	_	17	advmod	_	_
-17	manipulaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	advcl	_	_
+17	manipulaban	manipular	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	advcl	_	_
 18	a	a	ADP	IN	_	20	case	_	_
 19	muchos	mucho	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	20	det	_	_
 20	embajadores	embajador	NOUN	NN	Gender=Masc|Number=Plur	17	obl	_	_
@@ -15306,7 +15306,7 @@
 6	parece	parecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	que	que	SCONJ	IN	_	9	mark	_	_
 8	ambos	ambos	NOUN	NN	Gender=Masc|Number=Plur	9	nsubj	_	_
-9	mantuvieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	ccomp	_	_
+9	mantuvieron	mantener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	ccomp	_	_
 10-11	al	_	_	_	_	_	_	_	_
 10	a	a	ADP	INDT	_	13	discourse	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
