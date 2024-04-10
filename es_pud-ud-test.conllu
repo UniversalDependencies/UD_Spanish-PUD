@@ -4234,7 +4234,7 @@
 9	retórica	retórica	NOUN	NN	Gender=Fem|Number=Sing	5	conj	_	_
 10	política	político	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	_
 11	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
-12	familiar	_	ADJ	JJ	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+12	familiar	familiar	ADJ	JJ	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	17	punct	_	_
 14	o	o	CCONJ	CC	_	17	cc	_	_
 15	debería	deber	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	aux	_	_
@@ -5456,7 +5456,7 @@
 22	en	en	ADP	IN	_	24	case	_	_
 23	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
 24	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	19	nmod	_	_
-25	inferior	_	ADJ	JJR	Gender=Fem|Number=Sing	24	amod	_	SpaceAfter=No
+25	inferior	inferior	ADJ	JJR	Gender=Fem|Number=Sing	24	amod	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	2	punct	_	_
 
 # newdoc id = n01078
@@ -8301,7 +8301,7 @@
 5	también	también	ADV	RB	_	6	advmod	_	_
 6	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-8	improbable	_	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	_
+8	improbable	improbable	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	_
 9	calidad	calidad	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	_
 10	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	15	nsubj	_	_
 11	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	obj	_	_
@@ -15866,7 +15866,7 @@
 17	de	de	ADP	IN	_	18	case	_	_
 18	escribir	escribir	VERB	VB	VerbForm=Inf	14	xcomp	_	_
 19	era	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	cop	_	_
-20	imparable	_	ADJ	JJ	Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
+20	imparable	imparable	ADJ	JJ	Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = w01073067
@@ -20210,7 +20210,7 @@
 12	de	de	ADP	IN	_	17	case	_	_
 13	que	que	SCONJ	IN	_	17	mark	_	_
 14	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-15	fuerza	_	NOUN	NN	Gender=Fem|Number=Plur	17	nsubj	_	_
+15	fuerza	fuerza	NOUN	NN	Gender=Fem|Number=Plur	17	nsubj	_	_
 16	alemanas	alemano	ADJ	JJ	Gender=Fem|Number=Plur	15	amod	_	Proper=True
 17	cruzaran	cruzar	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	xcomp	_	_
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
@@ -25737,7 +25737,7 @@
 18	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	aux	_	_
 19	hecho	hacer	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	cop	_	_
 20	prácticamente	prácticamente	ADV	RB	_	21	advmod	_	_
-21	imposible	_	ADJ	JJ	Gender=Fem|Number=Sing	4	parataxis	_	SpaceAfter=No
+21	imposible	imposible	ADJ	JJ	Gender=Fem|Number=Sing	4	parataxis	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = w02017061
@@ -26672,7 +26672,7 @@
 16	entre	entre	ADP	IN	_	18	case	_	_
 17	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
 18	placas	placa	NOUN	NN	Gender=Fem|Number=Plur	15	nmod	_	_
-19	hindú	_	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	Proper=True
+19	hindú	hindú	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	Proper=True
 20	y	y	CCONJ	CC	_	21	cc	_	_
 21	australiana	australiano	ADJ	JJ	Gender=Fem|Number=Sing	19	conj	_	SpaceAfter=No|Proper=True
 22	.	.	PUNCT	.	_	4	punct	_	_
@@ -26846,7 +26846,7 @@
 # text_en = The inner part of the region is flat and hilly, with no clear distinction between one area to the next.
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	8	nsubj	_	_
-3	interior	_	ADJ	JJR	Gender=Fem|Number=Sing	2	amod	_	_
+3	interior	interior	ADJ	JJR	Gender=Fem|Number=Sing	2	amod	_	_
 4	de	de	ADP	IN	_	6	case	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	región	región	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	_
