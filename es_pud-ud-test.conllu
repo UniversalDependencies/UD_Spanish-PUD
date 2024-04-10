@@ -2662,7 +2662,7 @@
 # text_en = He'd also like to see greater enforcement and investigative powers for the Real Estate Council of Ontario (RECO), which regulates agents in the province.
 1	También	también	ADV	RB	_	3	advmod	_	_
 2	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obl:arg	_	_
-3	gustaría	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	gustaría	gustar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	IN	_	26	mark	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	Consejo	consejo	NOUN	NN	Gender=Masc|Number=Sing	26	nsubj	_	Proper=True
@@ -13231,7 +13231,7 @@
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	suelo	suelo	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	2	punct	_	_
-7	golpean	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	golpean	golpear	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	otras	otro	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	9	det	_	_
 9	partículas	partícula	NOUN	NN	Gender=Fem|Number=Plur	7	obj	_	_
 10	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	13	nsubj:pass	_	_
@@ -18645,7 +18645,7 @@
 # text = Se graduó y obtuvo un máster en humanidades el 21 de abril de 1882.
 # text_en = He graduated and obtained an M.A. on 21 April 1882.
 1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	compound:prt	_	_
-2	graduó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	graduó	graduar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	y	y	CCONJ	CC	_	4	cc	_	_
 4	obtuvo	obtener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
 5	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
