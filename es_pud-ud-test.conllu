@@ -2474,7 +2474,7 @@
 14	de	de	ADP	IN	_	17	case	_	_
 15	quien	quien	PRON	REL	Number=Sing|PronType=Rel	17	nsubj	_	_
 16	resulte	resultar	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
-17	elegido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	xcomp	_	SpaceAfter=No
+17	elegido	elegir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	xcomp	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	2	punct	_	_
 
 # newdoc id = n01035
@@ -8385,7 +8385,7 @@
 17	modo	modo	NOUN	NN	Gender=Masc|Number=Sing	16	fixed	_	_
 18	que	que	ADP	IN	_	16	fixed	_	_
 19	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	20	obj	_	_
-20	enfoqué	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	advcl	_	_
+20	enfoqué	enfocar	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	advcl	_	_
 21	como	como	ADP	IN	_	23	case	_	_
 22	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	drama	drama	NOUN	NN	Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
@@ -8588,7 +8588,7 @@
 3	por	por	ADP	IN	_	4	case	_	_
 4	qué	qué	PRON	WP	PronType=Int	6	obl	_	_
 5	la	él	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	obj	_	_
-6	elegí	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	ccomp	_	_
+6	elegí	elegir	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	ccomp	_	_
 7	a	a	ADP	IN	_	8	case	_	_
 8	ella	él	PRON	PRP	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obl	_	SpaceAfter=No
 9	…	…	PUNCT	.	_	2	punct	_	_
@@ -16605,7 +16605,7 @@
 2	ciudad	ciudad	NOUN	NN	Gender=Fem|Number=Sing	5	nsubj	_	SpaceAfter=No
 3	-	-	PUNCT	-	_	4	punct	_	SpaceAfter=No
 4	estado	estado	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
-5	emergió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	emergió	emerger	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	en	en	ADP	IN	_	9	case	_	_
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 8	mismo	mismo	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	_
@@ -20699,7 +20699,7 @@
 # sent_id = w01144031
 # text = Eligio no ir tras un tercer período en el siguiente ciclo de elecciones.
 # text_en = He chose not to seek a third term in the following election cycle.
-1	Eligio	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Eligio	elegir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	no	no	ADV	RB	Polarity=Neg	3	advmod	_	_
 3	ir	ir	VERB	VB	VerbForm=Inf	1	xcomp	_	_
 4	tras	tras	ADP	IN	_	7	case	_	_
@@ -22679,7 +22679,7 @@
 3	oponente	oponente	NOUN	NN	Gender=Fem|Number=Sing	6	nsubj:pass	_	_
 4	demócrata	demócrato	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	_
 5	fuera	ser	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	aux:pass	_	_
-6	elegida	_	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	SpaceAfter=No
+6	elegida	elegir	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	6	punct	_	_
 8	el	el	DET	PRP	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	nsubj	_	_
 9	aseguró	asegurar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
