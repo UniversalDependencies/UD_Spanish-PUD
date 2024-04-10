@@ -14479,7 +14479,7 @@
 # text_en = In later ages playwrights, historians, and other intellectuals would create works inspired by the Trojan War.
 1	En	en	ADP	IN	_	2	case	_	_
 2	etapas	etapa	NOUN	NN	Gender=Fem|Number=Plur	11	obl	_	_
-3	posteriores	_	ADJ	JJR	Gender=Fem|Number=Plur	2	amod	_	_
+3	posteriores	posterior	ADJ	JJR	Gender=Fem|Number=Plur	2	amod	_	_
 4	escritores	escritor	NOUN	NN	Gender=Masc|Number=Plur	11	nsubj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	6	punct	_	_
 6	historiadores	historiador	NOUN	NN	Gender=Masc|Number=Plur	4	conj	_	SpaceAfter=No
@@ -16589,7 +16589,7 @@
 17	en	en	ADP	IN	_	19	case	_	_
 18	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
 19	años	año	NOUN	NN	Gender=Masc|Number=Plur	12	obl	_	_
-20	anteriores	_	ADJ	JJR	Gender=Masc|Number=Plur	19	amod	_	_
+20	anteriores	anterior	ADJ	JJR	Gender=Masc|Number=Plur	19	amod	_	_
 21	a	a	ADP	IN	_	24	case	_	_
 22	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
 23	Primera	primero	ADJ	JJ	Gender=Fem|Number=Sing	24	amod	_	Proper=True
@@ -18860,7 +18860,7 @@
 9	,	,	PUNCT	,	_	2	punct	_	_
 10	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 11	cineastas	cineasta	NOUN	NN	Gender=Masc|Number=Plur	13	nsubj	_	_
-12	realizadores	_	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	_
+12	realizadores	realizador	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	_
 13	decidieron	decidir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 14	hacer	hacer	VERB	VB	VerbForm=Inf	13	xcomp	_	_
 15	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
