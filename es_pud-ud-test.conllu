@@ -1208,7 +1208,7 @@
 1	Evidentemente	evidentemente	ADV	RB	_	4	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	_	_
 3	China	China	PROPN	NNP	Number=Sing	4	nsubj	_	_
-4	presentará	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	presentará	presentar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 5	mucho	mucho	ADV	RB	_	6	advmod	_	_
 6	más	más	ADV	RBR	Degree=Cmp	7	advmod	_	_
 7	hardware	hardware	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
@@ -1911,7 +1911,7 @@
 # text = Le pregunté después si entendía por qué la gente podía votar a Trump.
 # text_en = I asked her afterwards if she understood why people might vote for Trump.
 1	Le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obl:arg	_	_
-2	pregunté	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	pregunté	preguntar	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 3	después	después	ADV	RB	_	2	advmod	_	_
 4	si	si	SCONJ	IN	_	5	mark	_	_
 5	entendía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
@@ -4456,7 +4456,7 @@
 14	a	a	ADP	IN	_	15	case	_	_
 15	Karel	Karel	PROPN	NNP	Gender=Fem|Number=Sing	17	obl	_	_
 16	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	17	obl:arg	_	_
-17	preocupa	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+17	preocupa	preocupar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 18	cada	cada	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	19	det	_	_
 19	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	17	obl	_	_
 20	más	más	ADV	RBR	Degree=Cmp	17	advmod	_	_
@@ -5283,7 +5283,7 @@
 7	además	además	ADV	RB	_	10	discourse	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	7	punct	_	_
 9	yo	yo	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
-10	preferiría	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	3	parataxis	_	_
+10	preferiría	preferir	VERB	VBC	Mood=Cnd|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	3	parataxis	_	_
 11	que	que	SCONJ	IN	_	14	mark	_	_
 12	alguien	alguien	NOUN	NN	Gender=Masc|Number=Sing	14	nsubj	_	_
 13	me	yo	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	14	obj	_	_
@@ -5612,7 +5612,7 @@
 10	final	final	NOUN	NN	Gender=Masc|Number=Sing	8	fixed	_	_
 11	decidieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
 12	que	que	SCONJ	IN	_	13	mark	_	_
-13	preferían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	ccomp	_	_
+13	preferían	preferir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	ccomp	_	_
 14-15	verlo	_	_	_	_	_	_	_	_
 14	ver	ver	VERB	VB	VerbForm=Inf	13	xcomp	_	_
 15	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	14	obj	_	_
@@ -7185,7 +7185,7 @@
 # text_en = I also wonder whether the Davis Cup played a part.
 1	También	también	ADV	RB	_	3	advmod	_	_
 2	me	yo	PRON	SE	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	compound:prt	_	_
-3	pregunto	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	pregunto	preguntar	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	si	si	SCONJ	IN	_	8	mark	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	Copa	copa	NOUN	NN	Gender=Fem|Number=Sing	8	nsubj	_	Proper=True
@@ -10344,7 +10344,7 @@
 5	extremo	extremo	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	_
 6	noroeste	noroeste	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	2	punct	_	_
-8	predomina	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	predomina	predominar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	taiga	taiga	NOUN	NN	Gender=Fem|Number=Sing	8	nsubj	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	13	punct	_	_
@@ -14501,7 +14501,7 @@
 # text = Se predijo que él o bien moriría viejo después de una vida poco emocionante, o joven en un campo de batalla y ganando inmortalidad a través de la poesía.
 # text_en = It was foretold that he would either die of old age after an uneventful life, or die young in a battlefield and gain immortality through poetry.
 1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl:pass	_	_
-2	predijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	predijo	predecir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	IN	_	8	mark	_	_
 4	él	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 5	o	o	CCONJ	CC	_	8	cc:preconj	_	_
@@ -18188,7 +18188,7 @@
 4	Hitchcock	Hitchcock	PROPN	NNP	Gender=Masc|Number=Sing	2	nmod	_	_
 5	a	a	ADP	IN	_	7	advmod	_	_
 6	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	5	fixed	_	_
-7	presentan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	presentan	presentar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	personajes	_	NOUN	NN	Gender=Masc|Number=Plur	7	obj	_	_
 9	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	10	nsubj	_	_
 10	tienen	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
@@ -18205,7 +18205,7 @@
 # text = Hitchcock prefería trabajar con los mejores talentos de su época, como los diseñadores de afiches de películas Bill Gold y Saul Bass, quienes producían afiches que representaban sus películas con exactitud.
 # text_en = Hitchcock preferred to work with the best talent of his day—film poster designers such as Bill Gold and Saul Bass—who would produce posters that accurately represented his films.
 1	Hitchcock	Hitchcock	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	prefería	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	prefería	preferir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 3	trabajar	trabajar	VERB	VB	VerbForm=Inf	2	xcomp	_	_
 4	con	con	ADP	IN	_	7	case	_	_
 5	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
@@ -19685,7 +19685,7 @@
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	patrones	patrón	NOUN	NN	Gender=Masc|Number=Plur	14	nsubj	_	_
 3	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	4	nsubj	_	_
-4	presentan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+4	presentan	presentar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 5	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 6	datos	dato	NOUN	NN	Gender=Masc|Number=Plur	4	obj	_	_
 7	de	de	ADP	IN	_	9	case	_	_
@@ -27201,7 +27201,7 @@
 17	y	y	CCONJ	CC	_	18	cc	_	_
 18	Walter	Walter	PROPN	NNP	Gender=Masc|Number=Sing	16	conj	_	_
 19	habían	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	20	aux	_	_
-20	predicho	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	advcl	_	SpaceAfter=No
+20	predicho	predecir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	advcl	_	SpaceAfter=No
 21	;	;	PUNCT	:	_	22	punct	_	_
 22	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
 23	por	por	ADP	IN	_	25	case	_	_
