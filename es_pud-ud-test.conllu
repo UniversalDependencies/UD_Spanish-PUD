@@ -14761,7 +14761,7 @@
 2	,	,	PUNCT	,	_	1	punct	_	_
 3	Tiberio	Tiberio	PROPN	NNP	Gender=Masc|Number=Sing	5	nsubj	_	_
 4	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	compound:prt	_	_
-5	arrepintió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	arrepintió	arrepentir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	de	de	ADP	IN	_	9	case	_	_
 7-8	haberse	_	_	_	_	_	_	_	_
 7	haber	haber	AUX	VB	VerbForm=Inf	9	aux	_	_
