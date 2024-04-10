@@ -2548,7 +2548,7 @@
 14	antecedentes	antecedente	NOUN	NN	Gender=Masc|Number=Plur	13	obj	_	_
 15	penales	penal	ADJ	JJ	Gender=Masc|Number=Plur	14	amod	_	_
 16	y	y	CCONJ	CC	_	17	cc	_	_
-17	comunicó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
+17	comunicó	comunicar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
 18	detalles	_	NOUN	NN	Gender=Masc|Number=Plur	17	obj	_	_
 19	poco	poco	ADV	RB	_	20	advmod	_	_
 20	precisos	preciso	ADJ	JJ	Gender=Masc|Number=Plur	18	amod	_	_
@@ -5359,7 +5359,7 @@
 3	de	de	ADP	IN	_	4	case	_	_
 4	Donald	Donald	PROPN	NNP	Gender=Masc|Number=Sing	2	nmod	_	_
 5	Trump	Trump	PROPN	NNP	Gender=Masc|Number=Sing	4	flat:name	_	_
-6	convertiría	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	convertiría	convertir	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 7-8	al	_	_	_	_	_	_	_	_
 7	a	a	ADP	INDT	_	9	case	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
@@ -8281,7 +8281,7 @@
 22	proezas	proeza	NOUN	NN	Gender=Fem|Number=Plur	25	nsubj	_	_
 23	de	de	ADP	IN	_	24	case	_	_
 24	Doss	Doss	PROPN	NNP	Gender=Masc|Number=Sing	22	nmod	_	_
-25	corresponden	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+25	corresponden	corresponder	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 26-27	al	_	_	_	_	_	_	_	_
 26	a	a	ADP	INDT	_	28	case	_	_
 27	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
@@ -8735,7 +8735,7 @@
 10	votaciones	votación	NOUN	NN	Gender=Fem|Number=Plur	13	nsubj	_	_
 11	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	compound:prt	_	_
 12	han	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
-13	convertido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+13	convertido	convertir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 14	en	en	ADP	IN	_	17	case	_	_
 15	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 16	nuevo	nuevo	ADJ	JJ	Gender=Masc|Number=Sing	17	amod	_	_
@@ -10402,7 +10402,7 @@
 2	islas	isla	NOUN	NN	Gender=Fem|Number=Plur	5	nsubj	_	_
 3	de	de	ADP	IN	_	4	case	_	_
 4	granito	granito	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
-5	comprenden	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	comprenden	comprender	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
 7	Seychelles	_	NOUN	NN	Gender=Fem|Number=Plur	5	obj	_	Proper=True
 8	y	y	CCONJ	CC	_	9	cc	_	_
@@ -14086,7 +14086,7 @@
 5	Bogd	Bogd	PROPN	NNP	Gender=Masc|Number=Sing	3	obl:agent	_	_
 6	Khaan	Khaan	PROPN	NNP	Gender=Masc|Number=Sing	5	flat:name	_	_
 7	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	compound:prt	_	_
-8	correspondía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	correspondía	corresponder	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 9	aproximadamente	aproximadamente	ADV	RB	_	8	advmod	_	_
 10	con	con	ADP	IN	_	11	case	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	obl	_	_
@@ -16180,7 +16180,7 @@
 7	libertades	libertad	NOUN	NN	Gender=Fem|Number=Plur	5	obj	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	3	punct	_	_
 9	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	compound:prt	_	_
-10	comprometía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+10	comprometía	comprometer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 11	a	a	ADP	IN	_	12	case	_	_
 12	disolver	disolver	VERB	VB	VerbForm=Inf	10	xcomp	_	_
 13	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
@@ -16628,7 +16628,7 @@
 9	siglo	siglo	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
 10	XVI	xvi	NUM	CD	Gender=Masc|NumForm=Roman|NumType=Card	9	appos	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	9	punct	_	_
-12	condujo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	condujo	conducir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	a	a	ADP	IN	_	15	case	_	_
 14	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	periodo	periodo	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	_
@@ -18583,7 +18583,7 @@
 5	sostiene	sostener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	que	que	SCONJ	IN	_	8	mark	_	_
 7	Kim	Kim	PROPN	NNP	Gender=Masc|Number=Sing	8	nsubj	_	_
-8	compuso	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	ccomp	_	_
+8	compuso	componer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	ccomp	_	_
 9	seis	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	10	nummod	_	_
 10	óperas	ópera	NOUN	NN	Gender=Fem|Number=Plur	8	obj	_	_
 11	y	y	CCONJ	CC	_	12	cc	_	_
@@ -18760,7 +18760,7 @@
 1	Algunos	alguno	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
 2	eruditos	erudito	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
 3	cristianos	cristiano	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	Proper=True
-4	critican	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	critican	criticar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	enseñanzas	enseñanza	NOUN	NN	Gender=Fem|Number=Plur	4	obj	_	_
 7	de	de	ADP	IN	_	8	case	_	_
@@ -23572,7 +23572,7 @@
 1	Las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 2	últimas	último	ADJ	JJ	Gender=Fem|Number=Plur	3	amod	_	_
 3	cifras	cifra	NOUN	NN	Gender=Fem|Number=Plur	4	nsubj	_	_
-4	corresponden	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	corresponden	corresponder	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5-6	al	_	_	_	_	_	_	_	_
 5	a	a	ADP	INDT	_	7	case	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
@@ -23931,7 +23931,7 @@
 1	Amazon	Amazon	PROPN	NNP	Number=Sing	4	nsubj	_	_
 2	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	compound:prt	_	_
 3	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
-4	convertido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	convertido	convertir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	en	en	ADP	IN	_	8	case	_	_
 6	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 7	cuarta	cuarto	ADJ	JJ	Gender=Fem|Number=Sing	8	amod	_	_
