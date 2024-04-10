@@ -11046,7 +11046,7 @@
 # text_en = Although Iceland was under the political control of Denmark until a much later date (1918), very little influence and borrowing from Danish has occurred in the Icelandic language.
 1	Aunque	aunque	SCONJ	IN	_	3	mark	_	_
 2	Islandia	Islandia	PROPN	NNP	Number=Sing	3	nsubj	_	_
-3	estuvo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	advcl	_	_
+3	estuvo	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	advcl	_	_
 4	bajo	bajo	ADP	IN	_	6	case	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	control	control	NOUN	NN	Gender=Masc|Number=Sing	3	obl	_	_
@@ -12167,7 +12167,7 @@
 4	de	de	ADP	INDT	_	6	case	_	_
 5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	conflicto	conflicto	NOUN	NN	Gender=Masc|Number=Sing	3	nmod	_	_
-7	estuvo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	estuvo	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	pregunta	pregunta	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
 10	de	de	ADP	IN	_	14	case	_	_
