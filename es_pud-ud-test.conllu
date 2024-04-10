@@ -2779,7 +2779,7 @@
 23	asumen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
 24	responsabilidades	responsabilidad	NOUN	NN	Gender=Fem|Number=Plur	23	obj	_	_
 25	y	y	CCONJ	CC	_	26	cc	_	_
-26	desempeñan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	conj	_	_
+26	desempeñan	desempeñar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	conj	_	_
 27	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	papel	papel	NOUN	NN	Gender=Masc|Number=Sing	26	obj	_	_
 29	en	en	ADP	IN	_	31	case	_	_
@@ -3501,7 +3501,7 @@
 27	importate	importate	ADJ	JJ	Gender=Masc|Number=Sing	28	amod	_	_
 28	papel	papel	NOUN	NN	Gender=Masc|Number=Sing	25	obj	_	_
 29	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	30	obj	_	_
-30	desempeñan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	acl:relcl	_	_
+30	desempeñan	desempeñar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	acl:relcl	_	_
 31	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	32	det	_	_
 32	inversores	inversor	NOUN	NN	Gender=Masc|Number=Plur	30	nsubj	_	_
 33	(	(	PUNCT	(	_	34	punct	_	SpaceAfter=No
@@ -3952,7 +3952,7 @@
 9	pueblos	pueblo	NOUN	NN	Gender=Masc|Number=Plur	8	nsubj:pass	_	_
 10	indígenas	indígeno	ADJ	JJ	Gender=Masc|Number=Plur	9	amod	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	8	punct	_	_
-12	defienden	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	defienden	defender	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 13	que	que	SCONJ	IN	_	15	mark	_	_
 14	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	15	expl:pass	_	_
 15	trivializa	trivializar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	_
@@ -10847,7 +10847,7 @@
 6	estacional	estacional	ADJ	JJ	Gender=Masc|Number=Sing	5	amod	_	_
 7	dominante	dominante	ADJ	JJ	Gender=Masc|Number=Sing	5	amod	_	_
 8	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	9	nsubj	_	_
-9	dura	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+9	dura	durar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
 10	varios	vario	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	11	det	_	_
 11	meses	mes	NOUN	NN	Gender=Masc|Number=Plur	9	obl:tmod	_	_
 12	y	y	CCONJ	CC	_	15	cc	_	_
@@ -11025,7 +11025,7 @@
 2	,	,	PUNCT	,	_	1	punct	_	_
 3	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	estatuto	estatuto	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj	_	_
-5	determina	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	determina	determinar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	elección	elección	NOUN	NN	Gender=Fem|Number=Sing	5	obj	_	_
 8	de	de	ADP	IN	_	10	case	_	_
@@ -13537,7 +13537,7 @@
 12	de	de	ADP	INDT	_	14	case	_	_
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	Caribe	Caribe	PROPN	NNP	Gender=Masc|Number=Sing	11	nmod	_	_
-15	diferenciaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+15	diferenciaban	diferenciar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 16	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 17	"	"	PUNCT	``	_	18	punct	_	SpaceAfter=No
 18	mar	mar	NOUN	NN	Gender=Masc|Number=Sing	15	obj	_	Proper=True
@@ -14951,7 +14951,7 @@
 6	megalitos	megalito	NOUN	NN	Gender=Masc|Number=Plur	2	nmod	_	_
 7	aún	aún	ADV	RB	_	9	advmod	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pass	_	_
-9	debate	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	debate	debatir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	16	punct	_	_
 11	pero	pero	CCONJ	CC	_	16	cc	_	_
 12	ellos	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	_
@@ -22517,7 +22517,7 @@
 4	irritantes	irritante	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
 5	signos	signo	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj	_	_
 6	no	no	ADV	RB	Polarity=Neg	7	advmod	_	_
-7	desaparecerán	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+7	desaparecerán	desaparecer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 8	completamente	completamente	ADV	RB	_	7	advmod	_	SpaceAfter=No
 9	:	:	PUNCT	:	_	22	punct	_	_
 10	Según	según	ADP	IN	_	12	case	_	_
@@ -25843,7 +25843,7 @@
 5	1977	1977	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	appos	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	_	_
 7	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	_	_
-8	distinguido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	distinguido	distinguir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 9	con	con	ADP	IN	_	11	case	_	_
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	Medalla	medalla	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	Proper=True
