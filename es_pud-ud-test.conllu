@@ -1387,7 +1387,7 @@
 15	que	que	SCONJ	IN	_	18	mark	_	_
 16	estos	este	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	18	nsubj	_	_
 17	no	no	ADV	RB	Polarity=Neg	18	advmod	_	_
-18	alcanzan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	_
+18	alcanzan	alcanzar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	_
 19	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
 20	niveles	nivel	NOUN	NN	Gender=Masc|Number=Plur	18	obj	_	_
 21	necesarios	necesario	ADJ	JJ	Gender=Masc|Number=Plur	20	amod	_	_
@@ -7368,7 +7368,7 @@
 # text = Fue ascendido a presidente en octubre de 2015, un mes más tarde de que el escándalo saliese a la luz.
 # text_en = He was promoted to chairman in October 2015, the month after the scandal was unearthed.
 1	Fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux:pass	_	_
-2	ascendido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	ascendido	ascender	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 3	a	a	ADP	IN	_	4	case	_	_
 4	presidente	presidente	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	_
 5	en	en	ADP	IN	_	6	case	_	_
@@ -8654,7 +8654,7 @@
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	mucha	mucho	DET	DT	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	5	det	_	_
 5	gente	gente	NOUN	NN	Gender=Fem|Number=Sing	6	nsubj	_	_
-6	abre	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	abre	abrir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	rápidamente	rápidamente	ADV	RB	_	6	advmod	_	_
 8	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	correos	correo	NOUN	NN	Gender=Masc|Number=Plur	6	obj	_	_
@@ -9775,7 +9775,7 @@
 # sent_id = n01144023
 # text = Aparecía una y otra vez en mi cobertizo y yo le decía en broma al tipo que no quería que lo vendiesen.
 # text_en = He kept on turning up at my barn and I joked to the guy that clearly he didn't want to be sold.
-1	Aparecía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+1	Aparecía	aparecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 2	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 3	y	y	CCONJ	CC	_	4	cc	_	_
 4	otra	otro	DET	DT	Gender=Fem|Number=Sing|PronType=Ind	2	conj	_	_
@@ -11214,7 +11214,7 @@
 6	gotas	gota	NOUN	NN	Gender=Fem|Number=Plur	9	nsubj	_	_
 7	de	de	ADP	IN	_	8	case	_	_
 8	agua	agua	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
-9	absorben	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	absorben	absorber	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	y	y	CCONJ	CC	_	11	cc	_	_
 11	disuelven	disolver	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
 12	dióxido	dióxido	NOUN	NN	Gender=Masc|Number=Sing	9	obj	_	_
@@ -12514,7 +12514,7 @@
 19	muchas	mucho	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	20	det	_	_
 20	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	22	obl	_	_
 21	no	no	ADV	RB	Polarity=Neg	22	advmod	_	_
-22	alcanza	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+22	alcanza	alcanzar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 23	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
 24	superficie	superficie	NOUN	NN	Gender=Fem|Number=Sing	22	obj	_	_
 25	antes	antes	ADV	RB	_	22	advmod	_	_
@@ -14714,7 +14714,7 @@
 21	incompetentes	incompetente	ADJ	JJ	Gender=Masc|Number=Plur	20	amod	_	_
 22	chinos	chino	ADJ	JJ	Gender=Masc|Number=Plur	20	amod	_	Proper=True
 23	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	24	nsubj	_	_
-24	accedían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	20	acl:relcl	_	_
+24	accedían	acceder	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	20	acl:relcl	_	_
 25	a	a	ADP	IN	_	27	case	_	_
 26	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	27	det	_	_
 27	demandas	demanda	NOUN	NN	Gender=Fem|Number=Plur	24	obl	_	_
@@ -14797,7 +14797,7 @@
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	estado	estado	NOUN	NN	Gender=Masc|Number=Sing	7	conj	_	_
 11	simplemente	simplemente	ADV	RB	_	12	advmod	_	_
-12	actuaran	_	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	ccomp	_	_
+12	actuaran	actuar	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	ccomp	_	_
 13	sin	sin	ADP	IN	_	14	case	_	_
 14	él	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obl	_	_
 15	y	y	CCONJ	CC	_	20	cc	_	_
@@ -15882,7 +15882,7 @@
 8	y	y	CCONJ	CC	_	9	cc	_	_
 9	nueve	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	7	conj	_	_
 10	historias	historia	NOUN	NN	Gender=Fem|Number=Plur	11	nsubj	_	_
-11	aparecieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11	aparecieron	aparecer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 12	en	en	ADP	IN	_	14	case	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	gaceta	gaceta	NOUN	NN	Gender=Fem|Number=Sing	11	obl	_	_
@@ -17634,7 +17634,7 @@
 20	Guangzhou	Guangzhou	PROPN	NNP	Number=Sing	18	conj	_	SpaceAfter=No
 21	,	,	PUNCT	,	_	16	punct	_	_
 22	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	23	expl:pass	_	_
-23	abrieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
+23	abrieron	abrir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
 24-25	al	_	_	_	_	_	_	_	_
 24	a	a	ADP	INDT	_	26	case	_	_
 25	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
@@ -17691,7 +17691,7 @@
 # text_en = The treaty opened new ports to trade and allowed foreigners to travel in the interior.
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	tratado	tratado	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	abrió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	abrió	abrir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	nuevo	nuevo	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
 5	puertos	puerto	NOUN	NN	Gender=Masc|Number=Plur	3	obj	_	_
 6	de	de	ADP	IN	_	7	case	_	_
@@ -17712,7 +17712,7 @@
 # text = Lamarr acompañó a Mandl a reuniones de negocios donde consultó con científicos y otros profesionales involucrados en tecnología militar.
 # text_en = Lamarr accompanied Mandl to business meetings where he conferred with scientists and other professionals involved in military technology.
 1	Lamarr	Lamarr	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	acompañó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	acompañó	acompañar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	a	a	ADP	IN	_	4	case	_	_
 4	Mandl	Mandl	PROPN	NNP	Gender=Masc|Number=Sing	2	obl	_	_
 5	a	a	ADP	IN	_	6	case	_	_
@@ -20664,7 +20664,7 @@
 # sent_id = w01143037
 # text = Aparecía como coprotagonista, haciendo el papel de hermano menor de Humphrey Bogart, un mujeriego sin preocupaciones, en Sabrina (1954), interpretada por Audrey Hepburn.
 # text_en = He co-starred as Humphrey Bogart's younger brother, a carefree playboy, in Sabrina (1954), played by Audrey Hepburn.
-1	Aparecía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+1	Aparecía	aparecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 2	como	como	ADP	IN	_	3	case	_	_
 3	coprotagonista	coprotagonista	NOUN	NN	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	5	punct	_	_
@@ -20956,7 +20956,7 @@
 29	admiraba	admirar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	acl:relcl	_	_
 30	y	y	CCONJ	CC	_	32	cc	_	_
 31	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	32	nsubj	_	_
-32	accedió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	29	conj	_	_
+32	accedió	acceder	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	29	conj	_	_
 33	a	a	ADP	IN	_	34	case	_	_
 34	producir	producir	VERB	VB	VerbForm=Inf	32	xcomp	_	_
 35	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
@@ -22236,7 +22236,7 @@
 19	Boeing	Boeing	PROPN	NNP	Number=Sing	15	nmod	_	_
 20	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	22	nsubj	_	_
 21	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	aux	_	_
-22	aparecido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	acl:relcl	_	_
+22	aparecido	aparecer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	acl:relcl	_	_
 23	en	en	ADP	IN	_	24	case	_	_
 24	Tanzania	Tanzania	PROPN	NNP	Number=Sing	22	obl	_	SpaceAfter=No
 25	,	,	PUNCT	,	_	28	punct	_	_
@@ -22566,7 +22566,7 @@
 2	contaminantes	contaminante	NOUN	NN	Gender=Masc|Number=Plur	5	nsubj	_	_
 3	no	no	ADV	RB	Polarity=Neg	4	advmod	_	_
 4	sólo	sólo	ADV	RB	_	5	advmod	_	_
-5	atacan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	atacan	atacar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
 7	pulmones	pulmón	NOUN	NN	Gender=Masc|Number=Plur	5	obj	_	_
 8	sin	sin	ADP	IN	_	9	case	_	_
@@ -25985,7 +25985,7 @@
 16	de	de	ADP	IN	_	19	case	_	_
 17	que	que	SCONJ	IN	_	19	mark	_	_
 18	Bransfield	Bransfield	PROPN	NNP	Gender=Masc|Number=Sing	19	nsubj	_	_
-19	avistase	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	xcomp	_	_
+19	avistase	avistar	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	xcomp	_	_
 20	tierra	tierra	NOUN	NN	Gender=Fem|Number=Sing	19	obj	_	SpaceAfter=No
 21	,	,	PUNCT	,	_	25	punct	_	_
 22	y	y	CCONJ	CC	_	25	cc	_	_
