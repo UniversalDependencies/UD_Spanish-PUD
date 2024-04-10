@@ -787,7 +787,7 @@
 16	nuevas	nuevo	ADJ	JJ	Gender=Fem|Number=Plur	17	amod	_	_
 17	inversiones	inversión	NOUN	NN	Gender=Fem|Number=Plur	15	obj	_	_
 18	y	y	CCONJ	CC	_	19	cc	_	_
-19	protegería	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	conj	_	_
+19	protegería	proteger	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	conj	_	_
 20	cientos	ciento	NOUN	NN	Gender=Masc|Number=Plur	19	obj	_	_
 21	de	de	ADP	IN	_	22	case	_	_
 22	empleos	empleo	NOUN	NN	Gender=Masc|Number=Plur	20	nmod	_	_
@@ -3063,7 +3063,7 @@
 16	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	expl:pass	_	_
 17	cree	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
 18	que	que	SCONJ	IN	_	19	mark	_	_
-19	provienen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	csubj:pass	_	_
+19	provienen	provener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	csubj:pass	_	_
 20	de	de	ADP	IN	_	21	case	_	_
 21	policías	policía	NOUN	NN	Number=Plur	19	obl	_	_
 22	de	de	ADP	IN	_	24	case	_	_
@@ -4727,7 +4727,7 @@
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	fundación	fundación	NOUN	NN	Gender=Fem|Number=Sing	6	nsubj	_	_
-6	publicó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	publicó	publicar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	edición	edición	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	_
 9	tipopuesta	tipopuesto	ADJ	JJ	Gender=Fem|Number=Sing	8	amod	_	_
@@ -11705,7 +11705,7 @@
 3	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	canal	canal	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
-6	protegido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_
+6	protegido	proteger	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	_
 7	por	por	ADP	IN	_	9	case	_	_
 8	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	superficie	superficie	NOUN	NN	Gender=Fem|Number=Sing	6	obl:agent	_	_
@@ -13139,7 +13139,7 @@
 15	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	18	nsubj	_	_
 16	no	no	ADV	RB	Polarity=Neg	18	advmod	_	_
 17	están	estar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
-18	protegidas	_	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	13	acl:relcl	_	_
+18	protegidas	proteger	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	13	acl:relcl	_	_
 19	con	con	ADP	IN	_	20	case	_	_
 20	vegetación	vegetación	NOUN	NN	Gender=Fem|Number=Sing	18	obl	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	8	punct	_	_
@@ -15922,7 +15922,7 @@
 2	Ping	Ping	PROPN	NNP	Gender=Masc|Number=Sing	1	flat:name	_	_
 3	Mei	Mei	PROPN	NNP	Gender=Masc|Number=Sing	1	flat:name	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	1	punct	_	_
-5	publicó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	publicó	publicar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	en	en	ADP	IN	_	7	case	_	_
 7	1610	1610	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	obl	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	9	punct	_	_
@@ -16386,7 +16386,7 @@
 7	Tracia	Tracia	PROPN	NNP	Number=Sing	5	nmod	_	_
 8	ahora	ahora	ADV	RB	_	10	advmod	_	_
 9	estaba	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
-10	protegida	_	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+10	protegida	proteger	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 11	por	por	ADP	IN	_	13	case	_	_
 12	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	rio	rio	NOUN	NN	Gender=Masc|Number=Sing	10	obl:agent	_	_
@@ -16465,7 +16465,7 @@
 25	porque	porque	SCONJ	IN	_	28	mark	_	_
 26	estaba	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	28	aux	_	_
 27	fuertemente	fuertemente	ADV	RB	_	28	advmod	_	_
-28	protegido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	22	advcl	_	_
+28	protegido	proteger	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	22	advcl	_	_
 29	por	por	ADP	IN	_	31	case	_	_
 30	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
 31	fuerza	fuerza	NOUN	NN	Gender=Fem|Number=Sing	28	obl:agent	_	_
@@ -16895,7 +16895,7 @@
 7	de	de	ADP	INDT	_	6	fixed	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	periodo	periodo	NOUN	NN	Gender=Masc|Number=Sing	10	obl	_	_
-10	proviene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	proviene	provener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	de	de	ADP	IN	_	13	case	_	_
 12	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
 13	lugares	lugar	NOUN	NN	Gender=Masc|Number=Plur	10	obl	_	_
@@ -17023,7 +17023,7 @@
 9	,	,	PUNCT	,	_	1	punct	_	_
 10	algunos	alguno	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	11	det	_	_
 11	animales	animal	NOUN	NN	Gender=Masc|Number=Plur	12	nsubj	_	_
-12	proveían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+12	proveían	proveer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 13	cuero	cuero	NOUN	NN	Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
 14	,	,	PUNCT	,	_	15	punct	_	_
 15	lana	lana	NOUN	NN	Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
