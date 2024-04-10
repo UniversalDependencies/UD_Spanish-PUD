@@ -2184,7 +2184,7 @@
 21	gente	gente	NOUN	NN	Gender=Fem|Number=Sing	19	nmod	_	_
 22	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	24	nsubj	_	_
 23	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	24	compound:prt	_	_
-24	definía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	_
+24	definía	definir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	_
 25	como	como	ADP	IN	_	26	case	_	_
 26	autoridades	autoridad	NOUN	NN	Gender=Fem|Number=Plur	24	obl	_	_
 27-28	del	_	_	_	_	_	_	_	_
@@ -2847,7 +2847,7 @@
 15	de	de	ADP	IN	_	16	case	_	_
 16	atención	atención	NOUN	NN	Gender=Fem|Number=Sing	14	nmod	_	_
 17	y	y	CCONJ	CC	_	18	cc	_	_
-18	denuncian	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+18	denuncian	denunciar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
 19	que	que	SCONJ	IN	_	32	mark	_	_
 20	sus	su	PRON	DTP$	Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	21	det	_	_
 21	comentarios	comentario	NOUN	NN	Gender=Masc|Number=Plur	32	nsubj	_	_
@@ -4590,7 +4590,7 @@
 # text_en = Their revivals underscore the appeal of a good challenge, artistic or otherwise: discomfort, growth, and a meaningful connection.
 1	Sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
 2	renovaciones	renovación	NOUN	NN	Gender=Fem|Number=Plur	3	nsubj	_	_
-3	destacan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	destacan	destacar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	llamada	llamada	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
 6	a	a	ADP	IN	_	9	case	_	_
@@ -5610,7 +5610,7 @@
 8	a	a	ADP	INDT	_	11	discourse	_	_
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 10	final	final	NOUN	NN	Gender=Masc|Number=Sing	8	fixed	_	_
-11	decidieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+11	decidieron	decidir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
 12	que	que	SCONJ	IN	_	13	mark	_	_
 13	preferían	preferir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	ccomp	_	_
 14-15	verlo	_	_	_	_	_	_	_	_
@@ -9905,7 +9905,7 @@
 19	qué	qué	PRON	WP	PronType=Int	22	obl:agent	_	_
 20	México	México	PROPN	NNP	Number=Sing	22	nsubj	_	_
 21	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	aux	_	_
-22	decidido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	ccomp	_	_
+22	decidido	decidir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	ccomp	_	_
 23	que	que	SCONJ	IN	_	27	mark	_	_
 24	ahora	ahora	ADV	RB	_	27	advmod	_	_
 25	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	_
@@ -12088,7 +12088,7 @@
 # sent_id = w01027015
 # text = Difiere de la parte oeste del país en que la característica de su prominente topografía no es paralela a la costa.
 # text_en = It differs from the western portion of the country in that its prominent topographic features do not parallel the coast.
-1	Difiere	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Difiere	diferir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	de	de	ADP	IN	_	4	case	_	_
 3	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	1	obl	_	_
@@ -12206,7 +12206,7 @@
 12	cuánto	cuánto	ADV	WRB	_	15	advmod	_	_
 13	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	15	compound:prt	_	_
 14	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux	_	_
-15	dividido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	ccomp	_	_
+15	dividido	dividir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	ccomp	_	_
 16	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	país	país	NOUN	NN	Gender=Masc|Number=Sing	15	nsubj	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	9	punct	_	_
@@ -14298,7 +14298,7 @@
 9	Jerusalén	Jerusalén	PROPN	NNP	Number=Sing	4	obl	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	4	punct	_	_
 11	Pilatos	Pilatos	PROPN	NNP	Gender=Masc|Number=Sing	12	nsubj	_	_
-12	decidió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	decidió	decidir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	enviar	enviar	VERB	VB	VerbForm=Inf	12	xcomp	_	_
 14	a	a	ADP	IN	_	15	case	_	_
 15	Jesús	Jesús	PROPN	NNP	Gender=Masc|Number=Sing	13	obl	_	_
@@ -15731,7 +15731,7 @@
 9	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	Península	península	NOUN	NN	Gender=Fem|Number=Sing	12	nsubj	_	Proper=True
 11	estaba	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	aux	_	_
-12	dividida	_	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+12	dividida	dividir	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 13	por	por	ADP	IN	_	15	case	_	_
 14	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
 15	romanos	romano	NOUN	NN	Gender=Masc|Number=Plur	12	obl:agent	_	Proper=True
@@ -16449,7 +16449,7 @@
 10	Termópilas	_	PROPN	NNP	Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	13	punct	_	_
 12	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	13	nsubj	_	_
-13	divide	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+13	divide	dividir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
 14	a	a	ADP	IN	_	15	case	_	_
 15	Grecia	Grecia	PROPN	NNP	Number=Sing	13	obl	_	_
 16	en	en	ADP	IN	_	18	case	_	_
@@ -17519,7 +17519,7 @@
 10	de	de	ADP	IN	_	13	case	_	_
 11	cómo	cómo	ADV	WRB	_	13	advmod	_	_
 12	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl:pass	_	_
-13	define	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	xcomp	_	_
+13	define	definir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	xcomp	_	_
 14	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	música	música	NOUN	NN	Gender=Fem|Number=Sing	13	nsubj:pass	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	9	punct	_	_
@@ -18861,7 +18861,7 @@
 10	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 11	cineastas	cineasta	NOUN	NN	Gender=Masc|Number=Plur	13	nsubj	_	_
 12	realizadores	_	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	_
-13	decidieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+13	decidieron	decidir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 14	hacer	hacer	VERB	VB	VerbForm=Inf	13	xcomp	_	_
 15	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	animación	animación	NOUN	NN	Gender=Fem|Number=Sing	14	obj	_	_
@@ -19161,7 +19161,7 @@
 14	de	de	ADP	IN	_	16	case	_	Proper=True
 15	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	Proper=True
 16	Comunes	_	NOUN	NN	Gender=Masc|Number=Plur	13	nmod	_	Proper=True
-17	decidiera	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	xcomp	_	_
+17	decidiera	decidir	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	xcomp	_	_
 18	que	que	SCONJ	IN	_	23	mark	_	_
 19	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
 20	candidatura	candidatura	NOUN	NN	Gender=Fem|Number=Sing	23	nsubj	_	_
@@ -21162,7 +21162,7 @@
 2	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
-5	decidieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	decidieron	decidir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	que	que	SCONJ	IN	_	8	mark	_	_
 7	Albania	Albania	PROPN	NNP	Number=Sing	8	nsubj	_	_
 8	estaría	estar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
@@ -21233,7 +21233,7 @@
 11	de	de	ADP	IN	_	12	case	_	_
 12	1913	1913	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	6	punct	_	_
-14	dividió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+14	dividió	dividir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 15	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	14	obj	_	_
 16	importante	importante	ADJ	JJ	Gender=Fem|Number=Sing	15	amod	_	_
 17-18	del	_	_	_	_	_	_	_	_
@@ -21588,7 +21588,7 @@
 # text_en = The law delineates a number of conditions whose fulfillment could bring the agreement back into effect: the USA would have to withdraw all of its troops from countries who joined NATO after 2000, rescind all of the sanctions against Russia as well as reimburse the costs that have been incurred as a result of the sanctions.
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	ley	ley	NOUN	NN	Gender=Fem|Number=Sing	3	nsubj	_	_
-3	delinea	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	delinea	delinear	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	varias	vario	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	5	det	_	_
 5	condiciones	condición	NOUN	NN	Gender=Fem|Number=Plur	3	obj	_	_
 6	cuyo	cuyo	DET	DTP$	Gender=Masc|Number=Sing|Poss=Yes|PronType=Rel	7	det	_	_
@@ -21661,7 +21661,7 @@
 5	y	y	CCONJ	CC	_	8	cc	_	_
 6	yo	yo	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
 7	he	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	8	aux	_	_
-8	decidido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
+8	decidido	decidir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
 9	no	no	ADV	RB	Polarity=Neg	11	advmod	_	_
 10	estar	estar	AUX	VB	VerbForm=Inf	11	cop	_	_
 11	presente	presente	ADJ	JJ	Number=Sing	8	xcomp	_	SpaceAfter=No
@@ -22873,7 +22873,7 @@
 19	-	-	PUNCT	-	_	20	punct	_	SpaceAfter=No|Proper=True
 20	Garonne	Garonne	PROPN	NNP	Number=Sing	18	flat:name	_	SpaceAfter=No
 21	)	)	PUNCT	)	_	17	punct	_	_
-22	decidió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+22	decidió	decidir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 23	suspender	suspender	VERB	VB	VerbForm=Inf	22	xcomp	_	_
 24	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	acuerdo	acuerdo	NOUN	NN	Gender=Masc|Number=Sing	23	obj	_	_
@@ -23210,7 +23210,7 @@
 # text = También destacó que "la existencia de dicho documento podría tener consecuencias tan probables como inaceptables".
 # text_en = He also remarked that "the existence of such a document could lead to consequences that are as likely as they are unacceptable".
 1	También	también	ADV	RB	_	2	advmod	_	_
-2	destacó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	destacó	destacar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	IN	_	11	mark	_	_
 4	"	"	PUNCT	``	_	11	punct	_	SpaceAfter=No
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
@@ -26177,7 +26177,7 @@
 # text_en = Greece was divided into many small, self-governing communities, a pattern largely dictated by Greek geography: every island, valley and plain is cut off from its neighbours by the sea or mountain ranges.
 1	Grecia	Grecia	PROPN	NNP	Number=Sing	3	nsubj:pass	_	_
 2	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
-3	dividida	_	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+3	dividida	dividir	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	entre	entre	ADP	IN	_	7	case	_	_
 5	muchas	mucho	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	7	det	_	_
 6	pequeñas	pequeño	ADJ	JJ	Gender=Fem|Number=Plur	7	amod	_	_
@@ -27871,7 +27871,7 @@
 13	1415	1415	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	11	nmod	_	_
 14	y	y	CCONJ	CC	_	16	cc	_	_
 15	Enrique	Enrique	PROPN	NNP	Gender=Masc|Number=Sing	16	nsubj	_	_
-16	decidió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
+16	decidió	decidir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
 17	ejecutar	ejecutar	VERB	VB	VerbForm=Inf	16	xcomp	_	_
 18	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
 19	plan	plan	NOUN	NN	Gender=Masc|Number=Sing	17	obj	_	SpaceAfter=No
