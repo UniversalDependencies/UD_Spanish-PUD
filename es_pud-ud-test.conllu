@@ -6468,7 +6468,7 @@
 1	Sin	sin	ADP	IN	_	3	case	_	_
 2	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	límites	límite	NOUN	NN	Gender=Masc|Number=Plur	8	obl	_	_
-4	propuestos	_	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_
+4	propuestos	proponer	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	bacalao	bacalao	NOUN	NN	Gender=Masc|Number=Sing	8	nsubj	_	_
 7	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	_
@@ -6827,7 +6827,7 @@
 8	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	gorra	gorra	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
 10	roja	rojo	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	_
-11	preside	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	preside	presidir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	plataforma	plataforma	NOUN	NN	Gender=Fem|Number=Sing	11	obj	_	_
 14	y	y	CCONJ	CC	_	22	cc	_	_
@@ -9513,7 +9513,7 @@
 16	de	de	ADP	IN	_	17	case	_	_
 17	trabajo	trabajo	NOUN	NN	Gender=Masc|Number=Sing	15	nmod	_	_
 18	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	19	nsubj	_	_
-19	pretende	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+19	pretende	pretender	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
 20	desafiar	desafiar	VERB	VB	VerbForm=Inf	19	xcomp	_	_
 21	a	a	ADP	IN	_	22	case	_	_
 22	Slack	Slack	PROPN	NNP	Number=Sing	20	obl	_	SpaceAfter=No
@@ -10693,7 +10693,7 @@
 15	,	,	PUNCT	,	_	18	punct	_	_
 16	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	cual	cual	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	18	nsubj	_	_
-18	preside	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+18	preside	presidir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
 19	sobre	sobre	ADP	IN	_	20	case	_	_
 20	más	más	ADV	RBR	Degree=Cmp	18	xcomp	_	_
 21	de	de	ADP	IN	_	23	case	_	_
@@ -12299,7 +12299,7 @@
 # text_en = The Alps provide lowland Europe with drinking water, irrigation, and hydroelectric power.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	Alpes	_	NOUN	NN	Gender=Masc|Number=Plur	3	nsubj	_	Proper=True
-3	proporcionan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	proporcionan	proporcionar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	agua	agua	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
 5	potable	_	ADJ	JJ	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	7	punct	_	_
@@ -12335,7 +12335,7 @@
 14	,	,	PUNCT	,	_	8	punct	_	_
 15	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
 16	Alpes	_	NOUN	NN	Gender=Masc|Number=Plur	17	nsubj	_	Proper=True
-17	proporcionan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+17	proporcionan	proporcionar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 18	más	más	ADV	RBR	Degree=Cmp	17	obj	_	_
 19	de	de	ADP	IN	_	21	case	_	_
 20	90	90	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	21	nummod	_	SpaceAfter=No
@@ -16151,7 +16151,7 @@
 5	baja	bajo	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	_
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pass	_	_
 7	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
-8	propuesto	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	propuesto	proponer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 9	como	como	ADP	IN	_	11	case	_	_
 10	posible	_	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	_
 11	causa	causa	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
@@ -17253,7 +17253,7 @@
 27	en	en	ADP	IN	_	29	case	_	_
 28	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
 29	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	30	obl	_	_
-30	presidió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	acl:relcl	_	SpaceAfter=No
+30	presidió	presidir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	acl:relcl	_	SpaceAfter=No
 31	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = w01095092
@@ -17582,7 +17582,7 @@
 25	Hunan	Hunan	PROPN	NNP	Number=Sing	22	nmod	_	_
 26	y	y	CCONJ	CC	_	27	cc	_	_
 27	Hubei	Hubei	PROPN	NNP	Number=Sing	25	conj	_	_
-28	prohibiera	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	xcomp	_	_
+28	prohibiera	prohibir	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	xcomp	_	_
 29	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
 30	comercio	comercio	NOUN	NN	Gender=Masc|Number=Sing	28	obj	_	_
 31	exterior	exterior	ADJ	JJ	Gender=Masc|Number=Sing	30	amod	_	_
@@ -24212,7 +24212,7 @@
 15	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	19	obj	_	_
 16	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	presidente	presidente	NOUN	NN	Gender=Masc|Number=Sing	18	nsubj	_	_
-18	pretende	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
+18	pretende	pretender	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
 19	enviar	enviar	VERB	VB	VerbForm=Inf	18	xcomp	_	_
 20	a	a	ADP	IN	_	22	case	_	_
 21	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
@@ -27715,7 +27715,7 @@
 8	John	John	PROPN	NNP	Gender=Masc|Number=Sing	7	appos	_	_
 9	Burgoyne	Burgoyne	PROPN	NNP	Gender=Masc|Number=Sing	8	flat:name	_	_
 10	y	y	CCONJ	CC	_	11	cc	_	_
-11	pretendía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	_
+11	pretendía	pretender	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	_
 12	llegar	llegar	VERB	VB	VerbForm=Inf	11	xcomp	_	_
 13	a	a	ADP	IN	_	14	case	_	_
 14	Albany	Albany	PROPN	NNP	Number=Sing	12	obl	_	SpaceAfter=No
