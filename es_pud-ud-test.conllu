@@ -4315,7 +4315,7 @@
 2	más	más	ADV	RBR	Degree=Cmp	3	advmod	_	_
 3	diferencias	diferencia	NOUN	NN	Gender=Fem|Number=Plur	1	nsubj	_	_
 4	que	que	ADP	IN	_	5	case	_	_
-5	similitudes	_	NOUN	NN	Gender=Fem|Number=Plur	2	obl	_	_
+5	similitudes	similitud	NOUN	NN	Gender=Fem|Number=Plur	2	obl	_	_
 6	entre	entre	ADP	IN	_	7	case	_	_
 7	Sulla	Sulla	PROPN	NNP	Gender=Masc|Number=Sing	3	nmod	_	_
 8	y	y	CCONJ	CC	_	9	cc	_	_
@@ -14780,7 +14780,7 @@
 20	rechazó	rechazar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
 21	todas	todo	DET	PDT	Gender=Fem|Number=Plur|PronType=Tot	23	det	_	_
 22	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	23	det	_	_
-23	solicitudes	_	NOUN	NN	Gender=Fem|Number=Plur	20	obj	_	SpaceAfter=No
+23	solicitudes	solicitud	NOUN	NN	Gender=Fem|Number=Plur	20	obj	_	SpaceAfter=No
 24	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = w01062063
@@ -15685,7 +15685,7 @@
 25	apenas	apenas	ADV	RB	_	28	advmod	_	_
 26	son	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	cop	_	_
 27	meras	mero	ADJ	JJ	Gender=Fem|Number=Plur	28	amod	_	_
-28	similitudes	_	NOUN	NN	Gender=Fem|Number=Plur	21	xcomp	_	SpaceAfter=No
+28	similitudes	similitud	NOUN	NN	Gender=Fem|Number=Plur	21	xcomp	_	SpaceAfter=No
 29	,	,	PUNCT	,	_	32	punct	_	_
 30	probablemente	probablemente	ADV	RB	_	32	advmod	_	_
 31	por	por	ADP	IN	_	32	case	_	_
@@ -27798,7 +27798,7 @@
 16	español	español	NOUN	NN	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No|Proper=True
 17	,	,	PUNCT	,	_	19	punct	_	_
 18	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
-19	vicisitudes	_	NOUN	NN	Gender=Fem|Number=Plur	11	conj	_	_
+19	vicisitudes	vicisitud	NOUN	NN	Gender=Fem|Number=Plur	11	conj	_	_
 20	históricas	histórico	ADJ	JJ	Gender=Fem|Number=Plur	19	amod	_	_
 21	y	y	CCONJ	CC	_	23	cc	_	_
 22	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
