@@ -1123,7 +1123,7 @@
 4	como	como	ADP	IN	_	6	case	_	_
 5	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	súper	superpoder	NOUN	NN	Gender=Masc|Number=Sing|Typo=Yes	3	obl	_	CorrectForm=superpoder
-7	poder	_	X	NN	_	6	goeswith	_	SpaceAfter=No
+7	poder	poder	X	NN	_	6	goeswith	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = n01018040
@@ -3212,7 +3212,7 @@
 20	dólares	dólar	NOUN	NN	Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	,	_	22	punct	_	_
 22	cuantía	cuantía	NOUN	NN	Gender=Fem|Number=Sing	18	appos	_	_
-23	similar	_	ADJ	JJ	Gender=Fem|Number=Sing	22	amod	_	_
+23	similar	similar	ADJ	JJ	Gender=Fem|Number=Sing	22	amod	_	_
 24	a	a	ADP	IN	_	25	case	_	_
 25	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	obl	_	_
 26	de	de	ADP	IN	_	27	case	_	_
@@ -3652,7 +3652,7 @@
 5	actual	actual	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	_
 6	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	de	de	ADP	IN	_	9	case	_	_
-8	ocho	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	9	nummod	_	_
+8	ocho	ocho	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	9	nummod	_	_
 9	semanas	semana	NOUN	NN	Gender=Fem|Number=Plur	6	obl	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	6	punct	_	_
 
@@ -8126,7 +8126,7 @@
 10	ahora	ahora	ADV	RB	_	12	xcomp	_	_
 11	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	_
 12	hecho	hacer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-13	ocho	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	14	nummod	_	_
+13	ocho	ocho	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	14	nummod	_	_
 14	películas	película	NOUN	NN	Gender=Fem|Number=Plur	12	obj	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	12	punct	_	_
 
@@ -9854,7 +9854,7 @@
 2	hay	haber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	desfile	desfile	NOUN	NN	Gender=Masc|Number=Sing	2	obj	_	_
 4	y	y	CCONJ	CC	_	8	cc	_	_
-5	nunca	_	ADV	RB	Polarity=Neg	8	advmod	_	_
+5	nunca	nunca	ADV	RB	Polarity=Neg	8	advmod	_	_
 6	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	8	obj	_	_
 7	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
 8	habido	haber	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	SpaceAfter=No
@@ -11323,7 +11323,7 @@
 15	de	de	ADP	IN	_	17	case	_	_
 16	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
 17	bantúes	_	NOUN	NN	Gender=Masc|Number=Plur	14	nmod	_	Proper=True
-18	nunca	_	ADV	RB	Polarity=Neg	19	advmod	_	_
+18	nunca	nunca	ADV	RB	Polarity=Neg	19	advmod	_	_
 19	tuvo	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
 20	contacto	contacto	NOUN	NN	Gender=Masc|Number=Sing	19	obj	_	_
 21	con	con	ADP	IN	_	23	case	_	_
@@ -12301,7 +12301,7 @@
 2	Alpes	_	NOUN	NN	Gender=Masc|Number=Plur	3	nsubj	_	Proper=True
 3	proporcionan	proporcionar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	agua	agua	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
-5	potable	_	ADJ	JJ	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
+5	potable	potable	ADJ	JJ	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	7	punct	_	_
 7	riego	riego	NOUN	NN	Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	10	punct	_	_
@@ -15878,9 +15878,9 @@
 4	Lahore	Lahore	PROPN	NNP	Number=Sing	2	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	unas	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
-7	treinta	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	10	nummod	_	_
+7	treinta	treinta	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	10	nummod	_	_
 8	y	y	CCONJ	CC	_	9	cc	_	_
-9	nueve	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	7	conj	_	_
+9	nueve	nueve	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	7	conj	_	_
 10	historias	historia	NOUN	NN	Gender=Fem|Number=Plur	11	nsubj	_	_
 11	aparecieron	aparecer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 12	en	en	ADP	IN	_	14	case	_	_
@@ -16153,7 +16153,7 @@
 7	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
 8	propuesto	proponer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 9	como	como	ADP	IN	_	11	case	_	_
-10	posible	_	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	_
+10	posible	posible	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	_
 11	causa	causa	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
 12	de	de	ADP	IN	_	13	case	_	_
 13	reivindicaciones	reivindicación	NOUN	NN	Gender=Fem|Number=Plur	11	nmod	_	SpaceAfter=No
@@ -16296,7 +16296,7 @@
 4	a	a	ADP	IN	_	6	case	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	población	población	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	_
-7	sefardí	_	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	Proper=True
+7	sefardí	sefardí	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	Proper=True
 8	en	en	ADP	IN	_	9	case	_	_
 9	1492	1492	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	obl	_	SpaceAfter=No
 10	;	;	PUNCT	:	_	16	punct	_	_
@@ -17397,7 +17397,7 @@
 # text_en = Land warfare changed from the static front lines of World War I to increased mobility and combined arms.
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	guerra	guerra	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	_
-3	terrestre	_	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	_
+3	terrestre	terrestre	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	_
 4	pasó	pasar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	IN	_	7	case	_	_
 6	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
@@ -17462,7 +17462,7 @@
 17	como	como	ADP	IN	_	19	case	_	_
 18	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	fuerza	fuerza	NOUN	NN	Gender=Fem|Number=Sing	16	obl	_	_
-20	viable	_	ADJ	JJ	Gender=Fem|Number=Sing	19	amod	_	_
+20	viable	viable	ADJ	JJ	Gender=Fem|Number=Sing	19	amod	_	_
 21	luego	luego	ADV	RB	_	16	advmod	_	_
 22	de	de	ADP	IN	_	26	case	_	_
 23	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	26	det	_	_
@@ -17729,7 +17729,7 @@
 16	involucrados	involucrar	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	12	acl	_	_
 17	en	en	ADP	IN	_	18	case	_	_
 18	tecnología	tecnología	NOUN	NN	Gender=Fem|Number=Sing	16	obl	_	_
-19	militar	_	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	SpaceAfter=No
+19	militar	militar	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = w01101046
@@ -18459,7 +18459,7 @@
 12	tamaño	tamaño	NOUN	NN	Gender=Masc|Number=Sing	10	nmod	_	_
 13	normal	normal	ADJ	JJ	Gender=Masc|Number=Sing	12	amod	_	_
 14	y	y	CCONJ	CC	_	16	cc	_	_
-15	siete	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	16	nummod	_	_
+15	siete	siete	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	16	nummod	_	_
 16	miniaturas	miniatura	NOUN	NN	Gender=Fem|Number=Plur	10	conj	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -18584,7 +18584,7 @@
 6	que	que	SCONJ	IN	_	8	mark	_	_
 7	Kim	Kim	PROPN	NNP	Gender=Masc|Number=Sing	8	nsubj	_	_
 8	compuso	componer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	ccomp	_	_
-9	seis	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	10	nummod	_	_
+9	seis	seis	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	10	nummod	_	_
 10	óperas	ópera	NOUN	NN	Gender=Fem|Number=Plur	8	obj	_	_
 11	y	y	CCONJ	CC	_	12	cc	_	_
 12	disfruta	disfrutar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
@@ -19280,7 +19280,7 @@
 26	casó	casar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	conj	_	_
 27	con	con	ADP	IN	_	30	case	_	_
 28	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
-29	joven	_	ADJ	JJ	Gender=Fem|Number=Sing	30	amod	_	_
+29	joven	joven	ADJ	JJ	Gender=Fem|Number=Sing	30	amod	_	_
 30	viuda	viuda	NOUN	NN	Gender=Fem|Number=Sing	26	obl	_	SpaceAfter=No
 31	,	,	PUNCT	,	_	32	punct	_	_
 32	Ana	Ana	PROPN	NNP	Gender=Fem|Number=Sing	30	appos	_	_
@@ -22708,7 +22708,7 @@
 8	de	de	ADP	IN	_	9	case	_	_
 9	Twitter	Twitter	PROPN	NNP	Number=Sing	7	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	5	punct	_	_
-11	tampoco	_	ADV	RB	Polarity=Neg	13	advmod	_	_
+11	tampoco	tampoco	ADV	RB	Polarity=Neg	13	advmod	_	_
 12	puede	poder	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
 13	manejar	manejar	VERB	VB	VerbForm=Inf	0	root	_	_
 14	códigos	código	NOUN	NN	Gender=Masc|Number=Plur	13	obj	_	_
@@ -26588,7 +26588,7 @@
 9	con	con	ADP	IN	_	11	case	_	_
 10	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	chica	chica	NOUN	NN	Gender=Fem|Number=Sing	7	nmod	_	_
-12	joven	_	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	SpaceAfter=No
+12	joven	joven	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	14	punct	_	_
 14-15	admitiéndolo	_	_	_	_	_	_	_	_
 14	admitiendo	admitir	VERB	VBG	VerbForm=Ger	5	advcl	_	_
