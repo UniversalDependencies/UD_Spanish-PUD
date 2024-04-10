@@ -2879,7 +2879,7 @@
 3	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	det	_	_
 4	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	6	obj	_	_
 5	no	no	ADV	RB	Polarity=Neg	6	advmod	_	_
-6	necesitamos	_	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+6	necesitamos	necesitar	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 7	en	en	ADP	IN	_	9	case	_	_
 8	nuestro	nuestro	PRON	DTP$	Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
 9	país	país	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
@@ -3611,7 +3611,7 @@
 7	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	10	obj	_	_
 8	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	cuerpo	cuerpo	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
-10	necesita	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+10	necesita	necesitar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
 11	para	para	ADP	IN	_	12	case	_	_
 12	producir	producir	VERB	VB	VerbForm=Inf	10	xcomp	_	_
 13	hemoglobina	hemoglobina	NOUN	NN	Gender=Fem|Number=Sing	12	obj	_	SpaceAfter=No
@@ -3698,7 +3698,7 @@
 7	implican	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	que	que	SCONJ	IN	_	10	mark	_	_
 9	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl:pass	_	_
-10	necesitan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
+10	necesitan	necesitar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
 11	más	más	ADV	RBR	Degree=Cmp	12	advmod	_	_
 12	donantes	donante	NOUN	NN	Number=Plur	10	nsubj:pass	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	7	punct	_	_
@@ -3735,7 +3735,7 @@
 26	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	27	det	_	_
 27	niño	niño	NOUN	NN	Gender=Masc|Number=Sing	30	nsubj	_	_
 28	no	no	ADV	RB	Polarity=Neg	29	advmod	_	_
-29	nacido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	27	acl	_	_
+29	nacido	nacer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	27	acl	_	_
 30	padecía	padecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	xcomp	_	_
 31	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
 32	enfermedad	enfermedad	NOUN	NN	Gender=Fem|Number=Sing	30	obj	_	_
@@ -12412,7 +12412,7 @@
 1	Importantes	importante	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	_
 2	ríos	río	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
 3	europeos	europeo	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	Proper=True
-4	nacen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	nacen	nacer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	en	en	ADP	IN	_	6	case	_	_
 6	Suiza	Suiza	PROPN	NNP	Number=Sing	4	obl	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	10	punct	_	_
@@ -27663,7 +27663,7 @@
 7	y	y	CCONJ	CC	_	8	cc	_	_
 8	propagandístico	propagandístico	ADJ	JJ	Gender=Masc|Number=Sing	6	conj	_	_
 9	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	10	obj	_	_
-10	necesitaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	acl:relcl	_	_
+10	necesitaban	necesitar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	acl:relcl	_	_
 11	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
 12	colonos	colono	NOUN	NN	Gender=Masc|Number=Plur	10	nsubj	_	_
 13	para	para	ADP	IN	_	15	case	_	_
