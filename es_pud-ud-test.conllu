@@ -760,7 +760,7 @@
 10	estadounidense	estadounidense	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	Proper=True
 11	tras	tras	ADP	IN	_	13	case	_	_
 12	ser	ser	AUX	VB	VerbForm=Inf	13	aux:pass	_	_
-13	despedido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	xcomp	_	_
+13	despedido	despedir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	xcomp	_	_
 14	en	en	ADP	IN	_	15	case	_	_
 15	julio	julio	NOUN	NN	Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	2	punct	_	_
@@ -3758,7 +3758,7 @@
 6	tumor	tumor	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 7	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	9	nsubj	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	compound:prt	_	_
-9	desarrolla	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+9	desarrolla	desarrollar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
 10	antes	antes	ADV	RB	_	9	advmod	_	_
 11-12	del	_	_	_	_	_	_	_	_
 11	de	de	ADP	INDT	_	13	case	_	_
@@ -6148,7 +6148,7 @@
 4	espacio	espacio	NOUN	NN	Gender=Masc|Number=Sing	7	nsubj	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	oficina	oficina	NOUN	NN	Gender=Fem|Number=Sing	4	nmod	_	_
-7	dispone	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	dispone	disponer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	de	de	ADP	IN	_	10	case	_	_
 9	mucha	mucho	DET	DT	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	10	det	_	_
 10	ropa	ropa	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
@@ -15050,7 +15050,7 @@
 4	Tell	Tell	PROPN	NNP	Number=Sing	2	nmod	_	_
 5	Amarna	Amarna	PROPN	NNP	Number=Sing	4	flat:name	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	2	punct	_	_
-7	datan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	datan	datar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8-9	del	_	_	_	_	_	_	_	_
 8	de	de	ADP	INDT	_	10	case	_	_
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
@@ -20641,7 +20641,7 @@
 2	hace	hacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
 3	mucho	mucho	ADV	RB	_	2	advmod	_	_
 4	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	compound:prt	_	_
-5	divorció	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	divorció	divorciar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	de	de	ADP	IN	_	8	case	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	actriz	actriz	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
@@ -25720,7 +25720,7 @@
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	censura	censura	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	_
 3	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	compound:prt	_	_
-4	deshacía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	deshacía	deshacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	IN	_	8	case	_	_
 6	todas	todo	DET	PDT	Gender=Fem|Number=Plur|PronType=Tot	8	det	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
@@ -26774,7 +26774,7 @@
 28	cuales	cual	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	31	nsubj:pass	_	_
 29	luego	luego	ADV	RB	_	31	advmod	_	_
 30	fueron	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	31	aux:pass	_	_
-31	demolidas	_	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	23	acl:relcl	_	_
+31	demolidas	demoler	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	23	acl:relcl	_	_
 32	junto	junto	ADV	RB	_	35	case	_	_
 33	con	con	ADP	IN	_	32	fixed	_	_
 34	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	35	det	_	_
