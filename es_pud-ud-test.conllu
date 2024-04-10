@@ -916,7 +916,7 @@
 7	principio	principio	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	_
 8	que	que	SCONJ	IN	_	10	mark	_	_
 9	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	compound:prt	_	_
-10	debía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	ccomp	_	_
+10	debía	deber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	ccomp	_	_
 11	a	a	ADP	IN	_	13	case	_	_
 12	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	fallo	fallo	NOUN	NN	Gender=Masc|Number=Sing	10	obl	_	_
@@ -4662,7 +4662,7 @@
 # text = Caplan descarta el voto castigo haciendo referencia a dos académicos que afirman que "es igual de irracional que matar al faraón cuando el Nilo no se inunda".
 # text_en = Caplan dismisses retrospective voting, quoting a pair of scholars who call it “no more rational than killing the pharaoh when the Nile does not flood.”
 1	Caplan	Caplan	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	descarta	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	descarta	descartar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	voto	voto	NOUN	NN	Gender=Masc|Number=Sing	2	obj	_	_
 5	castigo	castigo	NOUN	NN	Gender=Masc|Number=Sing	4	nmod	_	_
@@ -11216,7 +11216,7 @@
 8	agua	agua	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
 9	absorben	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	y	y	CCONJ	CC	_	11	cc	_	_
-11	disuelven	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+11	disuelven	disolver	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
 12	dióxido	dióxido	NOUN	NN	Gender=Masc|Number=Sing	9	obj	_	_
 13	de	de	ADP	IN	_	14	case	_	_
 14	carbono	carbono	NOUN	NN	Gender=Masc|Number=Sing	12	nmod	_	_
@@ -12249,7 +12249,7 @@
 4	alrededor	alrededor	ADV	RB	_	2	advmod	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	América	América	PROPN	NNP	Number=Sing	4	obl	_	_
-7	dependían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+7	dependían	depender	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	eso	eso	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	7	obl	_	_
 10	como	como	ADP	IN	_	11	case	_	_
@@ -12370,7 +12370,7 @@
 1	Ciudades	ciudad	NOUN	NN	Gender=Fem|Number=Plur	4	nsubj	_	_
 2	como	como	ADP	IN	_	3	case	_	_
 3	Milán	Milán	PROPN	NNP	Number=Sing	1	nmod	_	_
-4	dependían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	dependían	depender	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 5	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 6	80	80	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	7	nummod	_	SpaceAfter=No
 7	%	%	SYM	SYM	_	4	advmod	_	_
@@ -16691,7 +16691,7 @@
 # sent_id = w01085006
 # text = Dependía de voluntarios y unidades de milicia estatal que se enfrentaban a problemas logísticos, de entrenamiento y alimentación en las áreas de preparación en la Florida.
 # text_en = It relied on volunteers and state militia units, which faced logistical, training and food problems in the staging areas in Florida.
-1	Dependía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+1	Dependía	depender	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 2	de	de	ADP	IN	_	3	case	_	_
 3	voluntarios	voluntario	NOUN	NN	Gender=Masc|Number=Plur	1	obl	_	_
 4	y	y	CCONJ	CC	_	5	cc	_	_
@@ -17515,7 +17515,7 @@
 6	de	de	ADP	IN	_	8	case	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	música	música	NOUN	NN	Gender=Fem|Number=Sing	5	nmod	_	_
-9	dependen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	dependen	depender	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	de	de	ADP	IN	_	13	case	_	_
 11	cómo	cómo	ADV	WRB	_	13	advmod	_	_
 12	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl:pass	_	_
@@ -17749,7 +17749,7 @@
 12	comprimido	comprimido	NOUN	NN	Gender=Masc|Number=Sing	8	conj	_	_
 13	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	15	nsubj	_	_
 14	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	15	compound:prt	_	_
-15	disolvía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	acl:relcl	_	_
+15	disolvía	disolver	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	acl:relcl	_	_
 16	en	en	ADP	IN	_	17	case	_	_
 17	agua	agua	NOUN	NN	Gender=Fem|Number=Sing	15	obl	_	_
 18	para	para	ADP	IN	_	19	case	_	_
@@ -21898,7 +21898,7 @@
 7	teléfono	teléfono	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	_
 8	inteligente	inteligente	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	_
 9	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux:pass	_	_
-10	detenida	_	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+10	detenida	detener	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 11	completamente	completamente	ADV	RB	_	10	advmod	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	10	punct	_	_
 
@@ -25565,7 +25565,7 @@
 3	de	de	ADP	IN	_	4	case	_	_
 4	Disibodenberg	Disibodenberg	PROPN	NNP	Number=Sing	2	nmod	_	_
 5	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
-6	disuelto	_	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	_
+6	disuelto	disolver	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	_
 7	y	y	CCONJ	CC	_	8	cc	_	_
 8	cayó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
 9	en	en	ADP	IN	_	11	case	_	_
