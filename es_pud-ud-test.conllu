@@ -1042,7 +1042,7 @@
 5	IAG	IAG	PROPN	NNP	Number=Sing	3	conj	_	_
 6	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	8	obj	_	_
 7	hayan	haber	AUX	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
-8	descubierto	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	descubierto	descubrir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 9	y	y	CCONJ	CC	_	11	cc	_	_
 10	puedan	poder	AUX	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
 11	ofrecer	ofrecer	VERB	VB	VerbForm=Inf	8	conj	_	_
@@ -6363,7 +6363,7 @@
 # sent_id = n01092008
 # text = Digamos simplemente que se equivoca.
 # text_en = Let’s just say he’s wrong.
-1	Digamos	_	VERB	VBC	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Digamos	decir	VERB	VBC	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	simplemente	simplemente	ADV	RB	_	1	advmod	_	_
 3	que	que	SCONJ	IN	_	5	mark	_	_
 4	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	compound:prt	_	_
@@ -6458,7 +6458,7 @@
 25	dice	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 26	que	que	SCONJ	IN	_	28	mark	_	_
 27	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	aux	_	_
-28	dicho	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	25	csubj:pass	_	SpaceAfter=No
+28	dicho	decir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	25	csubj:pass	_	SpaceAfter=No
 29	.	.	PUNCT	.	_	2	punct	_	_
 
 # newdoc id = n01093
@@ -6616,7 +6616,7 @@
 # text = No digo a la ligera que es una bestia.
 # text_en = I don’t call it a beast lightly.
 1	No	no	ADV	RB	Polarity=Neg	2	advmod	_	_
-2	digo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	digo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	a	a	ADP	IN	_	5	case	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	ligera	ligera	NOUN	NN	Gender=Fem|Number=Sing	2	obl	_	_
@@ -6761,7 +6761,7 @@
 # sent_id = n01097041
 # text = Descubrí unas cuantas.
 # text_en = I spotted a few.
-1	Descubrí	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Descubrí	descubrir	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 2	unas	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 3	cuantas	cuanta	NOUN	NN	Gender=Fem|Number=Plur	1	obj	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	1	punct	_	_
@@ -16086,7 +16086,7 @@
 # sent_id = w01075039
 # text = Dicho de otra manera: los jóvenes (quienes hicieron la gran mayoría de los combatientes en las guerras civiles) son menos propensos de unirse a una rebelión si ellos obtienen una educación o tienen un buen salario, y ellos pueden asumir que van a prosperar en el futuro.
 # text_en = Phrased another way: young males (who make up the vast majority of combatants in civil wars) are less likely to join a rebellion if they are getting an education or have a comfortable salary, and can reasonably assume that they will prosper in the future.
-1	Dicho	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	24	acl	_	_
+1	Dicho	decir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	24	acl	_	_
 2	de	de	ADP	IN	_	4	case	_	_
 3	otra	otro	DET	DT	Gender=Fem|Number=Sing|PronType=Ind	4	det	_	_
 4	manera	manera	NOUN	NN	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
@@ -25767,7 +25767,7 @@
 20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	asesinato	asesinato	NOUN	NN	Gender=Masc|Number=Sing	18	nmod	_	_
 22	habían	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	23	aux	_	_
-23	dicho	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl:relcl	_	_
+23	dicho	decir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl:relcl	_	_
 24	que	que	SCONJ	IN	_	25	mark	_	_
 25	tenían	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	23	ccomp	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	8	punct	_	_
