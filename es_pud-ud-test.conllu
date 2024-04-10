@@ -1452,8 +1452,8 @@
 14	climático	climático	ADJ	JJ	Gender=Masc|Number=Sing	13	amod	_	SpaceAfter=No
 15	,	,	PUNCT	,	_	21	punct	_	_
 16-17	al	_	_	_	_	_	_	_	_
-16	a	a	ADP	INDT	_	21	case	_	_
-17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+16	a	a	ADP	INDT	_	21	cc	_	_
+17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	fixed	_	_
 18	igual	igual	NOUN	NN	Gender=Masc|Number=Sing	16	fixed	_	_
 19	que	que	ADP	IN	_	16	fixed	_	_
 20	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	21	obj	_	_
@@ -3285,7 +3285,7 @@
 12	que	que	SCONJ	IN	_	23	mark	_	_
 13-14	al	_	_	_	_	_	_	_	_
 13	a	a	ADP	INDT	_	23	advmod	_	_
-14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	fixed	_	_
 15	menos	menos	ADV	RBR	Degree=Cmp	13	fixed	_	_
 16	otros	otro	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	18	det	_	_
 17	seis	seis	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	18	nummod	_	_
@@ -5606,8 +5606,8 @@
 6	,	,	PUNCT	,	_	11	punct	_	_
 7	pero	pero	CCONJ	CC	_	11	cc	_	_
 8-9	al	_	_	_	_	_	_	_	_
-8	a	a	ADP	INDT	_	11	discourse	_	_
-9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+8	a	a	ADP	IN	_	11	advmod	_	_
+9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	fixed	_	_
 10	final	final	NOUN	NN	Gender=Masc|Number=Sing	8	fixed	_	_
 11	decidieron	decidir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
 12	que	que	SCONJ	IN	_	13	mark	_	_
@@ -5950,8 +5950,8 @@
 10	,	,	PUNCT	,	_	15	punct	_	_
 11	pero	pero	CCONJ	CC	_	15	cc	_	_
 12-13	al	_	_	_	_	_	_	_	_
-12	a	a	ADP	INDT	_	15	advmod	_	_
-13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+12	a	a	ADP	IN	_	15	advmod	_	_
+13	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	fixed	_	_
 14	menos	menos	ADV	RBR	Degree=Cmp	12	fixed	_	_
 15	hay	haber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
 16	alguien	alguien	NOUN	NN	Gender=Masc|Number=Sing	15	obj	_	_
@@ -6699,10 +6699,10 @@
 # sent_id = n01096040
 # text = Pero al menos pueden plantar trampas para confundir y disuadir, un concepto conocido como "defensa activa".
 # text_en = But they can at least lay booby-traps to confuse and deter – a concept known as “active defence”.
-1	Pero	pero	CCONJ	CC	_	6	discourse	_	_
+1	Pero	pero	CCONJ	CC	_	6	cc	_	_
 2-3	al	_	_	_	_	_	_	_	_
-2	a	a	ADP	INDT	_	6	discourse	_	_
-3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+2	a	a	ADP	IN	_	6	advmod	_	_
+3	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	fixed	_	_
 4	menos	menos	ADV	RBR	Degree=Cmp	2	fixed	_	_
 5	pueden	poder	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 6	plantar	plantar	VERB	VB	VerbForm=Inf	0	root	_	_
@@ -10529,8 +10529,8 @@
 # text = Al final, sobre 512-511 a. C., el rey de los macedónios, Aminstas I aceptó la dominación de Arqueménida y su país se convirtió en un estado subordinado del Imperio persa.
 # text_en = Eventually, in about 512-511 BC, the Macedonian king Amyntas I accepted the Achaemenid domination and surrendered his country as a vassal state to the Achaemenid Persia.
 1-2	Al	_	_	_	_	_	_	_	_
-1	A	a	ADP	INDT	_	18	discourse	_	_
-2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+1	A	a	ADP	IN	_	18	advmod	_	_
+2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	fixed	_	_
 3	final	final	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	18	punct	_	_
 5	sobre	sobre	ADP	IN	_	6	case	_	_
@@ -11566,7 +11566,7 @@
 14	,	,	PUNCT	,	_	19	punct	_	_
 15-16	al	_	_	_	_	_	_	_	_
 15	a	a	ADP	INDT	_	19	cc	_	_
-16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	fixed	_	_
 17	igual	igual	NOUN	NN	Gender=Masc|Number=Sing	15	fixed	_	_
 18	que	que	ADP	IN	_	15	fixed	_	_
 19	comida	comida	NOUN	NN	Gender=Fem|Number=Sing	3	conj	_	_
@@ -15307,8 +15307,8 @@
 8	ambos	ambos	NOUN	NN	Gender=Masc|Number=Plur	9	nsubj	_	_
 9	mantuvieron	mantener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	ccomp	_	_
 10-11	al	_	_	_	_	_	_	_	_
-10	a	a	ADP	INDT	_	13	discourse	_	_
-11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+10	a	a	ADP	IN	_	13	advmod	_	_
+11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	fixed	_	_
 12	menos	menos	ADV	RBR	Degree=Cmp	10	fixed	_	_
 13	partes	parte	NOUN	NN	Gender=Fem|Number=Plur	9	obj	_	_
 14-15	del	_	_	_	_	_	_	_	_
@@ -19627,8 +19627,8 @@
 # text = Al menos 330 000 personas, incluyendo a 10 000 técnicos estuvieron involucrados.
 # text_en = At least 330,000 people, including 10,000 technicians, were involved.
 1-2	Al	_	_	_	_	_	_	_	_
-1	A	a	ADP	INDT	_	5	advmod	_	_
-2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+1	A	a	ADP	IN	_	5	advmod	_	_
+2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	fixed	_	_
 3	menos	menos	ADV	RBR	Degree=Cmp	1	fixed	_	_
 4	330 000	330000	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	5	nummod	_	_
 5	personas	persona	NOUN	NN	Gender=Fem|Number=Plur	12	nsubj	_	SpaceAfter=No
@@ -23537,8 +23537,8 @@
 14	IVA	iva	NOUN	NN	Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	,	_	20	punct	_	_
 16-17	al	_	_	_	_	_	_	_	_
-16	a	a	ADP	INDT	_	20	advmod	_	_
-17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+16	a	a	ADP	IN	_	20	advmod	_	_
+17	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	fixed	_	_
 18	menos	menos	ADV	RBR	Degree=Cmp	16	fixed	_	_
 19	en	en	ADP	IN	_	20	case	_	_
 20	2017	2017	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	11	obl	_	SpaceAfter=No
@@ -23911,17 +23911,17 @@
 10	mando	mando	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
 11	más	más	ADV	RBR	Degree=Cmp	7	advmod	_	_
 12	que	que	ADP	IN	_	13	case	_	_
-13	nunca	nunca	ADV	RB	_	11	xcomp	_	_
-14	en	en	ADP	IN	_	15	case	_	_
-15	Wall	Wall	PROPN	NNP	Number=Sing	7	obl	_	_
-16	Street	street	NOUN	NN	Number=Sing	15	flat:name	_	SpaceAfter=No|Proper=True
+13	nunca	nunca	ADV	RB	_	11	advcl	_	_
+14	en	en	ADP	IN	_	16	case	_	_
+15	Wall	Wall	PROPN	NNP	Foreign=Yes|Number=Sing	16	compound	_	Lang=en
+16	Street	street	NOUN	NN	Foreign=Yes|Number=Sing	7	obl	_	Lang=en|SpaceAfter=No|Proper=True
 17	,	,	PUNCT	,	_	19	punct	_	_
 18	incluso	incluso	ADV	RB	_	19	advmod	_	_
-19	más	más	ADV	RBR	Degree=Cmp	7	advmod	_	_
-20	que	que	ADP	IN	_	21	case	_	_
-21	en	en	ADP	IN	_	19	obl	_	_
-22	Silicon	silicon	NOUN	NN	Number=Sing	21	flat:name	_	Proper=True
-23	Valley	valley	NOUN	NN	Number=Sing	21	fixed	_	SpaceAfter=No|Proper=True
+19	más	más	ADV	RBR	Degree=Cmp	7	conj	_	_
+20	que	que	ADP	IN	_	23	case	_	_
+21	en	en	ADP	IN	_	23	obl	_	_
+22	Silicon	silicon	NOUN	NN	Foreign=Yes|Number=Sing	23	compound	_	Lang=en|Proper=True
+23	Valley	valley	NOUN	NN	Foreign=Yes|Number=Sing	19	obl	_	Lang=en|SpaceAfter=No|Proper=True
 24	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = n04010017
@@ -25170,8 +25170,8 @@
 # text = Al igual que la mayoría de los yacimientos del sur de Europa, el hallazgo se remonta al inicio del siglo V a. C.
 # text_en = Like the majority of sites in southern Europe, the finding dates back to the early 5th century BC.
 1-2	Al	_	_	_	_	_	_	_	_
-1	A	a	ADP	INDT	_	6	case	_	_
-2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+1	A	a	ADP	IN	_	6	cc	_	_
+2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	fixed	_	_
 3	igual	igual	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	_
 4	que	que	ADP	IN	_	1	fixed	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
