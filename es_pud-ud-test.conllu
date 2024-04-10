@@ -2267,7 +2267,7 @@
 16	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	compound:prt	_	_
 17	oponen	oponer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
 18	a	a	ADP	IN	_	21	case	_	_
-19	cualquier	_	DET	DT	Gender=Fem|Number=Sing|PronType=Ind	21	det	_	_
+19	cualquier	cualquier	DET	DT	Gender=Fem|Number=Sing|PronType=Ind	21	det	_	_
 20	nueva	nuevo	ADJ	JJ	Gender=Fem|Number=Sing	21	amod	_	_
 21	legislación	legislación	NOUN	NN	Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	4	punct	_	_
@@ -17484,7 +17484,7 @@
 7	autosómicos	autosómico	ADJ	JJ	Gender=Masc|Number=Plur	6	amod	_	_
 8	de	de	ADP	IN	_	10	case	_	_
 9	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
-10	roma	_	NOUN	NN	Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No|Proper=True
+10	roma	roma	NOUN	NN	Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No|Proper=True
 11	,	,	PUNCT	,	_	3	punct	_	_
 12	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	fuente	fuente	NOUN	NN	Gender=Fem|Number=Sing	23	nsubj	_	_
@@ -17494,7 +17494,7 @@
 17	surasiática	surasiático	ADJ	JJ	Gender=Fem|Number=Sing	16	amod	_	Proper=True
 18	en	en	ADP	IN	_	20	case	_	_
 19	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
-20	roma	_	NOUN	NN	Gender=Masc|Number=Plur	13	nmod	_	Proper=True
+20	roma	roma	NOUN	NN	Gender=Masc|Number=Plur	13	nmod	_	Proper=True
 21	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
 22	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	noroeste	noroeste	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
