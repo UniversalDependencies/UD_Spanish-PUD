@@ -2541,7 +2541,7 @@
 7	anteriormente	anteriormente	ADV	RB	_	6	advmod	_	_
 8	que	que	SCONJ	IN	_	10	mark	_	_
 9	no	no	ADV	RB	Polarity=Neg	10	advmod	_	_
-10	parecía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	ccomp	_	_
+10	parecía	parecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	ccomp	_	_
 11	que	que	SCONJ	IN	_	13	mark	_	_
 12	Klein	Klein	PROPN	NNP	Gender=Masc|Number=Sing	13	nsubj	_	_
 13	tuviese	tener	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	ccomp	_	_
@@ -3736,7 +3736,7 @@
 27	niño	niño	NOUN	NN	Gender=Masc|Number=Sing	30	nsubj	_	_
 28	no	no	ADV	RB	Polarity=Neg	29	advmod	_	_
 29	nacido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	27	acl	_	_
-30	padecía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	xcomp	_	_
+30	padecía	padecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	xcomp	_	_
 31	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
 32	enfermedad	enfermedad	NOUN	NN	Gender=Fem|Number=Sing	30	obj	_	_
 33	rara	raro	ADJ	JJ	Gender=Fem|Number=Sing	32	amod	_	_
@@ -4925,7 +4925,7 @@
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	ferrocarril	ferrocarril	NOUN	NN	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	,	_	6	punct	_	_
-16	participará	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+16	participará	participar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 17	en	en	ADP	IN	_	19	case	_	_
 18	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	certamen	certamen	NOUN	NN	Gender=Masc|Number=Sing	16	obl	_	_
@@ -6207,7 +6207,7 @@
 20	en	en	ADP	IN	_	21	case	_	_
 21	fotografías	fotografía	NOUN	NN	Gender=Fem|Number=Plur	13	obl	_	_
 22	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	23	nsubj	_	_
-23	parecían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	21	acl:relcl	_	_
+23	parecían	parecer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	21	acl:relcl	_	_
 24	de	de	ADP	IN	_	26	case	_	_
 25	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
 26	años	año	NOUN	NN	Gender=Masc|Number=Plur	23	obl	_	_
@@ -6256,7 +6256,7 @@
 4	de	de	ADP	IN	_	6	case	_	_
 5	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 6	casos	caso	NOUN	NN	Gender=Masc|Number=Plur	3	nmod	_	_
-7	peca	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	peca	pecar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	inocencia	inocencia	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	16	punct	_	_
@@ -7529,7 +7529,7 @@
 15	de	de	ADP	IN	_	16	case	_	_
 16	Avro	Avro	PROPN	NNP	Number=Sing	14	nmod	_	_
 17	Energy	energy	NOUN	NN	Number=Sing	16	flat:name	_	Proper=True
-18	pagarían	_	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	conj	_	_
+18	pagarían	pagar	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	conj	_	_
 19	unas	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
 20	760	760	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	21	nummod	_	_
 21	libras	libra	NOUN	NN	Gender=Fem|Number=Plur	18	obj	_	_
@@ -14787,7 +14787,7 @@
 # text = El parecía que deseaba que el Senado y el estado simplemente actuaran sin él y sus órdenes directas eran vagas, inspiraba más controversia lo que él decía que la legislación en sí misma.
 # text_en = He seems to have wished for the Senate and the state to simply act without him and his direct orders were rather vague, inspiring debate more on what he actually meant than on passing his legislation.
 1	El	el	DET	PRP	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
-2	parecía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	parecía	parecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	IN	_	4	mark	_	_
 4	deseaba	desear	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
 5	que	que	SCONJ	IN	_	12	mark	_	_
@@ -16065,7 +16065,7 @@
 9	indicadores	indicador	NOUN	NN	Gender=Masc|Number=Plur	6	nmod	_	_
 10	de	de	ADP	IN	_	11	case	_	_
 11	ganancias	ganancia	NOUN	NN	Gender=Fem|Number=Plur	9	nmod	_	_
-12	perdidas	_	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	11	acl	_	_
+12	perdidas	perder	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	11	acl	_	_
 13	por	por	ADP	IN	_	15	case	_	_
 14	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	rebelión	rebelión	NOUN	NN	Gender=Fem|Number=Sing	12	obl:agent	_	SpaceAfter=No
@@ -16076,7 +16076,7 @@
 20	que	que	SCONJ	IN	_	25	mark	_	_
 21	unas	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
 22	ganancias	ganancia	NOUN	NN	Gender=Fem|Number=Plur	25	nsubj	_	_
-23	perdidas	_	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	22	acl	_	_
+23	perdidas	perder	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	22	acl	_	_
 24	menores	menor	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Plur	22	amod	_	_
 25	incitaron	incitar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
 26	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
@@ -16227,7 +16227,7 @@
 22	,	,	PUNCT	,	_	25	punct	_	_
 23	donde	donde	ADV	WRB	PronType=Rel	25	advmod	_	_
 24	inicialmente	inicialmente	ADV	RB	_	25	advmod	_	_
-25	parecía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	acl:relcl	_	_
+25	parecía	parecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	acl:relcl	_	_
 26	tener	tener	VERB	VB	VerbForm=Inf	25	xcomp	_	_
 27	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
 28	ventaja	ventaja	NOUN	NN	Gender=Fem|Number=Sing	26	obj	_	_
@@ -21190,7 +21190,7 @@
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	Imperio	imperio	NOUN	NN	Gender=Masc|Number=Sing	12	nsubj	_	Proper=True
 11	otomano	otomano	ADJ	JJ	Gender=Masc|Number=Sing	10	amod	_	Proper=True
-12	perdería	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	csubj:pass	_	_
+12	perdería	perder	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	csubj:pass	_	_
 13	a	a	ADP	IN	_	14	case	_	_
 14	Macedonia	Macedonia	PROPN	NNP	Number=Sing	12	obl	_	_
 15	en	en	ADP	IN	_	17	case	_	_
@@ -22028,7 +22028,7 @@
 12	de	de	ADP	IN	_	14	case	_	_
 13	28	28	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	14	nummod	_	_
 14	años	año	NOUN	NN	Gender=Masc|Number=Plur	11	nmod	_	_
-15	perdió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+15	perdió	perder	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 16	por	por	ADP	IN	_	18	case	_	_
 17	primera	primero	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	_
 18	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	15	obl	_	_
@@ -23418,7 +23418,7 @@
 # text_en = We will evaluate whether and how to continue onto the next section.
 1	Evaluaremos	_	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
 2	si	si	SCONJ	IN	_	3	mark	_	_
-3	pasamos	_	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	ccomp	_	SpaceAfter=No
+3	pasamos	pasar	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	ccomp	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	8	punct	_	_
 5	y	y	CCONJ	CC	_	8	cc	_	_
 6	de	de	ADP	IN	_	8	case	_	_
@@ -26127,7 +26127,7 @@
 2	alfabetización	alfabetización	NOUN	NN	Gender=Fem|Number=Sing	5	nsubj:pass	_	_
 3	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl:pass	_	_
 4	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
-5	perdido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	perdido	perder	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	y	y	CCONJ	CC	_	12	cc	_	_
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	alfabeto	alfabeto	NOUN	NN	Gender=Masc|Number=Sing	12	nsubj:pass	_	_
