@@ -1293,9 +1293,9 @@
 18	LaBrocca	LaBrocca	PROPN	NNP	Gender=Masc|Number=Sing	17	flat:name	_	SpaceAfter=No
 19	,	,	PUNCT	,	_	20	punct	_	_
 20	fundador	fundador	NOUN	NN	Gender=Masc|Number=Sing	17	appos	_	_
-21	de	de	ADP	IN	_	22	case	_	_
-22	Hack	hack	NOUN	NN	Number=Sing	20	nmod	_	Proper=True
-23	Forums	_	NOUN	NN	Number=Plur	22	flat:name	_	SpaceAfter=No|Proper=True
+21	de	de	ADP	IN	_	23	case	_	_
+22	Hack	hack	NOUN	NN	Foreign=Yes|Number=Sing	23	compound	_	Lang=en|Proper=True
+23	Forums	forum	NOUN	NN	Foreign=Yes|Number=Plur	20	nmod	_	Lang=en|SpaceAfter=No|Proper=True
 24	,	,	PUNCT	,	_	27	punct	_	_
 25	en	en	ADP	IN	_	27	case	_	_
 26	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
@@ -5617,7 +5617,7 @@
 14	ver	ver	VERB	VB	VerbForm=Inf	13	xcomp	_	_
 15	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	14	obj	_	_
 16	sin	sin	ADP	IN	_	17	case	_	_
-17	mí	_	PRON	PRP	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	14	obl	_	SpaceAfter=No
+17	mí	yo	PRON	PRP	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	14	obl	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	1	punct	_	_
 
 # newdoc id = n01081
@@ -6740,7 +6740,7 @@
 11	en	en	ADP	IN	_	12	case	_	_
 12	Internet	internet	NOUN	NN	Number=Sing	2	obl	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	2	punct	_	_
-14	mi	_	PRON	DTP$	Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	15	det	_	_
+14	mi	mi	PRON	DTP$	Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	15	det	_	_
 15	lista	lista	NOUN	NN	Gender=Fem|Number=Sing	20	nsubj	_	_
 16	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	20	compound:prt	_	_
 17	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	aux	_	_
@@ -6769,7 +6769,7 @@
 # sent_id = n01097098
 # text = Mi siguiente parada fue Bellingham, muy cerca de la frontera canadiense.
 # text_en = My next stop was Bellingham, right up near the Canadian border.
-1	Mi	_	PRON	DTP$	Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+1	Mi	mi	PRON	DTP$	Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
 2	siguiente	siguiente	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	_
 3	parada	parada	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
 4	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
@@ -9176,8 +9176,8 @@
 23	matriz	matriz	NOUN	NN	Gender=Fem|Number=Sing	21	obj	_	_
 24	de	de	ADP	IN	_	25	case	_	_
 25	KFC	KFC	PROPN	NNP	Number=Sing	23	nmod	_	_
-26	Yum	yum	X	UH	_	23	appos	_	Proper=True
-27	Brands	_	NOUN	NN	Number=Plur	26	flat:name	_	SpaceAfter=No|Proper=True
+26	Yum	yum	INTJ	UH	Foreign=Yes	27	compound	_	Lang=en|Proper=True
+27	Brands	brand	NOUN	NN	Foreign=Yes|Number=Plur	23	appos	_	Lang=en|SpaceAfter=No|Proper=True
 28	.	.	PUNCT	.	_	11	punct	_	_
 
 # newdoc id = n01136
@@ -9229,7 +9229,7 @@
 6	película	película	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	3	punct	_	_
 8	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
-9	Loving	_	PROPN	NNP	Gender=Masc|Number=Plur	17	nsubj	_	SpaceAfter=No
+9	Loving	Loving	PROPN	NNP	Gender=Masc|Number=Plur	17	nsubj	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	14	punct	_	_
 11	y	y	CCONJ	CC	_	14	cc	_	_
 12	en	en	ADP	IN	_	14	advmod	_	_
@@ -9357,7 +9357,7 @@
 2	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	uno	uno	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 4	de	de	ADP	IN	_	7	case	_	_
-5	mis	_	PRON	DTP$	Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+5	mis	mi	PRON	DTP$	Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
 6	mejores	mejor	ADJ	JJR	Degree=Cmp|Gender=Masc|Number=Plur	7	amod	_	_
 7	amigos	amigo	NOUN	NN	Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	19	punct	_	_
@@ -12907,7 +12907,7 @@
 9	Atlántico	Atlántico	PROPN	NNP	Gender=Masc|Number=Sing	8	appos	_	_
 10	a	a	ADP	IN	_	12	case	_	_
 11	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	Proper=True
-12	Indias	_	PROPN	NNP	Gender=Fem|Number=Plur	3	obl	_	_
+12	Indias	India	PROPN	NNP	Gender=Fem|Number=Plur	3	obl	_	_
 13	en	en	ADP	IN	_	14	case	_	_
 14	1492	1492	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	obl	_	SpaceAfter=No
 15	,	,	PUNCT	,	_	16	punct	_	_
@@ -13416,7 +13416,7 @@
 6	viene	venir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	de	de	ADP	IN	_	9	case	_	_
 8	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
-9	Caribs	_	PROPN	NNP	Gender=Masc|Number=Plur	6	obl	_	SpaceAfter=No
+9	Caribs	Carib	PROPN	NNP	Gender=Masc|Number=Plur	6	obl	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	13	punct	_	_
 11	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 12	poderosa	poderoso	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	_
@@ -14093,8 +14093,8 @@
 12	de	de	ADP	IN	_	15	case	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 14	antigua	antiguo	ADJ	JJ	Gender=Fem|Number=Sing	15	amod	_	_
-15	Mongolia	mongolia	NOUN	NN	Gender=Fem|Number=Sing	11	nmod	_	Proper=True
-16	Exterior	_	ADJ	JJ	Gender=Fem|Number=Sing	15	amod	_	Proper=True
+15	Mongolia	Mongolia	PROPN	NNP	Gender=Fem|Number=Sing	11	nmod	_	Proper=True
+16	Exterior	exterior	ADJ	JJ	Gender=Fem|Number=Sing	15	amod	_	Proper=True
 17	durante	durante	ADP	IN	_	19	case	_	_
 18	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	período	período	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	_
@@ -17139,8 +17139,8 @@
 8	tamaño	tamaño	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	_
 9	compacto	compacto	ADJ	JJ	Gender=Masc|Number=Sing	8	amod	_	_
 10	de	de	ADP	IN	_	12	case	_	_
-11	American	American	ADJ	JJ	Number=Plur	12	amod	_	Proper=True
-12	Motors	_	NOUN	NN	Number=Plur	5	nmod	_	Proper=True
+11	American	American	ADJ	JJ	Degree=Pos|Foreign=Yes	12	amod	_	Lang=en|Proper=True
+12	Motors	motor	NOUN	NN	Foreign=Yes|Number=Plur	5	nmod	_	Lang=en|Proper=True
 13	incitó	incitar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 14	a	a	ADP	IN	_	15	case	_	_
 15	GM	GM	PROPN	NNP	Number=Sing	13	obl	_	_
