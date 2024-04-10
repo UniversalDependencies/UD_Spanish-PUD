@@ -3428,7 +3428,7 @@
 3	que	que	SCONJ	IN	_	6	mark	_	_
 4	Rogers	Rogers	PROPN	NNP	Number=Sing	6	nsubj	_	_
 5	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
-6	introducido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
+6	introducido	introducir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
 7	hace	hacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
 8	poco	poco	ADV	RB	_	7	advmod	_	_
 9	aplicación	aplicación	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	_
@@ -4690,7 +4690,7 @@
 26	Nilo	Nilo	PROPN	NNP	Gender=Masc|Number=Sing	29	nsubj	_	_
 27	no	no	ADV	RB	Polarity=Neg	29	advmod	_	_
 28	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	29	compound:prt	_	_
-29	inunda	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	advcl	_	SpaceAfter=No
+29	inunda	inundar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	advcl	_	SpaceAfter=No
 30	"	"	PUNCT	''	_	16	punct	_	SpaceAfter=No
 31	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -6306,7 +6306,7 @@
 18	sorprendería	sorprender	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	ccomp	_	_
 19	que	que	SCONJ	IN	_	21	mark	_	_
 20	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	21	expl:pass	_	_
-21	introduzca	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	csubj	_	_
+21	introduzca	introducir	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	csubj	_	_
 22	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	prohibición	prohibición	NOUN	NN	Gender=Fem|Number=Sing	21	nsubj:pass	_	_
 24	o	o	CCONJ	CC	_	26	cc	_	_
@@ -7609,7 +7609,7 @@
 # text_en = The money invested in Premium Bonds, and in other National Savings & Investments accounts, is used to help fund Government spending.
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	dinero	dinero	NOUN	NN	Gender=Masc|Number=Sing	20	nsubj:pass	_	_
-3	invertido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+3	invertido	invertir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
 4	en	en	ADP	IN	_	5	case	_	_
 5	obligaciones	obligación	NOUN	NN	Gender=Fem|Number=Plur	3	obl	_	_
 6	con	con	ADP	IN	_	7	case	_	_
@@ -10998,7 +10998,7 @@
 1	Luis	Luis	PROPN	NNP	Gender=Masc|Number=Sing	4	nsubj	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Proper=True
 3	Germánico	germánico	NOUN	NN	Gender=Masc|Number=Sing	1	appos	_	Proper=True
-4	invadió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	invadió	invadir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	Moravia	Moravia	PROPN	NNP	Number=Sing	4	obj	_	_
 6	y	y	CCONJ	CC	_	7	cc	_	_
 7	reemplazó	reemplazar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
@@ -21349,7 +21349,7 @@
 20	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	23	obl	_	_
 21	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
 22	inversores	inversor	NOUN	NN	Gender=Masc|Number=Plur	23	nsubj	_	_
-23	invierten	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
+23	invierten	invertir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
 24	miles	mil	NOUN	NN	Gender=Masc|Number=Plur	23	obj	_	_
 25	de	de	ADP	IN	_	26	case	_	_
 26	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	24	nmod	_	_
@@ -23281,7 +23281,7 @@
 19	cuales	cual	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	21	nmod	_	_
 20	15,5	15,5	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	21	nummod	_	_
 21	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	22	nsubj	_	_
-22	irían	_	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	acl:relcl	_	_
+22	irían	ir	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	acl:relcl	_	_
 23	hacia	hacia	ADP	IN	_	25	case	_	_
 24	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	seguridad	seguridad	NOUN	NN	Gender=Fem|Number=Sing	22	obl	_	SpaceAfter=No
