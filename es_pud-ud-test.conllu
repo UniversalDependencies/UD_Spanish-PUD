@@ -1832,7 +1832,7 @@
 # text_en = "Tonight we are carrying out punishments using a high beam," the post reads.
 1	Esta	este	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
 2	noche	noche	NOUN	NN	Gender=Fem|Number=Sing	3	nsubj	_	_
-3	llevaremos	_	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	llevaremos	llevar	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
 4	a	a	ADP	IN	_	5	case	_	_
 5	cabo	cabo	NOUN	NN	Gender=Masc|Number=Sing	3	obl	_	_
 6	castigos	castigo	NOUN	NN	Gender=Masc|Number=Plur	3	obj	_	_
@@ -5492,7 +5492,7 @@
 5	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	chica	chica	NOUN	NN	Gender=Fem|Number=Sing	4	obj	_	_
 7	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	8	nsubj	_	_
-8	lleva	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+8	lleva	llevar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
 9	velo	velo	NOUN	NN	Gender=Masc|Number=Sing	8	obj	_	_
 10	y	y	CCONJ	CC	_	11	cc	_	_
 11	vaqueros	vaquero	NOUN	NN	Gender=Masc|Number=Plur	9	conj	_	SpaceAfter=No
@@ -5513,7 +5513,7 @@
 # text_en = Artists reach people at their heart; it’s the only time we meet in one place and put our differences aside.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	artistas	artista	NOUN	NN	Gender=Masc|Number=Plur	3	nsubj	_	_
-3	llegan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	llegan	llegar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4-5	al	_	_	_	_	_	_	_	_
 4	a	a	ADP	INDT	_	6	case	_	_
 5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -8808,7 +8808,7 @@
 10	muy	muy	ADV	RB	_	11	advmod	_	_
 11	disputada	disputado	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	9	punct	_	_
-13	llevará	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+13	llevará	llevar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 14-15	al	_	_	_	_	_	_	_	_
 14	a	a	ADP	INDT	_	16	case	_	_
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
@@ -13028,7 +13028,7 @@
 10	antes	antes	ADV	RB	_	4	advmod	_	_
 11	de	de	ADP	IN	_	13	case	_	_
 12	que	que	SCONJ	IN	_	13	mark	_	_
-13	llegasen	_	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	xcomp	_	_
+13	llegasen	llegar	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	xcomp	_	_
 14	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
 15	europeos	europeo	NOUN	NN	Gender=Masc|Number=Plur	13	nsubj	_	Proper=True
 16	a	a	ADP	IN	_	18	case	_	_
@@ -27107,7 +27107,7 @@
 8	contundente	contundente	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	_
 9	en	en	ADP	IN	_	10	case	_	_
 10	Austerlitz	Austerlitz	PROPN	NNP	Number=Sing	7	nmod	_	_
-11	llevaría	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	xcomp	_	_
+11	llevaría	llevar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	xcomp	_	_
 12	a	a	ADP	IN	_	14	case	_	_
 13	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	tratado	tratado	NOUN	NN	Gender=Masc|Number=Sing	11	obl	_	_
