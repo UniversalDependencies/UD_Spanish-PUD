@@ -26985,7 +26985,7 @@
 13	Enrique	Enrique	PROPN	NNP	Gender=Masc|Number=Sing	11	obl	_	_
 14	I	i	ADJ	JJ	Gender=Masc|Number=Sing	13	amod	_	Proper=True
 15	y	y	CCONJ	CC	_	20	cc	_	_
-16	éstos	_	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	20	nsubj	_	_
+16	éstos	este	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	20	nsubj	_	_
 17	han	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	20	aux	_	_
 18	sido	ser	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	cop	_	_
 19	ampliamente	ampliamente	ADV	RB	_	20	advmod	_	_
