@@ -26884,10 +26884,10 @@
 11	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = w04004051
-# text = Se creó la entonces segunda región real de Apulia y Calabria, que también incuía Samnio, partes de Molise y la Basilicata oriental.
+# text = Se creó la entonces segunda región real de Apulia y Calabria, que también incluía Samnio, partes de Molise y la Basilicata oriental.
 # text_en = The second Apulian and Calabrian Royal Region was then established, also including Samnium, parts of Molise and the oriental Basilicata.
 1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl:pass	_	_
-2	creó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	creó	crear	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 4	entonces	entonces	ADV	RB	_	6	advmod	_	_
 5	segunda	segundo	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	_
@@ -26900,7 +26900,7 @@
 12	,	,	PUNCT	,	_	15	punct	_	_
 13	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	15	nsubj	_	_
 14	también	también	ADV	RB	_	15	advmod	_	_
-15	incuía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	acl:relcl	_	_
+15	incluía	incluir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	acl:relcl	_	_
 16	Samnio	Samnio	PROPN	NNP	Number=Sing	15	obj	_	SpaceAfter=No
 17	,	,	PUNCT	,	_	18	punct	_	_
 18	partes	parte	NOUN	NN	Gender=Fem|Number=Plur	16	conj	_	_
