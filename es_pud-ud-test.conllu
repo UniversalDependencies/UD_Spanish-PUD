@@ -340,7 +340,7 @@
 15	,	,	PUNCT	,	_	7	punct	_	_
 16	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
 17	estudiantes	estudiante	NOUN	NN	Gender=Masc|Number=Plur	18	nsubj	_	_
-18	aprenden	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+18	aprenden	aprender	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 19	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	contenido	contenido	NOUN	NN	Gender=Masc|Number=Sing	18	obj	_	_
 21	científico	científico	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	_
@@ -1437,7 +1437,7 @@
 # sent_id = n01022010
 # text = Avanzamos en la dirección correcta: el Acuerdo de París reducirá el cambio climático, al igual que lo hará la Enmienda de Kigali que tiene como objetivo reducir los gases HFC, dijo Erik Solheim, director ejecutivo de ONU Ambiente.
 # text_en = "We are moving in the right direction: the Paris Agreement will slow climate change, as will the recent Kigali Amendment to reduce HFCs," said Erik Solheim, head of UN Environment.
-1	Avanzamos	_	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Avanzamos	avanzar	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	en	en	ADP	IN	_	4	case	_	_
 3	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	dirección	dirección	NOUN	NN	Gender=Fem|Number=Sing	1	obl	_	_
@@ -2006,7 +2006,7 @@
 # text = Le apasiona la guitarra y dio un concierto allí ese mismo año.
 # text_en = A keen guitarist, he played a concert there the same year.
 1	Le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obl:arg	_	_
-2	apasiona	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	apasiona	apasionar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	guitarra	guitarra	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 5	y	y	CCONJ	CC	_	6	cc	_	_
@@ -4155,7 +4155,7 @@
 5	de	de	ADP	INDT	_	7	case	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	Norte	norte	NOUN	NN	Gender=Masc|Number=Sing	4	nmod	_	Proper=True
-8	aprobase	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	xcomp	_	_
+8	aprobase	aprobar	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	xcomp	_	_
 9	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
 10	ley	ley	NOUN	NN	Gender=Fem|Number=Sing	8	obj	_	_
 11	de	de	ADP	IN	_	12	case	_	_
@@ -4443,7 +4443,7 @@
 1	A	a	SCONJ	IN	_	4	mark	_	_
 2	medida	medida	NOUN	NN	Gender=Fem|Number=Sing	1	fixed	_	_
 3	que	que	ADP	IN	_	1	fixed	_	_
-4	aumenta	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+4	aumenta	aumentar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	histeria	histeria	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	_
 7	por	por	ADP	IN	_	9	case	_	_
@@ -5904,7 +5904,7 @@
 # sent_id = n01085008
 # text = Avancemos hasta 2016 y esto merece cada vez más atención.
 # text_en = Fast forward to 2016 and this is increasingly worthy of attention.
-1	Avancemos	_	VERB	VBC	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Avancemos	avanzar	VERB	VBC	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	hasta	hasta	ADP	IN	_	3	case	_	_
 3	2016	2016	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	1	obl	_	_
 4	y	y	CCONJ	CC	_	6	cc	_	_
@@ -7498,7 +7498,7 @@
 8	que	que	SCONJ	IN	_	11	mark	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	precio	precio	NOUN	NN	Gender=Masc|Number=Sing	11	nsubj	_	_
-11	aumente	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	csubj:pass	_	_
+11	aumente	aumentar	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	csubj:pass	_	_
 12	en	en	ADP	IN	_	13	case	_	_
 13	invierno	invierno	NOUN	NN	Gender=Masc|Number=Sing	11	obl	_	_
 14	con	con	ADP	IN	_	16	case	_	_
@@ -9496,7 +9496,7 @@
 # text = Microsoft anunció este miércoles el lanzamiento de una nueva herramienta de chat para el lugar de trabajo que pretende desafiar a Slack, la favorita del sector.
 # text_en = Microsoft announced on Wednesday a new workplace chat tool poised to take on industry darling Slack.
 1	Microsoft	Microsoft	PROPN	NNP	Number=Sing	2	nsubj	_	_
-2	anunció	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	anunció	anunciar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	este	este	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 4	miércoles	miércoles	NOUN	NN	Gender=Masc|Number=Sing	2	obl:tmod	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -18609,7 +18609,7 @@
 10	solución	solución	NOUN	NN	Gender=Fem|Number=Sing	8	obj	_	_
 11	intermedia	intermedio	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No
 12	:	:	PUNCT	:	_	13	punct	_	_
-13	asistiría	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	parataxis	_	_
+13	asistiría	asistir	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	parataxis	_	_
 14	a	a	ADP	IN	_	16	case	_	_
 15	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	universidad	universidad	NOUN	NN	Gender=Fem|Number=Sing	13	obl	_	_
@@ -19414,7 +19414,7 @@
 # text = Elliot asistió al funeral de su padre el mismo día de la carrera.
 # text_en = Elliott was attending his father's funeral on the day of the race.
 1	Elliot	Elliot	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	asistió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	asistió	asistir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3-4	al	_	_	_	_	_	_	_	_
 3	a	a	ADP	INDT	_	5	case	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -21570,7 +21570,7 @@
 # text = Rusia anunció una suspensión del contrato a principios de octubre.
 # text_en = Russia announced a suspension of the contract at the beginning of October.
 1	Rusia	Rusia	PROPN	NNP	Number=Sing	2	nsubj	_	_
-2	anunció	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	anunció	anunciar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	suspensión	suspensión	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 5-6	del	_	_	_	_	_	_	_	_
@@ -21842,7 +21842,7 @@
 # text_en = Simon Krätschmer gropes around alone through the dilapidated, sinister barrack.
 1	Simon	Simon	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	Krätschmer	Krätschmer	PROPN	NNP	Gender=Masc|Number=Sing	1	flat:name	_	_
-3	avanza	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	avanza	avanzar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	a	a	ADP	IN	_	3	advmod	_	_
 5	tientas	tienta	NOUN	NN	Gender=Fem|Number=Plur	4	fixed	_	_
 6	en	en	ADP	IN	_	7	case	_	_
@@ -23237,7 +23237,7 @@
 4	francés	francés	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No|Proper=True
 5	,	,	PUNCT	,	_	7	punct	_	_
 6	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	_
-7	asesora	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+7	asesora	asesorar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 8	sobre	sobre	ADP	IN	_	9	case	_	_
 9	proyectos	proyecto	NOUN	NN	Gender=Masc|Number=Plur	7	obl	_	_
 10	de	de	ADP	IN	_	11	case	_	_
@@ -23966,7 +23966,7 @@
 10	Uber	Uber	PROPN	NNP	Number=Sing	6	conj	_	_
 11	y	y	CCONJ	CC	_	12	cc	_	_
 12	Snapchat	Snapchat	PROPN	NNP	Number=Sing	6	conj	_	_
-13	asistirán	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+13	asistirán	asistir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 14	a	a	ADP	IN	_	16	case	_	_
 15	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	evento	evento	NOUN	NN	Gender=Masc|Number=Sing	13	obl	_	_
@@ -25062,7 +25062,7 @@
 9	Ministro	ministro	NOUN	NN	Gender=Masc|Number=Sing	5	appos	_	_
 10	turco	turco	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No|Proper=True
 11	,	,	PUNCT	,	_	9	punct	_	_
-12	anunció	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	anunció	anunciar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
 14	planes	_	NOUN	NN	Gender=Masc|Number=Plur	12	obj	_	_
 15	de	de	ADP	IN	_	17	case	_	_
