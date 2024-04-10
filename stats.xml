@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>1000</sentences><tokens>22818</tokens><words>23285</words><fused>467</fused></test>
   </size>
-  <lemmas unique="4394" /><!-- el, de, ,, ., en, a, que, él, uno, y, ser, su, por, haber, con -->
+  <lemmas unique="4400" /><!-- el, de, ,, ., en, a, que, él, uno, y, ser, su, por, haber, con -->
   <forms unique="5937" /><!-- de, el, ,, ., la, en, a, que, y, los, se, un, las, una, por -->
   <fusions unique="63" /><!-- del, al, verlo, beneficiarse, convirtiéndose, hacerlo, recuperarlo, Didn't, Don't, admitiéndolo, alejarse, aplicándolo, centrarse, centrándose, comprometerse -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -29,7 +29,7 @@
     <tag name="PUNCT">2290</tag><!-- ,, ., ", (, ), :, ;, -, ?, ¿ -->
     <tag name="SCONJ">261</tag><!-- que, si, como, aunque, porque, a, mientras, de, hasta, para -->
     <tag name="SYM">21</tag><!-- % -->
-    <tag name="VERB">2192</tag><!-- _, tener, hacer, decir, ser, estar, haber, dar, establecer, incluir -->
+    <tag name="VERB">2192</tag><!-- tener, _, hacer, decir, ser, estar, haber, dar, establecer, incluir -->
     <tag name="X">13</tag><!-- cápita, per, _, bjórr, ey, kven, maiorum, meänkieli, mos, oblast -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->

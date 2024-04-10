@@ -3473,7 +3473,7 @@
 # text_en = "These estimates coincide with the percentages of new condos entering the rental market upon completion, indicating the important role (domestic) investors play in the GTA housing market."
 1	Estas	este	DET	DT	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
 2	estimaciones	estimación	NOUN	NN	Gender=Fem|Number=Plur	3	nsubj	_	_
-3	coinciden	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	coinciden	coincidir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	con	con	ADP	IN	_	6	case	_	_
 5	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 6	porcentajes	_	NOUN	NN	Gender=Masc|Number=Plur	3	obl	_	_
@@ -5145,7 +5145,7 @@
 7	luto	luto	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	_
 8	en	en	ADP	IN	_	9	case	_	_
 9	Facebook	Facebook	PROPN	NNP	Number=Sing	5	nmod	_	_
-10	contenía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+10	contenía	contener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 11	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	frase	frase	NOUN	NN	Gender=Fem|Number=Sing	10	obj	_	_
 13	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	16	nsubj	_	_
@@ -9812,7 +9812,7 @@
 6	que	que	SCONJ	IN	_	9	mark	_	_
 7	Johnny	Johnny	PROPN	NNP	Gender=Masc|Number=Sing	9	nsubj	_	_
 8	Carson	Carson	PROPN	NNP	Gender=Masc|Number=Sing	7	flat:name	_	_
-9	cogiese	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
+9	cogiese	coger	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
 10	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	escalera	escalera	NOUN	NN	Gender=Fem|Number=Sing	9	obj	_	_
 12	de	de	ADP	IN	_	13	case	_	_
@@ -10310,7 +10310,7 @@
 5	minerales	mineral	NOUN	NN	Gender=Masc|Number=Plur	3	obl	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	8	punct	_	_
 7	pues	pues	SCONJ	IN	_	8	mark	_	_
-8	contiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+8	contiene	contener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
 9	grandes	grande	ADJ	JJ	Gender=Masc|Number=Plur	10	amod	_	_
 10	depósitos	depósito	NOUN	NN	Gender=Masc|Number=Plur	8	obj	_	_
 11	de	de	ADP	IN	_	12	case	_	_
@@ -11458,7 +11458,7 @@
 45	y	y	CCONJ	CC	_	46	cc	_	_
 46	14	14	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	44	conj	_	_
 47	años	año	NOUN	NN	Gender=Masc|Number=Plur	42	nmod	_	_
-48	compaginaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	31	conj	_	_
+48	compaginaban	compaginar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	31	conj	_	_
 49	trabajar	trabajar	VERB	VB	VerbForm=Inf	48	xcomp	_	_
 50	con	con	ADP	IN	_	51	case	_	_
 51	ir	ir	VERB	VB	VerbForm=Inf	48	xcomp	_	_
@@ -12564,7 +12564,7 @@
 # sent_id = w01033022
 # text = Contiene una laguna muy pequeña, que tenía de todo pero se secó.
 # text_en = It contains a tiny lagoon, which has all but dried up.
-1	Contiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Contiene	contener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	laguna	laguna	NOUN	NN	Gender=Fem|Number=Sing	1	obj	_	_
 4	muy	muy	ADV	RB	_	5	advmod	_	_
@@ -14115,7 +14115,7 @@
 8	,	,	PUNCT	,	_	3	punct	_	_
 9	Ramsés	Ramsés	PROPN	NNP	Gender=Masc|Number=Sing	11	nsubj	_	_
 10	II	ii	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	Proper=True
-11	cometió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11	cometió	cometer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 12	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 13	grave	grave	ADJ	JJ	Gender=Masc|Number=Sing	14	amod	_	_
 14	error	error	NOUN	NN	Gender=Masc|Number=Sing	11	obj	_	_
@@ -14487,7 +14487,7 @@
 8	y	y	CCONJ	CC	_	10	cc	_	_
 9	otros	otro	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	10	det	_	_
 10	intelectuales	intelectual	NOUN	NN	Gender=Masc|Number=Plur	4	conj	_	_
-11	creaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+11	creaban	crear	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 12	trabajos	trabajo	NOUN	NN	Gender=Masc|Number=Plur	11	obj	_	_
 13	inspirados	inspirar	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	12	acl	_	_
 14	en	en	ADP	IN	_	16	case	_	_
@@ -16755,7 +16755,7 @@
 6	de	de	ADP	IN	_	7	case	_	_
 7	paz	paz	NOUN	NN	Gender=Fem|Number=Sing	5	nmod	_	_
 8	España	España	PROPN	NNP	Number=Sing	9	nsubj	_	_
-9	cedía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+9	cedía	ceder	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 10	a	a	ADP	IN	_	12	case	_	_
 11	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
 12	Estados	estado	NOUN	NN	Gender=Masc|Number=Plur	9	obl	_	Proper=True
@@ -16907,7 +16907,7 @@
 19	funerario	funerario	ADJ	JJ	Gender=Masc|Number=Sing	18	amod	_	_
 20	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	22	obj	_	_
 21	estos	este	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	22	nsubj	_	_
-22	contenían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	18	acl:relcl	_	SpaceAfter=No
+22	contenían	contener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	18	acl:relcl	_	SpaceAfter=No
 23	.	.	PUNCT	.	_	10	punct	_	_
 
 # sent_id = w01089040
@@ -17058,7 +17058,7 @@
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Revolución	revolución	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	Proper=True
 3	Industrial	industrial	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	Proper=True
-4	creó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	creó	crear	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	demanda	demanda	NOUN	NN	Gender=Fem|Number=Sing	4	obj	_	_
 7	por	por	ADP	IN	_	8	case	_	_
@@ -17618,7 +17618,7 @@
 4	Hong	Hong	PROPN	NNP	_	2	nmod	_	_
 5	Kong	Kong	PROPN	NNP	_	4	flat:name	_	_
 6	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
-7	cedida	_	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	cedida	ceder	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 8	a	a	ADP	IN	_	10	case	_	_
 9	Gran	gran	ADJ	JJ	Number=Sing	10	amod	_	Proper=True
 10	Bretaña	Bretaña	PROPN	NNP	Number=Sing	7	obl	_	SpaceAfter=No
@@ -24977,7 +24977,7 @@
 # sent_id = w02005029
 # text = Contiene un monumento a Martin Luther King, Jr.
 # text_en = It contains a monument to Martin Luther King, Jr.
-1	Contiene	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Contiene	contener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	monumento	monumento	NOUN	NN	Gender=Masc|Number=Sing	1	obj	_	_
 4	a	a	ADP	IN	_	5	case	_	_
@@ -27267,7 +27267,7 @@
 # text = Nicolai colabora con varias pistas cinematográficas tanto de Morricone como Metti, juntos en una noche en la cena; algunas eran escritas por ambos.
 # text_en = Nicolai collaborates on various cinematic scores by Morricone as Metti, one night at dinner; some of them were written by both together.
 1	Nicolai	Nicolai	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	colabora	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	colabora	colaborar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	con	con	ADP	IN	_	5	case	_	_
 4	varias	vario	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	5	det	_	_
 5	pistas	pista	NOUN	NN	Gender=Fem|Number=Plur	2	obl	_	_
