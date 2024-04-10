@@ -1247,7 +1247,7 @@
 19	,	,	PUNCT	,	_	7	punct	_	_
 20	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	evento	evento	NOUN	NN	Gender=Masc|Number=Sing	22	nsubj	_	_
-22	ofrece	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+22	ofrece	ofrecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 23	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
 24	oportunidad	oportunidad	NOUN	NN	Gender=Fem|Number=Sing	22	obj	_	_
 25	a	a	ADP	IN	_	26	case	_	_
@@ -2265,7 +2265,7 @@
 14	religiosas	religioso	ADJ	JJ	Gender=Fem|Number=Plur	13	amod	_	_
 15	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	17	nsubj	_	_
 16	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	compound:prt	_	_
-17	oponen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+17	oponen	oponer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
 18	a	a	ADP	IN	_	21	case	_	_
 19	cualquier	_	DET	DT	Gender=Fem|Number=Sing|PronType=Ind	21	det	_	_
 20	nueva	nuevo	ADJ	JJ	Gender=Fem|Number=Sing	21	amod	_	_
@@ -4204,7 +4204,7 @@
 10	entorno	entorno	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	_
 11	cuando	cuando	ADV	WRB	PronType=Rel	13	advmod	_	_
 12	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	compound:prt	_	_
-13	originaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+13	originaban	originar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
 14	conflictos	conflicto	NOUN	NN	Gender=Masc|Number=Plur	13	nsubj	_	_
 15	y	y	CCONJ	CC	_	17	cc	_	_
 16	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	compound:prt	_	_
@@ -5697,7 +5697,7 @@
 3	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	IN	_	6	mark	_	_
 5	no	no	ADV	RB	Polarity=Neg	6	advmod	_	_
-6	ofrece	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+6	ofrece	ofrecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
 7	suficiente	suficiente	ADJ	JJ	Gender=Fem|Number=Sing	8	amod	_	_
 8	protección	protección	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	_
 9	a	a	ADP	IN	_	11	case	_	_
@@ -5992,7 +5992,7 @@
 16	más	más	ADV	RBR	Degree=Cmp	14	advmod	_	_
 17	cuando	cuando	ADV	WRB	PronType=Rel	19	advmod	_	_
 18	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	19	obj	_	_
-19	oyes	_	VERB	VBC	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	14	advcl	_	SpaceAfter=No
+19	oyes	oír	VERB	VBC	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	14	advcl	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	1	punct	_	_
 
 # sent_id = n01086031
@@ -10717,7 +10717,7 @@
 5	unidad	unidad	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
 6	especial	especial	ADJ	JJ	Gender=Fem|Number=Sing	5	amod	_	_
 7	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	8	nsubj	_	_
-8	opera	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+8	opera	operar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
 9	con	con	ADP	IN	_	10	case	_	_
 10	embarcaciones	embarcación	NOUN	NN	Gender=Fem|Number=Plur	8	obl	_	_
 11	de	de	ADP	IN	_	12	case	_	_
@@ -16838,7 +16838,7 @@
 20	que	que	SCONJ	IN	_	23	mark	_	_
 21	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
 22	clásicos	clásico	NOUN	NN	Gender=Masc|Number=Plur	23	nsubj	_	_
-23	ofrecían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	19	csubj:pass	_	_
+23	ofrecían	ofrecer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	19	csubj:pass	_	_
 24	enseñanzas	enseñanza	NOUN	NN	Gender=Fem|Number=Plur	23	obj	_	_
 25	morales	moral	ADJ	JJ	Gender=Fem|Number=Plur	24	amod	_	_
 26	y	y	CCONJ	CC	_	28	cc	_	_
@@ -17763,7 +17763,7 @@
 # text = Le ofrecieron varios guiones, comerciales de televisión y proyectos escénicos pero ninguno despertó su interés.
 # text_en = She was offered several scripts, television commercials, and stage projects, but none piqued her interest.
 1	Le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obl:arg	_	_
-2	ofrecieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	ofrecieron	ofrecer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	varios	vario	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	4	det	_	_
 4	guiones	guión	NOUN	NN	Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	6	punct	_	_
@@ -23452,7 +23452,7 @@
 # text_en = Those of age will be offered 500 euros by the state, to be spent by 31st December 2017.
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	estado	estado	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	ofrecerá	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	ofrecerá	ofrecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 4	a	a	ADP	IN	_	6	case	_	_
 5	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 6	mayores	mayor	NOUN	NN	Gender=Masc|Number=Plur	3	obl	_	_
@@ -24906,7 +24906,7 @@
 12	de	de	ADP	IN	_	13	case	_	_
 13	largo	largo	NOUN	NN	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	,	_	7	punct	_	_
-15	ofrece	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	ofrece	ofrecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 16	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	jardín	jardín	NOUN	NN	Gender=Masc|Number=Sing	15	obj	_	_
 18	botánico	botánico	ADJ	JJ	Gender=Masc|Number=Sing	17	amod	_	SpaceAfter=No
