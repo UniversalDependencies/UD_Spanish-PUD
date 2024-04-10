@@ -18,7 +18,7 @@
     <tag name="ADJ">1480</tag><!-- nuevo, gran, primero, último, mayor, unido, británico, nacional, grande, antiguo -->
     <tag name="ADP">3963</tag><!-- de, en, a, por, con, para, como, que, entre, durante -->
     <tag name="ADV">893</tag><!-- no, más, también, cuando, antes, después, ya, muy, tanto, donde -->
-    <tag name="AUX">677</tag><!-- ser, haber, estar, poder, deber, tener, empezar, comenzar, ir, volver -->
+    <tag name="AUX">642</tag><!-- ser, haber, estar, poder, deber, comenzar, do, soler, acostumbrar, contener -->
     <tag name="CCONJ">582</tag><!-- y, pero, o, e, ni, and -->
     <tag name="DET">3321</tag><!-- el, uno, este, otro, todo, ese, mucho, esto, cada, vario -->
     <tag name="INTJ">1</tag><!-- yum -->
@@ -30,7 +30,7 @@
     <tag name="PUNCT">2290</tag><!-- ,, ., ", (, ), :, ;, -, ?, ¿ -->
     <tag name="SCONJ">261</tag><!-- que, si, como, aunque, porque, a, mientras, de, hasta, para -->
     <tag name="SYM">21</tag><!-- % -->
-    <tag name="VERB">2222</tag><!-- tener, hacer, decir, ser, estar, haber, dar, establecer, incluir, ver -->
+    <tag name="VERB">2257</tag><!-- tener, hacer, decir, ser, estar, haber, dar, empezar, establecer, ir -->
     <tag name="X">11</tag><!-- cápita, per, bjórr, ey, kven, maiorum, meänkieli, mos, oblast -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -97,7 +97,7 @@
     <dep name="advmod">820</dep>
     <dep name="amod">1311</dep>
     <dep name="appos">320</dep>
-    <dep name="aux">341</dep>
+    <dep name="aux">307</dep>
     <dep name="aux:pass">94</dep>
     <dep name="case">3698</dep>
     <dep name="cc">567</dep>
@@ -106,7 +106,7 @@
     <dep name="compound">13</dep>
     <dep name="compound:prt">194</dep>
     <dep name="conj">655</dep>
-    <dep name="cop">242</dep>
+    <dep name="cop">241</dep>
     <dep name="csubj">41</dep>
     <dep name="csubj:pass">16</dep>
     <dep name="dep">4</dep>
@@ -133,6 +133,6 @@
     <dep name="punct">2290</dep>
     <dep name="root">1000</dep>
     <dep name="vocative">2</dep>
-    <dep name="xcomp">428</dep>
+    <dep name="xcomp">463</dep>
   </deps>
 </treebank>
