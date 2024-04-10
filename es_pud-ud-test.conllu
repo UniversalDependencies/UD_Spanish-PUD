@@ -8597,7 +8597,7 @@
 # text_en = In Hong Kong's High Court, two years later, Jutting appeared largely composed.
 1	En	en	ADP	IN	_	3	case	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	Tribunal	tribunal	NOUN	NN	Gender=Masc|Number=Sing	17	obl	_	Proper=True
+3	Tribunal	tribunal	NOUN	NN	Gender=Masc|Number=Sing	15	obl	_	Proper=True
 4	Supremo	supremo	ADJ	JJ	Gender=Masc|Number=Sing	3	amod	_	Proper=True
 5	de	de	ADP	IN	_	6	case	_	Proper=True
 6	Hong	Hong	PROPN	NNP	Number=Sing	3	nmod	_	_
@@ -8606,13 +8606,13 @@
 9	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	10	nummod	_	_
 10	años	año	NOUN	NN	Gender=Masc|Number=Plur	12	obl:tmod	_	_
 11	más	más	ADV	RBR	Degree=Cmp	12	advmod	_	_
-12	tarde	tarde	ADV	RB	_	17	advmod	_	SpaceAfter=No
+12	tarde	tarde	ADV	RB	_	15	advmod	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	12	punct	_	_
-14	Jutting	Jutting	PROPN	NNP	Gender=Masc|Number=Sing	17	nsubj	_	_
-15	apareció	aparecer	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	_
-16	mayormente	mayormente	ADV	RB	_	17	advmod	_	_
-17	compuesto	compuesto	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-18	.	.	PUNCT	.	_	17	punct	_	_
+14	Jutting	Jutting	PROPN	NNP	Gender=Masc|Number=Sing	15	nsubj	_	_
+15	apareció	aparecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+16	mayormente	mayormente	ADV	RB	_	15	advmod	_	_
+17	compuesto	compuesto	ADJ	JJ	Gender=Masc|Number=Sing	15	xcomp	_	SpaceAfter=No
+18	.	.	PUNCT	.	_	15	punct	_	_
 
 # newdoc id = n01128
 # sent_id = n01128017
@@ -12582,12 +12582,12 @@
 # text = Se declaró reserva natural en 1975.
 # text_en = It was declared a wildlife sanctuary in 1975.
 1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	compound:prt	_	_
-2	declaró	declarar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
-3	reserva	reserva	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
+2	declaró	declarar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	reserva	reserva	NOUN	NN	Gender=Fem|Number=Sing	2	xcomp	_	_
 4	natural	natural	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	_
 5	en	en	ADP	IN	_	6	case	_	_
-6	1975	1975	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	obl	_	SpaceAfter=No
-7	.	.	PUNCT	.	_	3	punct	_	_
+6	1975	1975	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	obl	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = w01033061
 # text = Tanto la investigación como las expediciones a la isla continúan.
@@ -19167,9 +19167,9 @@
 21	no	no	ADV	RB	Polarity=Neg	23	advmod	_	_
 22	era	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	cop	_	_
 23	válida	válido	ADJ	JJ	Gender=Fem|Number=Sing	17	ccomp	_	_
-24	y	y	CCONJ	CC	_	26	cc	_	_
-25	declarase	declarar	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	26	cop	_	_
-26	vencedor	vencedor	NOUN	NN	Gender=Masc|Number=Sing	17	conj	_	_
+24	y	y	CCONJ	CC	_	25	cc	_	_
+25	declarase	declarar	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	conj	_	_
+26	vencedor	vencedor	NOUN	NN	Gender=Masc|Number=Sing	25	xcomp	_	_
 27-28	al	_	_	_	_	_	_	_	_
 27	a	a	ADP	INDT	_	29	case	_	_
 28	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
@@ -19366,12 +19366,12 @@
 22	protagonizado	protagonizar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	acl	_	_
 23	por	por	ADP	IN	_	24	case	_	_
 24	LaBeouf	LaBeouf	PROPN	NNP	Gender=Masc|Number=Sing	22	obl:agent	_	SpaceAfter=No
-25	,	,	PUNCT	,	_	30	punct	_	_
+25	,	,	PUNCT	,	_	29	punct	_	_
 26	en	en	ADP	IN	_	28	case	_	_
 27	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
-28	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	30	obl	_	_
-29	aparece	aparecer	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	cop	_	_
-30	desnudo	desnudo	ADJ	JJ	Gender=Masc|Number=Sing	13	acl:relcl	_	SpaceAfter=No
+28	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	29	obl	_	_
+29	aparece	aparecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
+30	desnudo	desnudo	ADJ	JJ	Gender=Masc|Number=Sing	29	xcomp	_	SpaceAfter=No
 31	.	.	PUNCT	.	_	11	punct	_	_
 
 # sent_id = w01128059
@@ -19403,10 +19403,10 @@
 3	explotó	explotar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	en	en	ADP	IN	_	5	case	_	_
 5	llamas	llama	NOUN	NN	Gender=Fem|Number=Plur	3	obl	_	_
-6	y	y	CCONJ	CC	_	9	cc	_	_
-7	Kenseth	Kenseth	PROPN	NNP	Gender=Masc|Number=Sing	9	nsubj	_	_
-8	salió	salir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
-9	ileso	ileso	ADJ	JJ	Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
+6	y	y	CCONJ	CC	_	8	cc	_	_
+7	Kenseth	Kenseth	PROPN	NNP	Gender=Masc|Number=Sing	8	nsubj	_	_
+8	salió	salir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+9	ileso	ileso	ADJ	JJ	Gender=Masc|Number=Sing	8	xcomp	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = w01129037
@@ -19742,13 +19742,13 @@
 # text = Las velas no aparecen representadas en la iconografía o los textos prehistóricos de Mesoamérica, en cambio, está la teoría de que los antiguos mayas utilizaban canoas como principal medio de transporte acuático.
 # text_en = Sails are not represented in prehistoric Mesoamerican iconography or texts, instead, it is theorized that canoes were used as a primary mode of water transportation for the ancient Maya.
 1	Las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
-2	velas	vela	NOUN	NN	Gender=Fem|Number=Plur	5	nsubj	_	_
-3	no	no	ADV	RB	Polarity=Neg	5	advmod	_	_
-4	aparecen	aparecer	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-5	representadas	representado	ADJ	JJ	Gender=Fem|Number=Plur	0	root	_	_
+2	velas	vela	NOUN	NN	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	no	no	ADV	RB	Polarity=Neg	4	advmod	_	_
+4	aparecen	aparecer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	representadas	representado	ADJ	JJ	Gender=Fem|Number=Plur	4	xcomp	_	_
 6	en	en	ADP	IN	_	8	case	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	iconografía	iconografía	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
+8	iconografía	iconografía	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
 9	o	o	CCONJ	CC	_	11	cc	_	_
 10	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 11	textos	texto	NOUN	NN	Gender=Masc|Number=Plur	8	conj	_	_
@@ -19759,7 +19759,7 @@
 16	en	en	ADP	IN	_	19	discourse	_	_
 17	cambio	cambio	NOUN	NN	Gender=Masc|Number=Sing	16	fixed	_	SpaceAfter=No
 18	,	,	PUNCT	,	_	16	punct	_	_
-19	está	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
+19	está	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
 20	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	teoría	teoría	NOUN	NN	Gender=Fem|Number=Sing	19	nsubj	_	_
 22	de	de	ADP	IN	_	27	case	_	_
@@ -19775,7 +19775,7 @@
 32	de	de	ADP	IN	_	33	case	_	_
 33	transporte	transporte	NOUN	NN	Gender=Masc|Number=Sing	31	nmod	_	_
 34	acuático	acuático	ADJ	JJ	Gender=Masc|Number=Sing	33	amod	_	SpaceAfter=No
-35	.	.	PUNCT	.	_	5	punct	_	_
+35	.	.	PUNCT	.	_	4	punct	_	_
 
 # newdoc id = w01133
 # sent_id = w01133014
@@ -19931,14 +19931,14 @@
 # text_en = In 2011, Blunt was named the ambassadress of the new Yves Saint Laurent fragrance, Opium.
 1	En	en	ADP	IN	_	3	case	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	2011	2011	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	obl	_	SpaceAfter=No
+3	2011	2011	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	6	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	compound:prt	_	_
-6	nombró	nombrar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	_
+6	nombró	nombrar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	a	a	ADP	IN	_	8	case	_	_
 8	Blunt	Blunt	PROPN	NNP	Gender=Fem|Number=Sing	10	nmod	_	_
 9	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	embajadora	embajadora	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
+10	embajadora	embajadora	NOUN	NN	Gender=Fem|Number=Sing	6	xcomp	_	_
 11	de	de	ADP	IN	_	14	case	_	_
 12	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 13	nueva	nuevo	ADJ	JJ	Gender=Fem|Number=Sing	14	amod	_	_
@@ -19949,7 +19949,7 @@
 18	Laurent	Laurent	PROPN	NNP	Number=Sing	16	flat:name	_	SpaceAfter=No
 19	,	,	PUNCT	,	_	20	punct	_	_
 20	Opium	Opium	PROPN	NNP	Number=Sing	14	appos	_	SpaceAfter=No
-21	.	.	PUNCT	.	_	10	punct	_	_
+21	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = w01135035
 # text = Blunt protagonizó la comedia británica de 2011 Salmon Fishing in Yemen, La pesca del salmón en Yemen o La pesca de salmón en Yemen en España, dirigida por Lasse Hallström y coprotagonizada por Ewan McGregor y Kristin Scott Thomas.
@@ -20646,11 +20646,11 @@
 8	actriz	actriz	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
 9	Gloria	Gloria	PROPN	NNP	Gender=Fem|Number=Sing	8	appos	_	_
 10	Holden	Holden	PROPN	NNP	Gender=Fem|Number=Sing	9	flat:name	_	SpaceAfter=No
-11	,	,	PUNCT	,	_	14	punct	_	_
-12	pero	pero	CCONJ	CC	_	14	cc	_	_
-13	seguía	seguir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	cop	_	_
-14	enamorado	enamorado	ADJ	JJ	Gender=Masc|Number=Sing	5	conj	_	_
-15	después	después	ADV	RB	_	14	advmod	_	_
+11	,	,	PUNCT	,	_	13	punct	_	_
+12	pero	pero	CCONJ	CC	_	13	cc	_	_
+13	seguía	seguir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	conj	_	_
+14	enamorado	enamorado	ADJ	JJ	Gender=Masc|Number=Sing	13	xcomp	_	_
+15	después	después	ADV	RB	_	13	advmod	_	_
 16	de	de	ADP	IN	_	18	case	_	_
 17	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	ruptura	ruptura	NOUN	NN	Gender=Fem|Number=Sing	15	obl	_	_
@@ -24312,13 +24312,13 @@
 # text = Se halla solo frente al público y, en el fondo, tiene que sacar lo mejor de sí mismo para hacer reír al espectador.
 # text_en = He stands alone in front of the audience and, ultimately, he has to bring out the best of himself in order to make the audience laugh.
 1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	compound:prt	_	_
-2	halla	hallar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	solo	solo	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
+2	halla	hallar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	solo	solo	ADJ	JJ	Gender=Masc|Number=Sing	2	xcomp	_	_
 4	frente	frente	NOUN	NN	Gender=Fem|Number=Sing	7	case	_	_
 5-6	al	_	_	_	_	_	_	_	_
 5	a	a	ADP	INDT	_	4	fixed	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	público	público	NOUN	NN	Gender=Masc|Number=Sing	3	obl	_	_
+7	público	público	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	_
 8	y	y	CCONJ	CC	_	16	cc	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	16	punct	_	_
 10	en	en	ADP	IN	_	16	discourse	_	_
@@ -24340,7 +24340,7 @@
 25	a	a	ADP	INDT	_	27	case	_	_
 26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
 27	espectador	espectador	NOUN	NN	Gender=Masc|Number=Sing	23	obl	_	SpaceAfter=No
-28	.	.	PUNCT	.	_	3	punct	_	_
+28	.	.	PUNCT	.	_	2	punct	_	_
 
 # newdoc id = n05006
 # sent_id = n05006002
@@ -25377,14 +25377,14 @@
 # sent_id = w02011029
 # text = Declaro cerrados los primeros Juegos Olímpicos internacionales.
 # text_en = I declare the first international Olympic games over.
-1	Declaro	declarar	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	_
-2	cerrados	cerrado	ADJ	JJ	Gender=Masc|Number=Plur	0	root	_	_
+1	Declaro	declarar	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	cerrados	cerrado	ADJ	JJ	Gender=Masc|Number=Plur	1	xcomp	_	_
 3	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 4	primeros	primero	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
-5	Juegos	juego	NOUN	NN	Gender=Masc|Number=Plur	2	obj	_	_
+5	Juegos	juego	NOUN	NN	Gender=Masc|Number=Plur	1	obj	_	_
 6	Olímpicos	olímpico	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
 7	internacionales	internacional	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	2	punct	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
 
 # newdoc id = w02012
 # sent_id = w02012042
@@ -28132,15 +28132,15 @@
 17	en	en	ADP	IN	_	19	case	_	_
 18	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	Senado	senado	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
-20	,	,	PUNCT	,	_	28	punct	_	_
+20	,	,	PUNCT	,	_	27	punct	_	_
 21	en	en	ADP	IN	_	23	case	_	_
 22	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
-23	cual	cual	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	28	obl	_	_
+23	cual	cual	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	27	obl	_	_
 24	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
-25	procónsul	procónsul	NOUN	NN	Gender=Masc|Number=Sing	28	nsubj	_	_
+25	procónsul	procónsul	NOUN	NN	Gender=Masc|Number=Sing	27	nsubj	_	_
 26	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	28	compound:prt	_	_
-27	declaraba	declarar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	28	cop	_	_
-28	amigo	amigo	NOUN	NN	Gender=Masc|Number=Sing	14	acl:relcl	_	_
+27	declaraba	declarar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	acl:relcl	_	_
+28	amigo	amigo	NOUN	NN	Gender=Masc|Number=Sing	27	xcomp	_	_
 29	de	de	ADP	IN	_	31	case	_	_
 30	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
 31	paz	paz	NOUN	NN	Gender=Fem|Number=Sing	28	nmod	_	SpaceAfter=No
