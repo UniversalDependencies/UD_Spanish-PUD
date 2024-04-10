@@ -97,9 +97,9 @@
 21	y	y	CCONJ	CC	_	22	cc	_	_
 22	afirmó	afirmar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	_
 23	que	que	SCONJ	IN	_	27	mark	_	_
-24	si	si	SCONJ	IN	_	26	mark	_	_
-25	fuese	ir	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	26	cop	_	_
-26	presidente	presidente	NOUN	NN	Gender=Masc|Number=Sing	27	advcl	_	_
+24	si	si	SCONJ	IN	_	25	mark	_	_
+25	fuese	ir	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	27	advcl	_	_
+26	presidente	presidente	NOUN	NN	Gender=Masc|Number=Sing	25	xcomp	_	_
 27	reconocería	reconocer	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	ccomp	_	_
 28	a	a	ADP	IN	_	32	case	_	_
 29	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
@@ -1087,15 +1087,15 @@
 # text_en = "Most people would find airport wi-fi more useful than being able to send emails on a plane."
 1	A	a	ADP	IN	_	3	case	_	_
 2	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-3	mayoría	mayoría	NOUN	NN	Gender=Fem|Number=Sing	10	obl	_	_
+3	mayoría	mayoría	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
 4	de	de	ADP	IN	_	6	case	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	gente	gente	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	_
-7	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	10	obl:arg	_	_
-8	resultaría	resultar	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-9	más	más	ADV	RBR	Degree=Cmp	10	advmod	_	_
-10	útil	útil	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
-11	tener	tener	VERB	VB	VerbForm=Inf	10	csubj	_	_
+7	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	8	obl:arg	_	_
+8	resultaría	resultar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+9	más	más	ADV	RBR	Degree=Cmp	8	advmod	_	_
+10	útil	útil	ADJ	JJ	Gender=Masc|Number=Sing	8	xcomp	_	_
+11	tener	tener	VERB	VB	VerbForm=Inf	8	csubj	_	_
 12	acceso	acceso	NOUN	NN	Gender=Masc|Number=Sing	11	obj	_	_
 13	a	a	ADP	IN	_	14	case	_	_
 14	wifi	wifi	NOUN	NN	Number=Sing	12	nmod	_	_
@@ -1111,7 +1111,7 @@
 24	desde	desde	ADP	IN	_	26	case	_	_
 25	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	avión	avión	NOUN	NN	Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
-27	.	.	PUNCT	.	_	10	punct	_	_
+27	.	.	PUNCT	.	_	8	punct	_	_
 
 # newdoc id = n01018
 # sent_id = n01018024
@@ -4500,16 +4500,16 @@
 # text = Los productores de Miami Bass se mostraron indiferentes en el arte de mover el culo, su principal preocupación.
 # text_en = Miami Bass producers were clinical in the art of moving butts—their main concern.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
-2	productores	productor	NOUN	NN	Gender=Masc|Number=Plur	8	nsubj	_	_
+2	productores	productor	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj	_	_
 3	de	de	ADP	IN	_	4	case	_	_
 4	Miami	Miami	PROPN	NNP	Number=Sing	2	nmod	_	_
 5	Bass	bass	NOUN	NN	Number=Sing	4	flat:name	_	Proper=True
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	compound:prt	_	_
-7	mostraron	mostrar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
-8	indiferentes	indiferente	ADJ	JJ	Gender=Masc|Number=Plur	0	root	_	_
+7	mostraron	mostrar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	indiferentes	indiferente	ADJ	JJ	Gender=Masc|Number=Plur	7	xcomp	_	_
 9	en	en	ADP	IN	_	11	case	_	_
 10	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-11	arte	arte	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	_
+11	arte	arte	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
 12	de	de	ADP	IN	_	13	case	_	_
 13	mover	mover	VERB	VB	VerbForm=Inf	11	xcomp	_	_
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
@@ -4518,7 +4518,7 @@
 17	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
 18	principal	principal	ADJ	JJ	Gender=Fem|Number=Sing	19	amod	_	_
 19	preocupación	preocupación	NOUN	NN	Gender=Fem|Number=Sing	11	appos	_	SpaceAfter=No
-20	.	.	PUNCT	.	_	8	punct	_	_
+20	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = n01063043
 # text = En una reciente entrevista, Zay y Zayion describieron cómo grabaron su versión de "Knuck If You Buck" en un portátil de uso personal.
@@ -4702,10 +4702,10 @@
 3	había	haber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 4	nada	nada	NOUN	NN	Gender=Masc|Number=Sing	3	obj	_	_
 5	más	más	ADV	RBR	Degree=Cmp	4	advmod	_	_
-6	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	9	nsubj	_	_
-7	fuese	ir	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
-8	evidentemente	evidentemente	ADV	RB	_	9	advmod	_	_
-9	artístico	artístico	ADJ	JJ	Gender=Masc|Number=Sing	4	acl:relcl	_	_
+6	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	_
+7	fuese	ir	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	acl:relcl	_	_
+8	evidentemente	evidentemente	ADV	RB	_	7	advmod	_	_
+9	artístico	artístico	ADJ	JJ	Gender=Masc|Number=Sing	7	xcomp	_	_
 10	sobre	sobre	ADP	IN	_	11	case	_	_
 11	ella	él	PRON	PRP	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
 12	o	o	CCONJ	CC	_	15	cc	_	_
@@ -5495,10 +5495,10 @@
 9	velo	velo	NOUN	NN	Gender=Masc|Number=Sing	8	obj	_	_
 10	y	y	CCONJ	CC	_	11	cc	_	_
 11	vaqueros	vaquero	NOUN	NN	Gender=Masc|Number=Plur	9	conj	_	SpaceAfter=No
-12	;	;	PUNCT	:	_	15	punct	_	_
-13	va	ir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
-14	tan	tan	ADV	RB	_	15	advmod	_	_
-15	discreta	discreto	ADJ	JJ	Gender=Fem|Number=Sing	4	parataxis	_	_
+12	;	;	PUNCT	:	_	13	punct	_	_
+13	va	ir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
+14	tan	tan	ADV	RB	_	13	advmod	_	_
+15	discreta	discreto	ADJ	JJ	Gender=Fem|Number=Sing	13	xcomp	_	_
 16	que	que	ADP	IN	_	17	case	_	_
 17	creo	creer	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	xcomp	_	_
 18	que	que	SCONJ	IN	_	21	mark	_	_
@@ -6231,17 +6231,17 @@
 13	musas	musa	NOUN	NN	Gender=Fem|Number=Plur	11	nmod	_	_
 14	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	15	nsubj	_	_
 15	encajen	encajar	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	SpaceAfter=No
-16	,	,	PUNCT	,	_	21	punct	_	_
-17	ya	ya	ADV	RB	_	21	mark	_	_
+16	,	,	PUNCT	,	_	19	punct	_	_
+17	ya	ya	ADV	RB	_	19	mark	_	_
 18	que	que	ADP	IN	_	17	fixed	_	_
-19	resulta	resultar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
-20	muy	muy	ADV	RB	_	21	advmod	_	_
-21	interesante	interesante	ADJ	JJ	Gender=Masc|Number=Sing	2	advcl	_	_
-22	hacer	hacer	VERB	VB	VerbForm=Inf	21	csubj	_	_
+19	resulta	resultar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+20	muy	muy	ADV	RB	_	19	advmod	_	_
+21	interesante	interesante	ADJ	JJ	Gender=Masc|Number=Sing	19	xcomp	_	_
+22	hacer	hacer	VERB	VB	VerbForm=Inf	19	csubj	_	_
 23	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
 24	colección	colección	NOUN	NN	Gender=Fem|Number=Sing	22	obj	_	_
 25	cuando	cuando	ADV	WRB	PronType=Rel	26	advmod	_	_
-26	encuentro	encontrar	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	21	advcl	_	_
+26	encuentro	encontrar	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	advcl	_	_
 27	alguna	alguna	NOUN	NN	Gender=Fem|Number=Sing	26	obj	_	SpaceAfter=No
 28	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -6740,12 +6740,12 @@
 12	Internet	internet	NOUN	NN	Number=Sing	2	obl	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	2	punct	_	_
 14	mi	mi	PRON	DTP$	Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	15	det	_	_
-15	lista	lista	NOUN	NN	Gender=Fem|Number=Sing	20	nsubj	_	_
+15	lista	lista	NOUN	NN	Gender=Fem|Number=Sing	18	nsubj	_	_
 16	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	20	compound:prt	_	_
-17	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	aux	_	_
-18	hecho	hacer	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	cop	_	_
-19	excesivamente	excesivamente	ADV	RB	_	20	advmod	_	_
-20	larga	largo	ADJ	JJ	Gender=Fem|Number=Sing	0	root	_	_
+17	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	aux	_	_
+18	hecho	hacer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+19	excesivamente	excesivamente	ADV	RB	_	18	advmod	_	_
+20	larga	largo	ADJ	JJ	Gender=Fem|Number=Sing	18	xcomp	_	_
 21	y	y	CCONJ	CC	_	22	cc	_	_
 22	cubría	cubrir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	conj	_	_
 23	casi	casi	ADV	RB	_	24	advmod	_	_
@@ -6755,7 +6755,7 @@
 27	de	de	ADP	IN	_	29	case	_	_
 28	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
 29	unión	unión	NOUN	NN	Gender=Fem|Number=Sing	26	nmod	_	SpaceAfter=No
-30	.	.	PUNCT	.	_	20	punct	_	_
+30	.	.	PUNCT	.	_	18	punct	_	_
 
 # sent_id = n01097041
 # text = Descubrí unas cuantas.
@@ -8302,12 +8302,12 @@
 7	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 8	improbable	improbable	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	_
 9	calidad	calidad	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	_
-10	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	15	nsubj	_	_
-11	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	obj	_	_
-12	hace	hacer	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+10	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	12	nsubj	_	_
+11	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	_
+12	hace	hacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
 13	tanto	tanto	ADV	RB	_	14	advmod	_	_
-14	más	más	ADV	RBR	Degree=Cmp	15	advmod	_	_
-15	atractivo	atractivo	ADJ	JJ	Gender=Masc|Number=Sing	9	acl:relcl	_	SpaceAfter=No
+14	más	más	ADV	RBR	Degree=Cmp	12	advmod	_	_
+15	atractivo	atractivo	ADJ	JJ	Gender=Masc|Number=Sing	12	xcomp	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = n01120020
@@ -9220,13 +9220,13 @@
 # sent_id = n01136006
 # text = Como queda claro en la película, los Loving, y en particular Richard, fueron participantes reacios de la historia.
 # text_en = As the movie makes clear, the Lovings -- and Richard in particular -- were reluctant participants in history.
-1	Como	como	SCONJ	IN	_	3	mark	_	_
-2	queda	quedar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	claro	claro	ADJ	JJ	Gender=Masc|Number=Sing	17	advcl	_	_
+1	Como	como	SCONJ	IN	_	2	mark	_	_
+2	queda	quedar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+3	claro	claro	ADJ	JJ	Gender=Masc|Number=Sing	2	xcomp	_	_
 4	en	en	ADP	IN	_	6	case	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	película	película	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
-7	,	,	PUNCT	,	_	3	punct	_	_
+6	película	película	NOUN	NN	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	2	punct	_	_
 8	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	Loving	Loving	PROPN	NNP	Gender=Masc|Number=Plur	17	nsubj	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	14	punct	_	_
@@ -11328,13 +11328,13 @@
 21	con	con	ADP	IN	_	23	case	_	_
 22	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	islam	islam	PROPN	NNP	Gender=Masc|Number=Sing	20	nmod	_	_
-24	y	y	CCONJ	CC	_	27	cc	_	_
+24	y	y	CCONJ	CC	_	26	cc	_	_
 25	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	27	compound:prt	_	_
-26	mantuvo	mantener	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	27	cop	_	_
-27	fiel	fiel	ADJ	JJ	Gender=Masc|Number=Sing	19	conj	_	_
+26	mantuvo	mantener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	conj	_	_
+27	fiel	fiel	ADJ	JJ	Gender=Masc|Number=Sing	26	xcomp	_	_
 28	a	a	ADP	IN	_	30	case	_	_
 29	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
-30	religión	religión	NOUN	NN	Gender=Fem|Number=Sing	27	obl	_	_
+30	religión	religión	NOUN	NN	Gender=Fem|Number=Sing	26	obl	_	_
 31	tradicional	tradicional	ADJ	JJ	Gender=Fem|Number=Sing	30	amod	_	_
 32	africana	africano	ADJ	JJ	Gender=Fem|Number=Sing	30	amod	_	SpaceAfter=No|Proper=True
 33	.	.	PUNCT	.	_	4	punct	_	_
@@ -11981,16 +11981,16 @@
 # sent_id = w01025087
 # text = Danevirke se ha mantenido parte de Alemania desde entonces.
 # text_en = The Danevirke has remained in German possession ever since.
-1	Danevirke	Danevirke	PROPN	NNP	Number=Sing	5	nsubj	_	_
+1	Danevirke	Danevirke	PROPN	NNP	Number=Sing	4	nsubj	_	_
 2	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	compound:prt	_	_
-3	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
-4	mantenido	mantener	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	cop	_	_
-5	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
+3	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
+4	mantenido	mantener	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	4	xcomp	_	_
 6	de	de	ADP	IN	_	7	case	_	_
 7	Alemania	Alemania	PROPN	NNP	Number=Sing	5	nmod	_	_
 8	desde	desde	ADP	IN	_	9	case	_	_
 9	entonces	entonces	ADV	RB	_	5	xcomp	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	5	punct	_	_
+10	.	.	PUNCT	.	_	4	punct	_	_
 
 # newdoc id = w01026
 # sent_id = w01026024
@@ -12475,19 +12475,19 @@
 # text = El estudio de los volcanes se llama vulcanología, a veces escrito volcanología.
 # text_en = The study of volcanoes is called volcanology, sometimes spelled vulcanology.
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	estudio	estudio	NOUN	NN	Gender=Masc|Number=Sing	8	nsubj	_	_
+2	estudio	estudio	NOUN	NN	Gender=Masc|Number=Sing	7	nsubj	_	_
 3	de	de	ADP	IN	_	5	case	_	_
 4	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	volcanes	volcan	NOUN	NN	Gender=Masc|Number=Plur	2	nmod	_	_
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	compound:prt	_	_
-7	llama	llamar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
-8	vulcanología	vulcanología	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-9	,	,	PUNCT	,	_	13	punct	_	_
-10	a	a	ADP	IN	_	13	advmod	_	_
+7	llama	llamar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	vulcanología	vulcanología	NOUN	NN	Gender=Fem|Number=Sing	7	xcomp	_	SpaceAfter=No
+9	,	,	PUNCT	,	_	12	punct	_	_
+10	a	a	ADP	IN	_	12	advmod	_	_
 11	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	10	fixed	_	_
-12	escrito	escribir	AUX	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	13	cop	_	_
-13	volcanología	volcanología	NOUN	NN	Gender=Fem|Number=Sing	8	acl	_	SpaceAfter=No
-14	.	.	PUNCT	.	_	8	punct	_	_
+12	escrito	escribir	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	8	acl	_	_
+13	volcanología	volcanología	NOUN	NN	Gender=Fem|Number=Sing	12	xcomp	_	SpaceAfter=No
+14	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = w01031015
 # text = Este magma tiende a ser muy viscoso debido a su alto contenido de sílice, por lo que muchas veces no alcanza la superficie antes de enfriarse en lo profundo.
@@ -13503,20 +13503,20 @@
 1	Durante	durante	ADP	IN	_	4	case	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 3	primer	primer	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
-4	siglo	siglo	NOUN	NN	Gender=Masc|Number=Sing	16	obl	_	_
+4	siglo	siglo	NOUN	NN	Gender=Masc|Number=Sing	15	obl	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	desarrollo	desarrollo	NOUN	NN	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	4	punct	_	_
 8	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	dominio	dominio	NOUN	NN	Gender=Masc|Number=Sing	16	nsubj	_	_
+9	dominio	dominio	NOUN	NN	Gender=Masc|Number=Sing	15	nsubj	_	_
 10	español	español	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	Proper=True
 11	de	de	ADP	IN	_	13	case	_	_
 12	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	región	región	NOUN	NN	Gender=Fem|Number=Sing	9	nmod	_	_
 14	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	compound:prt	_	_
-15	mantuvo	mantener	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	_	_
-16	indiscutible	indiscutible	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-17	.	.	PUNCT	.	_	16	punct	_	_
+15	mantuvo	mantener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+16	indiscutible	indiscutible	ADJ	JJ	Gender=Masc|Number=Sing	15	xcomp	_	SpaceAfter=No
+17	.	.	PUNCT	.	_	15	punct	_	_
 
 # sent_id = w01045005
 # text = Desde el siglo XVI, los europeos que visitaban la región del Caribe diferenciaban el "mar del sur" (el océano Pacífico, al sur del istmo de Panamá) del "mar del norte" (el mar Caribe, al norte de ese istmo).
@@ -14003,7 +14003,7 @@
 # sent_id = w01050069
 # text = Yuan Shikai, el presidente de la República de China, consideró la nueva república una sucesora de la de Qing.
 # text_en = Yuan Shikai, the President of the Republic of China, considered the new republic to be the successor of the Qing.
-1	Yuan	Yuan	PROPN	NNP	Gender=Masc|Number=Sing	17	nsubj	_	_
+1	Yuan	Yuan	PROPN	NNP	Gender=Masc|Number=Sing	12	nsubj	_	_
 2	Shikai	Shikai	PROPN	NNP	Gender=Masc|Number=Sing	1	flat:name	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	5	punct	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -14014,17 +14014,17 @@
 9	de	de	ADP	IN	_	10	case	_	Proper=True
 10	China	China	PROPN	NNP	Number=Sing	8	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	5	punct	_	_
-12	consideró	considerar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	_
+12	consideró	considerar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 14	nueva	nuevo	ADJ	JJ	Gender=Fem|Number=Sing	15	amod	_	_
-15	república	república	NOUN	NN	Gender=Fem|Number=Sing	17	obj	_	_
+15	república	república	NOUN	NN	Gender=Fem|Number=Sing	12	obj	_	_
 16	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
-17	sucesora	sucesora	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
+17	sucesora	sucesora	NOUN	NN	Gender=Fem|Number=Sing	12	xcomp	_	_
 18	de	de	ADP	IN	_	19	case	_	_
 19	la	él	PRON	DT	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	17	nmod	_	_
 20	de	de	ADP	IN	_	21	case	_	_
 21	Qing	Qing	PROPN	NNP	Number=Sing	19	nmod	_	SpaceAfter=No
-22	.	.	PUNCT	.	_	17	punct	_	_
+22	.	.	PUNCT	.	_	12	punct	_	_
 
 # sent_id = w01050070
 # text = Bogd Khaan dijo que ambos, tanto Mongolia como China habían sido administrados por un manchú durante la dinastía, y después de la caída de la dinastía Qing en 1911, el contrato de sumisión de los mongoles con los manchúes quedaba inválido.
@@ -14048,9 +14048,9 @@
 17	durante	durante	ADP	IN	_	19	case	_	_
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	dinastía	dinastía	NOUN	NN	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
-20	,	,	PUNCT	,	_	44	punct	_	_
-21	y	y	CCONJ	CC	_	44	cc	_	_
-22	después	después	ADV	RB	_	44	advmod	_	_
+20	,	,	PUNCT	,	_	43	punct	_	_
+21	y	y	CCONJ	CC	_	43	cc	_	_
+22	después	después	ADV	RB	_	43	advmod	_	_
 23	de	de	ADP	IN	_	25	case	_	_
 24	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	caída	caída	NOUN	NN	Gender=Fem|Number=Sing	22	obl	_	_
@@ -14062,7 +14062,7 @@
 31	1911	1911	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	25	nmod	_	SpaceAfter=No
 32	,	,	PUNCT	,	_	22	punct	_	_
 33	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
-34	contrato	contrato	NOUN	NN	Gender=Masc|Number=Sing	44	nsubj	_	_
+34	contrato	contrato	NOUN	NN	Gender=Masc|Number=Sing	43	nsubj	_	_
 35	de	de	ADP	IN	_	36	case	_	_
 36	sumisión	sumisión	NOUN	NN	Gender=Fem|Number=Sing	34	nmod	_	_
 37	de	de	ADP	IN	_	39	case	_	_
@@ -14071,8 +14071,8 @@
 40	con	con	ADP	IN	_	42	case	_	_
 41	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	42	det	_	_
 42	manchúes	manchú	NOUN	NN	Gender=Masc|Number=Plur	34	nmod	_	Proper=True
-43	quedaba	quedar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	44	cop	_	_
-44	inválido	inválido	ADJ	JJ	Gender=Masc|Number=Sing	13	conj	_	SpaceAfter=No
+43	quedaba	quedar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	conj	_	_
+44	inválido	inválido	ADJ	JJ	Gender=Masc|Number=Sing	43	xcomp	_	SpaceAfter=No
 45	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = w01050071
@@ -14501,13 +14501,13 @@
 # text_en = It was foretold that he would either die of old age after an uneventful life, or die young in a battlefield and gain immortality through poetry.
 1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl:pass	_	_
 2	predijo	predecir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	que	que	SCONJ	IN	_	8	mark	_	_
-4	él	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
-5	o	o	CCONJ	CC	_	8	cc:preconj	_	_
+3	que	que	SCONJ	IN	_	7	mark	_	_
+4	él	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+5	o	o	CCONJ	CC	_	7	cc:preconj	_	_
 6	bien	bien	ADV	RB	_	5	fixed	_	_
-7	moriría	morir	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
-8	viejo	viejo	ADJ	JJ	Gender=Masc|Number=Sing	2	csubj:pass	_	_
-9	después	después	ADV	RB	_	8	advmod	_	_
+7	moriría	morir	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	csubj:pass	_	_
+8	viejo	viejo	ADJ	JJ	Gender=Masc|Number=Sing	7	xcomp	_	_
+9	después	después	ADV	RB	_	7	advmod	_	_
 10	de	de	ADP	IN	_	12	case	_	_
 11	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	vida	vida	NOUN	NN	Gender=Fem|Number=Sing	9	obl	_	_
@@ -25725,18 +25725,18 @@
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	opiniones	opinión	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
 9	indeseables	indeseabl	ADJ	JJ	Gender=Fem|Number=Plur	8	amod	_	SpaceAfter=No
-10	;	;	PUNCT	:	_	21	punct	_	_
+10	;	;	PUNCT	:	_	19	punct	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-12	participación	participación	NOUN	NN	Gender=Fem|Number=Sing	21	nsubj	_	_
+12	participación	participación	NOUN	NN	Gender=Fem|Number=Sing	19	nsubj	_	_
 13	en	en	ADP	IN	_	15	case	_	_
 14	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	vida	vida	NOUN	NN	Gender=Fem|Number=Sing	12	nmod	_	_
 16	pública	público	ADJ	JJ	Gender=Fem|Number=Sing	15	amod	_	_
 17	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	21	compound:prt	_	_
-18	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	aux	_	_
-19	hecho	hacer	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	cop	_	_
-20	prácticamente	prácticamente	ADV	RB	_	21	advmod	_	_
-21	imposible	imposible	ADJ	JJ	Gender=Fem|Number=Sing	4	parataxis	_	SpaceAfter=No
+18	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	aux	_	_
+19	hecho	hacer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	parataxis	_	_
+20	prácticamente	prácticamente	ADV	RB	_	19	advmod	_	_
+21	imposible	imposible	ADJ	JJ	Gender=Fem|Number=Sing	19	xcomp	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = w02017061
@@ -27162,11 +27162,11 @@
 12	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	iglesia	iglesia	NOUN	NN	Gender=Fem|Number=Sing	10	obl	_	_
 14	espiscopal	espiscopal	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	SpaceAfter=No
-15	,	,	PUNCT	,	_	19	punct	_	_
-16	y	y	CCONJ	CC	_	19	cc	_	_
+15	,	,	PUNCT	,	_	18	punct	_	_
+16	y	y	CCONJ	CC	_	18	cc	_	_
 17	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	compound:prt	_	_
-18	mantuvo	mantener	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	cop	_	_
-19	miembro	miembro	NOUN	NN	Gender=Masc|Number=Sing	9	conj	_	_
+18	mantuvo	mantener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	conj	_	_
+19	miembro	miembro	NOUN	NN	Gender=Masc|Number=Sing	18	xcomp	_	_
 20	de	de	ADP	IN	_	22	case	_	_
 21	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	iglesia	iglesia	NOUN	NN	Gender=Fem|Number=Sing	19	nmod	_	_
