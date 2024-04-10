@@ -211,7 +211,7 @@
 4	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	IN	_	7	case	_	_
 6	5 000	5 000	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	7	nummod	_	_
-7	$	_	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
+7	$	$	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
 8	por	por	ADP	IN	_	9	case	_	_
 9	persona	persona	NOUN	NN	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	4	punct	_	_
@@ -1350,7 +1350,7 @@
 # text = Los análisis revelaron que se habían utilizado cantidades de datos históricos para causar los daños.
 # text_en = Analysis revealed that historic amounts of data had been used to cause the disruption.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
-2	análisis	_	NOUN	NN	Gender=Masc|Number=Plur	3	nsubj	_	_
+2	análisis	análisis	NOUN	NN	Gender=Masc|Number=Plur	3	nsubj	_	_
 3	revelaron	revelar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	IN	_	7	mark	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pass	_	_
@@ -1402,7 +1402,7 @@
 30	debajo	debajo	ADV	RB	_	23	xcomp	_	_
 31	de	de	ADP	IN	_	33	case	_	_
 32	2º	2º	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	33	nummod	_	_
-33	C	_	NOUN	NN	Gender=Masc|Number=Plur	30	obl	_	SpaceAfter=No
+33	C	C	NOUN	NN	Gender=Masc|Number=Plur	30	obl	_	SpaceAfter=No
 34	.	.	PUNCT	.	_	14	punct	_	_
 
 # sent_id = n01022005
@@ -2712,7 +2712,7 @@
 13	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 14	de	de	ADP	IN	_	16	case	_	_
 15	25 000	25 000	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	16	nummod	_	_
-16	$	_	NOUN	NN	Gender=Masc|Number=Plur	13	obl	_	SpaceAfter=No
+16	$	$	NOUN	NN	Gender=Masc|Number=Plur	13	obl	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	13	punct	_	_
 
 # newdoc id = n01037
@@ -3628,7 +3628,7 @@
 24	y	y	CCONJ	CC	_	27	cc	_	_
 25	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	27	nsubj	_	_
 26	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	_
-27	responsable	_	ADJ	JJ	Gender=Fem|Number=Sing	19	conj	_	_
+27	responsable	responsable	ADJ	JJ	Gender=Fem|Number=Sing	19	conj	_	_
 28	de	de	ADP	IN	_	29	case	_	_
 29	transportar	transportar	VERB	VB	VerbForm=Inf	27	xcomp	_	_
 30	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
@@ -3682,7 +3682,7 @@
 21	de	de	ADP	IN	_	22	case	_	Proper=True
 22	Sangre	sangre	NOUN	NN	Gender=Fem|Number=Sing	19	nmod	_	Proper=True
 23	(	(	PUNCT	(	_	24	punct	_	SpaceAfter=No
-24	CBS	_	PROPN	NNP	Gender=Masc|Number=Plur	19	appos	_	SpaceAfter=No
+24	CBS	CBS	PROPN	NNP	Gender=Masc|Number=Plur	19	appos	_	SpaceAfter=No
 25	)	)	PUNCT	)	_	24	punct	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	3	punct	_	_
 
@@ -8175,7 +8175,7 @@
 18	,	,	PUNCT	,	_	22	punct	_	_
 19	entre	entre	ADP	IN	_	22	case	_	_
 20	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
-21	alegre	_	ADJ	JJ	Gender=Fem|Number=Sing	22	amod	_	_
+21	alegre	alegre	ADJ	JJ	Gender=Fem|Number=Sing	22	amod	_	_
 22	gamberrada	gamberrada	NOUN	NN	Gender=Fem|Number=Sing	15	nmod	_	_
 23	para	para	ADP	IN	_	26	case	_	_
 24	toda	todo	DET	PDT	Gender=Fem|Number=Sing|PronType=Tot	26	det	_	_
@@ -10389,7 +10389,7 @@
 11	Pacífico	Pacífico	PROPN	NNP	Gender=Masc|Number=Sing	5	nmod	_	_
 12	y	y	CCONJ	CC	_	14	cc	_	_
 13	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
-14	Maldivas	_	PROPN	NNP	Gender=Fem|Number=Plur	5	conj	_	_
+14	Maldivas	Maldivas	PROPN	NNP	Gender=Fem|Number=Plur	5	conj	_	_
 15	en	en	ADP	IN	_	17	case	_	_
 16	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	océano	océano	NOUN	NN	Gender=Masc|Number=Sing	14	nmod	_	Proper=True
@@ -12298,7 +12298,7 @@
 # text = Los Alpes proporcionan agua potable, riego, y energía hidroeléctrica a las tierras bajas de Europa.
 # text_en = The Alps provide lowland Europe with drinking water, irrigation, and hydroelectric power.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
-2	Alpes	_	NOUN	NN	Gender=Masc|Number=Plur	3	nsubj	_	Proper=True
+2	Alpes	Alpes	NOUN	NN	Gender=Masc|Number=Plur	3	nsubj	_	Proper=True
 3	proporcionan	proporcionar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	agua	agua	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
 5	potable	potable	ADJ	JJ	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
@@ -12334,7 +12334,7 @@
 13	Europa	Europa	PROPN	NNP	Number=Sing	11	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	,	_	8	punct	_	_
 15	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
-16	Alpes	_	NOUN	NN	Gender=Masc|Number=Plur	17	nsubj	_	Proper=True
+16	Alpes	Alpes	NOUN	NN	Gender=Masc|Number=Plur	17	nsubj	_	Proper=True
 17	proporcionan	proporcionar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 18	más	más	ADV	RBR	Degree=Cmp	17	obj	_	_
 19	de	de	ADP	IN	_	21	case	_	_
@@ -12440,7 +12440,7 @@
 29	cabecera	cabecera	NOUN	NN	Gender=Fem|Number=Sing	27	obj	_	_
 30	en	en	ADP	IN	_	32	case	_	_
 31	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	32	det	_	_
-32	Alpes	_	PROPN	NNP	Gender=Masc|Number=Plur	27	obl	_	_
+32	Alpes	Alpes	PROPN	NNP	Gender=Masc|Number=Plur	27	obl	_	_
 33	y	y	CCONJ	CC	_	34	cc	_	_
 34	transcurren	transcurrir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27	conj	_	_
 35	por	por	ADP	IN	_	36	case	_	_
@@ -16204,7 +16204,7 @@
 # text_en = The Arab Revolt which began in 1916 turned the tide against the Ottomans on the Middle Eastern front, where they initially seemed to have the upper hand during the first two years of the war.
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	revuelta	revuelta	NOUN	NN	Gender=Fem|Number=Sing	9	nsubj	_	_
-3	árabe	_	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	Proper=True
+3	árabe	árabe	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	Proper=True
 4	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	5	nsubj	_	_
 5	comenzó	comenzar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
 6	en	en	ADP	IN	_	7	case	_	_
@@ -16861,7 +16861,7 @@
 3	,	,	PUNCT	,	_	1	punct	_	_
 4	existen	existir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	extensivos	extensivo	ADJ	JJ	Gender=Masc|Number=Plur	6	amod	_	_
-6	análisis	_	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
+6	análisis	análisis	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
 7	estadísticos	estadístico	ADJ	JJ	Gender=Masc|Number=Plur	6	amod	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	datos	dato	NOUN	NN	Gender=Masc|Number=Plur	6	nmod	_	_
@@ -17139,7 +17139,7 @@
 8	tamaño	tamaño	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	_
 9	compacto	compacto	ADJ	JJ	Gender=Masc|Number=Sing	8	amod	_	_
 10	de	de	ADP	IN	_	12	case	_	_
-11	American	_	ADJ	JJ	Number=Plur	12	amod	_	Proper=True
+11	American	American	ADJ	JJ	Number=Plur	12	amod	_	Proper=True
 12	Motors	_	NOUN	NN	Number=Plur	5	nmod	_	Proper=True
 13	incitó	incitar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 14	a	a	ADP	IN	_	15	case	_	_
@@ -17905,7 +17905,7 @@
 8	;	;	PUNCT	:	_	22	punct	_	_
 9	aunque	aunque	SCONJ	IN	_	13	mark	_	_
 10	varios	vario	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	11	det	_	_
-11	B-29	_	PROPN	NNP	Gender=Masc|Number=Plur	13	nsubj	_	_
+11	B-29	B-29	PROPN	NNP	Gender=Masc|Number=Plur	13	nsubj	_	_
 12	estaban	estar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	aux	_	_
 13	equipados	equipar	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	22	advcl	_	_
 14	con	con	ADP	IN	_	16	case	_	_
@@ -17988,7 +17988,7 @@
 9	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 10	altísima	altísimo	ADJ	JJS	Degree=Abs|Gender=Fem|Number=Sing	11	amod	_	_
 11	resolución	resolución	NOUN	NN	Gender=Fem|Number=Sing	8	obj	_	_
-12	angular	_	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	SpaceAfter=No
+12	angular	angular	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	3	punct	_	_
 14	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	aproximación	aproximación	NOUN	NN	Gender=Fem|Number=Sing	25	nsubj	_	_
@@ -19041,7 +19041,7 @@
 19	vivir	vivir	VERB	VB	VerbForm=Inf	17	xcomp	_	_
 20	a	a	ADP	IN	_	22	case	_	_
 21	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	Proper=True
-22	Ángeles	_	PROPN	NNP	Gender=Masc|Number=Plur	19	obl	_	_
+22	Ángeles	Ángeles	PROPN	NNP	Gender=Masc|Number=Plur	19	obl	_	_
 23	en	en	ADP	IN	_	24	case	_	_
 24	1984	1984	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	17	obl	_	_
 25	para	para	ADP	IN	_	26	case	_	_
@@ -25956,7 +25956,7 @@
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	asesinato	asesinato	NOUN	NN	Gender=Masc|Number=Sing	10	obj	_	_
 13	de	de	ADP	IN	_	15	case	_	_
-14	cincuenta	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	15	nummod	_	_
+14	cincuenta	cincuenta	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	15	nummod	_	_
 15	personas	persona	NOUN	NN	Gender=Fem|Number=Plur	12	nmod	_	_
 16	acusadas	acusar	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	15	acl	_	_
 17	de	de	ADP	IN	_	18	case	_	_
@@ -27435,7 +27435,7 @@
 3	formar	formar	VERB	VB	VerbForm=Inf	1	xcomp	_	_
 4	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	compound:prt	_	_
 5	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
-6	Andes	_	PROPN	NNP	Gender=Masc|Number=Plur	3	nsubj	_	_
+6	Andes	Andes	PROPN	NNP	Gender=Masc|Number=Plur	3	nsubj	_	_
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	margen	margen	NOUN	NN	Gender=Masc|Number=Sing	16	nsubj	_	_
 9	occidental	occidental	ADJ	JJ	Gender=Masc|Number=Sing	8	amod	_	_
