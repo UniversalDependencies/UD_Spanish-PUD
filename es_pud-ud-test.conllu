@@ -8367,7 +8367,7 @@
 # text = Los superhéroes están fuera de la experiencia humana, y esto también lo está, de modo que lo enfoqué como un drama, dice Zimmer.
 # text_en = “Superheroes are outside of human experience and so is this, so I treated it like a drama,” Zimmer says.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
-2	superhéroes	_	NOUN	NN	Gender=Masc|Number=Plur	3	nsubj	_	_
+2	superhéroes	superhéroe	NOUN	NN	Gender=Masc|Number=Plur	3	nsubj	_	_
 3	están	estar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	fuera	fuera	ADV	RB	_	3	advmod	_	_
 5	de	de	ADP	IN	_	7	case	_	_
