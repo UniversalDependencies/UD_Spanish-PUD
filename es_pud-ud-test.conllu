@@ -2303,7 +2303,7 @@
 # text_en = The analysis shows a direct link between the number of cigarettes smoked in a lifetime and the number of mutations in tumour DNA.
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	análisis	análisis	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	muestra	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	muestra	mostrar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	relación	relación	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
 6	directa	directo	ADJ	JJ	Gender=Fem|Number=Sing	5	amod	_	_
@@ -4824,7 +4824,7 @@
 # text_en = Also being exhibited for the first time are British Ministry of Defence maps which imagine cold war battles and which were used in military college exams.
 1	También	también	ADV	RB	_	3	advmod	_	_
 2	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pass	_	_
-3	muestran	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	muestran	mostrar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	por	por	ADP	IN	_	6	case	_	_
 5	primera	primero	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	_
 6	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	_
@@ -5400,7 +5400,7 @@
 16	que	que	SCONJ	IN	_	19	mark	_	_
 17	eso	eso	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	19	nsubj	_	_
 18	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	compound:prt	_	_
-19	modere	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	ccomp	_	SpaceAfter=No
+19	modere	moderar	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	ccomp	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	2	punct	_	_
 
 # sent_id = n01076030
@@ -8629,7 +8629,7 @@
 8	organización	organización	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
 9	raramente	raramente	ADV	RB	_	11	advmod	_	_
 10	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl:pass	_	_
-11	mide	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	mide	medir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	en	en	ADP	IN	_	13	case	_	_
 13	términos	término	NOUN	NN	Gender=Masc|Number=Plur	11	obl	_	_
 14	de	de	ADP	IN	_	16	case	_	_
@@ -10190,7 +10190,7 @@
 # text_en = When people die of old age in India, it is supposed to be a celebration.
 1	Cuando	cuando	ADV	WRB	PronType=Rel	3	advmod	_	_
 2	alguien	alguien	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	muere	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+3	muere	morir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
 4	de	de	ADP	IN	_	5	case	_	_
 5	vejez	vejez	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	_
 6	en	en	ADP	IN	_	8	case	_	_
@@ -12221,7 +12221,7 @@
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	hojas	hoja	NOUN	NN	Gender=Fem|Number=Plur	7	nsubj	_	_
-7	muestran	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	muestran	mostrar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 9	gran	gran	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	_
 10	variedad	variedad	NOUN	NN	Gender=Fem|Number=Sing	7	obj	_	_
@@ -12725,7 +12725,7 @@
 21	por	por	ADP	IN	_	24	discourse	_	_
 22	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	21	fixed	_	_
 23	menos	menos	ADV	RBR	Degree=Cmp	21	fixed	_	_
-24	mitigaría	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	conj	_	_
+24	mitigaría	mitigar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	conj	_	_
 25	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
 26	impactos	impacto	NOUN	NN	Gender=Masc|Number=Plur	24	obj	_	_
 27	adversos	adverso	ADJ	JJ	Gender=Masc|Number=Plur	26	amod	_	SpaceAfter=No
@@ -15617,7 +15617,7 @@
 # text = Dos miden la duración de los meses lunares.
 # text_en = Two measure the lengths of lunar months.
 1	Dos	dos	NUM	CD	NumForm=Word|NumType=Card	2	nsubj	_	_
-2	miden	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	miden	medir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	duración	duración	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 5	de	de	ADP	IN	_	7	case	_	_
@@ -21414,7 +21414,7 @@
 25	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	jubilado	jubilado	NOUN	NN	Gender=Masc|Number=Sing	28	nsubj	_	_
 27	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	28	compound:prt	_	_
-28	moría	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	advcl	_	_
+28	moría	morir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	advcl	_	_
 29	en	en	ADP	IN	_	31	case	_	_
 30	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
 31	banco	banco	NOUN	NN	Gender=Masc|Number=Sing	28	obl	_	SpaceAfter=No
@@ -21469,7 +21469,7 @@
 # text_en = The photo clearly shows the narrow touch display bar above the keyboard that has been anticipated in rumors.
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	fotografía	fotografía	NOUN	NN	Gender=Fem|Number=Sing	3	nsubj	_	_
-3	muestra	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	muestra	mostrar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	claramente	claramente	ADV	RB	_	3	advmod	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 6	estrecha	estrecho	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	_
