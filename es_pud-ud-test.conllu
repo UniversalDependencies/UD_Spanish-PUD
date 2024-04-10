@@ -1590,7 +1590,7 @@
 26	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
 27	dinosaurios	dinosaurio	NOUN	NN	Gender=Masc|Number=Plur	22	appos	_	SpaceAfter=No
 28	,	,	PUNCT	,	_	27	punct	_	_
-29	cayeran	_	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	19	ccomp	_	_
+29	cayeran	caer	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	19	ccomp	_	_
 30	en	en	ADP	IN	_	32	case	_	_
 31	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
 32	olvido	olvido	NOUN	NN	Gender=Masc|Number=Sing	29	obl	_	SpaceAfter=No
@@ -6838,7 +6838,7 @@
 19	puntear	puntear	VERB	VB	VerbForm=Inf	17	xcomp	_	_
 20	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
 21	ruedas	rueda	NOUN	NN	Gender=Fem|Number=Plur	19	obj	_	_
-22	camina	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
+22	camina	caminar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
 23	a	a	ADP	IN	_	28	case	_	_
 24	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	23	fixed	_	_
 25	largo	largo	NOUN	NN	Gender=Masc|Number=Sing	23	fixed	_	_
@@ -7138,7 +7138,7 @@
 # text = No cabe duda de que en el caso de Andy era así cuando jugó contra Benoît Paire en Montecarlo en abril.
 # text_en = That was definitely the case for Andy when he played Benoît Paire in Monte Carlo in April.
 1	No	no	ADV	RB	Polarity=Neg	2	advmod	_	_
-2	cabe	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	cabe	caber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	duda	duda	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 4	de	de	ADP	IN	_	11	case	_	_
 5	que	que	SCONJ	IN	_	11	mark	_	_
@@ -8518,7 +8518,7 @@
 # text = No cabe duda de que la tendencia táctil está estrechamente relacionada con nuestra obsesión creciente por fabricar cosas.
 # text_en = Of course, the tactile trend is closely linked to our growing obsession with making things.
 1	No	no	ADV	RB	Polarity=Neg	2	advmod	_	_
-2	cabe	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	cabe	caber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	duda	duda	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 4	de	de	ADP	IN	_	11	case	_	_
 5	que	que	SCONJ	IN	_	11	mark	_	_
@@ -10679,7 +10679,7 @@
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	órgano	órgano	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	ejecutivo	ejecutivo	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	_
-4	consiste	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	consiste	consistir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	en	en	ADP	IN	_	7	case	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	ministro	ministro	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	_
@@ -11598,7 +11598,7 @@
 2	a	a	ADP	INDT	_	1	fixed	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	clima	clima	NOUN	NN	Gender=Masc|Number=Sing	24	obl	_	_
-5	compartido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	SpaceAfter=No
+5	compartido	compartir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	8	punct	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	geología	geología	NOUN	NN	Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
@@ -13225,7 +13225,7 @@
 # text = Cuando caen al suelo, golpean otras partículas que probablemente son lanzadas al aire en su lugar, iniciando una reacción en cadena.
 # text_en = When they land, they strike other particles which may be jerked into the air in their turn, starting a chain reaction.
 1	Cuando	cuando	ADV	WRB	PronType=Rel	2	advmod	_	_
-2	caen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+2	caen	caer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 3-4	al	_	_	_	_	_	_	_	_
 3	a	a	ADP	INDT	_	5	case	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -14886,7 +14886,7 @@
 9	en	en	ADP	IN	_	11	case	_	_
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	zona	zona	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
-12	consistían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+12	consistían	consistir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 13	en	en	ADP	IN	_	15	case	_	_
 14	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	fila	fila	NOUN	NN	Gender=Fem|Number=Sing	12	obl	_	_
@@ -15207,7 +15207,7 @@
 6	otras	otro	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	7	det	_	_
 7	festividades	festividad	NOUN	NN	Gender=Fem|Number=Plur	2	conj	_	_
 8	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	9	obj	_	_
-9	celebran	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+9	celebran	celebrar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
 10	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 11	tailandeses	tailandés	NOUN	NN	Gender=Masc|Number=Plur	9	nsubj	_	Proper=True
 12	de	de	ADP	IN	_	13	case	_	_
@@ -18451,7 +18451,7 @@
 4	Óscar	Óscar	PROPN	NNP	Gender=Masc|Number=Sing	2	obj	_	_
 5	honorífico	honorífico	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
 6	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	_
-7	consistía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	acl:relcl	_	_
+7	consistía	consistir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	acl:relcl	_	_
 8	en	en	ADP	IN	_	10	case	_	_
 9	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	estatuilla	estatuilla	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
@@ -19227,7 +19227,7 @@
 12	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
 13	hermano	hermano	NOUN	NN	Gender=Masc|Number=Sing	15	nsubj	_	_
 14	no	no	ADV	RB	Polarity=Neg	15	advmod	_	_
-15	compartía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	_
+15	compartía	compartir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	_
 16	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
 17	devoción	devoción	NOUN	NN	Gender=Fem|Number=Sing	15	obj	_	SpaceAfter=No
 18	.	.	PUNCT	.	_	4	punct	_	_
@@ -20212,7 +20212,7 @@
 14	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	fuerza	_	NOUN	NN	Gender=Fem|Number=Plur	17	nsubj	_	_
 16	alemanas	alemano	ADJ	JJ	Gender=Fem|Number=Plur	15	amod	_	Proper=True
-17	cruzaran	_	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	xcomp	_	_
+17	cruzaran	cruzar	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	xcomp	_	_
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	frontera	frontera	NOUN	NN	Gender=Fem|Number=Sing	17	obj	_	SpaceAfter=No
 20	,	,	PUNCT	,	_	5	punct	_	_
@@ -24379,7 +24379,7 @@
 2	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	oratoria	oratoria	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
 4	parlamentaria	parlamentario	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	_
-5	caben	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	caben	caber	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	énfasis	énfasis	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	11	punct	_	_
@@ -25567,7 +25567,7 @@
 5	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
 6	disuelto	disolver	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	_
 7	y	y	CCONJ	CC	_	8	cc	_	_
-8	cayó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
+8	cayó	caer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
 9	en	en	ADP	IN	_	11	case	_	_
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	ruina	ruina	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
@@ -26293,7 +26293,7 @@
 12	suficientemente	suficientemente	ADV	RB	_	13	advmod	_	_
 13	grandes	grande	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	_
 14	fueron	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	aux:pass	_	_
-15	contruídos	_	VERB	VBN	Gender=Masc|Number=Plur|VerbForm=Fin	8	advcl	_	_
+15	contruídos	contraer	VERB	VBN	Gender=Masc|Number=Plur|VerbForm=Fin	8	advcl	_	_
 16	para	para	ADP	IN	_	17	case	_	_
 17	cruzar	cruzar	VERB	VB	VerbForm=Inf	15	xcomp	_	_
 18	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
