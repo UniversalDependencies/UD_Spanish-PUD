@@ -1514,7 +1514,7 @@
 1	Es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 2	fantástico	fantástico	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
 3	que	que	SCONJ	IN	_	4	mark	_	_
-4	consiguiesen	_	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	csubj	_	_
+4	consiguiesen	conseguir	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	csubj	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	Acuerdo	acuerdo	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	Proper=True
 7	de	de	ADP	IN	_	8	case	_	Proper=True
@@ -3715,7 +3715,7 @@
 6	ecografía	ecografía	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	_
 7	rutinaria	rutinario	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	compound:prt	_	_
-9	complicó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	complicó	complicar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	cuando	cuando	ADV	WRB	PronType=Rel	13	advmod	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 12	embarazada	embarazado	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	_
@@ -3765,7 +3765,7 @@
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	nacimiento	nacimiento	NOUN	NN	Gender=Masc|Number=Sing	10	obl	_	_
 14	y	y	CCONJ	CC	_	15	cc	_	_
-15	crece	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+15	crece	crecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
 16	a	a	ADP	IN	_	20	case	_	_
 17	partir	partir	VERB	VB	VerbForm=Inf	16	fixed	_	_
 18-19	del	_	_	_	_	_	_	_	_
@@ -4642,7 +4642,7 @@
 2	mucha	mucho	DET	DT	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	3	det	_	_
 3	gente	gente	NOUN	NN	Gender=Fem|Number=Sing	9	obl	_	_
 4	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	5	obj	_	_
-5	conozco	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	SpaceAfter=No
+5	conozco	conocer	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	3	punct	_	_
 7	me	yo	PRON	SE	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	9	compound:prt	_	_
 8	he	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	aux	_	_
@@ -5047,7 +5047,7 @@
 9	,	,	PUNCT	,	_	8	punct	_	_
 10	muchos	mucho	NOUN	NN	Gender=Masc|Number=Plur	12	nsubj	_	_
 11	no	no	ADV	RB	Polarity=Neg	12	advmod	_	_
-12	conocerían	_	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+12	conocerían	conocer	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
 13	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
 14	historia	historia	NOUN	NN	Gender=Fem|Number=Sing	12	obj	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	2	punct	_	_
@@ -5158,7 +5158,7 @@
 20	"	"	PUNCT	``	_	23	punct	_	SpaceAfter=No
 21	No	no	ADV	RB	Polarity=Neg	23	advmod	_	_
 22	he	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	23	aux	_	_
-23	conocido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	appos	_	_
+23	conocido	conocer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	appos	_	_
 24	a	a	ADP	IN	_	25	case	_	_
 25	nadie	nadie	NOUN	NN	Gender=Masc|Number=Sing	23	obl	_	_
 26	más	más	ADV	RBR	Degree=Cmp	27	advmod	_	_
@@ -6715,7 +6715,7 @@
 12	,	,	PUNCT	,	_	14	punct	_	_
 13	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	concepto	concepto	NOUN	NN	Gender=Masc|Number=Sing	7	appos	_	_
-15	conocido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	acl	_	_
+15	conocido	conocer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	acl	_	_
 16	como	como	ADP	IN	_	18	case	_	_
 17	"	"	PUNCT	``	_	18	punct	_	SpaceAfter=No
 18	defensa	defensa	NOUN	NN	Gender=Fem|Number=Sing	15	obl	_	_
@@ -6748,7 +6748,7 @@
 19	excesivamente	excesivamente	ADV	RB	_	20	advmod	_	_
 20	larga	largo	ADJ	JJ	Gender=Fem|Number=Sing	0	root	_	_
 21	y	y	CCONJ	CC	_	22	cc	_	_
-22	cubría	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	conj	_	_
+22	cubría	cubrir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	conj	_	_
 23	casi	casi	ADV	RB	_	24	advmod	_	_
 24	todos	todo	DET	PDT	Gender=Masc|Number=Plur|PronType=Tot	26	det	_	_
 25	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
@@ -7455,7 +7455,7 @@
 23	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	consumidor	consumidor	NOUN	NN	Gender=Masc|Number=Sing	21	nmod	_	_
 25	también	también	ADV	RB	_	26	advmod	_	_
-26	crecieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	SpaceAfter=No
+26	crecieron	crecer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = n01108015
@@ -9723,7 +9723,7 @@
 7	jugadores	jugador	NOUN	NN	Gender=Masc|Number=Plur	4	xcomp	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	golf	golf	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	_
-10	consiguieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	consiguieron	conseguir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	ser	ser	AUX	VB	VerbForm=Inf	12	aux:pass	_	_
 12	admitidos	_	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	xcomp	_	_
 13	en	en	ADP	IN	_	16	case	_	_
@@ -10349,7 +10349,7 @@
 10	taiga	taiga	NOUN	NN	Gender=Fem|Number=Sing	8	nsubj	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	13	punct	_	_
 12	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	13	nsubj	_	_
-13	cubre	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+13	cubre	cubrir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
 14	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 15	gran	gran	ADJ	JJ	Gender=Fem|Number=Sing	16	amod	_	_
 16	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	13	obj	_	_
@@ -10922,7 +10922,7 @@
 19	en	en	ADP	IN	_	18	fixed	_	_
 20	día	día	NOUN	NN	Gender=Masc|Number=Sing	18	fixed	_	_
 21	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	22	expl:pass	_	_
-22	conoce	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	xcomp	_	_
+22	conoce	conocer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	xcomp	_	_
 23	como	como	ADP	IN	_	24	case	_	_
 24	Moravia	Moravia	PROPN	NNP	Number=Sing	22	obl	_	_
 25-26	al	_	_	_	_	_	_	_	_
@@ -11093,7 +11093,7 @@
 10	separadamente	separadamente	ADV	RB	_	9	advmod	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	13	punct	_	_
 12	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl:pass	_	_
-13	conocen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+13	conocen	conocer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 14	como	como	ADP	IN	_	15	case	_	_
 15	meänkieli	meänkieli	X	FW	_	13	obl	_	Proper=True
 16	en	en	ADP	IN	_	17	case	_	_
@@ -13063,7 +13063,7 @@
 # text_en = As Brisbane grew, the condition of the river worsened until at its worst it was no more than an open sewer and waste dump.
 1	Mientras	mientras	ADV	WRB	_	3	advmod	_	_
 2	Brisbane	Brisbane	PROPN	NNP	Number=Sing	3	nsubj	_	_
-3	crecía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	advcl	_	SpaceAfter=No
+3	crecía	crecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	condición	condición	NOUN	NN	Gender=Fem|Number=Sing	10	nsubj	_	_
@@ -13785,7 +13785,7 @@
 3	que	que	SCONJ	IN	_	6	mark	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	libro	libro	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	_
-6	consiguiera	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+6	consiguiera	conseguir	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	atención	atención	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	_
 9	de	de	ADP	IN	_	11	case	_	_
@@ -13858,7 +13858,7 @@
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	Sur	sur	NOUN	NN	Gender=Masc|Number=Sing	10	nmod	_	Proper=True
 14	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux	_	_
-15	crecido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+15	crecido	crecer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 16	enormemente	enormemente	ADV	RB	_	15	advmod	_	_
 17	y	y	CCONJ	CC	_	22	cc	_	_
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
@@ -14400,7 +14400,7 @@
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	fuertes	fuerte	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj:pass	_	_
 3	fueron	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
-4	construidos	_	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	construidos	construir	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 5	en	en	ADP	IN	_	7	case	_	_
 6	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
 7	partes	parte	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
@@ -14639,7 +14639,7 @@
 7	original	original	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	3	punct	_	_
 9	Shen	Shen	PROPN	NNP	Gender=Masc|Number=Sing	10	nsubj	_	_
-10	consiguió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	consiguió	conseguir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	dragar	dragar	VERB	VB	VerbForm=Inf	10	xcomp	_	_
 12	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	canal	canal	NOUN	NN	Gender=Masc|Number=Sing	11	obj	_	_
@@ -14898,7 +14898,7 @@
 21	posición	posición	NOUN	NN	Gender=Fem|Number=Sing	18	nmod	_	_
 22	vertical	vertical	ADJ	JJ	Gender=Fem|Number=Sing	21	amod	_	SpaceAfter=No
 23	,	,	PUNCT	,	_	24	punct	_	_
-24	conocidas	_	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	18	acl	_	_
+24	conocidas	conocer	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	18	acl	_	_
 25	como	como	ADP	IN	_	26	case	_	_
 26	menhires	menhir	NOUN	NN	Gender=Masc|Number=Plur	24	obl	_	SpaceAfter=No
 27	,	,	PUNCT	,	_	28	punct	_	_
@@ -17938,7 +17938,7 @@
 7	cual	cual	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	10	obl	_	_
 8	mejor	mejor	ADV	RBR	_	10	advmod	_	_
 9	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl:pass	_	_
-10	conoce	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+10	conoce	conocer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 11	a	a	ADP	IN	_	12	case	_	_
 12	Alvarez	Alvarez	PROPN	NNP	Gender=Masc|Number=Sing	10	obl	_	_
 13	y	y	CCONJ	CC	_	17	cc	_	_
@@ -19538,7 +19538,7 @@
 1	Incluyó	incluir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	tres	tres	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	3	nummod	_	_
 3	pistas	pista	NOUN	NN	Gender=Fem|Number=Plur	1	obj	_	_
-4	coescritas	_	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Fin	3	acl	_	_
+4	coescritas	coescribir	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Fin	3	acl	_	_
 5	con	con	ADP	IN	_	6	case	_	_
 6	Jim	Jim	PROPN	NNP	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	9	punct	_	_
@@ -20020,7 +20020,7 @@
 15	Piggy	Piggy	PROPN	NNP	Gender=Fem|Number=Sing	14	appos	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	18	punct	_	_
 17	también	también	ADV	RB	_	18	advmod	_	_
-18	conocida	_	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	14	acl	_	_
+18	conocida	conocer	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	14	acl	_	_
 19	como	como	ADP	IN	_	21	case	_	_
 20	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	cerdita	cerdita	NOUN	NN	Gender=Fem|Number=Sing	18	obl	_	_
@@ -20928,7 +20928,7 @@
 1	Kesha	Kesha	PROPN	NNP	Gender=Fem|Number=Sing	4	nsubj	_	_
 2	y	y	CCONJ	CC	_	3	cc	_	_
 3	Pebe	Pebe	PROPN	NNP	Gender=Fem|Number=Sing	1	conj	_	_
-4	coescribieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	coescribieron	coescribir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	canción	canción	NOUN	NN	Gender=Fem|Number=Sing	4	obj	_	_
 7	"	"	PUNCT	``	_	8	punct	_	SpaceAfter=No
@@ -21023,7 +21023,7 @@
 6	Dorset	Dorset	PROPN	NNP	Number=Sing	4	appos	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	9	punct	_	_
 8	pero	pero	CCONJ	CC	_	9	cc	_	_
-9	creció	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+9	creció	crecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
 10	predominantemente	predominantemente	ADV	RB	_	9	advmod	_	_
 11	en	en	ADP	IN	_	12	case	_	_
 12	Wells	Wells	PROPN	NNP	Number=Sing	9	obl	_	SpaceAfter=No
@@ -22149,7 +22149,7 @@
 10	estúpida	estúpido	ADJ	JJ	Gender=Fem|Number=Sing	8	amod	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	13	punct	_	_
 12	si	si	SCONJ	IN	_	13	mark	_	_
-13	conocía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	4	ccomp	_	_
+13	conocía	conocer	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	4	ccomp	_	_
 14-15	al	_	_	_	_	_	_	_	_
 14	a	a	ADP	INDT	_	16	case	_	_
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
@@ -22185,7 +22185,7 @@
 14	SPIEGEL	SPIEGEL	PROPN	NNP	Number=Sing	12	obl	_	_
 15	que	que	SCONJ	IN	_	17	mark	_	_
 16	está	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
-17	convencido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	ccomp	_	_
+17	convencido	convencer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	ccomp	_	_
 18	de	de	ADP	IN	_	25	case	_	_
 19	que	que	SCONJ	IN	_	25	mark	_	_
 20	uno	uno	NOUN	NN	Gender=Masc|Number=Sing	25	nsubj	_	_
@@ -23314,7 +23314,7 @@
 11	Castelfranco	Castelfranco	PROPN	NNP	_	3	obl	_	_
 12	Veneto	Veneto	PROPN	NNP	_	11	flat:name	_	SpaceAfter=No
 13	;	;	PUNCT	:	_	14	punct	_	_
-14	creció	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
+14	creció	crecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
 15	en	en	ADP	IN	_	17	case	_	_
 16	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	familia	familia	NOUN	NN	Gender=Fem|Number=Sing	14	obl	_	_
@@ -24953,7 +24953,7 @@
 3	Yerba	yerba	NOUN	NN	Gender=Fem|Number=Sing	2	appos	_	Proper=True
 4	Buena	bueno	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	Proper=True
 5	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
-6	construido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	construido	construir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 7	a	a	ADP	IN	_	8	case	_	_
 8	inicios	inicio	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	_
 9	de	de	ADP	IN	_	11	case	_	_
@@ -25019,7 +25019,7 @@
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	Partido	partido	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	Proper=True
 9	Laborista	laborista	ADJ	JJ	Gender=Masc|Number=Sing	8	amod	_	Proper=True
-10	consiguió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	consiguió	conseguir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	vencer	vencer	VERB	VB	VerbForm=Inf	10	xcomp	_	_
 12	en	en	ADP	IN	_	15	case	_	_
 13	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
@@ -25162,7 +25162,7 @@
 15	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	18	obl	_	_
 17	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	18	expl:pass	_	_
-18	conocen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
+18	conocen	conocer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
 19	muchos	mucho	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	20	det	_	_
 20	yacimientos	yacimiento	NOUN	NN	Gender=Masc|Number=Plur	18	nsubj:pass	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	1	punct	_	_
@@ -26721,7 +26721,7 @@
 9	90	90	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	10	nummod	_	_
 10	hectáreas	hectárea	NOUN	NN	Gender=Fem|Number=Plur	5	nmod	_	_
 11	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	_	_
-12	construído	_	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	_
+12	construído	construir	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	_
 13	en	en	ADP	IN	_	15	case	_	_
 14	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	12	obl	_	_
@@ -27236,7 +27236,7 @@
 10	Bruno	Bruno	PROPN	NNP	Gender=Masc|Number=Sing	4	conj	_	_
 11	Nicolai	Nicolai	PROPN	NNP	Gender=Masc|Number=Sing	10	flat:name	_	_
 12	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	compound:prt	_	_
-13	conocieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+13	conocieron	conocer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 14	en	en	ADP	IN	_	16	case	_	_
 15	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	conservatorio	conservatorio	NOUN	NN	Gender=Masc|Number=Sing	13	obl	_	_
