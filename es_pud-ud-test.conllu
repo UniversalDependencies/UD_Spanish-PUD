@@ -4311,7 +4311,7 @@
 # sent_id = n01059054
 # text = Existen más diferencias que similitudes entre Sulla y Trump, entre Roma y Estados Unidos, pero eso no quita valor a los parecidos.
 # text_en = There are more differences between Sulla and Trump, Rome and the U.S., than there are similarities, but that doesn’t discredit the resemblances.
-1	Existen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Existen	existir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	más	más	ADV	RBR	Degree=Cmp	3	advmod	_	_
 3	diferencias	diferencia	NOUN	NN	Gender=Fem|Number=Plur	1	nsubj	_	_
 4	que	que	ADP	IN	_	5	case	_	_
@@ -5433,7 +5433,7 @@
 # text = También existen las conocidas como historias reales que son publicadas en una serie de imágenes significativas con un mensaje de texto en la parte inferior.
 # text_en = Then there are the so-called true stories that get posted in a series of meaningful pictures with text running underneath.
 1	También	también	ADV	RB	_	2	advmod	_	_
-2	existen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	existen	existir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
 4	conocidas	conocida	NOUN	NN	Gender=Fem|Number=Plur	2	nsubj	_	_
 5	como	como	ADP	IN	_	6	case	_	_
@@ -6584,7 +6584,7 @@
 # text = No existían en nuestros días, y las personas que no tienen hijos utilizan expresan todo su rechazo hacia la paternidad moderna mediante su falta de aprobación.
 # text_en = They didn’t have them in our day, and people without children express through their disapproval all their hatred of modern parenting.
 1	No	no	ADV	RB	Polarity=Neg	2	advmod	_	_
-2	existían	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	existían	existir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 3	en	en	ADP	IN	_	5	case	_	_
 4	nuestros	nuestro	PRON	DTP$	Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
 5	días	día	NOUN	NN	Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
@@ -15283,7 +15283,7 @@
 7	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	8	det	_	_
 8	cual	cual	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	10	nsubj:pass	_	_
 9	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl:pass	_	_
-10	evidencia	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+10	evidencia	evidenciar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 11	en	en	ADP	IN	_	13	case	_	_
 12	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	estructura	estructura	NOUN	NN	Gender=Fem|Number=Sing	10	obl	_	_
@@ -16859,7 +16859,7 @@
 1	Sin	sin	ADP	IN	_	4	discourse	_	_
 2	embargo	embargo	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	1	punct	_	_
-4	existen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	existen	existir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	extensivos	extensivo	ADJ	JJ	Gender=Masc|Number=Plur	6	amod	_	_
 6	análisis	_	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
 7	estadísticos	estadístico	ADJ	JJ	Gender=Masc|Number=Plur	6	amod	_	_
@@ -23416,7 +23416,7 @@
 # sent_id = n04002029
 # text = Evaluaremos si pasamos, y de qué manera, a la siguiente sección.
 # text_en = We will evaluate whether and how to continue onto the next section.
-1	Evaluaremos	_	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+1	Evaluaremos	evaluar	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
 2	si	si	SCONJ	IN	_	3	mark	_	_
 3	pasamos	pasar	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	ccomp	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	8	punct	_	_
@@ -23619,7 +23619,7 @@
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	cual	cual	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	_
 7	claramente	claramente	ADV	RB	_	8	advmod	_	_
-8	excede	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+8	excede	exceder	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	promedio	promedio	NOUN	NN	Gender=Masc|Number=Sing	8	obj	_	_
 11	de	de	ADP	IN	_	13	case	_	_
@@ -25370,7 +25370,7 @@
 6	y	y	CCONJ	CC	_	9	cc	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	audiencia	audiencia	NOUN	NN	Gender=Fem|Number=Sing	9	nsubj	_	_
-9	exigió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
+9	exigió	exigir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
 10	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	bis	bis	NOUN	NN	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	5	punct	_	_
@@ -26980,7 +26980,7 @@
 8	condados	condado	NOUN	NN	Gender=Masc|Number=Plur	3	appos	_	SpaceAfter=No
 9	)	)	PUNCT	)	_	8	punct	_	_
 10	han	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	_
-11	existido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	existido	existir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 12	bajo	bajo	ADP	IN	_	13	case	_	_
 13	Enrique	Enrique	PROPN	NNP	Gender=Masc|Number=Sing	11	obl	_	_
 14	I	i	ADJ	JJ	Gender=Masc|Number=Sing	13	amod	_	Proper=True
