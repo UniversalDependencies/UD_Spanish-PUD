@@ -5741,7 +5741,7 @@
 5	pareja	pareja	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
 6	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
 7	abrir	abrir	VERB	VB	VerbForm=Inf	0	root	_	_
-8	cuatro	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	9	nummod	_	_
+8	cuatro	cuatro	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	9	nummod	_	_
 9	cuentas	cuenta	NOUN	NN	Gender=Fem|Number=Plur	7	obj	_	_
 10	en	en	ADP	IN	_	11	case	_	_
 11	Tesco	Tesco	PROPN	NNP	Number=Sing	7	obl	_	_
@@ -16920,7 +16920,7 @@
 5	había	haber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	alrededor	alrededor	ADV	RB	_	9	advmod	_	_
 7	de	de	ADP	IN	_	6	fixed	_	_
-8	cuarenta	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	9	nummod	_	_
+8	cuarenta	cuarenta	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	9	nummod	_	_
 9	familias	familia	NOUN	NN	Gender=Fem|Number=Plur	5	obj	_	_
 10	viviendo	vivir	VERB	VBG	VerbForm=Ger	9	acl	_	_
 11	ahí	ahí	ADV	RB	_	10	advmod	_	_
@@ -21403,7 +21403,7 @@
 14	está	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
 15	investigando	investigar	VERB	VBG	VerbForm=Ger	0	root	_	_
 16	a	a	ADP	IN	_	18	case	_	_
-17	cuatro	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	18	nummod	_	_
+17	cuatro	cuatro	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	18	nummod	_	_
 18	personas	persona	NOUN	NN	Gender=Fem|Number=Plur	15	obl	_	_
 19	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	20	nsubj	_	_
 20	permanecieron	permanecer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	18	acl:relcl	_	_
