@@ -1914,7 +1914,7 @@
 2	pregunté	preguntar	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 3	después	después	ADV	RB	_	2	advmod	_	_
 4	si	si	SCONJ	IN	_	5	mark	_	_
-5	entendía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+5	entendía	entender	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
 6	por	por	ADP	IN	_	7	case	_	_
 7	qué	qué	PRON	WP	PronType=Int	11	obl	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
@@ -3016,7 +3016,7 @@
 9	Gerru	Gerru	PROPN	NNP	Gender=Masc|Number=Sing	2	appos	_	_
 10	McNeilly	McNeilly	PROPN	NNP	Gender=Masc|Number=Sing	9	flat:name	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	9	punct	_	_
-12	estableció	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	estableció	establecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
 14	términos	término	NOUN	NN	Gender=Masc|Number=Plur	12	obj	_	_
 15	para	para	ADP	IN	_	17	case	_	_
@@ -3848,7 +3848,7 @@
 1	Algunos	alguno	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
 2	hombres	_	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
 3	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
-4	entienden	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	entienden	entender	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	y	y	CCONJ	CC	_	8	cc	_	_
 6	Bono	Bono	PROPN	NNP	Gender=Masc|Number=Sing	8	nsubj	_	_
 7	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
@@ -9248,7 +9248,7 @@
 # text = Loving empieza cuando Richard y Mildred ya eran pareja, omitiendo un cortejo que hubiera sido interesante de ver, aunque solo fuese brevemente.
 # text_en = "Loving" opens with Richard and Mildred already a couple, eliding over a courtship that would have been interesting to see, if only in brief.
 1	Loving	Loving	PROPN	NNP	Number=Sing	2	nsubj	_	_
-2	empieza	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	empieza	empezar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	cuando	cuando	ADV	WRB	PronType=Rel	9	advmod	_	_
 4	Richard	Richard	PROPN	NNP	Gender=Masc|Number=Sing	9	nsubj	_	_
 5	y	y	CCONJ	CC	_	6	cc	_	_
@@ -10887,7 +10887,7 @@
 17	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
 18	eslavos	eslavo	NOUN	NN	Gender=Masc|Number=Plur	20	nsubj	_	Proper=True
 19	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	20	compound:prt	_	_
-20	establecieran	_	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	14	xcomp	_	_
+20	establecieran	establecer	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	14	xcomp	_	_
 21	en	en	ADP	IN	_	23	case	_	_
 22	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	siglo	siglo	NOUN	NN	Gender=Masc|Number=Sing	20	obl	_	_
@@ -11711,7 +11711,7 @@
 9	superficie	superficie	NOUN	NN	Gender=Fem|Number=Sing	6	obl:agent	_	_
 10	rocosa	rocoso	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	_
 11	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	12	nsubj	_	_
-12	empieza	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+12	empieza	empezar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
 13	cerca	cerca	ADV	RB	_	12	advmod	_	_
 14	de	de	ADP	IN	_	15	case	_	_
 15	Kristiansand	Kristiansand	PROPN	NNP	Number=Sing	13	obl	_	_
@@ -13152,7 +13152,7 @@
 3	de	de	ADP	IN	_	4	case	_	_
 4	tierra	tierra	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	_
 5	normalmente	normalmente	ADV	RB	_	6	advmod	_	_
-6	empiezan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	empiezan	empezar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	en	en	ADP	IN	_	9	case	_	_
 8	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	extremos	extremo	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	_
@@ -13902,7 +13902,7 @@
 3	Nacional	nacional	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	Proper=True
 4	Real	real	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No|Proper=True
 5	,	,	PUNCT	,	_	6	punct	_	_
-6	establecido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+6	establecido	establecer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
 7	en	en	ADP	IN	_	8	case	_	_
 8	1879	1879	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	6	obl	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	6	punct	_	_
@@ -13915,7 +13915,7 @@
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	mundo	mundo	NOUN	NN	Gender=Masc|Number=Sing	13	nmod	_	_
 17	oficialmente	oficialmente	ADV	RB	_	18	advmod	_	_
-18	establecido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	acl	_	_
+18	establecido	establecer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	acl	_	_
 19	como	como	ADP	IN	_	20	case	_	_
 20	parque	parque	NOUN	NN	Gender=Masc|Number=Sing	18	obl	_	_
 21	nacional	nacional	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	SpaceAfter=No
@@ -14420,7 +14420,7 @@
 # sent_id = w01056103
 # text = Estableció la base para una integración en la que los mecanismos económicos y judiciales del Estado se pudieran aplicar por todo el Mediterráneo, como se había hecho antes desde el Lacio a toda Italia.
 # text_en = It set the basis for integration where the economic and judicial mechanisms of the state could be applied throughout the Mediterranean as was once done from Latium into all Italy.
-1	Estableció	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Estableció	establecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	base	base	NOUN	NN	Gender=Fem|Number=Sing	1	obj	_	_
 4	para	para	ADP	IN	_	6	case	_	_
@@ -16639,7 +16639,7 @@
 20	dado	dar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	23	mark	_	_
 21	que	que	ADP	IN	_	20	fixed	_	_
 22	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	23	expl:pass	_	_
-23	establecieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	advcl	_	_
+23	establecieron	establecer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	advcl	_	_
 24	rutas	ruta	NOUN	NN	Gender=Fem|Number=Plur	23	nsubj:pass	_	_
 25	económicas	económico	ADJ	JJ	Gender=Fem|Number=Plur	24	amod	_	_
 26	lucrativas	lucrativo	ADJ	JJ	Gender=Fem|Number=Plur	24	amod	_	SpaceAfter=No
@@ -17084,7 +17084,7 @@
 6	,	,	PUNCT	,	_	4	punct	_	_
 7	Esparta	Esparta	PROPN	NNP	Number=Sing	9	nsubj	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	compound:prt	_	_
-9	estableció	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	estableció	establecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	como	como	ADP	IN	_	12	case	_	_
 11	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	poder	poder	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	_
@@ -24205,7 +24205,7 @@
 8	en	en	ADP	IN	_	10	case	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	partido	partido	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	_
-11	entendieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11	entendieron	entender	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 12	ayer	ayer	ADV	RB	_	11	advmod	_	_
 13	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
 14	mensajes	_	NOUN	NN	Gender=Masc|Number=Plur	11	obj	_	_
@@ -24807,7 +24807,7 @@
 4	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	7	nsubj	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pass	_	_
 6	han	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
-7	establecido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	_
+7	establecido	establecer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	_
 8	desde	desde	ADP	IN	_	10	case	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	inicio	inicio	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
