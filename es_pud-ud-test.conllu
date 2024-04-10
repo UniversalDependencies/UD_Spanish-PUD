@@ -1199,7 +1199,7 @@
 5	habían	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 6	visto	ver	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 7	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
-8	jets	_	NOUN	NN	Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
+8	jets	jet	NOUN	NN	Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	6	punct	_	_
 
 # sent_id = n01020017
@@ -6911,7 +6911,7 @@
 49	,	,	PUNCT	,	_	50	punct	_	_
 50	sapos	sapo	NOUN	NN	Gender=Masc|Number=Plur	22	conj	_	_
 51	y	y	CCONJ	CC	_	52	cc	_	_
-52	bagres	_	NOUN	NN	Gender=Masc|Number=Plur	50	conj	_	_
+52	bagres	bagre	NOUN	NN	Gender=Masc|Number=Plur	50	conj	_	_
 53	vivos	vivo	ADJ	JJ	Gender=Masc|Number=Plur	50	amod	_	SpaceAfter=No
 54	.	.	PUNCT	.	_	4	punct	_	_
 
@@ -15503,7 +15503,7 @@
 21	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	20	compound:prt	_	_
 22	contra	contra	ADP	IN	_	24	case	_	_
 23	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
-24	rebeldes	_	NOUN	NN	Gender=Masc|Number=Plur	20	obl	_	_
+24	rebeldes	rebelde	NOUN	NN	Gender=Masc|Number=Plur	20	obl	_	_
 25	en	en	ADP	IN	_	26	case	_	_
 26	Holanda	Holanda	PROPN	NNP	Number=Sing	20	obl	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	11	punct	_	_
@@ -16485,7 +16485,7 @@
 2	asegurar	asegurar	VERB	VB	VerbForm=Inf	10	xcomp	_	_
 3	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
 4	regiones	región	NOUN	NN	Gender=Fem|Number=Plur	2	obj	_	_
-5	limítrofes	_	ADJ	JJ	Gender=Fem|Number=Plur	4	amod	_	_
+5	limítrofes	limítrofe	ADJ	JJ	Gender=Fem|Number=Plur	4	amod	_	_
 6	de	de	ADP	IN	_	7	case	_	_
 7	Macedonia	Macedonia	PROPN	NNP	Number=Sing	4	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	2	punct	_	_
@@ -18111,7 +18111,7 @@
 # text = Los rebeldes de la Alianza de Fuerzas Democráticas para la Liberación del Congo capturaron a Lubumbashi en abril de 1997.
 # text_en = The Alliance of Democratic Forces for the Liberation of Congo rebels captured Lubumbashi in April 1997.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
-2	rebeldes	_	NOUN	NN	Gender=Masc|Number=Plur	15	nsubj	_	_
+2	rebeldes	rebelde	NOUN	NN	Gender=Masc|Number=Plur	15	nsubj	_	_
 3	de	de	ADP	IN	_	5	case	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	Alianza	alianza	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	Proper=True
@@ -18219,7 +18219,7 @@
 13	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
 14	diseñadores	diseñador	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	_
 15	de	de	ADP	IN	_	16	case	_	_
-16	afiches	_	NOUN	NN	Gender=Masc|Number=Plur	14	nmod	_	_
+16	afiches	afiche	NOUN	NN	Gender=Masc|Number=Plur	14	nmod	_	_
 17	de	de	ADP	IN	_	18	case	_	_
 18	películas	película	NOUN	NN	Gender=Fem|Number=Plur	16	nmod	_	_
 19	Bill	Bill	PROPN	NNP	Gender=Masc|Number=Sing	14	appos	_	_
@@ -18230,7 +18230,7 @@
 24	,	,	PUNCT	,	_	26	punct	_	_
 25	quienes	quien	PRON	REL	Number=Plur|PronType=Rel	26	nsubj	_	_
 26	producían	producir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	19	acl:relcl	_	_
-27	afiches	_	NOUN	NN	Gender=Masc|Number=Plur	26	obj	_	_
+27	afiches	afiche	NOUN	NN	Gender=Masc|Number=Plur	26	obj	_	_
 28	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	29	nsubj	_	_
 29	representaban	representar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	27	acl:relcl	_	_
 30	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	31	det	_	_
