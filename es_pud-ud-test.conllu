@@ -888,7 +888,7 @@
 27	50	50	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	28	nummod	_	_
 28	nombres	_	NOUN	NN	Gender=Masc|Number=Plur	24	nmod	_	_
 29	más	más	ADV	RBR	Degree=Cmp	30	advmod	_	_
-30	populares	_	ADJ	JJ	Gender=Masc|Number=Plur	28	amod	_	_
+30	populares	popular	ADJ	JJ	Gender=Masc|Number=Plur	28	amod	_	_
 31	y	y	CCONJ	CC	_	38	cc	_	_
 32	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
 33	número	número	NOUN	NN	Gender=Masc|Number=Sing	38	nsubj	_	_
@@ -1334,7 +1334,7 @@
 17	cerraron	cerrar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_
 18	sitios	sitio	NOUN	NN	Gender=Masc|Number=Plur	17	nsubj	_	_
 19	web	web	NOUN	NN	Gender=Fem|Number=Sing	18	nmod	_	_
-20	populares	_	ADJ	JJ	Gender=Masc|Number=Plur	18	amod	_	_
+20	populares	popular	ADJ	JJ	Gender=Masc|Number=Plur	18	amod	_	_
 21	como	como	ADP	IN	_	22	case	_	_
 22	Reddit	Reddit	PROPN	NNP	Number=Sing	18	nmod	_	SpaceAfter=No
 23	,	,	PUNCT	,	_	24	punct	_	_
@@ -4852,7 +4852,7 @@
 28	exámenes	exámen	NOUN	NN	Gender=Masc|Number=Plur	26	obl	_	_
 29	de	de	ADP	IN	_	30	case	_	_
 30	colegios	colegio	NOUN	NN	Gender=Masc|Number=Plur	28	nmod	_	_
-31	militares	_	ADJ	JJ	Gender=Masc|Number=Plur	30	amod	_	SpaceAfter=No
+31	militares	militar	ADJ	JJ	Gender=Masc|Number=Plur	30	amod	_	SpaceAfter=No
 32	.	.	PUNCT	.	_	3	punct	_	_
 
 # newdoc id = n01068
@@ -12931,7 +12931,7 @@
 2	no	no	ADV	RB	Polarity=Neg	5	advmod	_	_
 3	eran	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
 4	muy	muy	ADV	RB	_	5	advmod	_	_
-5	populares	_	ADJ	JJ	Gender=Fem|Number=Plur	0	root	_	_
+5	populares	popular	ADJ	JJ	Gender=Fem|Number=Plur	0	root	_	_
 6	debido	deber	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	mark	_	_
 7	a	a	ADP	IN	_	6	fixed	_	_
 8	que	que	ADP	IN	_	6	fixed	_	_
@@ -13769,7 +13769,7 @@
 27	a	a	ADP	IN	_	29	case	_	_
 28	algunas	alguno	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	29	det	_	_
 29	personas	persona	NOUN	NN	Gender=Fem|Number=Plur	24	obl	_	_
-30	particulares	_	ADJ	JJ	Gender=Fem|Number=Plur	29	amod	_	_
+30	particulares	particular	ADJ	JJ	Gender=Fem|Number=Plur	29	amod	_	_
 31	para	para	ADP	IN	_	32	case	_	_
 32	obtener	obtener	VERB	VB	VerbForm=Inf	24	xcomp	_	_
 33	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	35	det	_	_
@@ -15623,7 +15623,7 @@
 5	de	de	ADP	IN	_	7	case	_	_
 6	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
 7	meses	mes	NOUN	NN	Gender=Masc|Number=Plur	4	nmod	_	_
-8	lunares	_	ADJ	JJ	Gender=Masc|Number=Plur	7	amod	_	SpaceAfter=No|Proper=True
+8	lunares	lunar	ADJ	JJ	Gender=Masc|Number=Plur	7	amod	_	SpaceAfter=No|Proper=True
 9	.	.	PUNCT	.	_	2	punct	_	_
 
 # newdoc id = w01071
@@ -22712,7 +22712,7 @@
 12	puede	poder	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
 13	manejar	manejar	VERB	VB	VerbForm=Inf	0	root	_	_
 14	códigos	código	NOUN	NN	Gender=Masc|Number=Plur	13	obj	_	_
-15	nucleares	_	ADJ	JJ	Gender=Masc|Number=Plur	14	amod	_	SpaceAfter=No
+15	nucleares	nuclear	ADJ	JJ	Gender=Masc|Number=Plur	14	amod	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	19	punct	_	_
 17	-	-	PUNCT	-	_	19	punct	_	_
 18	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	compound:prt	_	_
