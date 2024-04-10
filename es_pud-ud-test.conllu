@@ -414,7 +414,7 @@
 # text = Nos enfrentamos a una gran competición y creemos que el transporte público puede ayudar, afirmó Joe Sternlieb, presidente del Distrito de mejora de negocio de Georgetown.
 # text_en = “We face a lot of competition, and we think transit can help,” said Joe Sternlieb, president of the Georgetown BID.
 1	Nos	yo	PRON	SE	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	compound:prt	_	_
-2	enfrentamos	_	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	enfrentamos	enfrentar	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	a	a	ADP	IN	_	6	case	_	_
 4	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 5	gran	gran	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	_
@@ -6654,7 +6654,7 @@
 9	Unido	unido	ADJ	JJ	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No|Proper=True
 10	,	,	PUNCT	,	_	2	punct	_	_
 11	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	compound:prt	_	_
-12	enfrenta	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	enfrenta	enfrentar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 13	a	a	ADP	IN	_	15	case	_	_
 14	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	escasez	escasez	NOUN	NN	Gender=Fem|Number=Sing	12	obl	_	_
@@ -16701,7 +16701,7 @@
 8	estatal	estatal	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	_
 9	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	11	nsubj	_	_
 10	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	compound:prt	_	_
-11	enfrentaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	acl:relcl	_	_
+11	enfrentaban	enfrentar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	acl:relcl	_	_
 12	a	a	ADP	IN	_	13	case	_	_
 13	problemas	problema	NOUN	NN	Gender=Masc|Number=Plur	11	obl	_	_
 14	logísticos	logístico	ADJ	JJ	Gender=Masc|Number=Plur	13	amod	_	SpaceAfter=No
@@ -16788,7 +16788,7 @@
 10	por	por	ADP	IN	_	11	case	_	_
 11	Venecia	Venecia	PROPN	NNP	Number=Sing	9	obl:agent	_	_
 12	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl:pass	_	_
-13	emprendió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+13	emprendió	emprender	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 14	desde	desde	ADP	IN	_	15	case	_	_
 15	Francia	Francia	PROPN	NNP	Number=Sing	13	obl	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	13	punct	_	_
@@ -18614,7 +18614,7 @@
 15	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	universidad	universidad	NOUN	NN	Gender=Fem|Number=Sing	13	obl	_	_
 17	pero	pero	CCONJ	CC	_	18	cc	_	_
-18	estudiaría	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	conj	_	_
+18	estudiaría	estudiar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	conj	_	_
 19	literatura	literatura	NOUN	NN	Gender=Fem|Number=Sing	18	obj	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	8	punct	_	_
 
@@ -23172,7 +23172,7 @@
 2	tiempo	tiempo	NOUN	NN	Gender=Masc|Number=Sing	14	nsubj	_	_
 3	de	de	ADP	IN	_	4	case	_	_
 4	trabajo	trabajo	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
-5	emprendido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
+5	emprendido	emprender	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
 6	en	en	ADP	IN	_	9	case	_	_
 7	esta	este	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
 8	primera	primero	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	_
@@ -24131,7 +24131,7 @@
 3	este	este	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 4	Ministerio	ministerio	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	compound:prt	_	_
-6	enfrenta	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	enfrenta	enfrentar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	a	a	ADP	IN	_	9	case	_	_
 8	nuevos	nuevo	ADJ	JJ	Gender=Masc|Number=Plur	9	amod	_	_
 9	desafíos	desafío	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	SpaceAfter=No
@@ -26922,7 +26922,7 @@
 5	,	,	PUNCT	,	_	3	punct	_	_
 6	algunos	alguno	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	7	det	_	_
 7	autores	autor	NOUN	NN	Gender=Masc|Number=Plur	8	nsubj	_	_
-8	empleaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	empleaban	emplear	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	nombre	nombre	NOUN	NN	Gender=Masc|Number=Sing	8	obj	_	_
 11	de	de	ADP	IN	_	12	case	_	_
@@ -27288,7 +27288,7 @@
 20	;	;	PUNCT	:	_	23	punct	_	_
 21	algunas	alguno	NOUN	NN	Gender=Fem|Number=Plur	23	nsubj:pass	_	_
 22	eran	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	23	aux:pass	_	_
-23	escritas	_	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Fin	2	parataxis	_	_
+23	escritas	escribir	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Fin	2	parataxis	_	_
 24	por	por	ADP	IN	_	25	case	_	_
 25	ambos	ambos	NOUN	NN	Gender=Masc|Number=Plur	23	obl	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	2	punct	_	_
