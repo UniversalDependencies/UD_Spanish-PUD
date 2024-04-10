@@ -1115,16 +1115,15 @@
 
 # newdoc id = n01018
 # sent_id = n01018024
-# text = A veces es como un súper poder.
+# text = A veces es como un superpoder.
 # text_en = It's like a super power sometimes.
 1	A	a	ADP	IN	_	3	advmod	_	_
 2	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	1	fixed	_	_
 3	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	como	como	ADP	IN	_	6	case	_	_
 5	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	súper	superpoder	NOUN	NN	Gender=Masc|Number=Sing|Typo=Yes	3	obl	_	CorrectForm=superpoder
-7	poder	poder	X	NN	_	6	goeswith	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	3	punct	_	_
+6	superpoder	superpoder	NOUN	NN	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	3	punct	_	_
 
 # sent_id = n01018040
 # text = El programa gana dinero mediante el patrocinio y la publicidad.
