@@ -19528,7 +19528,7 @@
 19	compañero	compañero	NOUN	NN	Gender=Masc|Number=Sing	11	obl	_	_
 20	Egan	Egan	PROPN	NNP	Gender=Masc|Number=Sing	19	appos	_	_
 21	de	de	ADP	IN	_	23	case	_	_
-22	Stealers	stealer	NOUN	NN	Foreign=Yes|Number=Plur	22	compound	_	Lang=en|Proper=True
+22	Stealers	stealer	NOUN	NN	Foreign=Yes|Number=Plur	23	compound	_	Lang=en|Proper=True
 23	Wheel	wheel	NOUN	NN	Foreign=Yes|Number=Sing	19	nmod	_	Lang=en|SpaceAfter=No|Proper=True
 24	.	.	PUNCT	.	_	11	punct	_	_
 
