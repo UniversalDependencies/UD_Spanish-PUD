@@ -1795,7 +1795,7 @@
 16	por	por	ADP	IN	_	13	advmod	_	_
 17	completo	completo	NOUN	NN	Gender=Masc|Number=Sing	16	fixed	_	SpaceAfter=No
 18	,	,	PUNCT	,	_	19	punct	_	_
-19	explica	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	parataxis	_	_
+19	explica	explicar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	parataxis	_	_
 20	Tarlo	Tarlo	PROPN	NNP	Number=Sing	19	nsubj	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	8	punct	_	_
 
@@ -2351,7 +2351,7 @@
 14	no	no	ADV	RB	Polarity=Neg	17	advmod	_	_
 15	están	estar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
 16	directamente	directamente	ADV	RB	_	17	advmod	_	_
-17	expuestos	_	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	12	acl:relcl	_	SpaceAfter=No
+17	expuestos	exponer	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	12	acl:relcl	_	SpaceAfter=No
 18	,	,	PUNCT	,	_	20	punct	_	_
 19	como	como	ADP	IN	_	20	case	_	_
 20	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	nmod	_	_
@@ -2458,7 +2458,7 @@
 # text = Trudeau extenderá esa invitación al 45º presidente de Estados Unidos, independientemente de quien resulte elegido.
 # text_en = Trudeau will extend that invitation to the 45th president of the United States, whoever he or she may be.
 1	Trudeau	Trudeau	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	extenderá	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	extenderá	extender	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 3	esa	ese	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
 4	invitación	invitación	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 5-6	al	_	_	_	_	_	_	_	_
@@ -3547,7 +3547,7 @@
 21	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	noche	noche	NOUN	NN	Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
 23	,	,	PUNCT	,	_	24	punct	_	_
-24	explica	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+24	explica	explicar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 25	Dietrich	Dietrich	PROPN	NNP	Gender=Masc|Number=Sing	24	nsubj	_	SpaceAfter=No
 26	,	,	PUNCT	,	_	29	punct	_	_
 27	de	de	ADP	IN	_	29	case	_	_
@@ -6597,7 +6597,7 @@
 12	tienen	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
 13	hijos	hijo	NOUN	NN	Gender=Masc|Number=Plur	12	obj	_	_
 14	utilizan	utilizar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
-15	expresan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
+15	expresan	expresar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
 16	todo	todo	DET	PDT	Gender=Masc|Number=Sing|PronType=Tot	18	det	_	_
 17	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	det	_	_
 18	rechazo	rechazo	NOUN	NN	Gender=Masc|Number=Sing	14	obj	_	_
@@ -7435,7 +7435,7 @@
 4	y	y	CCONJ	CC	_	5	cc	_	_
 5	mayoristas	mayorista	NOUN	NN	Gender=Fem|Number=Plur	3	conj	_	_
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	compound:prt	_	_
-7	expandieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+7	expandieron	expandir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	13	punct	_	_
 9	ya	ya	ADV	RB	_	13	mark	_	_
 10	que	que	ADP	IN	_	9	fixed	_	_
@@ -9897,7 +9897,7 @@
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	desfile	desfile	NOUN	NN	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	5	punct	_	_
-14	explicó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+14	explicó	explicar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 15	a	a	ADP	IN	_	17	case	_	_
 16	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	CNN	CNN	PROPN	NNP	Gender=Fem|Number=Sing	14	obl	_	_
@@ -11308,7 +11308,7 @@
 1	Esto	esto	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
 2	último	último	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	también	también	ADV	RB	_	4	advmod	_	_
-4	expandió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	expandió	expandir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	islam	islam	PROPN	NNP	Gender=Masc|Number=Sing	4	obj	_	_
 7-8	al	_	_	_	_	_	_	_	_
@@ -12533,7 +12533,7 @@
 1	Ellos	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
 2	generalmente	generalmente	ADV	RB	_	4	advmod	_	_
 3	no	no	ADV	RB	Polarity=Neg	4	advmod	_	_
-4	explotan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	explotan	explotar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	manera	manera	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
 7	catastrófica	catastrófico	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
@@ -13194,7 +13194,7 @@
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	suelo	suelo	NOUN	NN	Gender=Masc|Number=Sing	9	nmod	_	_
 13	quedan	quedar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
-14	expuestas	_	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+14	expuestas	exponer	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 15	y	y	CCONJ	CC	_	18	cc	_	_
 16	comienzan	comenzar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
 17	a	a	ADP	IN	_	16	fixed	_	_
@@ -16966,7 +16966,7 @@
 24	nuevo	nuevo	ADJ	JJ	Gender=Masc|Number=Sing	25	amod	_	_
 25	alfabeto	alfabeto	NOUN	NN	Gender=Masc|Number=Sing	21	nmod	_	_
 26	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	27	compound:prt	_	_
-27	extendió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+27	extendió	extender	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 28	más	más	ADV	RBR	Degree=Cmp	27	advmod	_	SpaceAfter=No
 29	.	.	PUNCT	.	_	27	punct	_	_
 
@@ -19266,7 +19266,7 @@
 13	y	y	CCONJ	CC	_	14	cc	_	_
 14	Strathearn	Strathearn	PROPN	NNP	Number=Sing	12	conj	_	_
 15	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	aux:pass	_	_
-16	expuesto	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+16	expuesto	exponer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 17	como	como	ADP	IN	_	18	case	_	_
 18	adúltero	adúltero	NOUN	NN	Gender=Masc|Number=Sing	16	obl	_	_
 19	y	y	CCONJ	CC	_	26	cc	_	_
@@ -19810,7 +19810,7 @@
 26	,	,	PUNCT	,	_	29	punct	_	_
 27	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	29	nsubj	_	_
 28	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	29	compound:prt	_	_
-29	extendió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	acl:relcl	_	_
+29	extendió	extender	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	acl:relcl	_	_
 30	a	a	ADP	IN	_	34	case	_	_
 31	través	través	NOUN	NN	Gender=Masc|Number=Sing	30	fixed	_	_
 32	de	de	ADP	IN	_	30	fixed	_	_
@@ -22501,7 +22501,7 @@
 6	Cranach	Cranach	PROPN	NNP	Gender=Masc|Number=Sing	5	flat:name	_	_
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Proper=True
 8	Viejo	viejo	NOUN	NN	Gender=Masc|Number=Sing	5	appos	_	Proper=True
-9	expuestos	_	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_
+9	expuestos	exponer	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_
 10	son	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 11	especialmente	especialmente	ADV	RB	_	12	advmod	_	_
 12	llamativos	llamativo	ADJ	JJ	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
@@ -26286,7 +26286,7 @@
 5	ellos	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
 6	no	no	ADV	RB	Polarity=Neg	8	advmod	_	_
 7	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	compound:prt	_	_
-8	expandieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	expandieron	expandir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 9	hasta	hasta	SCONJ	IN	_	15	mark	_	_
 10	que	que	ADP	IN	_	9	fixed	_	_
 11	barcos	barco	NOUN	NN	Gender=Masc|Number=Plur	15	nsubj:pass	_	_
