@@ -4891,7 +4891,7 @@
 # text = Se echará mucho de menos su habilidad para obtener respuestas para los contribuyentes.
 # text_en = His skill in getting answers for taxpayers will be sorely missed.
 1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl:pass	_	_
-2	echará	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+2	echará	echar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 3	mucho	mucho	ADV	RB	_	2	advmod	_	_
 4	de	de	ADP	IN	_	5	case	_	_
 5	menos	menos	ADV	RBR	Degree=Cmp	2	xcomp	_	_
@@ -8060,7 +8060,7 @@
 14	¿	¿	PUNCT	.	_	17	punct	_	SpaceAfter=No
 15	quién	quién	PRON	WP	Number=Sing|PronType=Int	17	nsubj	_	_
 16	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	17	obl:arg	_	_
-17	echaría	_	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+17	echaría	echar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	culpa	culpa	NOUN	NN	Gender=Fem|Number=Sing	17	obj	_	SpaceAfter=No
 20	?	?	PUNCT	.	_	17	punct	_	_
@@ -13213,7 +13213,7 @@
 7	algunas	alguno	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	8	det	_	_
 8	partículas	partícula	NOUN	NN	Gender=Fem|Number=Plur	10	nsubj	_	_
 9	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	compound:prt	_	_
-10	elevan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	elevan	elevar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	por	por	ADP	IN	_	13	case	_	_
 12	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	corriente	corriente	NOUN	NN	Gender=Fem|Number=Sing	10	obl	_	_
@@ -18769,7 +18769,7 @@
 10	mientras	mientras	ADV	WRB	_	13	advmod	_	_
 11	otros	otro	NOUN	NN	Gender=Masc|Number=Plur	13	nsubj	_	_
 12	las	él	PRON	PRP	Case=Acc|Gender=Fem|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	13	obj	_	_
-13	elogian	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	SpaceAfter=No
+13	elogian	elogiar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	4	punct	_	_
 
 # newdoc id = w01117
@@ -19068,7 +19068,7 @@
 4	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
 5	progreso	progreso	NOUN	NN	Gender=Masc|Number=Sing	7	nsubj	_	_
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	compound:prt	_	_
-7	estancara	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	xcomp	_	_
+7	estancara	estancar	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	xcomp	_	_
 8	en	en	ADP	IN	_	10	case	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	puesto	puesto	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
@@ -20218,7 +20218,7 @@
 20	,	,	PUNCT	,	_	5	punct	_	_
 21	Chamberlain	Chamberlain	PROPN	NNP	Gender=Masc|Number=Sing	23	nsubj	_	_
 22	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	23	obl:arg	_	_
-23	echó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+23	echó	echar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 24	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	culpa	culpa	NOUN	NN	Gender=Fem|Number=Sing	23	obj	_	_
 26	tanto	tanto	ADV	RB	_	28	cc:preconj	_	_
@@ -24030,7 +24030,7 @@
 # text = Durán ejerce de portavoz y Ángel Pintado de tesorero.
 # text_en = Durán acts as spokesman and Ángel Pintado as treasurer.
 1	Durán	Durán	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	ejerce	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ejerce	ejercer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	de	de	ADP	IN	_	4	case	_	_
 4	portavoz	portavoz	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	_
 5	y	y	CCONJ	CC	_	6	cc	_	_
