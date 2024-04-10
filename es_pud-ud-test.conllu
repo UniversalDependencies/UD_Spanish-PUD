@@ -22209,7 +22209,7 @@
 37	modo	modo	NOUN	NN	Gender=Masc|Number=Sing	36	fixed	_	_
 38	que	que	ADP	IN	_	36	fixed	_	_
 39	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	40	compound:prt	_	_
-40	hundiese	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	26	advcl	_	SpaceAfter=No
+40	hundiese	hundir	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	26	advcl	_	SpaceAfter=No
 41	.	.	PUNCT	.	_	12	punct	_	_
 
 # sent_id = n02066011
@@ -22730,7 +22730,7 @@
 5	programa	programa	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	_	_
 7	ella	él	PRON	PRP	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
-8	hablará	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+8	hablará	hablar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 9	a	a	ADP	IN	_	11	case	_	_
 10	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
 11	23:45	23:45	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	8	obl	_	_
@@ -27421,7 +27421,7 @@
 15	judíos	judío	NOUN	NN	Gender=Masc|Number=Plur	13	nmod	_	Proper=True
 16	conversos	converso	ADJ	JJ	Gender=Masc|Number=Plur	15	amod	_	_
 17	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	18	nsubj	_	_
-18	habitaban	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	15	acl:relcl	_	_
+18	habitaban	habitar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	15	acl:relcl	_	_
 19	Palma	Palma	PROPN	NNP	Number=Sing	18	obj	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	3	punct	_	_
 
