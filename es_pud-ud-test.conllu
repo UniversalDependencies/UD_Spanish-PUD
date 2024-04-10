@@ -17967,9 +17967,9 @@
 36	aproximación	aproximación	NOUN	NN	Gender=Fem|Number=Sing	2	nsubj	_	_
 37	GCA	gca	NOUN	NN	Number=Sing	36	appos	_	_
 38	(	(	PUNCT	(	_	41	punct	_	SpaceAfter=No
-39	Ground	ground	NOUN	NN	Number=Sing	41	acl	_	_
-40	Controlled	_	VERB	VBN	Number=Sing|VerbForm=Fin	39	flat:name	_	_
-41	Approach	approach	NOUN	NN	Number=Sing	37	appos	_	SpaceAfter=No
+39	Ground	ground	NOUN	NN	Foreign=Yes|Number=Sing	40	compound	_	Lang=en
+40	Controlled	control	VERB	VBN	Foreign=Yes|Tense=Past|VerbForm=Part	41	acl	_	Lang=en
+41	Approach	approach	NOUN	NN	Foreign=Yes|Number=Sing	37	appos	_	Lang=en|SpaceAfter=No
 42	)	)	PUNCT	)	_	41	punct	_	SpaceAfter=No
 43	.	.	PUNCT	.	_	2	punct	_	_
 
