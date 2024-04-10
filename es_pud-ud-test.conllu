@@ -7860,7 +7860,7 @@
 16	"	"	PUNCT	``	_	18	punct	_	SpaceAfter=No
 17	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	presión	presión	NOUN	NN	Gender=Fem|Number=Sing	14	obl	_	_
-19	enorme	_	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	SpaceAfter=No
+19	enorme	enorme	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	SpaceAfter=No
 20	"	"	PUNCT	''	_	18	punct	_	SpaceAfter=No
 21	,	,	PUNCT	,	_	3	punct	_	_
 22	exhortó	exhortar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -11756,7 +11756,7 @@
 6	lagos	lago	NOUN	NN	Gender=Masc|Number=Plur	12	nsubj	_	_
 7	de	de	ADP	IN	_	8	case	_	_
 8	agua	agua	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
-9	dulce	_	ADJ	JJ	Gender=Fem|Number=Sing	8	amod	_	_
+9	dulce	dulce	ADJ	JJ	Gender=Fem|Number=Sing	8	amod	_	_
 10	normalmente	normalmente	ADV	RB	_	12	advmod	_	_
 11	son	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 12	profundos	profundo	ADJ	JJ	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
@@ -14891,7 +14891,7 @@
 14	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	fila	fila	NOUN	NN	Gender=Fem|Number=Sing	12	obl	_	_
 16	de	de	ADP	IN	_	18	case	_	_
-17	diez	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	18	nummod	_	_
+17	diez	diez	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	18	nummod	_	_
 18	rocas	roca	NOUN	NN	Gender=Fem|Number=Plur	15	nmod	_	_
 19	grandes	grande	ADJ	JJ	Gender=Fem|Number=Plur	18	amod	_	_
 20	en	en	ADP	IN	_	21	case	_	_
@@ -15060,7 +15060,7 @@
 13	C.	Cristo	PROPN	NNP	Abbr=Yes|Gender=Masc|Number=Sing	12	obl	_	_
 14	e	e	CCONJ	CC	_	15	cc	_	_
 15	incluyen	incluir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
-16	diez	_	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	17	nummod	_	_
+16	diez	diez	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	17	nummod	_	_
 17	cartas	carta	NOUN	NN	Gender=Fem|Number=Plur	15	obj	_	_
 18	de	de	ADP	IN	_	20	case	_	_
 19	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
@@ -15391,7 +15391,7 @@
 12	imperio	imperio	NOUN	NN	Gender=Masc|Number=Sing	9	nmod	_	_
 13	de	de	ADP	IN	_	15	case	_	_
 14	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
-15	Habsburgo	_	NOUN	NN	Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No|Proper=True
+15	Habsburgo	habsburgo	NOUN	NN	Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No|Proper=True
 16	,	,	PUNCT	,	_	18	punct	_	_
 17	y	y	CCONJ	CC	_	18	cc	_	_
 18	ganó	ganar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
