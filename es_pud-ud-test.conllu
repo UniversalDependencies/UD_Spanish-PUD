@@ -170,7 +170,7 @@
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 2	nuevos	nuevo	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	_
 3	gastos	gasto	NOUN	NN	Gender=Masc|Number=Plur	4	nsubj	_	_
-4	corren	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	corren	correr	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	a	a	ADP	IN	_	6	case	_	_
 6	cargo	cargo	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	_
 7	de	de	ADP	IN	_	10	case	_	_
@@ -420,7 +420,7 @@
 5	gran	gran	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	_
 6	competición	competición	NOUN	NN	Gender=Fem|Number=Sing	2	obl	_	_
 7	y	y	CCONJ	CC	_	8	cc	_	_
-8	creemos	_	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
+8	creemos	creer	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
 9	que	que	SCONJ	IN	_	14	mark	_	_
 10	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	transporte	transporte	NOUN	NN	Gender=Masc|Number=Sing	14	nsubj	_	_
@@ -1410,7 +1410,7 @@
 # text_en = Many scientists say that technology to remove carbon from the air will now be needed to meet the Paris targets.
 1	Muchos	mucho	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	2	det	_	_
 2	científicos	científico	NOUN	NN	Gender=Masc|Number=Plur	3	nsubj	_	_
-3	creen	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	creen	creer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	IN	_	16	mark	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	tecnología	tecnología	NOUN	NN	Gender=Fem|Number=Sing	16	nsubj	_	_
@@ -2562,7 +2562,7 @@
 # text = No creemos que el sospechoso esté relacionado con esta escuela, con las dos chicas o con la zona de Abbotsford especialmente, dijo.
 # text_en = "We do not believe the suspect has ties to this school, or to the two girls, or specifically to the Abbotsford area," she said.
 1	No	no	ADV	RB	Polarity=Neg	2	advmod	_	_
-2	creemos	_	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	creemos	creer	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	IN	_	7	mark	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	sospechoso	sospechoso	NOUN	NN	Gender=Masc|Number=Sing	7	nsubj	_	_
@@ -3061,7 +3061,7 @@
 14	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
 15	cuales	cual	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	19	nsubj	_	_
 16	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	expl:pass	_	_
-17	cree	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+17	cree	creer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
 18	que	que	SCONJ	IN	_	19	mark	_	_
 19	provienen	provener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	csubj:pass	_	_
 20	de	de	ADP	IN	_	21	case	_	_
@@ -5287,7 +5287,7 @@
 11	que	que	SCONJ	IN	_	14	mark	_	_
 12	alguien	alguien	NOUN	NN	Gender=Masc|Number=Sing	14	nsubj	_	_
 13	me	yo	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	14	obj	_	_
-14	confrontase	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	ccomp	_	_
+14	confrontase	confrontar	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	ccomp	_	_
 15	a	a	ADP	IN	_	18	case	_	_
 16	que	que	SCONJ	IN	_	18	mark	_	_
 17	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	18	compound:prt	_	_
@@ -5501,7 +5501,7 @@
 14	tan	tan	ADV	RB	_	15	advmod	_	_
 15	discreta	discreto	ADJ	JJ	Gender=Fem|Number=Sing	4	parataxis	_	_
 16	que	que	ADP	IN	_	17	case	_	_
-17	creo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	xcomp	_	_
+17	creo	creer	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	xcomp	_	_
 18	que	que	SCONJ	IN	_	21	mark	_	_
 19	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
 20	otra	otro	DET	DT	Gender=Fem|Number=Sing|PronType=Ind	21	det	_	_
@@ -6029,7 +6029,7 @@
 # sent_id = n01087018
 # text = Creo que ese es el motivo por el que se sumergieron en los patrones y el color.
 # text_en = I think that’s why they immersed themselves in pattern and colour.
-1	Creo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Creo	creer	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	que	que	SCONJ	IN	_	6	mark	_	_
 3	ese	ese	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	6	nsubj	_	_
 4	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
@@ -6793,7 +6793,7 @@
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	tren	tren	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	2	punct	_	_
-7	continuamos	_	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+7	continuamos	continuar	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 8	hacia	hacia	ADP	IN	_	10	case	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	sur	sur	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
@@ -7005,7 +7005,7 @@
 # text = Pekín considera que su intervención es necesaria para evitar una continua parálisis legislativa en la ciudad, afirmó.
 # text_en = “Beijing believes its intervention is necessary to prevent a continued legislative paralysis in the city,” he said.
 1	Pekín	Pekín	PROPN	NNP	Number=Sing	2	nsubj	_	_
-2	considera	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	considera	considerar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	IN	_	7	mark	_	_
 4	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
 5	intervención	intervención	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
@@ -8851,7 +8851,7 @@
 8	arrogante	arrogante	ADJ	JJ	Gender=Fem|Number=Sing	6	conj	_	_
 9	y	y	CCONJ	CC	_	11	cc	_	_
 10	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	11	nsubj	_	_
-11	cree	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+11	cree	creer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
 12	tener	tener	VERB	VB	VerbForm=Inf	11	xcomp	_	_
 13	derecho	derecho	NOUN	NN	Gender=Masc|Number=Sing	12	obj	_	_
 14	a	a	ADP	IN	_	15	case	_	_
@@ -9400,7 +9400,7 @@
 # text_en = "In the cities where we've launched or are under construction, our work will continue," Barratt said.
 1	Nuestro	nuestro	PRON	DTP$	Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
 2	trabajo	trabajo	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	continuará	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3	continuará	continuar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 4	en	en	ADP	IN	_	6	case	_	_
 5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	ciudades	ciudad	NOUN	NN	Gender=Fem|Number=Plur	3	obl	_	_
@@ -9977,7 +9977,7 @@
 5	lína	lína	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
 6	maglev	maglev	PROPN	NNP	Number=Sing	5	appos	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	3	punct	_	_
-8	creo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	creo	creer	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	que	que	SCONJ	IN	_	12	mark	_	_
 10	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	gobierno	gobierno	NOUN	NN	Gender=Masc|Number=Sing	12	nsubj	_	_
@@ -11139,7 +11139,7 @@
 28	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
 29	cual	cual	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	31	nsubj:pass	_	_
 30	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	31	expl:pass	_	_
-31	considera	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	acl:relcl	_	_
+31	considera	considerar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	acl:relcl	_	_
 32	que	que	SCONJ	IN	_	34	mark	_	_
 33	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	34	aux	_	_
 34	tenido	tener	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	31	ccomp	_	_
@@ -12602,7 +12602,7 @@
 7	a	a	ADP	IN	_	9	case	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	isla	isla	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
-10	continúan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	continúan	continuar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	_
 
 # sent_id = w01033067
@@ -14563,7 +14563,7 @@
 3	Juegos	juego	NOUN	NN	Gender=Masc|Number=Plur	8	nsubj	_	_
 4	Olímpicos	olímpico	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl:pass	_	_
-6	cree	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	cree	creer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	que	que	SCONJ	IN	_	8	mark	_	_
 8	tuvieron	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	csubj:pass	_	_
 9	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	8	obj	_	_
@@ -14958,7 +14958,7 @@
 13	puede	poder	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advmod	_	_
 14	que	que	ADP	IN	_	13	fixed	_	_
 15	hayan	haber	AUX	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	aux	_	_
-16	constituido	_	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	conj	_	_
+16	constituido	constituir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	conj	_	_
 17	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 18	cananita	cananita	ADJ	JJ	Gender=Masc|Number=Sing	21	amod	_	Proper=True
 19	"	"	PUNCT	``	_	21	punct	_	SpaceAfter=No
@@ -16332,7 +16332,7 @@
 9	miembros	miembro	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	_
 10	que	que	SCONJ	IN	_	12	mark	_	_
 11	no	no	ADV	RB	Polarity=Neg	12	advmod	_	_
-12	creyeran	_	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
+12	creyeran	creer	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
 13	todo	todo	DET	PDT	Gender=Masc|Number=Sing|PronType=Tot	15	det	_	_
 14	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	det	_	_
 15	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	16	obj	_	_
@@ -20825,7 +20825,7 @@
 # text = Reagan creía que Dios le había salvado la vida para que quizás cumpliera un propósito mayor.
 # text_en = Reagan believed that God had spared his life so that he might go on to fulfill a greater purpose.
 1	Reagan	Reagan	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	creía	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+2	creía	creer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	IN	_	7	mark	_	_
 4	Dios	Dios	PROPN	NNP	Gender=Masc|Number=Sing	7	nsubj	_	_
 5	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	7	obl:arg	_	_
@@ -20836,7 +20836,7 @@
 10	para	para	SCONJ	IN	_	13	mark	_	_
 11	que	que	ADP	IN	_	10	fixed	_	_
 12	quizás	quizás	ADV	RB	_	13	advmod	_	_
-13	cumpliera	_	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	_
+13	cumpliera	cumplir	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	_
 14	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	propósito	propósito	NOUN	NN	Gender=Masc|Number=Sing	13	obj	_	_
 16	mayor	mayor	ADJ	JJR	Degree=Cmp|Gender=Masc|Number=Sing	15	amod	_	SpaceAfter=No
@@ -21111,7 +21111,7 @@
 2	Grandes	grande	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	Proper=True
 3	Poderes	poder	NOUN	NN	Gender=Masc|Number=Plur	5	nsubj	_	Proper=True
 4	no	no	ADV	RB	Polarity=Neg	5	advmod	_	_
-5	cumplieron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	cumplieron	cumplir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	con	con	ADP	IN	_	8	case	_	_
 7	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	requisitos	requisito	NOUN	NN	Gender=Masc|Number=Plur	5	obl	_	_
@@ -24412,7 +24412,7 @@
 # sent_id = n05007006
 # text = Cree que nadie nos espera al esperarnos.
 # text_en = He believes that nobody waiting for us waits for us.
-1	Cree	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Cree	creer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	que	que	SCONJ	IN	_	5	mark	_	_
 3	nadie	nadie	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj	_	_
 4	nos	yo	PRON	PRP	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	5	obj	_	_
