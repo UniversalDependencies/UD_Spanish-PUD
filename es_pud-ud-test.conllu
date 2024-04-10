@@ -2974,7 +2974,7 @@
 17	jueves	jueves	NOUN	NN	Gender=Masc|Number=Sing	11	obl:tmod	_	_
 18	con	con	ADP	IN	_	19	case	_	_
 19	CBC	CBC	PROPN	NNP	Number=Sing	11	obl	_	_
-20	News	news	NOUN	NN	Number=Sing	19	flat:name	_	SpaceAfter=No|Proper=True
+20	News	news	NOUN	NN	Foreign=Yes|Number=Sing	19	flat:name	_	Lang=en|SpaceAfter=No|Proper=True
 21	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = n01041018
@@ -6966,7 +6966,7 @@
 14	de	de	ADP	IN	_	16	case	_	_
 15	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	República	república	NOUN	NN	Gender=Fem|Number=Sing	13	nmod	_	Proper=True
-17	Popular	_	ADJ	JJ	Gender=Fem|Number=Sing	16	amod	_	Proper=True
+17	Popular	popular	ADJ	JJ	Gender=Fem|Number=Sing	16	amod	_	Proper=True
 18	de	de	ADP	IN	_	19	case	_	Proper=True
 19	China	China	PROPN	NNP	Number=Sing	16	nmod	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	3	punct	_	_
@@ -9295,11 +9295,11 @@
 16	están	estar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
 17	disfrazando	disfrazar	VERB	VBG	VerbForm=Ger	0	root	_	_
 18	de	de	ADP	IN	_	19	case	_	_
-19	personajes	_	NOUN	NN	Gender=Masc|Number=Plur	17	obl	_	_
+19	personajes	personaje	NOUN	NN	Gender=Masc|Number=Plur	17	obl	_	_
 20	de	de	ADP	IN	_	23	case	_	_
 21	"	"	PUNCT	``	_	23	punct	_	SpaceAfter=No
-22	Stranger	_	ADJ	JJR	Number=Plur	23	amod	_	Proper=True
-23	Things	_	NOUN	NN	Number=Plur	19	nmod	_	SpaceAfter=No|Proper=True
+22	Stranger	strange	ADJ	JJR	Degree=Cmp|Foreign=Yes	23	amod	_	Lang=en|Proper=True
+23	Things	thing	NOUN	NN	Foreign=Yes|Number=Plur	19	nmod	_	Lang=en|SpaceAfter=No|Proper=True
 24	"	"	PUNCT	''	_	23	punct	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	17	punct	_	_
 
@@ -9388,9 +9388,9 @@
 8	posterior	posterior	ADJ	JJR	Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	13	punct	_	_
 10	"	"	PUNCT	``	_	13	punct	_	SpaceAfter=No
-11	The	_	DET	DT	Number=Plur|PronType=Ind	13	det	_	Proper=True
-12	Talking	_	ADJ	JJ	Number=Plur	13	amod	_	Proper=True
-13	Dead	_	NOUN	NN	Number=Plur	7	appos	_	SpaceAfter=No|Proper=True
+11	The	the	DET	DT	Definite=Def|Foreign=Yes|PronType=Art	13	det	_	Lang=en|Proper=True
+12	Talking	talking	ADJ	JJ	Degree=Pos|Foreign=Yes	13	amod	_	Lang=en|Proper=True
+13	Dead	dead	NOUN	NN	Foreign=Yes|Number=Plur	7	appos	_	Lang=en|SpaceAfter=No|Proper=True
 14	"	"	PUNCT	''	_	13	punct	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	5	punct	_	_
 
@@ -9535,14 +9535,14 @@
 4	opción	opción	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 5	para	para	ADP	IN	_	6	case	_	_
 6	enviar	enviar	VERB	VB	VerbForm=Inf	4	xcomp	_	_
-7	emojis	_	NOUN	NN	Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
+7	emojis	emoji	NOUN	NN	Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	9	punct	_	_
-9	GIFs	_	NOUN	NN	Gender=Masc|Number=Plur	7	conj	_	SpaceAfter=No
+9	GIFs	GIF	PROPN	NNP	Gender=Masc|Number=Plur	7	conj	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	11	punct	_	_
-11	memes	_	NOUN	NN	Gender=Masc|Number=Plur	7	conj	_	_
+11	memes	meme	NOUN	NN	Gender=Masc|Number=Plur	7	conj	_	_
 12	personalizados	personalizar	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	11	acl	_	_
 13	y	y	CCONJ	CC	_	14	cc	_	_
-14	stickers	_	NOUN	NN	Gender=Masc|Number=Plur	7	conj	_	_
+14	stickers	sticker	NOUN	NN	Gender=Masc|Number=Plur	7	conj	_	_
 15	a	a	ADP	IN	_	19	case	_	_
 16	través	través	NOUN	NN	Gender=Masc|Number=Sing	15	fixed	_	_
 17	de	de	ADP	IN	_	15	fixed	_	_
@@ -9705,8 +9705,8 @@
 20	informó	informar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	_
 21	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	cadena	cadena	NOUN	NN	Gender=Fem|Number=Sing	20	nsubj	_	_
-23	Nine	nine	NUM	CD	NumForm=Word|NumType=Card	24	nummod	_	Proper=True
-24	News	_	NOUN	NN	Number=Plur	22	appos	_	Proper=True
+23	Nine	nine	NUM	CD	Foreign=Yes|NumForm=Word|NumType=Card	24	nummod	_	Lang=en|Proper=True
+24	News	news	NOUN	NN	Foreign=Yes|Number=Plur	22	appos	_	Lang=en|Proper=True
 25	de	de	ADP	IN	_	26	case	_	_
 26	Brisbane	Brisbane	PROPN	NNP	Number=Sing	22	nmod	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	7	punct	_	_
@@ -10404,7 +10404,7 @@
 4	granito	granito	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
 5	comprenden	comprender	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
-7	Seychelles	_	NOUN	NN	Gender=Fem|Number=Plur	5	obj	_	Proper=True
+7	Seychelles	Seychelles	PROPN	NNP	Gender=Fem|Number=Plur	5	obj	_	Proper=True
 8	y	y	CCONJ	CC	_	9	cc	_	_
 9	Tioman	Tioman	PROPN	NNP	Number=Sing	7	conj	_	_
 10	e	e	CCONJ	CC	_	11	cc	_	_
@@ -12290,7 +12290,7 @@
 24	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	Domingo	domingo	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	Proper=True
 26	de	de	ADP	IN	_	27	case	_	Proper=True
-27	Ramos	_	PROPN	NNP	Gender=Masc|Number=Plur	25	nmod	_	SpaceAfter=No
+27	Ramos	ramo	NOUN	NN	Gender=Masc|Number=Plur	25	nmod	_	SpaceAfter=No
 28	.	.	PUNCT	.	_	12	punct	_	_
 
 # newdoc id = w01030
@@ -16446,7 +16446,7 @@
 7	paso	paso	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	_
 8	de	de	ADP	IN	_	10	case	_	_
 9	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
-10	Termópilas	_	PROPN	NNP	Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
+10	Termópilas	Termópilas	PROPN	NNP	Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	13	punct	_	_
 12	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	13	nsubj	_	_
 13	divide	dividir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
@@ -16555,7 +16555,7 @@
 6	monarquía	monarquía	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	_
 7	de	de	ADP	IN	_	9	case	_	_
 8	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
-9	Romanov	_	PROPN	NNP	Gender=Masc|Number=Plur	6	nmod	_	_
+9	Romanov	Romanov	PROPN	NNP	Gender=Masc|Number=Plur	6	nmod	_	_
 10	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	11	obl:arg	_	_
 11	impedía	impedir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 12	ver	ver	VERB	VB	VerbForm=Inf	11	xcomp	_	_
@@ -18675,8 +18675,8 @@
 10	en	en	ADP	IN	_	12	case	_	_
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	periódico	periódico	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
-13	The	the	DET	DT	Gender=Masc|Number=Sing|PronType=Ind	14	det	_	Proper=True
-14	Scotsman	scotsman	NOUN	NN	Gender=Masc|Number=Sing	12	appos	_	SpaceAfter=No|Proper=True
+13	The	the	DET	DT	Definite=Def|Foreign=Yes|PronType=Art	14	det	_	Lang=en|Proper=True
+14	Scotsman	Scotsman	PROPN	NNP	Foreign=Yes|Number=Sing	12	appos	_	Lang=en|SpaceAfter=No|Proper=True
 15	,	,	PUNCT	,	_	1	punct	_	_
 16	trabajó	trabajar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 17	por	por	ADP	IN	_	19	case	_	_
@@ -19137,8 +19137,8 @@
 20	de	de	ADP	IN	_	21	case	_	_
 21	teatro	teatro	NOUN	NN	Gender=Masc|Number=Sing	19	nmod	_	_
 22	musical	musical	ADJ	JJ	Gender=Masc|Number=Sing	21	amod	_	_
-23	The	the	DET	DT	Number=Sing|PronType=Ind	24	det	_	Proper=True
-24	Wiz	wiz	NOUN	NN	Number=Sing	19	appos	_	SpaceAfter=No|Proper=True
+23	The	the	DET	DT	Definite=Def|Foreign=Yes|PronType=Art	24	det	_	Lang=en|Proper=True
+24	Wiz	wiz	NOUN	NN	Foreign=Yes|Number=Sing	19	appos	_	Lang=en|SpaceAfter=No|Proper=True
 25	.	.	PUNCT	.	_	7	punct	_	_
 
 # newdoc id = w01125
@@ -19527,9 +19527,9 @@
 18	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
 19	compañero	compañero	NOUN	NN	Gender=Masc|Number=Sing	11	obl	_	_
 20	Egan	Egan	PROPN	NNP	Gender=Masc|Number=Sing	19	appos	_	_
-21	de	de	ADP	IN	_	22	case	_	_
-22	Stealers	_	NOUN	NN	Number=Plur	19	nmod	_	Proper=True
-23	Wheel	wheel	NOUN	NN	Number=Sing	22	flat:name	_	SpaceAfter=No|Proper=True
+21	de	de	ADP	IN	_	23	case	_	_
+22	Stealers	stealer	NOUN	NN	Foreign=Yes|Number=Plur	22	compound	_	Lang=en|Proper=True
+23	Wheel	wheel	NOUN	NN	Foreign=Yes|Number=Sing	19	nmod	_	Lang=en|SpaceAfter=No|Proper=True
 24	.	.	PUNCT	.	_	11	punct	_	_
 
 # sent_id = w01130101
@@ -19555,9 +19555,9 @@
 18	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	20	nsubj	_	_
 19	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	aux	_	_
 20	firmado	firmar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	acl:relcl	_	_
-21	con	con	ADP	IN	_	22	case	_	_
-22	Decca	Decca	PROPN	NNP	Number=Sing	20	obl	_	_
-23	Records	_	NOUN	NN	Number=Plur	22	flat:name	_	Proper=True
+21	con	con	ADP	IN	_	23	case	_	_
+22	Decca	Decca	PROPN	NNP	Foreign=Yes|Number=Sing	23	compound	_	Lang=en|Proper=True
+23	Records	record	NOUN	NN	Foreign=Yes|Number=Plur	20	obl	_	Lang=en|Proper=True
 24	en	en	ADP	IN	_	26	case	_	_
 25	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
 26	70	70	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	20	obl	_	SpaceAfter=No
@@ -20010,7 +20010,7 @@
 5	brevemente	brevemente	ADV	RB	_	4	advmod	_	_
 6	en	en	ADP	IN	_	8	case	_	_
 7	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	Proper=True
-8	Muppets	_	PROPN	NNP	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
+8	Muppets	Muppets	PROPN	NNP	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	12	punct	_	_
 10	como	como	ADP	IN	_	12	case	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
@@ -20035,17 +20035,17 @@
 3	película	película	NOUN	NN	Gender=Fem|Number=Sing	1	obj	_	_
 4	Eternamente	eternamente	ADV	RB	_	5	advmod	_	Proper=True
 5	comprometidos	comprometido	NOUN	NN	Gender=Masc|Number=Plur	3	appos	_	Proper=True
-6	(	(	PUNCT	(	_	10	punct	_	SpaceAfter=No
-7	The	the	DET	DT	Number=Sing|PronType=Ind	10	det	_	Proper=True
-8	Five	five	NUM	CD	NumForm=Word|NumType=Card	10	nummod	_	SpaceAfter=No|Proper=True
-9	-	-	PUNCT	-	_	8	punct	_	SpaceAfter=No|Proper=True
-10	Year	year	NOUN	NN	Number=Sing	5	appos	_	Proper=True
-11	Engagement	engagement	NOUN	NN	Number=Sing	10	flat:name	_	SpaceAfter=No|Proper=True
+6	(	(	PUNCT	(	_	11	punct	_	SpaceAfter=No
+7	The	the	DET	DT	Definite=Def|Foreign=Yes|PronType=Art	11	det	_	Lang=en|Proper=True
+8	Five	five	NUM	CD	Foreign=Yes|NumForm=Word|NumType=Card	10	compound	_	Lang=en|SpaceAfter=No|Proper=True
+9	-	-	PUNCT	-	Foreign=Yes	8	punct	_	Lang=en|SpaceAfter=No|Proper=True
+10	Year	year	NOUN	NN	Foreign=Yes|Number=Sing	11	compound	_	Lang=en|Proper=True
+11	Engagement	engagement	NOUN	NN	Foreign=Yes|Number=Sing	5	appos	_	Lang=en|SpaceAfter=No|Proper=True
 12	,	,	PUNCT	,	_	15	punct	_	_
 13	originalmente	originalmente	ADV	RB	_	15	advmod	_	_
 14	en	en	ADP	IN	_	15	case	_	_
 15	inglés	inglés	NOUN	NN	Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No|Proper=True
-16	)	)	PUNCT	)	_	10	punct	_	_
+16	)	)	PUNCT	)	_	11	punct	_	_
 17	dirigida	dirigir	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	_
 18	por	por	ADP	IN	_	19	case	_	_
 19	Nicholas	Nicholas	PROPN	NNP	Gender=Masc|Number=Sing	17	obl:agent	_	_
@@ -26458,7 +26458,7 @@
 5	todo	todo	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	2	punct	_	_
 7	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
-8	Remis	_	PROPN	NNP	Gender=Masc|Number=Plur	9	nsubj	_	_
+8	Remis	Remis	PROPN	NNP	Gender=Masc|Number=Plur	9	nsubj	_	_
 9	pasaron	pasar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	en	en	ADP	IN	_	11	case	_	_
 11	Suiza	Suiza	PROPN	NNP	Number=Sing	9	obl	_	_
