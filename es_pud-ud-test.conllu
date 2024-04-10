@@ -15678,7 +15678,7 @@
 18	diferentes	diferente	ADJ	JJ	Gender=Fem|Number=Plur	19	amod	_	_
 19	teorías	teoría	NOUN	NN	Gender=Fem|Number=Plur	15	nmod	_	_
 20	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	21	compound:prt	_	_
-21	basan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
+21	basan	basar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
 22	en	en	ADP	IN	_	28	case	_	_
 23	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	24	det	_	_
 24	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	28	nsubj	_	_
@@ -25807,7 +25807,7 @@
 8	público	público	NOUN	NN	Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	8	punct	_	_
 10	Springer	Springer	PROPN	NNP	Gender=Masc|Number=Sing	11	nsubj	_	_
-11	buscó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11	buscó	buscar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 12	activamente	activamente	ADV	RB	_	11	advmod	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	reconciliación	reconciliación	NOUN	NN	Gender=Fem|Number=Sing	11	obj	_	_
