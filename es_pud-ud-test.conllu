@@ -5918,10 +5918,10 @@
 # sent_id = n01085011
 # text = Aunque parezca sorprendente, incluso las nubes de lluvia ácida pueden tener aspectos positivos.
 # text_en = Surprising as it may seem, even acid rain clouds can have a silver lining.
-1	Aunque	aunque	SCONJ	IN	_	3	mark	_	_
-2	parezca	parecer	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	sorprendente	sorprendente	ADJ	JJ	Gender=Masc|Number=Sing	12	advcl	_	SpaceAfter=No
-4	,	,	PUNCT	,	_	3	punct	_	_
+1	Aunque	aunque	SCONJ	IN	_	2	mark	_	_
+2	parezca	parecer	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+3	sorprendente	sorprendente	ADJ	JJ	Gender=Masc|Number=Sing	2	xcomp	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	2	punct	_	_
 5	incluso	incluso	ADV	RB	_	7	advmod	_	_
 6	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
 7	nubes	nube	NOUN	NN	Gender=Fem|Number=Plur	12	nsubj	_	_
@@ -7783,14 +7783,14 @@
 6	enero	enero	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	_
 7	informó	informar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	de	de	ADP	IN	_	16	case	_	_
-9	que	que	SCONJ	IN	_	16	mark	_	_
+9	que	que	SCONJ	IN	_	14	mark	_	_
 10	para	para	ADP	IN	_	11	case	_	_
-11	2050	2050	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	16	obl	_	_
+11	2050	2050	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	14	obl	_	_
 12	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
-13	océanos	océano	NOUN	NN	Gender=Masc|Number=Plur	16	nsubj	_	_
-14	contendrán	contener	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	16	cop	_	_
-15	más	más	ADV	RBR	Degree=Cmp	16	advmod	_	_
-16	plástico	plástico	NOUN	NN	Gender=Masc|Number=Sing	7	xcomp	_	_
+13	océanos	océano	NOUN	NN	Gender=Masc|Number=Plur	14	nsubj	_	_
+14	contendrán	contener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	7	xcomp	_	_
+15	más	más	ADV	RBR	Degree=Cmp	14	advmod	_	_
+16	plástico	plástico	NOUN	NN	Gender=Masc|Number=Sing	14	xcomp	_	_
 17	que	que	ADP	IN	_	18	case	_	_
 18	pescado	pescado	NOUN	NN	Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
 19	,	,	PUNCT	,	_	26	punct	_	_
@@ -7800,7 +7800,7 @@
 23	que	que	ADP	IN	_	20	fixed	_	_
 24	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	humanidad	humanidad	NOUN	NN	Gender=Fem|Number=Sing	26	nsubj	_	_
-26	adopte	adoptar	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+26	adopte	adoptar	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
 27	acciones	acción	NOUN	NN	Gender=Fem|Number=Plur	26	obj	_	_
 28	radicales	radical	ADJ	JJ	Gender=Fem|Number=Plur	27	amod	_	_
 29	para	para	ADP	IN	_	30	case	_	_
@@ -13194,10 +13194,10 @@
 12	suelo	suelo	NOUN	NN	Gender=Masc|Number=Sing	9	nmod	_	_
 13	quedan	quedar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 14	expuestas	exponer	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	13	xcomp	_	_
-15	y	y	CCONJ	CC	_	18	cc	_	_
-16	comienzan	comenzar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+15	y	y	CCONJ	CC	_	16	cc	_	_
+16	comienzan	comenzar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
 17	a	a	ADP	IN	_	16	fixed	_	_
-18	vibrar	vibrar	VERB	VB	VerbForm=Inf	14	conj	_	SpaceAfter=No
+18	vibrar	vibrar	VERB	VB	VerbForm=Inf	16	xcomp	_	SpaceAfter=No
 19	.	.	PUNCT	.	_	13	punct	_	_
 
 # sent_id = w01040103
@@ -17225,15 +17225,15 @@
 # text_en = Since Emperor Meiji, it has been customary to have one era per Emperor and to rename each Emperor after his death using the name of the era over which he presided.
 1	Desde	desde	ADP	IN	_	3	case	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	emperador	emperador	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	_
+3	emperador	emperador	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
 4	Meiji	Meiji	PROPN	NNP	Gender=Masc|Number=Sing	3	amod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	3	punct	_	_
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	compound:prt	_	_
-7	acostumbra	acostumbrar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+7	acostumbra	acostumbrar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	a	a	ADP	IN	_	7	fixed	_	_
-9	tener	tener	VERB	VB	VerbForm=Inf	0	root	_	_
+9	tener	tener	VERB	VB	VerbForm=Inf	7	xcomp	_	_
 10	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-11	era	era	NOUN	NN	Gender=Fem|Number=Sing	9	nsubj:pass	_	_
+11	era	era	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj:pass	_	_
 12	por	por	ADP	IN	_	13	case	_	_
 13	emperador	emperador	NOUN	NN	Gender=Masc|Number=Sing	11	nmod	_	_
 14	y	y	CCONJ	CC	_	16	cc	_	_
@@ -17253,7 +17253,7 @@
 28	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
 29	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	30	obl	_	_
 30	presidió	presidir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	acl:relcl	_	SpaceAfter=No
-31	.	.	PUNCT	.	_	9	punct	_	_
+31	.	.	PUNCT	.	_	7	punct	_	_
 
 # sent_id = w01095092
 # text = Antes del Emperador Meiji, los nombres de las eras cambiaban más frecuentemente y los nombres póstumos de los emperadores se elegían de otra manera.
@@ -19792,13 +19792,13 @@
 9	rol	rol	NOUN	NN	Gender=Masc|Number=Sing	7	obj	_	_
 10	de	de	ADP	IN	_	11	case	_	_
 11	conspirador	conspirador	NOUN	NN	Gender=Masc|Number=Sing	9	nmod	_	_
-12	y	y	CCONJ	CC	_	15	cc	_	_
-13	comenzó	comenzar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux	_	_
+12	y	y	CCONJ	CC	_	13	cc	_	_
+13	comenzó	comenzar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
 14	a	a	ADP	IN	_	13	fixed	_	_
-15	desarrollar	desarrollar	VERB	VB	VerbForm=Inf	7	conj	_	_
+15	desarrollar	desarrollar	VERB	VB	VerbForm=Inf	13	xcomp	_	_
 16	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 17	elaborado	elaborado	ADJ	JJ	Gender=Masc|Number=Sing	18	amod	_	_
-18	arco	arco	NOUN	NN	Gender=Masc|Number=Sing	15	obj	_	_
+18	arco	arco	NOUN	NN	Gender=Masc|Number=Sing	13	obj	_	_
 19	de	de	ADP	IN	_	20	case	_	_
 20	historia	historia	NOUN	NN	Gender=Fem|Number=Sing	18	nmod	_	_
 21	centrado	centrar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18	acl	_	_
@@ -19874,13 +19874,13 @@
 # text = En 1955, Mishima comenzó a hacer levantamiento de pesas y en los últimos 15 años de su vida no interrumpió su régimen de ejercicios de tres sesiones por semana.
 # text_en = In 1955, Mishima took up weight training and his workout regimen of three sessions per week was not disrupted for the final 15 years of his life.
 1	En	en	ADP	IN	_	2	case	_	_
-2	1955	1955	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	7	obl	_	SpaceAfter=No
+2	1955	1955	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	obl	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
-4	Mishima	Mishima	PROPN	NNP	Gender=Masc|Number=Sing	7	nsubj	_	_
-5	comenzó	comenzar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
+4	Mishima	Mishima	PROPN	NNP	Gender=Masc|Number=Sing	5	nsubj	_	_
+5	comenzó	comenzar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	a	a	ADP	IN	_	5	fixed	_	_
-7	hacer	hacer	VERB	VB	VerbForm=Inf	0	root	_	_
-8	levantamiento	levantamiento	NOUN	NN	Gender=Masc|Number=Sing	7	obj	_	_
+7	hacer	hacer	VERB	VB	VerbForm=Inf	5	xcomp	_	_
+8	levantamiento	levantamiento	NOUN	NN	Gender=Masc|Number=Sing	5	obj	_	_
 9	de	de	ADP	IN	_	10	case	_	_
 10	pesas	pesa	NOUN	NN	Gender=Fem|Number=Plur	8	nmod	_	_
 11	y	y	CCONJ	CC	_	21	cc	_	_
@@ -19903,7 +19903,7 @@
 28	sesiones	sesión	NOUN	NN	Gender=Fem|Number=Plur	23	nmod	_	_
 29	por	por	ADP	IN	_	30	case	_	_
 30	semana	semana	NOUN	NN	Gender=Fem|Number=Sing	28	nmod	_	SpaceAfter=No
-31	.	.	PUNCT	.	_	7	punct	_	_
+31	.	.	PUNCT	.	_	5	punct	_	_
 
 # sent_id = w01134078
 # text = Mishima apoyó un tipo de nacionalismo muy particular en los últimos años de su vida.
@@ -26095,18 +26095,18 @@
 # text_en = In the 8th century BC, Greece began to emerge from the Dark Ages which followed the fall of the Mycenaean civilization.
 1	En	en	ADP	IN	_	3	case	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	siglo	siglo	NOUN	NN	Gender=Masc|Number=Sing	11	obl	_	_
+3	siglo	siglo	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	_
 4	8	8	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	appos	_	_
 5	a.	antes	ADV	RB	Abbr=Yes	4	advmod	_	_
 6	C.	Cristo	PROPN	NNP	Abbr=Yes|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	3	punct	_	_
-8	Grecia	Grecia	PROPN	NNP	Number=Sing	11	nsubj	_	_
-9	comenzó	comenzar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	_
+8	Grecia	Grecia	PROPN	NNP	Number=Sing	9	nsubj	_	_
+9	comenzó	comenzar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	a	a	ADP	IN	_	9	fixed	_	_
-11	surgir	surgir	VERB	VB	VerbForm=Inf	0	root	_	_
+11	surgir	surgir	VERB	VB	VerbForm=Inf	9	xcomp	_	_
 12	desde	desde	ADP	IN	_	14	case	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
-14	Edad	edad	NOUN	NN	Gender=Fem|Number=Sing	11	obl	_	Proper=True
+14	Edad	edad	NOUN	NN	Gender=Fem|Number=Sing	9	obl	_	Proper=True
 15	de	de	ADP	IN	_	17	case	_	Proper=True
 16	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	Proper=True
 17	tinieblas	tiniebla	NOUN	NN	Gender=Fem|Number=Plur	14	nmod	_	Proper=True
@@ -26117,7 +26117,7 @@
 22	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	civilización	civilización	NOUN	NN	Gender=Fem|Number=Sing	20	obl	_	_
 24	micénica	micénico	ADJ	JJ	Gender=Fem|Number=Sing	23	amod	_	SpaceAfter=No|Proper=True
-25	.	.	PUNCT	.	_	11	punct	_	_
+25	.	.	PUNCT	.	_	9	punct	_	_
 
 # sent_id = w03005013
 # text = La alfabetización se había perdido y el alfabeto micénico se había olvidado, pero los griegos adoptaron el alfabeto fenicio y lo modificaron para crear el alfabeto griego.
