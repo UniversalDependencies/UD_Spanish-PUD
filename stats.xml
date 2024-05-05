@@ -48,7 +48,7 @@
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">145</feat><!-- más, mayor, menos, mejores, mejor, mayores, peor, Stranger, menor, menores -->
     <feat name="Degree" value="Pos" upos="ADJ">2</feat><!-- American, Talking -->
     <feat name="Degree" value="Sup" upos="ADJ">5</feat><!-- máxima, pésimo -->
-    <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,AUX,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,PUNCT,SCONJ,VERB,X">59</feat><!-- The, My, News, Really, You, -, American, Anyway, Approach, Brands -->
+    <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,AUX,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,PUNCT,SCONJ,VERB,X">63</feat><!-- The, My, News, Really, You, -, American, Anyway, Approach, Brands -->
     <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">4523</feat><!-- la, las, una, su, que, esta, sus, guerra, parte, ciudad -->
     <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">7138</feat><!-- el, los, un, que, lo, su, años, este, año, lugar -->
     <feat name="Hyph" value="Yes" upos="ADJ">4</feat><!-- austro, co, franco, multi -->
@@ -93,38 +93,38 @@
   <deps unique="43">
     <dep name="acl">116</dep>
     <dep name="acl:relcl">244</dep>
-    <dep name="advcl">179</dep>
-    <dep name="advmod">820</dep>
+    <dep name="advcl">180</dep>
+    <dep name="advmod">823</dep>
     <dep name="amod">1311</dep>
     <dep name="appos">320</dep>
     <dep name="aux">301</dep>
     <dep name="aux:pass">94</dep>
-    <dep name="case">3698</dep>
-    <dep name="cc">567</dep>
+    <dep name="case">3696</dep>
+    <dep name="cc">570</dep>
     <dep name="cc:preconj">12</dep>
     <dep name="ccomp">148</dep>
-    <dep name="compound">13</dep>
+    <dep name="compound">15</dep>
     <dep name="compound:prt">194</dep>
-    <dep name="conj">655</dep>
+    <dep name="conj">656</dep>
     <dep name="cop">239</dep>
     <dep name="csubj">41</dep>
     <dep name="csubj:pass">16</dep>
     <dep name="dep">4</dep>
-    <dep name="det">3514</dep>
-    <dep name="discourse">103</dep>
+    <dep name="det">3503</dep>
+    <dep name="discourse">98</dep>
     <dep name="expl">1</dep>
     <dep name="expl:pass">120</dep>
     <dep name="expl:pv">3</dep>
-    <dep name="fixed">358</dep>
+    <dep name="fixed">368</dep>
     <dep name="flat">1</dep>
-    <dep name="flat:name">202</dep>
+    <dep name="flat:name">200</dep>
     <dep name="mark">293</dep>
     <dep name="nmod">1802</dep>
     <dep name="nsubj">1190</dep>
     <dep name="nsubj:pass">165</dep>
     <dep name="nummod">191</dep>
     <dep name="obj">785</dep>
-    <dep name="obl">1529</dep>
+    <dep name="obl">1530</dep>
     <dep name="obl:agent">62</dep>
     <dep name="obl:arg">53</dep>
     <dep name="obl:tmod">68</dep>
@@ -133,6 +133,6 @@
     <dep name="punct">2290</dep>
     <dep name="root">1000</dep>
     <dep name="vocative">2</dep>
-    <dep name="xcomp">471</dep>
+    <dep name="xcomp">470</dep>
   </deps>
 </treebank>
