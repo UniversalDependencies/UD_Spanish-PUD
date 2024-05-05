@@ -36,6 +36,8 @@ employ ten-fold cross-validation.
 
 # Changelog
 
+* 2024-05-15 v2.14
+  * Manually added lemmas.
 * 2023-11-15 v2.13
   * NumForm=Word, NumForm=Digit and NumForm=Roman used where appropriate.
   * "quién" is interrogative, not relative.
@@ -131,9 +133,9 @@ Data available since: UD v2.1
 License: CC BY-SA 3.0
 Includes text: yes
 Genre: news wiki
-Lemmas: not available
+Lemmas: manual native
 UPOS: converted from manual
-XPOS: not available
+XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
 Contributors: Uszkoreit, Hans; Macketanz, Vivien; Burchardt, Aljoscha; Harris, Kim; Marheinecke, Katrin; Petrov, Slav; Kayadelen, Tolga; Attia, Mohammed; Elkahky, Ali; Yu, Zhuoran; Pitler, Emily; Lertpradit, Saran; Fernandez Alcalde, Hector; Moreno Romero, Laura; Popel, Martin; Zeman, Daniel; Martínez Alonso, Héctor
