@@ -2921,7 +2921,7 @@
 4	han	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 5	estado	estar	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	aux	_	_
 6-7	reuniéndose	_	_	_	_	_	_	_	_
-6	reuniéndo	reunir	VERB	VBG	VerbForm=Ger	0	root	_	_
+6	reuniendo	reunir	VERB	VBG	VerbForm=Ger	0	root	_	_
 7	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	compound:prt	_	_
 8	con	con	ADP	IN	_	9	case	_	_
 9	consejeros	consejero	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	_
