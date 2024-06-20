@@ -20037,7 +20037,7 @@
 6	(	(	PUNCT	(	PunctSide=Ini|PunctType=Brck	11	punct	_	SpaceAfter=No
 7	The	the	DET	DT	Definite=Def|Foreign=Yes|PronType=Art	11	det	_	Lang=en|Proper=True
 8	Five	five	NUM	CD	Foreign=Yes|NumForm=Word|NumType=Card	10	compound	_	Lang=en|SpaceAfter=No|Proper=True
-9	-	-	PUNCT	-	Foreign=Yes|PunctType=Dash	8	punct	_	Lang=en|SpaceAfter=No|Proper=True
+9	-	-	PUNCT	-	Foreign=Yes	8	punct	_	Lang=en|SpaceAfter=No|Proper=True
 10	Year	year	NOUN	NN	Foreign=Yes|Number=Sing	11	compound	_	Lang=en|Proper=True
 11	Engagement	engagement	NOUN	NN	Foreign=Yes|Number=Sing	5	appos	_	Lang=en|SpaceAfter=No|Proper=True
 12	,	,	PUNCT	,	PunctType=Comm	15	punct	_	_
