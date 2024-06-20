@@ -34,7 +34,7 @@
     <tag name="X">11</tag><!-- cápita, per, bjórr, ey, kven, maiorum, meänkieli, mos, oblast -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="53">
+  <feats unique="64">
     <feat name="Abbr" value="Yes" upos="ADJ,ADV,NOUN,PROPN">33</feat><!-- a., C., C, d., EE., UU, ca. -->
     <feat name="Case" value="Acc" upos="PRON">105</feat><!-- lo, la, me, los, sí, las, mí, te -->
     <feat name="Case" value="Acc,Dat" upos="PRON">322</feat><!-- se, me, nos, os, te -->
@@ -79,6 +79,17 @@
     <feat name="PronType" value="Prs" upos="PRON">777</feat><!-- se, su, lo, sus, le, me, ellos, él, les, ella -->
     <feat name="PronType" value="Rel" upos="ADV,DET,PRON">318</feat><!-- que, cuando, donde, cual, cuales, quien, quienes, cuyo, cuya, cuyos -->
     <feat name="PronType" value="Tot" upos="DET">60</feat><!-- cada, todas, todo, todos, toda, ambos, Ambas -->
+    <feat name="PunctSide" value="Fin" upos="PUNCT">55</feat><!-- ), ? -->
+    <feat name="PunctSide" value="Ini" upos="PUNCT">55</feat><!-- (, ¿ -->
+    <feat name="PunctType" value="Brck" upos="PUNCT">82</feat><!-- (, ) -->
+    <feat name="PunctType" value="Colo" upos="PUNCT">27</feat><!-- :, / -->
+    <feat name="PunctType" value="Comm" upos="PUNCT">998</feat><!-- , -->
+    <feat name="PunctType" value="Dash" upos="PUNCT">19</feat><!-- -, — -->
+    <feat name="PunctType" value="Elip" upos="PUNCT">2</feat><!-- … -->
+    <feat name="PunctType" value="Peri" upos="PUNCT">983</feat><!-- . -->
+    <feat name="PunctType" value="Qest" upos="PUNCT">28</feat><!-- ?, ¿ -->
+    <feat name="PunctType" value="Quot" upos="PUNCT">131</feat><!-- ", ', «, » -->
+    <feat name="PunctType" value="Semi" upos="PUNCT">20</feat><!-- ; -->
     <feat name="Reflex" value="Yes" upos="PRON">314</feat><!-- se, me, nos, sí, consigo -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">43</feat><!-- será, habrá, tendrá, hará, reducirá, Evaluaremos, Jugarán, asistirán, cambiará, contendrán -->
     <feat name="Tense" value="Imp" upos="AUX,VERB">331</feat><!-- era, estaba, podría, estaban, eran, tenía, tenían, podía, sería, consideraba -->
