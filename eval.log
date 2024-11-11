@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Spanish-PUD:
-commit 9431baa593f1bed4a639f3616ca8a19803162711
-Merge: 65386b0 671eb07
+commit 9892db437d78080570cdf762e1cd631d0c937e02
+Merge: 8ca0760 4a5fc2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 23284 of 23284 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.29553285881898.
@@ -15,7 +15,7 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 15546 out of 23284 total words have one or more features.
+Features: 17835 out of 23284 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
@@ -25,6 +25,8 @@ Udapi: found 30 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 23284 words.
 Genres: found 2 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang es --max-err=10 UD_Spanish-PUD/es_pud-ud-test.conllu
+[Line 6265 Sent n01091013 Node 13]: [L3 Warning leaf-det] 'det' not expected to have children (13:el:det --> 14:el:dep)
+Warnings: 1
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
