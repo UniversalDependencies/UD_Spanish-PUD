@@ -326,7 +326,7 @@
 1	Por	por	ADP	IN	_	18	discourse	_	_
 2	ejemplo	ejemplo	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
-4	en	en	ADP	IN	_	7	case	_	_
+4	en	en	ADP	IN	ExtPos=ADP	7	case	_	_
 5	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	4	fixed	_	_
 6	de	de	ADP	IN	_	4	fixed	_	_
 7	enseñar	enseñar	VERB	VB	VerbForm=Inf	18	xcomp	_	_
@@ -1805,7 +1805,7 @@
 2	afirma	afirmar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	IN	_	19	mark	_	SpaceAfter=No
 4	,	,	PUNCT	,	PunctType=Comm	19	punct	_	_
-5	a	a	ADP	IN	_	10	case	_	_
+5	a	a	ADP	IN	ExtPos=ADP	10	case	_	_
 6	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	fixed	_	_
 7	largo	largo	NOUN	NN	Gender=Masc|Number=Sing	5	fixed	_	_
 8	de	de	ADP	IN	_	5	fixed	_	_
@@ -1887,7 +1887,7 @@
 3	de	de	ADP	INDT	_	5	case	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	debate	debate	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
-6	por	por	ADP	IN	_	10	case	_	_
+6	por	por	ADP	IN	ExtPos=ADP	10	case	_	_
 7	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	6	fixed	_	_
 8	de	de	ADP	IN	_	6	fixed	_	_
 9	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
@@ -2312,7 +2312,7 @@
 10	de	de	ADP	IN	_	11	case	_	_
 11	cigarros	cigarro	NOUN	NN	Gender=Masc|Number=Plur	9	nmod	_	_
 12	fumados	fumar	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	11	acl	_	_
-13	a	a	ADP	IN	_	18	case	_	_
+13	a	a	ADP	IN	ExtPos=ADP	18	case	_	_
 14	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	13	fixed	_	_
 15	largo	largo	NOUN	NN	Gender=Masc|Number=Sing	13	fixed	_	_
 16	de	de	ADP	IN	_	13	fixed	_	_
@@ -2480,7 +2480,7 @@
 # sent_id = n01035004
 # text = A pesar de la publicación de una foto esta mañana, la policía de Columbia Británica afirma que todavía tiene más preguntas que respuestas sobre el supuesto sin techo que ha sido acusado del apuñalamiento mortal de una adolescente en su instituto en Abbotsford.
 # text_en = Despite the release of a photo this morning, police in B.C. say they have more questions than answers about an apparently homeless man charged in the fatal stabbing of a teen girl at her Abbotsford high school.
-1	A	a	ADP	IN	_	5	case	_	_
+1	A	a	ADP	IN	ExtPos=ADP	5	case	_	_
 2	pesar	pesar	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	_
 3	de	de	ADP	IN	_	1	fixed	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -3765,7 +3765,7 @@
 13	nacimiento	nacimiento	NOUN	NN	Gender=Masc|Number=Sing	10	obl	_	_
 14	y	y	CCONJ	CC	_	15	cc	_	_
 15	crece	crecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
-16	a	a	ADP	IN	_	20	case	_	_
+16	a	a	ADP	IN	ExtPos=ADP	20	case	_	_
 17	partir	partir	VERB	VB	VerbForm=Inf	16	fixed	_	_
 18-19	del	_	_	_	_	_	_	_	_
 18	de	de	ADP	INDT	_	16	fixed	_	_
@@ -5024,7 +5024,7 @@
 6	330	330	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	7	nummod	_	_
 7	personas	persona	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
 8	está	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-9	a	a	ADP	IN	_	13	case	_	_
+9	a	a	ADP	IN	ExtPos=ADP	13	case	_	_
 10	bordo	bordo	NOUN	NN	Gender=Masc|Number=Sing	9	fixed	_	_
 11-12	del	_	_	_	_	_	_	_	_
 11	de	de	ADP	INDT	_	9	fixed	_	_
@@ -5210,7 +5210,7 @@
 1	Van	ir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	a	a	ADP	IN	_	1	fixed	_	_
 3	ir	ir	VERB	VB	VerbForm=Inf	1	xcomp	_	_
-4	a	a	ADP	IN	_	6	case	_	_
+4	a	a	ADP	IN	ExtPos=ADP	6	case	_	_
 5	por	por	ADP	IN	_	4	fixed	_	_
 6	todas	todo	NOUN	NN	Gender=Fem|Number=Plur	1	obl	_	_
 7	y	y	CCONJ	CC	_	9	cc	_	_
@@ -5408,7 +5408,7 @@
 1	Se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	compound:prt	_	_
 2	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	_
 3	declarado	declarar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-4	a	a	ADP	IN	_	8	case	_	_
+4	a	a	ADP	IN	ExtPos=ADP	8	case	_	_
 5	favor	favor	NOUN	NN	Gender=Masc|Number=Sing	4	fixed	_	_
 6	de	de	ADP	IN	_	4	fixed	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
@@ -6270,7 +6270,7 @@
 19	grupos	grupo	NOUN	NN	Gender=Masc|Number=Plur	27	nsubj	_	_
 20	de	de	ADP	IN	_	21	case	_	_
 21	presión	presión	NOUN	NN	Gender=Fem|Number=Sing	19	nmod	_	_
-22	a	a	ADP	IN	_	26	case	_	_
+22	a	a	ADP	IN	ExtPos=ADP	26	case	_	_
 23	favor	favor	NOUN	NN	Gender=Masc|Number=Sing	22	fixed	_	_
 24	de	de	ADP	IN	_	22	fixed	_	_
 25	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	_	_
@@ -6311,7 +6311,7 @@
 24	o	o	CCONJ	CC	_	26	cc	_	_
 25	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
 26	autorización	autorización	NOUN	NN	Gender=Fem|Number=Sing	23	conj	_	_
-27	en	en	ADP	IN	_	30	case	_	_
+27	en	en	ADP	IN	ExtPos=ADP	30	case	_	_
 28	base	base	NOUN	NN	Gender=Fem|Number=Sing	27	fixed	_	_
 29	a	a	ADP	IN	_	27	fixed	_	_
 30	esto	esto	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	21	obl	_	SpaceAfter=No
@@ -6385,7 +6385,7 @@
 # sent_id = n01092025
 # text = Con respecto a esto, un punto de la agenda en Marruecos tendrá lugar el sábado a mitad del día, cuando los países desarrollados se cuestionarán públicamente unos a otros acerca de sus planes y ambiciones.
 # text_en = On this, one diary point in Morocco will be the middle Saturday, when developed countries get to publicly question each other about their plans and ambitions.
-1	Con	con	ADP	IN	_	4	case	_	_
+1	Con	con	ADP	IN	ExtPos=ADP	4	case	_	_
 2	respecto	respecto	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	_
 3	a	a	ADP	IN	_	1	fixed	_	_
 4	esto	esto	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	13	obl	_	SpaceAfter=No
@@ -6838,7 +6838,7 @@
 20	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
 21	ruedas	rueda	NOUN	NN	Gender=Fem|Number=Plur	19	obj	_	_
 22	camina	caminar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
-23	a	a	ADP	IN	_	28	case	_	_
+23	a	a	ADP	IN	ExtPos=ADP	28	case	_	_
 24	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	23	fixed	_	_
 25	largo	largo	NOUN	NN	Gender=Masc|Number=Sing	23	fixed	_	_
 26-27	del	_	_	_	_	_	_	_	_
@@ -6935,7 +6935,7 @@
 15	de	de	ADP	IN	_	16	case	_	_
 16	Hong	Hong	PROPN	NNP	_	14	nmod	_	_
 17	Kong	Kong	PROPN	NNP	_	16	flat:name	_	_
-18	por	por	ADP	IN	_	22	case	_	_
+18	por	por	ADP	IN	ExtPos=ADP	22	case	_	_
 19	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	18	fixed	_	_
 20-21	del	_	_	_	_	_	_	_	_
 20	de	de	ADP	INDT	_	18	fixed	_	_
@@ -9326,7 +9326,7 @@
 # sent_id = n01138007
 # text = En tanto que uno de los primeros espadas de Negan (Jeffrey Dean Morgan), se le permiten ciertas libertades.
 # text_en = As one of Negan's (Jeffrey Dean Morgan) top guys, he's afforded certain freedoms.
-1	En	en	ADP	IN	_	4	case	_	_
+1	En	en	ADP	IN	ExtPos=ADP	4	case	_	_
 2	tanto	tanto	ADV	RB	_	1	fixed	_	_
 3	que	que	ADP	IN	_	1	fixed	_	_
 4	uno	uno	NOUN	NN	Gender=Masc|Number=Sing	19	obl	_	_
@@ -9456,7 +9456,7 @@
 4	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	analistas	analista	NOUN	NN	Gender=Masc|Number=Plur	6	nsubj	_	_
 6	dudan	dudar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	a	a	ADP	IN	_	11	case	_	_
+7	a	a	ADP	IN	ExtPos=ADP	11	case	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	fixed	_	_
 9	hora	hora	NOUN	NN	Gender=Fem|Number=Sing	7	fixed	_	_
 10	de	de	ADP	IN	_	7	fixed	_	_
@@ -9482,7 +9482,7 @@
 9	enfoque	enfoque	NOUN	NN	Gender=Masc|Number=Sing	7	obj	_	_
 10	menos	menos	ADV	RBR	Degree=Cmp	11	advmod	_	_
 11	tecnológico	tecnológico	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	_
-12	a	a	ADP	IN	_	16	case	_	_
+12	a	a	ADP	IN	ExtPos=ADP	16	case	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	fixed	_	_
 14	hora	hora	NOUN	NN	Gender=Fem|Number=Sing	12	fixed	_	_
 15	de	de	ADP	IN	_	12	fixed	_	_
@@ -9542,7 +9542,7 @@
 12	personalizados	personalizar	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	11	acl	_	_
 13	y	y	CCONJ	CC	_	14	cc	_	_
 14	stickers	sticker	NOUN	NN	Gender=Masc|Number=Plur	7	conj	_	_
-15	a	a	ADP	IN	_	19	case	_	_
+15	a	a	ADP	IN	ExtPos=ADP	19	case	_	_
 16	través	través	NOUN	NN	Gender=Masc|Number=Sing	15	fixed	_	_
 17	de	de	ADP	IN	_	15	fixed	_	_
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
@@ -9737,7 +9737,7 @@
 21	de	de	ADP	INDT	_	23	case	_	_
 22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	Norte	norte	NOUN	NN	Gender=Masc|Number=Sing	20	nmod	_	Proper=True
-24	a	a	ADP	IN	_	27	case	_	_
+24	a	a	ADP	IN	ExtPos=ADP	27	case	_	_
 25	base	base	NOUN	NN	Gender=Fem|Number=Sing	24	fixed	_	_
 26	de	de	ADP	IN	_	24	fixed	_	_
 27	faroles	farol	NOUN	NN	Gender=Masc|Number=Plur	10	obl	_	SpaceAfter=No
@@ -10290,7 +10290,7 @@
 24	a	a	ADP	IN	_	26	case	_	_
 25	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	_	_
 26	personas	persona	NOUN	NN	Gender=Fem|Number=Plur	22	obl	_	_
-27	a	a	ADP	IN	_	31	case	_	_
+27	a	a	ADP	IN	ExtPos=ADP	31	case	_	_
 28	través	través	NOUN	NN	Gender=Masc|Number=Sing	27	fixed	_	_
 29-30	del	_	_	_	_	_	_	_	_
 29	de	de	ADP	INDT	_	27	fixed	_	_
@@ -11582,7 +11582,7 @@
 29	en	en	ADP	IN	_	31	case	_	_
 30	numerosas	numeroso	ADJ	JJ	Gender=Fem|Number=Plur	31	amod	_	_
 31	comunidades	comunidad	NOUN	NN	Gender=Fem|Number=Plur	2	obl	_	_
-32	a	a	ADP	IN	_	36	case	_	_
+32	a	a	ADP	IN	ExtPos=ADP	36	case	_	_
 33	través	través	NOUN	NN	Gender=Masc|Number=Sing	32	fixed	_	_
 34	de	de	ADP	IN	_	32	fixed	_	_
 35	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	36	det	_	_
@@ -12278,7 +12278,7 @@
 13	ramas	rama	NOUN	NN	Gender=Fem|Number=Plur	12	obj	_	_
 14	de	de	ADP	IN	_	15	case	_	_
 15	sauces	sauz	NOUN	NN	Gender=Masc|Number=Plur	13	nmod	_	_
-16	en	en	ADP	IN	_	19	case	_	_
+16	en	en	ADP	IN	ExtPos=ADP	19	case	_	_
 17	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	16	fixed	_	_
 18	de	de	ADP	IN	_	16	fixed	_	_
 19	palmas	palma	NOUN	NN	Gender=Fem|Number=Plur	12	obl	_	_
@@ -12847,7 +12847,7 @@
 13	de	de	ADP	INDT	_	15	case	_	_
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	mundo	mundo	NOUN	NN	Gender=Masc|Number=Sing	12	nmod	_	_
-16	en	en	ADP	IN	_	19	case	_	_
+16	en	en	ADP	IN	ExtPos=ADP	19	case	_	_
 17	cuanto	cuanto	PRON	REL	NumType=Card|PronType=Int,Rel	16	fixed	_	_
 18	a	a	ADP	IN	_	16	fixed	_	_
 19	violencia	violencia	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
@@ -12897,7 +12897,7 @@
 1	Cristóbal	Cristóbal	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	Colón	Colón	PROPN	NNP	Gender=Masc|Number=Sing	1	flat:name	_	_
 3	viajó	viajar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	a	a	ADP	IN	_	8	case	_	_
+4	a	a	ADP	IN	ExtPos=ADP	8	case	_	_
 5	través	través	NOUN	NN	Gender=Masc|Number=Sing	4	fixed	_	_
 6-7	del	_	_	_	_	_	_	_	_
 6	de	de	ADP	INDT	_	4	fixed	_	_
@@ -12961,7 +12961,7 @@
 9	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	10	det	_	_
 10	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	11	nsubj	_	_
 11	supone	suponer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
-12	en	en	ADP	IN	_	17	case	_	_
+12	en	en	ADP	IN	ExtPos=ADP	17	case	_	_
 13	torno	torno	NOUN	NN	Gender=Masc|Number=Sing	12	fixed	_	_
 14	a	a	ADP	IN	_	12	fixed	_	_
 15	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
@@ -13359,7 +13359,7 @@
 14	isla	isla	NOUN	NN	Gender=Fem|Number=Sing	9	obl	_	_
 15	Gezira	Gezira	PROPN	NNP	Number=Sing	14	appos	_	_
 16	y	y	CCONJ	CC	_	22	cc	_	_
-17	a	a	ADP	IN	_	22	case	_	_
+17	a	a	ADP	IN	ExtPos=ADP	22	case	_	_
 18	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	17	fixed	_	_
 19	largo	largo	NOUN	NN	Gender=Masc|Number=Sing	17	fixed	_	_
 20	de	de	ADP	IN	_	17	fixed	_	_
@@ -13699,7 +13699,7 @@
 14	de	de	ADP	IN	_	16	case	_	_
 15	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	viaje	viaje	NOUN	NN	Gender=Masc|Number=Sing	13	nmod	_	_
-17	a	a	ADP	IN	_	21	case	_	_
+17	a	a	ADP	IN	ExtPos=ADP	21	case	_	_
 18	través	través	NOUN	NN	Gender=Masc|Number=Sing	17	fixed	_	_
 19	de	de	ADP	IN	_	17	fixed	_	_
 20	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
@@ -14524,7 +14524,7 @@
 23	y	y	CCONJ	CC	_	24	cc	_	_
 24	ganando	ganar	VERB	VBG	VerbForm=Ger	20	conj	_	_
 25	inmortalidad	inmortalidad	NOUN	NN	Gender=Fem|Number=Sing	24	obj	_	_
-26	a	a	ADP	IN	_	30	case	_	_
+26	a	a	ADP	IN	ExtPos=ADP	30	case	_	_
 27	través	través	NOUN	NN	Gender=Masc|Number=Sing	26	fixed	_	_
 28	de	de	ADP	IN	_	26	fixed	_	_
 29	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
@@ -15213,7 +15213,7 @@
 13	origen	origen	NOUN	NN	Gender=Masc|Number=Sing	11	nmod	_	_
 14	chino	chino	ADJ	JJ	Gender=Masc|Number=Sing	13	amod	_	Proper=True
 15	varían	variar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-16	con	con	ADP	IN	_	19	case	_	_
+16	con	con	ADP	IN	ExtPos=ADP	19	case	_	_
 17	respecto	respecto	NOUN	NN	Gender=Masc|Number=Sing	16	fixed	_	_
 18	a	a	ADP	IN	_	16	fixed	_	_
 19	ambas	ambos	NOUN	NN	Gender=Fem|Number=Plur	15	obl	_	SpaceAfter=No
@@ -15297,7 +15297,7 @@
 # sent_id = w01067103
 # text = A pesar de esto, parece que ambos mantuvieron al menos partes del Bajo Egipto.
 # text_en = Despite this, they both seem to have held at least parts of lower Egypt.
-1	A	a	ADP	IN	_	4	case	_	_
+1	A	a	ADP	IN	ExtPos=ADP	4	case	_	_
 2	pesar	pesar	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	_
 3	de	de	ADP	IN	_	1	fixed	_	_
 4	esto	esto	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	6	obl	_	SpaceAfter=No
@@ -15415,7 +15415,7 @@
 # text_en = Charles, despite his harsh actions, had been seen as a ruler empathetic to the needs of the Netherlands.
 1	Carlos	Carlos	PROPN	NNP	Gender=Masc|Number=Sing	12	nsubj:pass	_	SpaceAfter=No
 2	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
-3	a	a	ADP	IN	_	8	case	_	_
+3	a	a	ADP	IN	ExtPos=ADP	8	case	_	_
 4	pesar	pesar	NOUN	NN	Gender=Masc|Number=Sing	3	fixed	_	_
 5	de	de	ADP	IN	_	3	fixed	_	_
 6	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
@@ -15430,7 +15430,7 @@
 15	gobernante	gobernante	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	_
 16	más	más	ADV	RBR	Degree=Cmp	17	advmod	_	_
 17	empático	empático	ADJ	JJ	Gender=Masc|Number=Sing	15	amod	_	_
-18	en	en	ADP	IN	_	22	case	_	_
+18	en	en	ADP	IN	ExtPos=ADP	22	case	_	_
 19	cuanto	cuanto	PRON	REL	NumType=Card|PronType=Int,Rel	18	fixed	_	_
 20	a	a	ADP	IN	_	18	fixed	_	_
 21	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
@@ -16013,7 +16013,7 @@
 23	de	de	ADP	IN	_	25	case	_	_
 24	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	conflicto	conflicto	NOUN	NN	Gender=Masc|Number=Sing	22	nmod	_	_
-26	en	en	ADP	IN	_	31	case	_	_
+26	en	en	ADP	IN	ExtPos=ADP	31	case	_	_
 27	torno	torno	NOUN	NN	Gender=Masc|Number=Sing	26	fixed	_	_
 28	a	a	ADP	IN	_	26	fixed	_	_
 29	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
@@ -16210,7 +16210,7 @@
 7	1916	1916	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	5	obl	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	compound:prt	_	_
 9	volvió	volver	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-10	en	en	ADP	IN	_	14	case	_	_
+10	en	en	ADP	IN	ExtPos=ADP	14	case	_	_
 11	contra	contra	NOUN	NN	Gender=Fem|Number=Sing	10	fixed	_	_
 12	de	de	ADP	IN	_	10	fixed	_	_
 13	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
@@ -16399,7 +16399,7 @@
 2	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 3	Filipo	Filipo	PROPN	NNP	Gender=Masc|Number=Sing	4	nsubj	_	_
 4	marchó	marchar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5	en	en	ADP	IN	_	9	case	_	_
+5	en	en	ADP	IN	ExtPos=ADP	9	case	_	_
 6	contra	contra	NOUN	NN	Gender=Fem|Number=Sing	5	fixed	_	_
 7	de	de	ADP	IN	_	5	fixed	_	_
 8	sus	su	PRON	DTP$	Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
@@ -16745,7 +16745,7 @@
 # sent_id = w01085008
 # text = Por medio del tratado de paz España cedía a los Estados Unidos las colonias de Puerto Rico, Guam y Filipinas.
 # text_en = By the peace treaty Spain ceded to the United States its colonies of Puerto Rico, Guam, and the Philippines.
-1	Por	por	ADP	IN	_	5	case	_	_
+1	Por	por	ADP	IN	ExtPos=ADP	5	case	_	_
 2	medio	medio	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	_
 3-4	del	_	_	_	_	_	_	_	_
 3	de	de	ADP	INDT	_	1	fixed	_	_
@@ -16776,7 +16776,7 @@
 # text_en = The offensive against the huge army enlisted by Venice was launched from France.
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	ofensiva	ofensiva	NOUN	NN	Gender=Fem|Number=Sing	13	nsubj:pass	_	_
-3	en	en	ADP	IN	_	8	case	_	_
+3	en	en	ADP	IN	ExtPos=ADP	8	case	_	_
 4	contra	contra	NOUN	NN	Gender=Fem|Number=Sing	3	fixed	_	_
 5-6	del	_	_	_	_	_	_	_	_
 5	de	de	ADP	INDT	_	3	fixed	_	_
@@ -17826,7 +17826,7 @@
 3	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
 4	dado	dar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	instrucciones	instrucción	NOUN	NN	Gender=Fem|Number=Plur	4	obj	_	_
-6	para	para	ADP	IN	_	9	case	_	_
+6	para	para	ADP	IN	ExtPos=ADP	9	case	_	_
 7	que	que	ADP	IN	_	6	fixed	_	_
 8	no	no	ADV	RB	Polarity=Neg	9	advmod	_	_
 9	hubiese	haber	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	advcl	_	_
@@ -18894,7 +18894,7 @@
 16	no	no	ADV	RB	Polarity=Neg	17	advmod	_	_
 17	blanca	blanco	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	SpaceAfter=No
 18	,	,	PUNCT	,	PunctType=Comm	22	punct	_	_
-19	en	en	ADP	IN	_	22	case	_	_
+19	en	en	ADP	IN	ExtPos=ADP	22	case	_	_
 20	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	19	fixed	_	_
 21	de	de	ADP	IN	_	19	fixed	_	_
 22	ser	ser	VERB	VB	VerbForm=Inf	9	xcomp	_	_
@@ -19325,7 +19325,7 @@
 10	de	de	ADP	IN	_	12	case	_	_
 11	malas	malo	ADJ	JJ	Gender=Fem|Number=Plur	12	amod	_	_
 12	inversiones	inversión	NOUN	NN	Gender=Fem|Number=Plur	9	nmod	_	_
-13	por	por	ADP	IN	_	17	case	_	_
+13	por	por	ADP	IN	ExtPos=ADP	17	case	_	_
 14	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	13	fixed	_	_
 15	de	de	ADP	IN	_	13	fixed	_	_
 16	sus	su	PRON	DTP$	Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
@@ -19810,7 +19810,7 @@
 27	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	29	nsubj	_	_
 28	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	29	compound:prt	_	_
 29	extendió	extender	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	acl:relcl	_	_
-30	a	a	ADP	IN	_	34	case	_	_
+30	a	a	ADP	IN	ExtPos=ADP	34	case	_	_
 31	través	través	NOUN	NN	Gender=Masc|Number=Sing	30	fixed	_	_
 32	de	de	ADP	IN	_	30	fixed	_	_
 33	varios	vario	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	34	det	_	_
@@ -19855,7 +19855,7 @@
 # sent_id = w01134009
 # text = A través de su abuela, Mishima era descendiente directo de Tokugawa leyasu.
 # text_en = Through his grandmother, Mishima was a direct descendant of Tokugawa Ieyasu.
-1	A	a	ADP	IN	_	5	case	_	_
+1	A	a	ADP	IN	ExtPos=ADP	5	case	_	_
 2	través	través	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	_
 3	de	de	ADP	IN	_	1	fixed	_	_
 4	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
@@ -20194,7 +20194,7 @@
 # sent_id = w01137068
 # text = A la hora de afrontar al gabinete, poco después de que la fuerza alemanas cruzaran la frontera, Chamberlain le echó la culpa tanto a Alemania como Austria.
 # text_en = In addressing the Cabinet shortly after German forces crossed the border, Chamberlain placed blame on both Germany and Austria.
-1	A	a	ADP	IN	_	5	case	_	_
+1	A	a	ADP	IN	ExtPos=ADP	5	case	_	_
 2	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	1	fixed	_	_
 3	hora	hora	NOUN	NN	Gender=Fem|Number=Sing	1	fixed	_	_
 4	de	de	ADP	IN	_	1	fixed	_	_
@@ -21846,7 +21846,7 @@
 5	tientas	tienta	NOUN	NN	Gender=Fem|Number=Plur	4	fixed	_	_
 6	en	en	ADP	IN	_	7	case	_	_
 7	solitario	solitario	NOUN	NN	Gender=Masc|Number=Sing	3	obl	_	_
-8	a	a	ADP	IN	_	15	case	_	_
+8	a	a	ADP	IN	ExtPos=ADP	15	case	_	_
 9	través	través	NOUN	NN	Gender=Masc|Number=Sing	8	fixed	_	_
 10-11	del	_	_	_	_	_	_	_	_
 10	de	de	ADP	INDT	_	8	fixed	_	_
@@ -22221,7 +22221,7 @@
 5	a	a	ADP	IN	_	7	case	_	_
 6	nuevas	nuevo	ADJ	JJ	Gender=Fem|Number=Plur	7	amod	_	_
 7	conclusiones	conclusión	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
-8	a	a	ADP	IN	_	12	case	_	_
+8	a	a	ADP	IN	ExtPos=ADP	12	case	_	_
 9	partir	partir	VERB	VB	VerbForm=Inf	8	fixed	_	_
 10	de	de	ADP	IN	_	8	fixed	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
@@ -22628,7 +22628,7 @@
 28	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	30	obj	_	_
 29	hayan	haber	AUX	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	30	aux	_	_
 30	documentado	documentar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	conj	_	_
-31	a	a	ADP	IN	_	34	case	_	_
+31	a	a	ADP	IN	ExtPos=ADP	34	case	_	_
 32	partir	partir	VERB	VB	VerbForm=Inf	31	fixed	_	_
 33	de	de	ADP	IN	_	31	fixed	_	_
 34	2005	2005	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	30	obl	_	_
@@ -22643,7 +22643,7 @@
 # sent_id = n03001007
 # text = A diferencia de la del 28 de octubre, apenas se ha comentado nada de la carta del sr. Comey.
 # text_en = Unlike that of the 28th of October, Mr. Comey's letter has hardly been commented upon.
-1	A	a	ADP	IN	_	4	case	_	_
+1	A	a	ADP	IN	ExtPos=ADP	4	case	_	_
 2	diferencia	diferencia	NOUN	NN	Gender=Fem|Number=Sing	1	fixed	_	_
 3	de	de	ADP	IN	_	1	fixed	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	obl	_	_
@@ -22722,7 +22722,7 @@
 # sent_id = n03001030
 # text = De acuerdo con el programa, ella hablará a las 23:45 p.m.
 # text_en = According to the programme, she will speak at 23.45.
-1	De	de	ADP	IN	_	5	case	_	_
+1	De	de	ADP	IN	ExtPos=ADP	5	case	_	_
 2	acuerdo	acuerdo	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	_
 3	con	con	ADP	IN	_	1	fixed	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -23259,7 +23259,7 @@
 # sent_id = n03010012
 # text = De acuerdo con Le Figaro, este gobierno podría liberar hasta 42 millones de euros, de los cuales 15,5 millones irían hacia la seguridad.
 # text_en = According to Le Figaro, this government plan could free up 42 million euros, of which 15.5 million would go towards security.
-1	De	de	ADP	IN	_	4	case	_	_
+1	De	de	ADP	IN	ExtPos=ADP	4	case	_	_
 2	acuerdo	acuerdo	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	_
 3	con	con	ADP	IN	_	1	fixed	_	_
 4	Le	le	DET	NNP	Definite=Def|Foreign=Yes|Gender=Masc|Number=Sing|PronType=Art	10	obl	_	Lang=fr
@@ -23406,7 +23406,7 @@
 12	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	13	nsubj	_	_
 13	están	estar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
 14	completamente	completamente	ADV	RB	_	13	advmod	_	_
-15	en	en	ADP	IN	_	18	case	_	_
+15	en	en	ADP	IN	ExtPos=ADP	18	case	_	_
 16	contra	contra	NOUN	NN	Gender=Fem|Number=Sing	15	fixed	_	_
 17	de	de	ADP	IN	_	15	fixed	_	_
 18	Italia	Italia	PROPN	NNP	Number=Sing	13	obl	_	SpaceAfter=No
@@ -23499,7 +23499,7 @@
 # sent_id = n04006003
 # text = A partir del 1 de enero subirán los precios de la gasolina y el diésel.
 # text_en = From the 1st of January there will be an increase in petrol and diesel.
-1	A	a	ADP	IN	_	5	case	_	_
+1	A	a	ADP	IN	ExtPos=ADP	5	case	_	_
 2	partir	partir	VERB	VB	VerbForm=Inf	1	fixed	_	_
 3-4	del	_	_	_	_	_	_	_	_
 3	de	de	ADP	INDT	_	1	fixed	_	_
@@ -23694,7 +23694,7 @@
 14	y	y	CCONJ	CC	_	16	cc	_	_
 15	sería	ser	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	cop	_	_
 16	inapropiado	inapropiado	ADJ	JJ	Gender=Masc|Number=Sing	10	conj	_	_
-17	por	por	ADP	IN	_	21	case	_	_
+17	por	por	ADP	IN	ExtPos=ADP	21	case	_	_
 18	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	17	fixed	_	_
 19-20	del	_	_	_	_	_	_	_	_
 19	de	de	ADP	INDT	_	17	fixed	_	_
@@ -24194,7 +24194,7 @@
 # sent_id = n05003019
 # text = A pesar de ellos, no todos en el partido entendieron ayer los mensajes que el presidente pretende enviar a los suyos.
 # text_en = In spite of them, not everyone in the party understood the messages that the president tried to send to them yesterday.
-1	A	a	ADP	IN	_	4	case	_	_
+1	A	a	ADP	IN	ExtPos=ADP	4	case	_	_
 2	pesar	pesar	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	_
 3	de	de	ADP	IN	_	1	fixed	_	_
 4	ellos	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	obl	_	SpaceAfter=No
@@ -25316,7 +25316,7 @@
 18	ya	ya	ADV	RB	_	20	advmod	_	_
 19	estaba	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	aux	_	_
 20	cargado	cargar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	acl:relcl	_	_
-21	por	por	ADP	IN	_	25	case	_	_
+21	por	por	ADP	IN	ExtPos=ADP	25	case	_	_
 22	motivo	motivo	NOUN	NN	Gender=Masc|Number=Sing	21	fixed	_	_
 23-24	del	_	_	_	_	_	_	_	_
 23	de	de	ADP	INDT	_	21	fixed	_	_
@@ -26030,7 +26030,7 @@
 23	con	con	ADP	IN	_	25	case	_	_
 24	veintiocho	veintiocho	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	25	nummod	_	_
 25	hombres	hombre	NOUN	NN	Gender=Masc|Number=Plur	22	obl	_	_
-26	a	a	ADP	IN	_	30	case	_	_
+26	a	a	ADP	IN	ExtPos=ADP	30	case	_	_
 27	través	través	NOUN	NN	Gender=Masc|Number=Sing	26	fixed	_	_
 28	de	de	ADP	IN	_	26	fixed	_	_
 29	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
@@ -26312,7 +26312,7 @@
 7	establecer	establecer	VERB	VB	VerbForm=Inf	4	xcomp	_	_
 8	puestos	puesto	NOUN	NN	Gender=Masc|Number=Plur	7	obj	_	_
 9	comerciales	comercial	ADJ	JJ	Gender=Masc|Number=Plur	8	amod	_	_
-10	a	a	ADP	IN	_	14	case	_	_
+10	a	a	ADP	IN	ExtPos=ADP	14	case	_	_
 11	través	través	NOUN	NN	Gender=Masc|Number=Sing	10	fixed	_	_
 12-13	del	_	_	_	_	_	_	_	_
 12	de	de	ADP	INDT	_	10	fixed	_	_
@@ -26420,7 +26420,7 @@
 # sent_id = w03009044
 # text = A pesar de ser el principal distribuidor de equipamiento y tejidos del mundo, la empresa alemana pasaba por dificultades financieras.
 # text_en = Despite being the number one distributor of equipment and textiles worldwide, the German company was in financial trouble.
-1	A	a	ADP	IN	_	7	case	_	_
+1	A	a	ADP	IN	ExtPos=ADP	7	case	_	_
 2	pesar	pesar	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	_
 3	de	de	ADP	IN	_	1	fixed	_	_
 4	ser	ser	AUX	VB	VerbForm=Inf	7	cop	_	_

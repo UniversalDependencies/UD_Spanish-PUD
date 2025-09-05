@@ -34,7 +34,7 @@
     <tag name="X">11</tag><!-- cápita, per, bjórr, ey, kven, maiorum, meänkieli, mos, oblast -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="67">
+  <feats unique="68">
     <feat name="Abbr" value="Yes" upos="ADJ,ADV,NOUN,PROPN">33</feat><!-- a., C., C, d., EE., UU, ca. -->
     <feat name="Case" value="Acc" upos="PRON">105</feat><!-- lo, la, me, los, sí, las, mí, te -->
     <feat name="Case" value="Acc,Dat" upos="PRON">322</feat><!-- se, me, nos, os, te -->
@@ -48,6 +48,7 @@
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">145</feat><!-- más, mayor, menos, mejores, mejor, mayores, peor, Stranger, menor, menores -->
     <feat name="Degree" value="Pos" upos="ADJ">2</feat><!-- American, Talking -->
     <feat name="Degree" value="Sup" upos="ADJ">5</feat><!-- máxima, pésimo -->
+    <feat name="ExtPos" value="ADP" upos="ADP">57</feat><!-- a, en, por, De, con, para -->
     <feat name="ExtPos" value="ADV" upos="ADP">26</feat><!-- a, en, por, sobre, de -->
     <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,AUX,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,PUNCT,SCONJ,VERB,X">63</feat><!-- The, My, News, Really, You, -, American, Anyway, Approach, Brands -->
     <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">4523</feat><!-- la, las, una, su, que, esta, sus, guerra, parte, ciudad -->
