@@ -307,7 +307,7 @@
 # sent_id = n01003013
 # text = A lo mejor el código de vestimenta era muy conservador.
 # text_en = Maybe the dress code was too stuffy.
-1	A	a	ADP	IN	_	10	advmod	_	_
+1	A	a	ADP	IN	ExtPos=ADV	10	advmod	_	_
 2	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	fixed	_	_
 3	mejor	mejor	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -559,7 +559,7 @@
 40	volverá	volver	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	38	ccomp	_	_
 41	a	a	ADP	IN	_	42	mark	_	_
 42	aumentar	aumentar	VERB	VB	VerbForm=Inf	40	xcomp	_	_
-43	de	de	ADP	IN	_	42	advmod	_	_
+43	de	de	ADP	IN	ExtPos=ADV	42	advmod	_	_
 44	nuevo	nuevo	NOUN	NN	Gender=Masc|Number=Sing	43	fixed	_	_
 45	este	este	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	46	det	_	_
 46	año	año	NOUN	NN	Gender=Masc|Number=Sing	42	obl:tmod	_	SpaceAfter=No
@@ -872,7 +872,7 @@
 11	(	(	PUNCT	(	PunctSide=Ini|PunctType=Brck	19	punct	_	SpaceAfter=No
 12	y	y	CCONJ	CC	_	19	cc	_	SpaceAfter=No
 13	,	,	PUNCT	,	PunctType=Comm	19	punct	_	_
-14	a	a	ADP	IN	_	19	advmod	_	_
+14	a	a	ADP	IN	ExtPos=ADV	19	advmod	_	_
 15	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	14	fixed	_	_
 16	mejor	mejor	NOUN	NN	Gender=Masc|Number=Sing	14	fixed	_	SpaceAfter=No
 17	,	,	PUNCT	,	PunctType=Comm	14	punct	_	_
@@ -1117,7 +1117,7 @@
 # sent_id = n01018024
 # text = A veces es como un superpoder.
 # text_en = It's like a super power sometimes.
-1	A	a	ADP	IN	_	3	advmod	_	_
+1	A	a	ADP	IN	ExtPos=ADV	3	advmod	_	_
 2	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	1	fixed	_	_
 3	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	como	como	ADP	IN	_	6	case	_	_
@@ -1791,7 +1791,7 @@
 13	eliminar	eliminar	VERB	VB	VerbForm=Inf	8	xcomp	_	_
 14	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	cutícula	cutícula	NOUN	NN	Gender=Fem|Number=Sing	13	obj	_	_
-16	por	por	ADP	IN	_	13	advmod	_	_
+16	por	por	ADP	IN	ExtPos=ADV	13	advmod	_	_
 17	completo	completo	NOUN	NN	Gender=Masc|Number=Sing	16	fixed	_	SpaceAfter=No
 18	,	,	PUNCT	,	PunctType=Comm	19	punct	_	_
 19	explica	explicar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	parataxis	_	_
@@ -3284,7 +3284,7 @@
 11	de	de	ADP	IN	_	23	case	_	_
 12	que	que	SCONJ	IN	_	23	mark	_	_
 13-14	al	_	_	_	_	_	_	_	_
-13	a	a	ADP	INDT	_	23	advmod	_	_
+13	a	a	ADP	INDT	ExtPos=ADV	23	advmod	_	_
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	fixed	_	_
 15	menos	menos	ADV	RBR	Degree=Cmp	13	fixed	_	_
 16	otros	otro	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	18	det	_	_
@@ -3671,7 +3671,7 @@
 11	niveles	nivel	NOUN	NN	Gender=Masc|Number=Plur	9	obj	_	_
 12	de	de	ADP	IN	_	13	case	_	_
 13	hierro	hierro	NOUN	NN	Gender=Masc|Number=Sing	11	nmod	_	_
-14	en	en	ADP	IN	_	11	advmod	_	_
+14	en	en	ADP	IN	ExtPos=ADV	11	advmod	_	_
 15	general	general	NOUN	NN	Number=Sing	14	fixed	_	SpaceAfter=No
 16	,	,	PUNCT	,	PunctType=Comm	17	punct	_	_
 17	afirman	afirmar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
@@ -5606,7 +5606,7 @@
 6	,	,	PUNCT	,	PunctType=Comm	11	punct	_	_
 7	pero	pero	CCONJ	CC	_	11	cc	_	_
 8-9	al	_	_	_	_	_	_	_	_
-8	a	a	ADP	IN	_	11	advmod	_	_
+8	a	a	ADP	IN	ExtPos=ADV	11	advmod	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	fixed	_	_
 10	final	final	NOUN	NN	Gender=Masc|Number=Sing	8	fixed	_	_
 11	decidieron	decidir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
@@ -5950,7 +5950,7 @@
 10	,	,	PUNCT	,	PunctType=Comm	15	punct	_	_
 11	pero	pero	CCONJ	CC	_	15	cc	_	_
 12-13	al	_	_	_	_	_	_	_	_
-12	a	a	ADP	IN	_	15	advmod	_	_
+12	a	a	ADP	IN	ExtPos=ADV	15	advmod	_	_
 13	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	fixed	_	_
 14	menos	menos	ADV	RBR	Degree=Cmp	12	fixed	_	_
 15	hay	haber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
@@ -6064,7 +6064,7 @@
 12	en	en	ADP	IN	_	13	case	_	_
 13	Londres	Londres	PROPN	NNP	Number=Sing	10	obl	_	_
 14	y	y	CCONJ	CC	_	18	cc	_	_
-15	a	a	ADP	IN	_	18	advmod	_	_
+15	a	a	ADP	IN	ExtPos=ADV	18	advmod	_	_
 16	continuación	continuación	NOUN	NN	Gender=Fem|Number=Sing	15	fixed	_	_
 17	en	en	ADP	IN	_	18	case	_	_
 18	Glasgow	Glasgow	PROPN	NNP	Number=Sing	13	conj	_	SpaceAfter=No
@@ -6701,7 +6701,7 @@
 # text_en = But they can at least lay booby-traps to confuse and deter – a concept known as “active defence”.
 1	Pero	pero	CCONJ	CC	_	6	cc	_	_
 2-3	al	_	_	_	_	_	_	_	_
-2	a	a	ADP	IN	_	6	advmod	_	_
+2	a	a	ADP	IN	ExtPos=ADV	6	advmod	_	_
 3	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	fixed	_	_
 4	menos	menos	ADV	RBR	Degree=Cmp	2	fixed	_	_
 5	pueden	poder	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
@@ -8694,7 +8694,7 @@
 12	proteger	proteger	VERB	VB	VerbForm=Inf	9	xcomp	_	_
 13	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	compound:prt	_	_
 14	mejor	mejor	ADV	RBR	_	12	advmod	_	_
-15	en	en	ADP	IN	_	12	advmod	_	_
+15	en	en	ADP	IN	ExtPos=ADV	12	advmod	_	_
 16	línea	línea	NOUN	NN	Gender=Fem|Number=Sing	15	fixed	_	SpaceAfter=No
 17	.	.	PUNCT	.	PunctType=Peri	6	punct	_	_
 
@@ -9231,7 +9231,7 @@
 9	Loving	Loving	PROPN	NNP	Gender=Masc|Number=Plur	17	nsubj	_	SpaceAfter=No
 10	,	,	PUNCT	,	PunctType=Comm	14	punct	_	_
 11	y	y	CCONJ	CC	_	14	cc	_	_
-12	en	en	ADP	IN	_	14	advmod	_	_
+12	en	en	ADP	IN	ExtPos=ADV	14	advmod	_	_
 13	particular	particular	NOUN	NN	Number=Sing	12	fixed	_	_
 14	Richard	Richard	PROPN	NNP	Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
 15	,	,	PUNCT	,	PunctType=Comm	14	punct	_	_
@@ -10529,7 +10529,7 @@
 # text = Al final, sobre 512-511 a. C., el rey de los macedónios, Aminstas I aceptó la dominación de Arqueménida y su país se convirtió en un estado subordinado del Imperio persa.
 # text_en = Eventually, in about 512-511 BC, the Macedonian king Amyntas I accepted the Achaemenid domination and surrendered his country as a vassal state to the Achaemenid Persia.
 1-2	Al	_	_	_	_	_	_	_	_
-1	A	a	ADP	IN	_	18	advmod	_	_
+1	A	a	ADP	IN	ExtPos=ADV	18	advmod	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	fixed	_	_
 3	final	final	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	,	PunctType=Comm	18	punct	_	_
@@ -11806,7 +11806,7 @@
 6	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 7	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
 8	peleas	pelea	NOUN	NN	Gender=Fem|Number=Plur	11	nsubj	_	_
-9	a	a	ADP	IN	_	11	advmod	_	_
+9	a	a	ADP	IN	ExtPos=ADV	11	advmod	_	_
 10	menudo	menudo	NOUN	NN	Gender=Masc|Number=Sing	9	fixed	_	_
 11	tenían	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 12	como	como	ADP	IN	_	13	case	_	_
@@ -12073,7 +12073,7 @@
 6	que	que	ADP	IN	_	13	case	_	_
 7	estas	este	DET	DT	Gender=Fem|Number=Plur|PronType=Dem	8	det	_	_
 8	llanuras	llanura	NOUN	NN	Gender=Fem|Number=Plur	13	nsubj:pass	_	_
-9	a	a	ADP	IN	_	13	advmod	_	_
+9	a	a	ADP	IN	ExtPos=ADV	13	advmod	_	_
 10	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	9	fixed	_	_
 11	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	compound:prt	_	_
 12	consideran	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
@@ -12483,7 +12483,7 @@
 7	llama	llamar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	vulcanología	vulcanología	NOUN	NN	Gender=Fem|Number=Sing	7	xcomp	_	SpaceAfter=No
 9	,	,	PUNCT	,	PunctType=Comm	12	punct	_	_
-10	a	a	ADP	IN	_	12	advmod	_	_
+10	a	a	ADP	IN	ExtPos=ADV	12	advmod	_	_
 11	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	10	fixed	_	_
 12	escrito	escribir	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	8	acl	_	_
 13	volcanología	volcanología	NOUN	NN	Gender=Fem|Number=Sing	12	xcomp	_	SpaceAfter=No
@@ -12831,7 +12831,7 @@
 # sent_id = w01036044
 # text = A menudo Papúa Nueva Guinea se identifica como posiblemente el peor país del mundo en cuanto a violencia de género.
 # text_en = Papua New Guinea is often labelled as potentially the worst place in the world for gender violence.
-1	A	a	ADP	IN	_	7	advmod	_	_
+1	A	a	ADP	IN	ExtPos=ADV	7	advmod	_	_
 2	menudo	menudo	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	_
 3	Papúa	Papúa	PROPN	NNP	Number=Sing	7	nsubj:pass	_	_
 4	Nueva	nuevo	ADJ	JJ	Gender=Fem|Number=Sing	5	amod	_	Proper=True
@@ -15307,7 +15307,7 @@
 8	ambos	ambos	NOUN	NN	Gender=Masc|Number=Plur	9	nsubj	_	_
 9	mantuvieron	mantener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	ccomp	_	_
 10-11	al	_	_	_	_	_	_	_	_
-10	a	a	ADP	IN	_	13	advmod	_	_
+10	a	a	ADP	IN	ExtPos=ADV	13	advmod	_	_
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	fixed	_	_
 12	menos	menos	ADV	RBR	Degree=Cmp	10	fixed	_	_
 13	partes	parte	NOUN	NN	Gender=Fem|Number=Plur	9	obj	_	_
@@ -18185,7 +18185,7 @@
 2	películas	película	NOUN	NN	Gender=Fem|Number=Plur	7	nsubj	_	_
 3	de	de	ADP	IN	_	4	case	_	_
 4	Hitchcock	Hitchcock	PROPN	NNP	Gender=Masc|Number=Sing	2	nmod	_	_
-5	a	a	ADP	IN	_	7	advmod	_	_
+5	a	a	ADP	IN	ExtPos=ADV	7	advmod	_	_
 6	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	5	fixed	_	_
 7	presentan	presentar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	personajes	personaje	NOUN	NN	Gender=Masc|Number=Plur	7	obj	_	_
@@ -19627,7 +19627,7 @@
 # text = Al menos 330 000 personas, incluyendo a 10 000 técnicos estuvieron involucrados.
 # text_en = At least 330,000 people, including 10,000 technicians, were involved.
 1-2	Al	_	_	_	_	_	_	_	_
-1	A	a	ADP	IN	_	5	advmod	_	_
+1	A	a	ADP	IN	ExtPos=ADV	5	advmod	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	fixed	_	_
 3	menos	menos	ADV	RBR	Degree=Cmp	1	fixed	_	_
 4	330 000	330000	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	5	nummod	_	_
@@ -21842,7 +21842,7 @@
 1	Simon	Simon	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	Krätschmer	Krätschmer	PROPN	NNP	Gender=Masc|Number=Sing	1	flat:name	_	_
 3	avanza	avanzar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	a	a	ADP	IN	_	3	advmod	_	_
+4	a	a	ADP	IN	ExtPos=ADV	3	advmod	_	_
 5	tientas	tienta	NOUN	NN	Gender=Fem|Number=Plur	4	fixed	_	_
 6	en	en	ADP	IN	_	7	case	_	_
 7	solitario	solitario	NOUN	NN	Gender=Masc|Number=Sing	3	obl	_	_
@@ -23355,7 +23355,7 @@
 15	Anselmi	Anselmi	PROPN	NNP	Gender=Fem|Number=Sing	14	flat:name	_	_
 16	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	compound:prt	_	_
 17	ocupó	ocupar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-18	sobre	sobre	ADP	IN	_	17	advmod	_	_
+18	sobre	sobre	ADP	IN	ExtPos=ADV	17	advmod	_	_
 19	todo	todo	NOUN	NN	Gender=Masc|Number=Sing	18	fixed	_	_
 20	de	de	ADP	IN	_	22	case	_	_
 21	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
@@ -23537,7 +23537,7 @@
 14	IVA	iva	NOUN	NN	Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	,	PunctType=Comm	20	punct	_	_
 16-17	al	_	_	_	_	_	_	_	_
-16	a	a	ADP	IN	_	20	advmod	_	_
+16	a	a	ADP	IN	ExtPos=ADV	20	advmod	_	_
 17	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	fixed	_	_
 18	menos	menos	ADV	RBR	Degree=Cmp	16	fixed	_	_
 19	en	en	ADP	IN	_	20	case	_	_
@@ -25239,7 +25239,7 @@
 # text = Estaban sobre todo en colinas.
 # text_en = They were primarily on hills.
 1	Estaban	estar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-2	sobre	sobre	ADP	IN	_	5	advmod	_	_
+2	sobre	sobre	ADP	IN	ExtPos=ADV	5	advmod	_	_
 3	todo	todo	NOUN	NN	Gender=Masc|Number=Sing	2	fixed	_	_
 4	en	en	ADP	IN	_	5	case	_	_
 5	colinas	colina	NOUN	NN	Gender=Fem|Number=Plur	1	obl	_	SpaceAfter=No
@@ -25551,7 +25551,7 @@
 18	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
 19	dos	dos	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	20	nummod	_	_
 20	monarquías	monarquía	NOUN	NN	Gender=Fem|Number=Plur	16	obl	_	_
-21	por	por	ADP	IN	_	16	advmod	_	_
+21	por	por	ADP	IN	ExtPos=ADV	16	advmod	_	_
 22	igual	igual	NOUN	NN	Gender=Masc|Number=Sing	21	fixed	_	SpaceAfter=No
 23	.	.	PUNCT	.	PunctType=Peri	12	punct	_	_
 
