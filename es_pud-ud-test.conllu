@@ -569,7 +569,7 @@
 # sent_id = n01009027
 # text = Hoy en día Khanzir puede parecer un madero solitario, pero no está siempre solo.
 # text_en = Today, Khanzir may be a lonely pig, but he isn’t always alone.
-1	Hoy	hoy	ADV	RB	_	6	advmod	_	_
+1	Hoy	hoy	ADV	RB	ExtPos=ADV	6	advmod	_	_
 2	en	en	ADP	IN	_	1	fixed	_	_
 3	día	día	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	_
 4	Khanzir	Khanzir	PROPN	NNP	Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -1035,7 +1035,7 @@
 # sent_id = n01017008
 # text = Puede que BA e IAG lo hayan descubierto y puedan ofrecer algo relativamente fiable.
 # text_en = "But it may be that BA and IAG have cracked it and can offer something vaguely reliable."
-1	Puede	poder	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advmod	_	_
+1	Puede	poder	VERB	VBC	ExtPos=ADV|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advmod	_	_
 2	que	que	ADP	IN	_	1	fixed	_	_
 3	BA	BA	PROPN	NNP	Number=Sing	8	nsubj	_	_
 4	e	e	CCONJ	CC	_	5	cc	_	_
@@ -3384,7 +3384,7 @@
 # sent_id = n01046003
 # text = Hoy en día nuestros teléfonos móviles son mucho más que teléfonos.
 # text_en = Our cellphones are so much more than phones these days.
-1	Hoy	hoy	ADV	RB	_	7	advmod	_	_
+1	Hoy	hoy	ADV	RB	ExtPos=ADV	7	advmod	_	_
 2	en	en	ADP	IN	_	1	fixed	_	_
 3	día	día	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	_
 4	nuestros	nuestro	DET	DTP$	Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
@@ -5462,7 +5462,7 @@
 # sent_id = n01078025
 # text = Claro que entiendo que la Alemania actual debe separarse del régimen Nazi.
 # text_en = Of course, I do understand that modern-day Germany must be separated from the Nazi regime.
-1	Claro	claro	ADV	RB	_	3	advmod	_	_
+1	Claro	claro	ADV	RB	ExtPos=ADV	3	advmod	_	_
 2	que	que	ADP	IN	_	1	fixed	_	_
 3	entiendo	entender	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	IN	_	9	mark	_	_
@@ -10917,7 +10917,7 @@
 15	en	en	ADP	IN	_	22	case	_	_
 16	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	17	det	_	_
 17	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	22	nsubj:pass	_	_
-18	hoy	hoy	ADV	RB	_	22	advmod	_	_
+18	hoy	hoy	ADV	RB	ExtPos=ADV	22	advmod	_	_
 19	en	en	ADP	IN	_	18	fixed	_	_
 20	día	día	NOUN	NN	Gender=Masc|Number=Sing	18	fixed	_	_
 21	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	22	expl:pass	_	_
@@ -14954,7 +14954,7 @@
 10	,	,	PUNCT	,	PunctType=Comm	16	punct	_	_
 11	pero	pero	CCONJ	CC	_	16	cc	_	_
 12	ellos	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	_
-13	puede	poder	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advmod	_	_
+13	puede	poder	VERB	VBC	ExtPos=ADV|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advmod	_	_
 14	que	que	ADP	IN	_	13	fixed	_	_
 15	hayan	haber	AUX	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	aux	_	_
 16	constituido	constituir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	conj	_	_
@@ -15521,7 +15521,7 @@
 8	Bronce	bronce	NOUN	NN	Gender=Masc|Number=Sing	6	nmod	_	Proper=True
 9	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux:pass	_	_
 10	construido	construir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-11	alrededor	alrededor	ADV	RB	_	13	advmod	_	_
+11	alrededor	alrededor	ADV	RB	ExtPos=ADV	13	advmod	_	_
 12	de	de	ADP	IN	_	11	fixed	_	_
 13	1900	1900	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	10	obl:tmod	_	_
 14	a.	antes	ADV	RB	Abbr=Yes	13	advmod	_	_
@@ -15536,7 +15536,7 @@
 23	vivía	vivir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	21	acl:relcl	_	_
 24	cerca	cerca	ADV	RB	_	23	advmod	_	_
 25	hasta	hasta	ADP	IN	_	29	case	_	_
-26	alrededor	alrededor	ADV	RB	_	29	advmod	_	_
+26	alrededor	alrededor	ADV	RB	ExtPos=ADV	29	advmod	_	_
 27-28	del	_	_	_	_	_	_	_	_
 27	de	de	ADP	INDT	_	26	fixed	_	_
 28	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
@@ -15962,7 +15962,7 @@
 11	,	,	PUNCT	,	PunctType=Comm	13	punct	_	_
 12	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	renta	renta	NOUN	NN	Gender=Fem|Number=Sing	3	conj	_	_
-14	per	per	X	FW	_	13	advmod	_	_
+14	per	per	X	FW	ExtPos=ADV	13	advmod	_	_
 15	cápita	cápita	X	FW	_	14	fixed	_	_
 16	y	y	CCONJ	CC	_	18	cc	_	_
 17	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
@@ -16145,7 +16145,7 @@
 # text_en = Low per capita income has been proposed as a cause for grievance, prompting armed rebellion.
 1	Una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	renta	renta	NOUN	NN	Gender=Fem|Number=Sing	8	nsubj:pass	_	_
-3	per	per	X	FW	_	2	advmod	_	_
+3	per	per	X	FW	ExtPos=ADV	2	advmod	_	_
 4	cápita	cápita	X	FW	_	3	fixed	_	_
 5	baja	bajo	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	_
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pass	_	_
@@ -16805,7 +16805,7 @@
 8	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	_
 9	descendido	descender	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 10	a	a	ADP	IN	_	14	case	_	_
-11	alrededor	alrededor	ADV	RB	_	14	advmod	_	_
+11	alrededor	alrededor	ADV	RB	ExtPos=ADV	14	advmod	_	_
 12	de	de	ADP	IN	_	11	fixed	_	_
 13	168 000	168000	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	14	nummod	_	_
 14	personas	persona	NOUN	NN	Gender=Fem|Number=Plur	9	obl	_	SpaceAfter=No
@@ -16917,7 +16917,7 @@
 3	época	época	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
 4	solo	solo	ADV	RB	_	5	advmod	_	_
 5	había	haber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-6	alrededor	alrededor	ADV	RB	_	9	advmod	_	_
+6	alrededor	alrededor	ADV	RB	ExtPos=ADV	9	advmod	_	_
 7	de	de	ADP	IN	_	6	fixed	_	_
 8	cuarenta	cuarenta	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	9	nummod	_	_
 9	familias	familia	NOUN	NN	Gender=Fem|Number=Plur	5	obj	_	_
@@ -21519,7 +21519,7 @@
 9	raramente	raramente	ADV	RB	_	18	advmod	_	SpaceAfter=No
 10	,	,	PUNCT	,	PunctType=Comm	9	punct	_	_
 11	si	si	SCONJ	IN	_	15	mark	_	_
-12	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advmod	_	_
+12	es	ser	VERB	VBC	ExtPos=ADV|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advmod	_	_
 13	que	que	ADP	IN	_	12	fixed	_	_
 14	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	obj	_	_
 15	hacen	hacer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	SpaceAfter=No
@@ -23177,7 +23177,7 @@
 8	primera	primero	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	_
 9	hora	hora	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
 10	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
-11	mas	mas	ADV	RBR	_	14	advmod	_	_
+11	mas	mas	ADV	RBR	ExtPos=ADV	14	advmod	_	_
 12	o	o	CCONJ	CC	_	11	fixed	_	_
 13	menos	menos	ADV	RBR	Degree=Cmp	11	fixed	_	_
 14	igual	igual	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
@@ -23898,7 +23898,7 @@
 # sent_id = n04010016
 # text = Más y más compañías de tecnología están al mando más que nunca en Wall Street, incluso más que en Silicon Valley.
 # text_en = More and more tech companies are calling the shots more than ever before on Wall Street, even more than in Silicon Valley.
-1	Más	más	ADV	RBR	Degree=Cmp	4	advmod	_	_
+1	Más	más	ADV	RBR	Degree=Cmp|ExtPos=ADV	4	advmod	_	_
 2	y	y	CCONJ	CC	_	1	fixed	_	_
 3	más	más	ADV	RBR	Degree=Cmp	1	fixed	_	_
 4	compañías	compañía	NOUN	NN	Gender=Fem|Number=Plur	7	nsubj	_	_
@@ -24427,7 +24427,7 @@
 # sent_id = n05007014
 # text = Tal vez por eso un galope de espuma le aniebla las pupilas mientras la sílaba del tiempo descubre su cosecha y entrega su misterio al agua agavillada.
 # text_en = Perhaps that's why a surge of tears clouds his pupils while the syllable of time unearths his crop and surrenders his mystery to the bound waters.
-1	Tal	tal	ADJ	JJ	Gender=Fem|Number=Sing	4	advmod	_	_
+1	Tal	tal	ADJ	JJ	ExtPos=ADV|Gender=Fem|Number=Sing	4	advmod	_	_
 2	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	1	fixed	_	_
 3	por	por	ADP	IN	_	4	case	_	_
 4	eso	eso	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	10	obl	_	_
@@ -26218,7 +26218,7 @@
 # text = Desde alrededor del siglo 8 a. C., los estados de las ciudades empezaron a aparecer: pequeños territorios con gobiernos autónomos y sus propios sistemas políticos.
 # text_en = From about the 8th century BC city states began to appear: small, self-governing territories with their own political systems.
 1	Desde	desde	ADP	IN	_	5	case	_	_
-2	alrededor	alrededor	ADV	RB	_	5	advmod	_	_
+2	alrededor	alrededor	ADV	RB	ExtPos=ADV	5	advmod	_	_
 3-4	del	_	_	_	_	_	_	_	_
 3	de	de	ADP	INDT	_	2	fixed	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
