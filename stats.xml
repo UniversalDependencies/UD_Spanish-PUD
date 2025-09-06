@@ -48,7 +48,7 @@
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">145</feat><!-- más, mayor, menos, mejores, mejor, mayores, peor, Stranger, menor, menores -->
     <feat name="Degree" value="Pos" upos="ADJ">2</feat><!-- American, Talking -->
     <feat name="Degree" value="Sup" upos="ADJ">5</feat><!-- máxima, pésimo -->
-    <feat name="ExtPos" value="ADP" upos="ADP">57</feat><!-- a, en, por, De, con, para -->
+    <feat name="ExtPos" value="ADP" upos="ADP,ADV,NOUN,VERB">77</feat><!-- a, en, debido, acerca, por, junto, De, con, frente, para -->
     <feat name="ExtPos" value="ADV" upos="ADP">26</feat><!-- a, en, por, sobre, de -->
     <feat name="ExtPos" value="CCONJ" upos="ADP,ADV,CCONJ">9</feat><!-- así, a, o -->
     <feat name="ExtPos" value="SCONJ" upos="ADV,DET,SCONJ,VERB">34</feat><!-- ya, a, mientras, hasta, como, dado, de, debido, para, una -->
