@@ -3913,7 +3913,7 @@
 # sent_id = n01054011
 # text = En cuanto se publicaron las fotos oficiales de la fiesta, las redes sociales se llenaron de comentarios y estos fueron negativos.
 # text_en = As soon as the official party photos were released, social media lit up with comments — and they were less than favourable.
-1	En	en	SCONJ	IN	_	4	mark	_	_
+1	En	en	SCONJ	IN	ExtPos=SCONJ	4	mark	_	_
 2	cuanto	cuanto	ADV	WRB	_	1	fixed	_	_
 3	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl:pass	_	_
 4	publicaron	publicar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	advcl	_	_
@@ -4387,7 +4387,7 @@
 # text_en = But, as the criticism of Clinton as First Lady became more caustic, Karel became more empathetic.
 1	Pero	pero	CCONJ	CC	_	16	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
-3	a	a	SCONJ	IN	_	6	mark	_	_
+3	a	a	SCONJ	IN	ExtPos=SCONJ	6	mark	_	_
 4	medida	medida	NOUN	NN	Gender=Fem|Number=Sing	3	fixed	_	_
 5	que	que	ADP	IN	_	3	fixed	_	_
 6	aumentaron	aumentar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	advcl	_	_
@@ -4439,7 +4439,7 @@
 # sent_id = n01061041
 # text = A medida que aumenta la histeria por las elección presidencial de 2016, a Karel le preocupa cada vez más algo más amenazador que las tonterías.
 # text_en = As the hysteria of the 2016 Presidential election intensifies, a more troubling threat than bullshit preoccupies Karel.
-1	A	a	SCONJ	IN	_	4	mark	_	_
+1	A	a	SCONJ	IN	ExtPos=SCONJ	4	mark	_	_
 2	medida	medida	NOUN	NN	Gender=Fem|Number=Sing	1	fixed	_	_
 3	que	que	ADP	IN	_	1	fixed	_	_
 4	aumenta	aumentar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	_
@@ -5300,7 +5300,7 @@
 # text = Era como si estuviese pasando el balón hacia delante y hacia atrás por debajo de tres copas volteadas.
 # text_en = It was as though he was flicking the ball back and forth underneath three upturned cups.
 1	Era	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-2	como	como	SCONJ	IN	_	5	mark	_	_
+2	como	como	SCONJ	IN	ExtPos=SCONJ	5	mark	_	_
 3	si	si	ADP	IN	_	2	fixed	_	_
 4	estuviese	estar	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	aux	_	_
 5	pasando	pasar	VERB	VBG	VerbForm=Ger	1	advcl	_	_
@@ -6232,7 +6232,7 @@
 14	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	15	nsubj	_	_
 15	encajen	encajar	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	SpaceAfter=No
 16	,	,	PUNCT	,	PunctType=Comm	19	punct	_	_
-17	ya	ya	ADV	RB	_	19	mark	_	_
+17	ya	ya	ADV	RB	ExtPos=SCONJ	19	mark	_	_
 18	que	que	ADP	IN	_	17	fixed	_	_
 19	resulta	resultar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
 20	muy	muy	ADV	RB	_	19	advmod	_	_
@@ -7436,7 +7436,7 @@
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	compound:prt	_	_
 7	expandieron	expandir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	,	PunctType=Comm	13	punct	_	_
-9	ya	ya	ADV	RB	_	13	mark	_	_
+9	ya	ya	ADV	RB	ExtPos=SCONJ	13	mark	_	_
 10	que	que	ADP	IN	_	9	fixed	_	_
 11	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
 12	consumidores	consumidor	NOUN	NN	Gender=Masc|Number=Plur	13	nsubj	_	_
@@ -7471,7 +7471,7 @@
 9	de	de	ADP	IN	_	10	case	_	_
 10	gasto	gasto	NOUN	NN	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	,	PunctType=Comm	17	punct	_	_
-12	ya	ya	ADV	RB	_	17	mark	_	_
+12	ya	ya	ADV	RB	ExtPos=SCONJ	17	mark	_	_
 13	que	que	ADP	IN	_	12	fixed	_	_
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	gobierno	gobierno	NOUN	NN	Gender=Masc|Number=Sing	17	nsubj	_	_
@@ -7794,7 +7794,7 @@
 17	que	que	ADP	IN	_	18	case	_	_
 18	pescado	pescado	NOUN	NN	Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
 19	,	,	PUNCT	,	PunctType=Comm	26	punct	_	_
-20	a	a	SCONJ	IN	_	26	mark	_	_
+20	a	a	SCONJ	IN	ExtPos=SCONJ	26	mark	_	_
 21	no	no	ADV	RB	_	20	fixed	_	_
 22	ser	ser	VERB	VB	VerbForm=Inf	20	fixed	_	_
 23	que	que	ADP	IN	_	20	fixed	_	_
@@ -7898,7 +7898,7 @@
 13	mal	mal	ADJ	JJ	Gender=Masc|Number=Sing	14	amod	_	_
 14	tiempo	tiempo	NOUN	NN	Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	,	PunctType=Comm	22	punct	_	_
-16	mientras	mientras	SCONJ	IN	_	22	mark	_	_
+16	mientras	mientras	SCONJ	IN	ExtPos=SCONJ	22	mark	_	_
 17	que	que	ADP	IN	_	16	fixed	_	_
 18	nueve	nueve	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	22	nsubj	_	_
 19	de	de	ADP	IN	_	21	case	_	_
@@ -8006,7 +8006,7 @@
 17	con	con	ADP	IN	_	19	case	_	_
 18	suficiente	suficiente	ADJ	JJ	Gender=Fem|Number=Sing	19	amod	_	_
 19	fuerza	fuerza	NOUN	NN	Gender=Fem|Number=Sing	16	obl	_	_
-20	como	como	SCONJ	IN	_	22	mark	_	_
+20	como	como	SCONJ	IN	ExtPos=SCONJ	22	mark	_	_
 21	para	para	ADP	IN	_	20	fixed	_	_
 22	crear	crear	VERB	VB	VerbForm=Inf	18	xcomp	_	_
 23	ondas	onda	NOUN	NN	Gender=Fem|Number=Plur	22	obj	_	_
@@ -8380,7 +8380,7 @@
 13	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	conj	_	_
 14	está	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	SpaceAfter=No
 15	,	,	PUNCT	,	PunctType=Comm	20	punct	_	_
-16	de	de	SCONJ	IN	_	20	mark	_	_
+16	de	de	SCONJ	IN	ExtPos=SCONJ	20	mark	_	_
 17	modo	modo	NOUN	NN	Gender=Masc|Number=Sing	16	fixed	_	_
 18	que	que	ADP	IN	_	16	fixed	_	_
 19	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	20	obj	_	_
@@ -8443,7 +8443,7 @@
 2	no	no	ADV	RB	Polarity=Neg	3	advmod	_	_
 3	importe	importar	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	,	PunctType=Comm	9	punct	_	_
-5	ya	ya	ADV	RB	_	9	mark	_	_
+5	ya	ya	ADV	RB	ExtPos=SCONJ	9	mark	_	_
 6	que	que	ADP	IN	_	5	fixed	_	_
 7	no	no	ADV	RB	Polarity=Neg	9	advmod	_	_
 8	estaré	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	9	aux	_	_
@@ -9360,7 +9360,7 @@
 6	mejores	mejor	ADJ	JJR	Degree=Cmp|Gender=Masc|Number=Plur	7	amod	_	_
 7	amigos	amigo	NOUN	NN	Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	,	PunctType=Comm	19	punct	_	_
-9	así	así	ADV	RB	_	19	mark	_	_
+9	así	así	ADV	RB	ExtPos=SCONJ	19	mark	_	_
 10	que	que	ADP	IN	_	9	fixed	_	_
 11-12	verlo	_	_	_	_	_	_	_	_
 11	ver	ver	VERB	VB	VerbForm=Inf	19	csubj	_	_
@@ -10037,7 +10037,7 @@
 3	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 4	gran	gran	ADJ	JJ	Gender=Masc|Number=Sing	5	amod	_	_
 5	momento	momento	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
-6	para	para	SCONJ	IN	_	8	mark	_	_
+6	para	para	SCONJ	IN	ExtPos=SCONJ	8	mark	_	_
 7	que	que	ADP	IN	_	6	fixed	_	_
 8	vaya	ir	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
 9	cualquiera	cualquiera	NOUN	NN	Gender=Masc|Number=Sing	8	nsubj	_	_
@@ -10800,7 +10800,7 @@
 # sent_id = w01009017
 # text = Mientras que la identificación de masas de aire se usó originalmente para la previsión meterológica durante los años cincuenta, los climatólogos empezaron a establecer climatologías sinópticas basadas en esta idea en 1973.
 # text_en = While air mass identification was originally used in weather forecasting during the 1950s, climatologists began to establish synoptic climatologies based on this idea in 1973.
-1	Mientras	mientras	SCONJ	IN	_	10	mark	_	_
+1	Mientras	mientras	SCONJ	IN	ExtPos=SCONJ	10	mark	_	_
 2	que	que	ADP	IN	_	1	fixed	_	_
 3	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	identificación	identificación	NOUN	NN	Gender=Fem|Number=Sing	10	nsubj:pass	_	_
@@ -12931,7 +12931,7 @@
 3	eran	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
 4	muy	muy	ADV	RB	_	5	advmod	_	_
 5	populares	popular	ADJ	JJ	Gender=Fem|Number=Plur	0	root	_	_
-6	debido	deber	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	mark	_	_
+6	debido	deber	VERB	VBN	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	mark	_	_
 7	a	a	ADP	IN	_	6	fixed	_	_
 8	que	que	ADP	IN	_	6	fixed	_	_
 9	solían	soler	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
@@ -13071,7 +13071,7 @@
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	río	río	NOUN	NN	Gender=Masc|Number=Sing	6	nmod	_	_
 10	empeoraba	empeorar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-11	hasta	hasta	SCONJ	IN	_	18	mark	_	_
+11	hasta	hasta	SCONJ	IN	ExtPos=SCONJ	18	mark	_	_
 12	que	que	ADP	IN	_	11	fixed	_	_
 13	en	en	ADP	IN	_	16	case	_	_
 14	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
@@ -14286,7 +14286,7 @@
 # sent_id = w01053031
 # text = Dado que Herodes estaba en ese tiempo en Jerusalén, Pilatos decidió enviar a Jesús con Herodes para tratarlo.
 # text_en = Given that Herod was in Jerusalem at that time, Pilate decided to send Jesus to Herod to be tried.
-1	Dado	dar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	mark	_	_
+1	Dado	dar	VERB	VBN	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	mark	_	_
 2	que	que	ADP	IN	_	1	fixed	_	_
 3	Herodes	Herodes	PROPN	NNP	Gender=Masc|Number=Sing	4	nsubj	_	_
 4	estaba	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	advcl	_	_
@@ -14382,7 +14382,7 @@
 15	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	16	nummod	_	_
 16	mil	mil	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	17	nummod	_	_
 17	años	año	NOUN	NN	Gender=Masc|Number=Plur	14	obl:tmod	_	_
-18	siempre	siempre	ADV	RB	_	22	mark	_	_
+18	siempre	siempre	ADV	RB	ExtPos=SCONJ	22	mark	_	_
 19	y	y	CCONJ	CC	_	18	fixed	_	_
 20	cuando	cuando	ADV	WRB	PronType=Rel	18	fixed	_	_
 21	no	no	ADV	RB	Polarity=Neg	22	advmod	_	_
@@ -14667,7 +14667,7 @@
 5	en	en	ADP	IN	_	7	case	_	_
 6	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	corte	corte	NOUN	NN	Gender=Fem|Number=Sing	2	obl	_	_
-8	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	mark	_	_
+8	una	uno	DET	DT	Definite=Ind|ExtPos=SCONJ|Gender=Fem|Number=Sing|PronType=Art	12	mark	_	_
 9	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	8	fixed	_	_
 10	que	que	ADP	IN	_	8	fixed	_	_
 11	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	_	_
@@ -15218,7 +15218,7 @@
 18	a	a	ADP	IN	_	16	fixed	_	_
 19	ambas	ambos	NOUN	NN	Gender=Fem|Number=Plur	15	obl	_	SpaceAfter=No
 20	,	,	PUNCT	,	PunctType=Comm	25	punct	_	_
-21	ya	ya	ADV	RB	_	25	mark	_	_
+21	ya	ya	ADV	RB	ExtPos=SCONJ	25	mark	_	_
 22	que	que	ADP	IN	_	21	fixed	_	_
 23	estas	este	DET	DT	Gender=Fem|Number=Plur|PronType=Dem	25	nsubj:pass	_	_
 24	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	25	expl:pass	_	_
@@ -15467,7 +15467,7 @@
 23	suspender	suspender	VERB	VB	VerbForm=Inf	13	xcomp	_	_
 24	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	persecución	persecución	NOUN	NN	Gender=Fem|Number=Sing	23	obj	_	_
-26	hasta	hasta	SCONJ	IN	_	29	mark	_	_
+26	hasta	hasta	SCONJ	IN	ExtPos=SCONJ	29	mark	_	_
 27	que	que	ADP	IN	_	26	fixed	_	_
 28	hubiera	ser	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	29	aux	_	_
 29	regresado	regresar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	23	advcl	_	_
@@ -16020,7 +16020,7 @@
 30	3	3	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	31	nummod	_	SpaceAfter=No
 31	%	%	SYM	SYM	_	20	obl	_	SpaceAfter=No
 32	,	,	PUNCT	,	PunctType=Comm	50	punct	_	_
-33	mientras	mientras	SCONJ	IN	_	50	mark	_	_
+33	mientras	mientras	SCONJ	IN	ExtPos=SCONJ	50	mark	_	_
 34	que	que	ADP	IN	_	33	fixed	_	_
 35	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
 36	tasa	tasa	NOUN	NN	Gender=Fem|Number=Sing	50	nsubj	_	_
@@ -16635,7 +16635,7 @@
 17	profundo	profundo	ADJ	JJ	Gender=Masc|Number=Sing	18	amod	_	_
 18	crecimiento	crecimiento	NOUN	NN	Gender=Masc|Number=Sing	15	nmod	_	_
 19	económico	económico	ADJ	JJ	Gender=Masc|Number=Sing	18	amod	_	_
-20	dado	dar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	23	mark	_	_
+20	dado	dar	VERB	VBN	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	23	mark	_	_
 21	que	que	ADP	IN	_	20	fixed	_	_
 22	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	23	expl:pass	_	_
 23	establecieron	establecer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	12	advcl	_	_
@@ -16830,7 +16830,7 @@
 13	e	e	CCONJ	CC	_	14	cc	_	_
 14	historia	historia	NOUN	NN	Gender=Fem|Number=Sing	11	conj	_	SpaceAfter=No
 15	,	,	PUNCT	,	PunctType=Comm	19	punct	_	_
-16	ya	ya	ADV	RB	_	19	mark	_	_
+16	ya	ya	ADV	RB	ExtPos=SCONJ	19	mark	_	_
 17	que	que	ADP	IN	_	16	fixed	_	_
 18	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	expl:pass	_	_
 19	pensaba	pensar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	advcl	_	_
@@ -16938,7 +16938,7 @@
 # sent_id = w01089068
 # text = A medida que Grecia instauraba colonias al oeste hacia Sicilia e Italia (Pithekoussai, Cumas), la influencia de su nuevo alfabeto se extendió más.
 # text_en = As Greece sent out colonies west towards Sicily and Italy (Pithekoussae, Cumae), the influence of their new alphabet extended further.
-1	A	a	SCONJ	IN	_	5	mark	_	_
+1	A	a	SCONJ	IN	ExtPos=SCONJ	5	mark	_	_
 2	medida	medida	NOUN	NN	Gender=Fem|Number=Sing	1	fixed	_	_
 3	que	que	ADP	IN	_	1	fixed	_	_
 4	Grecia	Grecia	PROPN	NNP	Number=Sing	5	nsubj	_	_
@@ -19731,7 +19731,7 @@
 15	"	"	PUNCT	``	PunctType=Quot	16	punct	_	SpaceAfter=No
 16	pacífico	pacífico	ADJ	JJ	Gender=Masc|Number=Sing	14	amod	_	SpaceAfter=No
 17	"	"	PUNCT	''	PunctType=Quot	16	punct	_	_
-18	ya	ya	ADV	RB	_	20	mark	_	_
+18	ya	ya	ADV	RB	ExtPos=SCONJ	20	mark	_	_
 19	que	que	ADP	IN	_	18	fixed	_	_
 20	carecían	carecer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	14	advcl	_	_
 21	de	de	ADP	IN	_	22	case	_	_
@@ -20373,7 +20373,7 @@
 # sent_id = w01140031
 # text = Una vez que Hans Petterson pudo asegurar los fondos para pagar los gastos de Rona, Joliot-Curie le permitió venir y estudiar la separación del polonio en el Instituto Curie en Paris.
 # text_en = Once Hans Pettersson was able to secure funds to pay Rona's expenses, Joliot-Curie allowed her to come and study polonium separation at the Curie Institute in Paris.
-1	Una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	mark	_	_
+1	Una	uno	DET	DT	Definite=Ind|ExtPos=SCONJ|Gender=Fem|Number=Sing|PronType=Art	7	mark	_	_
 2	vez	vez	NOUN	NN	Gender=Fem|Number=Sing	1	fixed	_	_
 3	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	1	fixed	_	_
 4	Hans	Hans	PROPN	NNP	Gender=Masc|Number=Sing	7	nsubj	_	_
@@ -20832,7 +20832,7 @@
 7	salvado	salvar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	vida	vida	NOUN	NN	Gender=Fem|Number=Sing	7	obj	_	_
-10	para	para	SCONJ	IN	_	13	mark	_	_
+10	para	para	SCONJ	IN	ExtPos=SCONJ	13	mark	_	_
 11	que	que	ADP	IN	_	10	fixed	_	_
 12	quizás	quizás	ADV	RB	_	13	advmod	_	_
 13	cumpliera	cumplir	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	_
@@ -21442,7 +21442,7 @@
 # sent_id = n02016006
 # text = Debido a que la serie 1 ya no es la antigua, muchos usuarios pueden ahorrar 100 euros.
 # text_en = Because series 1 is no longer the old one, many users can save 100 euros.
-1	Debido	deber	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	mark	_	_
+1	Debido	deber	VERB	VBN	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	mark	_	_
 2	a	a	ADP	IN	_	1	fixed	_	_
 3	que	que	ADP	IN	_	1	fixed	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -22204,7 +22204,7 @@
 33	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
 34	océano	océano	NOUN	NN	Gender=Masc|Number=Sing	31	nmod	_	SpaceAfter=No
 35	,	,	PUNCT	,	PunctType=Comm	40	punct	_	_
-36	de	de	SCONJ	IN	_	40	mark	_	_
+36	de	de	SCONJ	IN	ExtPos=SCONJ	40	mark	_	_
 37	modo	modo	NOUN	NN	Gender=Masc|Number=Sing	36	fixed	_	_
 38	que	que	ADP	IN	_	36	fixed	_	_
 39	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	40	compound:prt	_	_
@@ -23151,7 +23151,7 @@
 16	reales	real	ADJ	JJ	Gender=Fem|Number=Plur	15	amod	_	_
 17	trabajadas	trabajar	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	15	acl	_	SpaceAfter=No
 18	,	,	PUNCT	,	PunctType=Comm	22	punct	_	_
-19	sin	sin	SCONJ	IN	_	22	mark	_	_
+19	sin	sin	SCONJ	IN	ExtPos=SCONJ	22	mark	_	_
 20	que	que	ADP	IN	_	19	fixed	_	_
 21	sea	ser	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
 22	capaz	capaz	ADJ	JJ	Gender=Masc|Number=Sing	4	advcl	_	_
@@ -24002,7 +24002,7 @@
 15	más	más	ADV	RBR	Degree=Cmp	16	advmod	_	_
 16	conservadores	conservador	NOUN	NN	Gender=Masc|Number=Plur	12	obl	_	SpaceAfter=No
 17	,	,	PUNCT	,	PunctType=Comm	33	punct	_	_
-18	mientras	mientras	SCONJ	IN	_	33	mark	_	_
+18	mientras	mientras	SCONJ	IN	ExtPos=SCONJ	33	mark	_	_
 19	que	que	ADP	IN	_	18	fixed	_	_
 20	otros	otro	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	21	det	_	_
 21	líderes	líder	NOUN	NN	Gender=Masc|Number=Plur	33	nsubj	_	_
@@ -26286,7 +26286,7 @@
 6	no	no	ADV	RB	Polarity=Neg	8	advmod	_	_
 7	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	compound:prt	_	_
 8	expandieron	expandir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-9	hasta	hasta	SCONJ	IN	_	15	mark	_	_
+9	hasta	hasta	SCONJ	IN	ExtPos=SCONJ	15	mark	_	_
 10	que	que	ADP	IN	_	9	fixed	_	_
 11	barcos	barco	NOUN	NN	Gender=Masc|Number=Plur	15	nsubj:pass	_	_
 12	suficientemente	suficientemente	ADV	RB	_	13	advmod	_	_
