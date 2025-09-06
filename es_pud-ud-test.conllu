@@ -9076,7 +9076,7 @@
 8	y	y	CCONJ	CC	_	14	cc	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 10	mayor	mayor	ADJ	JJR	Degree=Cmp|Gender=Masc|Number=Sing	11	amod	_	_
-11	impacto	impacto	NOUN	NN	Gender=Masc|Number=Sing	14	obj	_	_
+11	impacto	impacto	NOUN	NN	Gender=Masc|Number=Sing	14	dislocated	_	_
 12	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	14	obj	_	_
 13	están	estar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
 14	sintiendo	sentir	VERB	VBG	VerbForm=Ger	4	conj	_	_
@@ -17040,7 +17040,7 @@
 3	James	James	PROPN	NNP	Gender=Masc|Number=Sing	2	appos	_	_
 4	Watt	Watt	PROPN	NNP	Gender=Masc|Number=Sing	3	flat:name	_	_
 5	trajo	traer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-6	consigo	él	PRON	PRP	Case=Com|Person=3|PronType=Prs|Reflex=Yes	5	obj	_	_
+6	consigo	él	PRON	PRP	Case=Com|Person=3|PronType=Prs|Reflex=Yes	5	obl	_	_
 7	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	cambio	cambio	NOUN	NN	Gender=Masc|Number=Sing	5	obj	_	_
 9	fundamental	fundamental	ADJ	JJ	Gender=Masc|Number=Sing	8	amod	_	_
