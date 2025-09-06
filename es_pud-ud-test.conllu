@@ -6247,7 +6247,7 @@
 
 # newdoc id = n01091
 # sent_id = n01091013
-# text = En el mejor de los casos peca de inocencia, y en el el peor permitiría que los grupos de presión a favor de las armas vuelvan a evitar sus responsabilidades.
+# text = En el mejor de los casos peca de inocencia, y en el peor permitiría que los grupos de presión a favor de las armas vuelvan a evitar sus responsabilidades.
 # text_en = At best it is naive and at worst it would yet again let the shooting lobby off the hook.
 1	En	en	ADP	IN	_	3	case	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
@@ -6258,29 +6258,28 @@
 7	peca	pecar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	inocencia	inocencia	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
-10	,	,	PUNCT	,	PunctType=Comm	16	punct	_	_
-11	y	y	CCONJ	CC	_	16	cc	_	_
-12	en	en	ADP	IN	_	15	case	_	_
-13	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	dep	_	_
-15	peor	peor	NOUN	NN	Gender=Masc|Number=Sing	16	obl	_	_
-16	permitiría	permitir	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	conj	_	_
-17	que	que	SCONJ	IN	_	27	mark	_	_
-18	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
-19	grupos	grupo	NOUN	NN	Gender=Masc|Number=Plur	27	nsubj	_	_
-20	de	de	ADP	IN	_	21	case	_	_
-21	presión	presión	NOUN	NN	Gender=Fem|Number=Sing	19	nmod	_	_
-22	a	a	ADP	IN	ExtPos=ADP	26	case	_	_
-23	favor	favor	NOUN	NN	Gender=Masc|Number=Sing	22	fixed	_	_
-24	de	de	ADP	IN	_	22	fixed	_	_
-25	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	_	_
-26	armas	arma	NOUN	NN	Gender=Fem|Number=Plur	19	nmod	_	_
-27	vuelvan	volver	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	ccomp	_	_
-28	a	a	ADP	IN	_	27	fixed	_	_
-29	evitar	evitar	VERB	VB	VerbForm=Inf	27	xcomp	_	_
-30	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	31	det	_	_
-31	responsabilidades	responsabilidad	NOUN	NN	Gender=Fem|Number=Plur	27	obj	_	SpaceAfter=No
-32	.	.	PUNCT	.	PunctType=Peri	7	punct	_	_
+10	,	,	PUNCT	,	PunctType=Comm	15	punct	_	_
+11	y	y	CCONJ	CC	_	15	cc	_	_
+12	en	en	ADP	IN	_	14	case	_	_
+13	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	peor	peor	NOUN	NN	Gender=Masc|Number=Sing	15	obl	_	_
+15	permitiría	permitir	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	conj	_	_
+16	que	que	SCONJ	IN	_	26	mark	_	_
+17	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	grupos	grupo	NOUN	NN	Gender=Masc|Number=Plur	26	nsubj	_	_
+19	de	de	ADP	IN	_	20	case	_	_
+20	presión	presión	NOUN	NN	Gender=Fem|Number=Sing	18	nmod	_	_
+21	a	a	ADP	IN	ExtPos=ADP	25	case	_	_
+22	favor	favor	NOUN	NN	Gender=Masc|Number=Sing	21	fixed	_	_
+23	de	de	ADP	IN	_	21	fixed	_	_
+24	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	25	det	_	_
+25	armas	arma	NOUN	NN	Gender=Fem|Number=Plur	18	nmod	_	_
+26	vuelvan	volver	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	ccomp	_	_
+27	a	a	ADP	IN	_	26	fixed	_	_
+28	evitar	evitar	VERB	VB	VerbForm=Inf	26	xcomp	_	_
+29	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	30	det	_	_
+30	responsabilidades	responsabilidad	NOUN	NN	Gender=Fem|Number=Plur	26	obj	_	SpaceAfter=No
+31	.	.	PUNCT	.	PunctType=Peri	7	punct	_	_
 
 # sent_id = n01091017
 # text = Jeff Knot, su responsable de políticas de protección de la naturaleza, afirmó: "me sorprendería que se introduzca una prohibición o una autorización en base a esto".
