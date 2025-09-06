@@ -15962,8 +15962,8 @@
 11	,	,	PUNCT	,	PunctType=Comm	13	punct	_	_
 12	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	renta	renta	NOUN	NN	Gender=Fem|Number=Sing	3	conj	_	_
-14	per	per	X	FW	ExtPos=ADV	13	advmod	_	_
-15	cápita	cápita	X	FW	_	14	fixed	_	_
+14	per	per	ADP	FW	ExtPos=ADV|Foreign=Yes	13	advmod	_	_
+15	cápita	cápita	NOUN	FW	Foreign=Yes	14	fixed	_	_
 16	y	y	CCONJ	CC	_	18	cc	_	_
 17	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	tasa	tasa	NOUN	NN	Gender=Fem|Number=Sing	3	conj	_	_
@@ -16145,8 +16145,8 @@
 # text_en = Low per capita income has been proposed as a cause for grievance, prompting armed rebellion.
 1	Una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	renta	renta	NOUN	NN	Gender=Fem|Number=Sing	8	nsubj:pass	_	_
-3	per	per	X	FW	ExtPos=ADV	2	advmod	_	_
-4	cápita	cápita	X	FW	_	3	fixed	_	_
+3	per	per	ADP	FW	ExtPos=ADV|Foreign=Yes	2	advmod	_	_
+4	cápita	cápita	NOUN	FW	Foreign=Yes	3	fixed	_	_
 5	baja	bajo	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	_
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pass	_	_
 7	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
