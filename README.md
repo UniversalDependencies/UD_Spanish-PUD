@@ -36,6 +36,8 @@ employ ten-fold cross-validation.
 
 # Changelog
 
+* 2025-11-15 v2.17
+  * Added the ExtPos feature to fixed expressions.
 * 2024-11-15 v2.15
   * Added PunctType and PunctSide to converge with AnCora.
   * Fixed UPOS and added Number[psor] to possessive determiners.
@@ -135,6 +137,7 @@ Ali Elkahky, Abhijit Barde, Tolga Kayadelen, ...
 Data available since: UD v2.1
 License: CC BY-SA 3.0
 Includes text: yes
+Parallel: pud
 Genre: news wiki
 Lemmas: manual native
 UPOS: converted from manual
