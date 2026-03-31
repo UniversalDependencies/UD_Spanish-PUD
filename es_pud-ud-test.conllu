@@ -4320,7 +4320,7 @@
 32	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	33	nsubj	_	_
 33	surgen	surgir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	31	acl:relcl	_	_
 34-35	al	_	_	_	_	_	_	_	_
-34	a	a	ADP	INDT	_	36	case	_	_
+34	a	a	ADP	INDT	_	36	mark	_	_
 35	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
 36-37	registrarse	_	_	_	_	_	_	_	SpaceAfter=No
 36	registrar	registrar	VERB	VB	VerbForm=Inf	33	xcomp	_	_
@@ -5425,7 +5425,7 @@
 1	Es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 2	rudo	rudo	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
 3-4	al	_	_	_	_	_	_	_	_
-3	a	a	ADP	INDT	_	5	case	_	_
+3	a	a	ADP	INDT	_	5	mark	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	jugar	jugar	VERB	VB	VerbForm=Inf	2	xcomp	_	_
 6	pero	pero	CCONJ	CC	_	8	cc	_	_
@@ -5988,7 +5988,7 @@
 20	5.000	5000	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	21	nummod	_	_
 21	libras	libra	NOUN	NN	Gender=Fem|Number=Plur	18	nmod	_	_
 22-23	al	_	_	_	_	_	_	_	_
-22	a	a	ADP	INDT	_	24	case	_	_
+22	a	a	ADP	INDT	_	24	mark	_	_
 23	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	añadir	añadir	VERB	VB	VerbForm=Inf	11	xcomp	_	_
 25	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
@@ -8332,7 +8332,7 @@
 1	Pero	pero	CCONJ	CC	_	17	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 3-4	al	_	_	_	_	_	_	_	_
-3	a	a	ADP	INDT	_	6	case	_	_
+3	a	a	ADP	INDT	_	6	mark	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 5	haber	haber	AUX	VB	VerbForm=Inf	6	aux	_	_
 6	permitido	permitir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	xcomp	_	_
@@ -9979,7 +9979,7 @@
 9	mejor	mejor	ADJ	JJR	Degree=Cmp|Gender=Masc|Number=Sing	10	amod	_	_
 10	tenis	tenis	NOUN	NN	Gender=Masc|Number=Sing	6	nmod	_	_
 11-12	al	_	_	_	_	_	_	_	_
-11	a	a	ADP	INDT	_	13	case	_	_
+11	a	a	ADP	INDT	_	13	mark	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	empatar	empatar	VERB	VB	VerbForm=Inf	4	xcomp	_	_
 14	en	en	ADP	IN	_	16	case	_	_
@@ -10331,7 +10331,7 @@
 # text = Al completar esta lína maglev, creo que el gobierno espera un mayor desarrollo económico en Japón.
 # text_en = By completing this maglev line, I think the government is expecting bigger economical development in Japan.
 1-2	Al	_	_	_	_	_	_	_	_
-1	A	a	ADP	INDT	_	3	case	_	_
+1	A	a	ADP	INDT	_	3	mark	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	completar	completar	VERB	VB	VerbForm=Inf	8	xcomp	_	_
 4	esta	este	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
@@ -13655,7 +13655,7 @@
 # text = Al soplar el constante viento, finas partículas del suelo quedan expuestas y comienzan a vibrar.
 # text_en = As a steady wind begins to blow, fine particles lying on the exposed ground begin to vibrate.
 1-2	Al	_	_	_	_	_	_	_	_
-1	A	a	ADP	INDT	_	3	case	_	_
+1	A	a	ADP	INDT	_	3	mark	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	soplar	soplar	VERB	VB	VerbForm=Inf	14	xcomp	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -15785,7 +15785,7 @@
 9	Asia	Asia	PROPN	NNP	Number=Sing	7	conj	_	SpaceAfter=No
 10	,	,	PUNCT	,	PunctType=Comm	13	punct	_	_
 11-12	al	_	_	_	_	_	_	_	_
-11	a	a	ADP	INDT	_	13	case	_	_
+11	a	a	ADP	INDT	_	13	mark	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	construir	construir	VERB	VB	VerbForm=Inf	3	xcomp	_	_
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
@@ -18611,7 +18611,7 @@
 # text = Al usar la antena dipolo para alcanzar una altísima resolución angular, la aproximación GCA (por sus siglas en inglés) les permite a los operadores terrestres de radares, que observan despliegues de precisión especial, guiar a un aeroplano en el aterrizaje, transmitiendo comandos verbales al piloto.
 # text_en = Using Alvarez's dipole antenna to achieve a very high angular resolution, GCA allows ground-based radar operators watching special precision displays to guide a landing airplane to the runway by transmitting verbal commands to the pilot.
 1-2	Al	_	_	_	_	_	_	_	_
-1	A	a	ADP	INDT	_	3	case	_	_
+1	A	a	ADP	INDT	_	3	mark	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	usar	usar	VERB	VB	VerbForm=Inf	25	xcomp	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -19001,7 +19001,7 @@
 # text = Al decidir dedicarse al drama, Winstone se matriculó en el Corona Stage Academy en Hammersmith.
 # text_en = Deciding to pursue drama, Winstone enrolled at the Corona Stage Academy in Hammersmith.
 1-2	Al	_	_	_	_	_	_	_	_
-1	A	a	ADP	INDT	_	3	case	_	_
+1	A	a	ADP	INDT	_	3	mark	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	decidir	decidir	VERB	VB	VerbForm=Inf	12	xcomp	_	_
 4-5	dedicarse	_	_	_	_	_	_	_	_
@@ -19221,7 +19221,7 @@
 24	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
 25	combustibles	combustible	NOUN	NN	Gender=Masc|Number=Plur	22	nmod	_	_
 26-27	al	_	_	_	_	_	_	_	_
-26	a	a	ADP	INDT	_	28	case	_	_
+26	a	a	ADP	INDT	_	28	mark	_	_
 27	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	retirar	retirar	VERB	VB	VerbForm=Inf	19	xcomp	_	_
 29	más	más	ADV	RBR	Degree=Cmp	30	advmod	_	_
@@ -21155,7 +21155,7 @@
 # text = Al ganar reconocimiento como una experta en el campo, volvió con esos conocimientos al Instituto Radium junto con un pequeño disco de polonio.
 # text_en = Gaining recognition as an expert in the field, she took those skills back to the Radium Institute along with a small disc of polonium.
 1-2	Al	_	_	_	_	_	_	_	_
-1	A	a	ADP	INDT	_	3	case	_	_
+1	A	a	ADP	INDT	_	3	mark	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	ganar	ganar	VERB	VB	VerbForm=Inf	12	xcomp	_	_
 4	reconocimiento	reconocimiento	NOUN	NN	Gender=Masc|Number=Sing	3	obj	_	_
@@ -24164,7 +24164,7 @@
 # text = Al haber tenido siempre un contacto directo con la Union Católica, Tina Anselmi se ocupó sobre todo de los derechos de los trabajadores textiles y los profesores.
 # text_en = Having always been close to the Catholic Union, Tina Anselmi attended particularly to the rights of textile workers and teachers.
 1-2	Al	_	_	_	_	_	_	_	_
-1	A	a	ADP	INDT	_	4	case	_	_
+1	A	a	ADP	INDT	_	4	mark	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 3	haber	haber	AUX	VB	VerbForm=Inf	4	aux	_	_
 4	tenido	tener	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	xcomp	_	_
@@ -25284,7 +25284,7 @@
 4	nos	yo	PRON	PRP	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	5	obj	_	_
 5	espera	esperar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
 6-7	al	_	_	_	_	_	_	_	_
-6	a	a	ADP	INDT	_	8	case	_	_
+6	a	a	ADP	INDT	_	8	mark	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8-9	esperarnos	_	_	_	_	_	_	_	SpaceAfter=No
 8	esperar	esperar	VERB	VB	VerbForm=Inf	5	xcomp	_	_
@@ -27247,7 +27247,7 @@
 3	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
 4	desarrollado	desarrollar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5-6	al	_	_	_	_	_	_	_	_
-5	a	a	ADP	INDT	_	7	case	_	_
+5	a	a	ADP	INDT	_	7	mark	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	establecer	establecer	VERB	VB	VerbForm=Inf	4	xcomp	_	_
 8	puestos	puesto	NOUN	NN	Gender=Masc|Number=Plur	7	obj	_	_

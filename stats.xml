@@ -116,7 +116,7 @@
     <dep name="appos">320</dep>
     <dep name="aux">301</dep>
     <dep name="aux:pass">94</dep>
-    <dep name="case">3696</dep>
+    <dep name="case">3681</dep>
     <dep name="cc">570</dep>
     <dep name="cc:preconj">12</dep>
     <dep name="ccomp">148</dep>
@@ -136,7 +136,7 @@
     <dep name="fixed">368</dep>
     <dep name="flat">1</dep>
     <dep name="flat:name">200</dep>
-    <dep name="mark">293</dep>
+    <dep name="mark">308</dep>
     <dep name="nmod">1802</dep>
     <dep name="nsubj">1190</dep>
     <dep name="nsubj:pass">165</dep>
