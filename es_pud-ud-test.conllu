@@ -5079,7 +5079,7 @@
 3	,	,	PUNCT	,	PunctType=Comm	6	punct	_	_
 4	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	_
 5	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
-6	escrito	escribir	VERB	VBN	VerbForm=Fin	1	acl:relcl	_	_
+6	escrito	escribir	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Part	1	acl:relcl	_	_
 7	varios	vario	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
 8	libros	libro	NOUN	NN	Gender=Masc|Number=Plur	6	obj	_	_
 9	sobre	sobre	ADP	IN	_	11	case	_	_
@@ -12934,7 +12934,7 @@
 9	,	,	PUNCT	,	PunctType=Comm	12	punct	_	_
 10	a	a	ADP	IN	ExtPos=ADV	12	advmod	_	_
 11	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	10	fixed	_	_
-12	escrito	escribir	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	8	acl	_	_
+12	escrito	escribir	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Part	8	acl	_	_
 13	volcanología	volcanología	NOUN	NN	Gender=Fem|Number=Sing	12	xcomp	_	SpaceAfter=No
 14	.	.	PUNCT	.	PunctType=Peri	7	punct	_	_
 
@@ -14643,7 +14643,7 @@
 9	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	batalla	batalla	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	,	PunctType=Comm	12	punct	_	_
-12	escrito	escribir	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	6	acl	_	_
+12	escrito	escribir	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Part	6	acl	_	_
 13	por	por	ADP	IN	_	14	case	_	_
 14	James	James	PROPN	NNP	Gender=Masc|Number=Sing	12	obl	_	_
 15	Henry	Henry	PROPN	NNP	Gender=Masc|Number=Sing	14	flat:name	_	_
@@ -15878,7 +15878,7 @@
 9	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
 10	Aldrin	Aldrin	PROPN	NNP	Gender=Masc|Number=Sing	12	nsubj:pass	_	_
 11	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	_	_
-12	atraído	atraer	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	_
+12	atraído	atraer	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 13	a	a	ADP	IN	_	15	case	_	_
 14	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	hotel	hotel	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	_
@@ -19692,7 +19692,7 @@
 
 # sent_id = w01122064
 # parallel_id = pud/w01122064
-# text = Habiendo disfrutado de llegar a la cima de su carrera en su Australia natal, Geyer regresó a vivir a Los Ángeles en 1984 para concentrase en probar suerte en la escena musical local.
+# text = Habiendo disfrutado de llegar a la cima de su carrera en su Australia natal, Geyer regresó a vivir a Los Ángeles en 1984 para concentrarse en probar suerte en la escena musical local.
 # text_en = Having enjoyed a career peak at home in Australia, Geyer returned to live in Los Angeles in 1984 to concentrate on breaking into the musical scene there.
 1	Habiendo	haber	AUX	VBG	VerbForm=Ger	2	aux	_	_
 2	disfrutado	disfrutar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	advcl	_	_
@@ -19719,8 +19719,8 @@
 23	en	en	ADP	IN	_	24	case	_	_
 24	1984	1984	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	17	obl	_	_
 25	para	para	ADP	IN	_	26	case	_	_
-26-27	concentrase	_	_	_	_	_	_	_	_
-26	concentra	concentrar	VERB	VB	Tense=Imp|VerbForm=Fin	17	xcomp	_	_
+26-27	concentrarse	_	_	_	_	_	_	_	_
+26	concentrar	concentrar	VERB	VB	VerbForm=Inf	17	xcomp	_	_
 27	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	26	compound:prt	_	_
 28	en	en	ADP	IN	_	29	case	_	_
 29	probar	probar	VERB	VB	VerbForm=Inf	26	xcomp	_	_
@@ -20229,7 +20229,7 @@
 1	Incluyó	incluir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	tres	tres	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	3	nummod	_	_
 3	pistas	pista	NOUN	NN	Gender=Fem|Number=Plur	1	obj	_	_
-4	coescritas	coescribir	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Fin	3	acl	_	_
+4	coescritas	coescribir	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Part	3	acl	_	_
 5	con	con	ADP	IN	_	6	case	_	_
 6	Jim	Jim	PROPN	NNP	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 7	,	,	PUNCT	,	PunctType=Comm	9	punct	_	_
@@ -20414,7 +20414,7 @@
 # text_en = The article by Thompson assumes that the Maya were ultimately “peaceful” people since they lacked apparent defenses.
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	articulo	articulo	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	_
-3	escrito	escribir	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	2	acl	_	_
+3	escrito	escribir	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Part	2	acl	_	_
 4	por	por	ADP	IN	_	5	case	_	_
 5	Thompson	Thompson	PROPN	NNP	Gender=Masc|Number=Sing	3	obl	_	_
 6	asume	asumir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -21062,7 +21062,7 @@
 4	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
 5	Meyer	Meyer	PROPN	NNP	Gender=Masc|Number=Sing	7	nsubj	_	_
 6	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
-7	escrito	escribir	VERB	VBN	VerbForm=Fin	0	root	_	_
+7	escrito	escribir	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 8	a	a	ADP	IN	_	9	case	_	_
 9	Irène	Irène	PROPN	NNP	Gender=Fem|Number=Sing	7	obl	_	_
 10	Joliot	Joliot	PROPN	NNP	Gender=Fem|Number=Sing	9	flat:name	_	SpaceAfter=No
@@ -23807,7 +23807,7 @@
 14	trabajo	trabajo	NOUN	NN	Gender=Masc|Number=Sing	12	nmod	_	_
 15	pueden	poder	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
 16	ser	ser	AUX	VB	VerbForm=Inf	17	aux:pass	_	_
-17	resueltas	resolver	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Fin	0	root	_	_
+17	resueltas	resolver	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	_
 18	sin	sin	ADP	IN	_	20	case	_	_
 19	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	conflicto	conflicto	NOUN	NN	Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
@@ -23853,7 +23853,7 @@
 15	contenido	contenido	NOUN	NN	Gender=Masc|Number=Sing	13	nmod	_	_
 16	no	no	ADV	RB	Polarity=Neg	18	advmod	_	_
 17	fueran	ser	AUX	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	18	aux:pass	_	_
-18	incluídas	incluir	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Fin	7	ccomp	_	SpaceAfter=No
+18	incluídas	incluir	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Part	7	ccomp	_	SpaceAfter=No
 19	:	:	PUNCT	:	PunctType=Colo	22	punct	_	_
 20	"	"	PUNCT	``	PunctType=Quot	22	punct	_	SpaceAfter=No
 21	No	no	ADV	RB	Polarity=Neg	22	advmod	_	_
@@ -24563,7 +24563,7 @@
 4	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	7	nsubj:pass	_	_
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pass	_	_
 6	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
-7	escrito	escribir	VERB	VBN	VerbForm=Fin	2	ccomp	_	_
+7	escrito	escribir	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Part	2	ccomp	_	_
 8	en	en	ADP	IN	_	10	case	_	_
 9	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	nota	nota	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
@@ -25199,7 +25199,7 @@
 21	mismo	mismo	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	_
 22	para	para	ADP	IN	_	23	case	_	_
 23	hacer	hacer	VERB	VB	VerbForm=Inf	16	xcomp	_	_
-24	reír	reír	VERB	VB	Tense=Imp|VerbForm=Fin	23	xcomp	_	_
+24	reír	reír	VERB	VB	VerbForm=Inf	23	xcomp	_	_
 25-26	al	_	_	_	_	_	_	_	_
 25	a	a	ADP	INDT	_	27	case	_	_
 26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
@@ -26476,7 +26476,7 @@
 3	de	de	ADP	IN	_	4	case	_	_
 4	Disibodenberg	Disibodenberg	PROPN	NNP	Number=Sing	2	nmod	_	_
 5	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
-6	disuelto	disolver	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	_
+6	disuelto	disolver	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 7	y	y	CCONJ	CC	_	8	cc	_	_
 8	cayó	caer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
 9	en	en	ADP	IN	_	11	case	_	_
@@ -27215,7 +27215,7 @@
 # newdoc id = w03007
 # sent_id = w03007008
 # parallel_id = pud/w03007008
-# text = De todas maneras, ellos no se expandieron hasta que barcos suficientemente grandes fueron contruídos para cruzar los océanos.
+# text = De todas maneras, ellos no se expandieron hasta que barcos suficientemente grandes fueron construídos para cruzar los océanos.
 # text_en = However, they did not expand until ships big enough to cross seas were built.
 1	De	de	ADP	IN	_	8	discourse	_	_
 2	todas	todo	DET	DT	Gender=Fem|Number=Plur|PronType=Tot	1	fixed	_	_
@@ -27231,7 +27231,7 @@
 12	suficientemente	suficientemente	ADV	RB	_	13	advmod	_	_
 13	grandes	grande	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	_
 14	fueron	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	aux:pass	_	_
-15	contruídos	contraer	VERB	VBN	Gender=Masc|Number=Plur|VerbForm=Fin	8	advcl	_	_
+15	construídos	construir	VERB	VBN	Gender=Masc|Number=Plur|VerbForm=Part	8	advcl	_	_
 16	para	para	ADP	IN	_	17	case	_	_
 17	cruzar	cruzar	VERB	VB	VerbForm=Inf	15	xcomp	_	_
 18	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
@@ -27674,7 +27674,7 @@
 9	90	90	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	10	nummod	_	_
 10	hectáreas	hectárea	NOUN	NN	Gender=Fem|Number=Plur	5	nmod	_	_
 11	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	_	_
-12	construído	construir	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	_
+12	construído	construir	VERB	VBN	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 13	en	en	ADP	IN	_	15	case	_	_
 14	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	12	obl	_	_
@@ -28259,7 +28259,7 @@
 20	;	;	PUNCT	:	PunctType=Semi	23	punct	_	_
 21	algunas	alguno	NOUN	NN	Gender=Fem|Number=Plur	23	nsubj:pass	_	_
 22	eran	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	23	aux:pass	_	_
-23	escritas	escribir	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Fin	2	parataxis	_	_
+23	escritas	escribir	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Part	2	parataxis	_	_
 24	por	por	ADP	IN	_	25	case	_	_
 25	ambos	ambos	NOUN	NN	Gender=Masc|Number=Plur	23	obl	_	SpaceAfter=No
 26	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
