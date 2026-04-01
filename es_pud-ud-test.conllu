@@ -103,7 +103,7 @@
 24	si	si	SCONJ	IN	_	25	mark	_	_
 25	fuese	ir	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	27	advcl	_	_
 26	presidente	presidente	NOUN	NN	Gender=Masc|Number=Sing	25	xcomp	_	_
-27	reconocería	reconocer	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	ccomp	_	_
+27	reconocería	reconocer	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	22	ccomp	_	_
 28	a	a	ADP	IN	_	32	case	_	_
 29	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
 30	"	"	PUNCT	``	PunctType=Quot	32	punct	_	SpaceAfter=No
@@ -471,7 +471,7 @@
 6	que	que	SCONJ	IN	_	9	mark	_	_
 7	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	pasajeros	pasajero	NOUN	NN	Gender=Masc|Number=Plur	9	nsubj	_	_
-9	tardarían	tardar	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
+9	tardarían	tardar	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	5	ccomp	_	_
 10	unos	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
 11	cuatro	cuatro	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	12	nummod	_	_
 12	minutos	minuto	NOUN	NN	Gender=Masc|Number=Plur	9	obl:tmod	_	_
@@ -808,13 +808,13 @@
 10	cortes	corte	NOUN	NN	Gender=Masc|Number=Plur	6	nmod	_	_
 11	de	de	ADP	IN	_	12	case	_	_
 12	acero	acero	NOUN	NN	Gender=Masc|Number=Sing	10	nmod	_	_
-13	ayudaría	ayudar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
+13	ayudaría	ayudar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	3	ccomp	_	_
 14	a	a	ADP	IN	_	15	case	_	_
 15	asegurar	asegurar	VERB	VB	VerbForm=Inf	13	xcomp	_	_
 16	nuevas	nuevo	ADJ	JJ	Gender=Fem|Number=Plur	17	amod	_	_
 17	inversiones	inversión	NOUN	NN	Gender=Fem|Number=Plur	15	obj	_	_
 18	y	y	CCONJ	CC	_	19	cc	_	_
-19	protegería	proteger	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	conj	_	_
+19	protegería	proteger	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	13	conj	_	_
 20	cientos	ciento	NOUN	NN	Gender=Masc|Number=Plur	19	obj	_	_
 21	de	de	ADP	IN	_	22	case	_	_
 22	empleos	empleo	NOUN	NN	Gender=Masc|Number=Plur	20	nmod	_	_
@@ -1111,7 +1111,7 @@
 19	tarifa	tarifa	NOUN	NN	Gender=Fem|Number=Sing	14	nsubj:pass	_	_
 20	de	de	ADP	IN	_	21	case	_	_
 21	acceso	acceso	NOUN	NN	Gender=Masc|Number=Sing	19	nmod	_	_
-22	recaería	recaer	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
+22	recaería	recaer	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	3	ccomp	_	_
 23	sobre	sobre	ADP	IN	_	25	case	_	_
 24	cada	cada	DET	DT	Gender=Fem|Number=Sing|PronType=Tot	25	det	_	_
 25	compañía	compañía	NOUN	NN	Gender=Fem|Number=Sing	22	obl	_	_
@@ -1129,7 +1129,7 @@
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	gente	gente	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	_
 7	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	8	obl:arg	_	_
-8	resultaría	resultar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	resultaría	resultar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 9	más	más	ADV	RBR	Degree=Cmp	8	advmod	_	_
 10	útil	útil	ADJ	JJ	Gender=Masc|Number=Sing	8	xcomp	_	_
 11	tener	tener	VERB	VB	VerbForm=Inf	8	csubj	_	_
@@ -2752,7 +2752,7 @@
 # text_en = He'd also like to see greater enforcement and investigative powers for the Real Estate Council of Ontario (RECO), which regulates agents in the province.
 1	También	también	ADV	RB	_	3	advmod	_	_
 2	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obl:arg	_	_
-3	gustaría	gustar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	gustaría	gustar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	IN	_	26	mark	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	Consejo	consejo	NOUN	NN	Gender=Masc|Number=Sing	26	nsubj	_	Proper=True
@@ -2891,7 +2891,7 @@
 # text = También podría esperar al fin de su primer término para utilizar una provisión en el Acuerdo de París y salirse del pacto.
 # text_en = He could also wait until the end of his first term to use a provision in the Paris agreement to pull out of the pact.
 1	También	también	ADV	RB	_	3	advmod	_	_
-2	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	_
+2	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	3	aux	_	_
 3	esperar	esperar	VERB	VB	VerbForm=Inf	0	root	_	_
 4-5	al	_	_	_	_	_	_	_	_
 4	a	a	ADP	INDT	_	6	case	_	_
@@ -3419,7 +3419,7 @@
 # text_en = "There should be no preferential access to government, or appearance of preferential access, accorded to individuals or organizations because they have made financial contributions to politicians and political parties," the guidelines read.
 1	No	no	ADV	RB	Polarity=Neg	4	advmod	_	_
 2	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl:pass	_	_
-3	debería	deber	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
+3	debería	deber	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	4	aux	_	_
 4	conceder	conceder	VERB	VB	VerbForm=Inf	0	root	_	_
 5	ni	ni	CCONJ	CC	_	7	cc:preconj	_	_
 6	a	a	ADP	IN	_	7	case	_	_
@@ -4140,7 +4140,7 @@
 1	Esto	esto	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj:pass	_	_
 2	no	no	ADV	RB	Polarity=Neg	4	advmod	_	_
 3	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl:pass	_	_
-4	aplicaría	aplicar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	aplicaría	aplicar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 5	únicamente	únicamente	ADV	RB	_	4	advmod	_	_
 6-7	al	_	_	_	_	_	_	_	_
 6	a	a	ADP	INDT	_	8	case	_	_
@@ -4151,7 +4151,7 @@
 11	,	,	PUNCT	,	PunctType=Comm	14	punct	_	_
 12	también	también	ADV	RB	_	14	advmod	_	_
 13	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	14	expl:pass	_	_
-14	aplicaría	aplicar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	parataxis	_	_
+14	aplicaría	aplicar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	4	parataxis	_	_
 15	a	a	ADP	IN	_	17	case	_	_
 16	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	educación	educación	NOUN	NN	Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
@@ -4377,7 +4377,7 @@
 12	familiar	familiar	ADJ	JJ	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 13	,	,	PUNCT	,	PunctType=Comm	17	punct	_	_
 14	o	o	CCONJ	CC	_	17	cc	_	_
-15	debería	deber	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	aux	_	_
+15	debería	deber	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	17	aux	_	_
 16-17	serlo	_	_	_	_	_	_	_	SpaceAfter=No
 16	ser	ser	AUX	VB	VerbForm=Inf	17	cop	_	_
 17	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	12	conj	_	_
@@ -4772,7 +4772,7 @@
 # parallel_id = pud/n01064009
 # text = Sería mucho más seguro, pensó platón, otorgar el poder a guardianes cuidadosamente instruidos.
 # text_en = It would be much safer, Plato thought, to entrust power to carefully educated guardians.
-1	Sería	ser	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+1	Sería	ser	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	4	cop	_	_
 2	mucho	mucho	ADV	RB	_	3	advmod	_	_
 3	más	más	ADV	RBR	Degree=Cmp	4	advmod	_	_
 4	seguro	seguro	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
@@ -5217,7 +5217,7 @@
 9	,	,	PUNCT	,	PunctType=Comm	8	punct	_	_
 10	muchos	mucho	NOUN	NN	Gender=Masc|Number=Plur	12	nsubj	_	_
 11	no	no	ADV	RB	Polarity=Neg	12	advmod	_	_
-12	conocerían	conocer	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+12	conocerían	conocer	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	2	ccomp	_	_
 13	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
 14	historia	historia	NOUN	NN	Gender=Fem|Number=Sing	12	obj	_	SpaceAfter=No
 15	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
@@ -5465,7 +5465,7 @@
 7	además	además	ADV	RB	_	10	discourse	_	SpaceAfter=No
 8	,	,	PUNCT	,	PunctType=Comm	7	punct	_	_
 9	yo	yo	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
-10	preferiría	preferir	VERB	VBC	Mood=Cnd|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	3	parataxis	_	_
+10	preferiría	preferir	VERB	VBC	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	3	parataxis	_	_
 11	que	que	SCONJ	IN	_	14	mark	_	_
 12	alguien	alguien	NOUN	NN	Gender=Masc|Number=Sing	14	nsubj	_	_
 13	me	yo	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	14	obj	_	_
@@ -5544,7 +5544,7 @@
 3	de	de	ADP	IN	_	4	case	_	_
 4	Donald	Donald	PROPN	NNP	Gender=Masc|Number=Sing	2	nmod	_	_
 5	Trump	Trump	PROPN	NNP	Gender=Masc|Number=Sing	4	flat:name	_	_
-6	convertiría	convertir	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	convertiría	convertir	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 7-8	al	_	_	_	_	_	_	_	_
 7	a	a	ADP	INDT	_	9	case	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
@@ -5878,7 +5878,7 @@
 24	de	de	ADP	IN	_	26	case	_	_
 25	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	_	_
 26	circunstancias	circunstancia	NOUN	NN	Gender=Fem|Number=Plur	23	nmod	_	_
-27	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	28	aux	_	_
+27	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	28	aux	_	_
 28	producir	producir	VERB	VB	VerbForm=Inf	7	parataxis	_	_
 29	problemas	problema	NOUN	NN	Gender=Masc|Number=Plur	28	obj	_	_
 30	de	de	ADP	IN	_	31	case	_	_
@@ -5908,7 +5908,7 @@
 16	nivel	nivel	NOUN	NN	Gender=Masc|Number=Sing	14	conj	_	_
 17	de	de	ADP	IN	_	18	case	_	_
 18	vida	vida	NOUN	NN	Gender=Fem|Number=Sing	16	nmod	_	_
-19	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	aux	_	_
+19	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	20	aux	_	_
 20	dañar	dañar	VERB	VB	VerbForm=Inf	11	acl:relcl	_	_
 
 # sent_id = n01083035
@@ -5939,7 +5939,7 @@
 3	,	,	PUNCT	,	PunctType=Comm	2	punct	_	_
 4	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	pareja	pareja	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
-6	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
+6	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	7	aux	_	_
 7	abrir	abrir	VERB	VB	VerbForm=Inf	0	root	_	_
 8	cuatro	cuatro	NUM	CD	Gender=Fem|NumForm=Word|NumType=Card	9	nummod	_	_
 9	cuentas	cuenta	NOUN	NN	Gender=Fem|Number=Plur	7	obj	_	_
@@ -6484,7 +6484,7 @@
 12	en	en	ADP	IN	_	14	case	_	_
 13	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	peor	peor	NOUN	NN	Gender=Masc|Number=Sing	15	obl	_	_
-15	permitiría	permitir	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	conj	_	_
+15	permitiría	permitir	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	7	conj	_	_
 16	que	que	SCONJ	IN	_	26	mark	_	_
 17	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
 18	grupos	grupo	NOUN	NN	Gender=Masc|Number=Plur	26	nsubj	_	_
@@ -6523,7 +6523,7 @@
 15	:	:	PUNCT	:	PunctType=Colo	18	punct	_	_
 16	"	"	PUNCT	``	PunctType=Quot	18	punct	_	SpaceAfter=No
 17	me	yo	PRON	PRP	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	18	obj	_	_
-18	sorprendería	sorprender	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	ccomp	_	_
+18	sorprendería	sorprender	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	14	ccomp	_	_
 19	que	que	SCONJ	IN	_	21	mark	_	_
 20	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	21	expl:pass	_	_
 21	introduzca	introducir	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	csubj	_	_
@@ -6697,7 +6697,7 @@
 4	propuestos	proponer	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	acl	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	bacalao	bacalao	NOUN	NN	Gender=Masc|Number=Sing	8	nsubj	_	_
-7	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	_
+7	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	8	aux	_	_
 8	desaparecer	desaparecer	VERB	VB	VerbForm=Inf	0	root	_	_
 9-10	del	_	_	_	_	_	_	_	_
 9	de	de	ADP	INDT	_	11	case	_	_
@@ -6911,7 +6911,7 @@
 # text_en = Companies may try to set up a firewall between sensitive systems and foreign powers, but it does not always work.
 1	Las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
 2	empresas	empresa	NOUN	NN	Gender=Fem|Number=Plur	4	nsubj	_	_
-3	podrían	poder	AUX	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	_
+3	podrían	poder	AUX	VBC	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	4	aux	_	_
 4	tratar	tratar	VERB	VB	VerbForm=Inf	0	root	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	establecer	establecer	VERB	VB	VerbForm=Inf	4	xcomp	_	_
@@ -7241,7 +7241,7 @@
 19	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	pareja	pareja	NOUN	NN	Gender=Fem|Number=Sing	23	nsubj	_	_
 21	no	no	ADV	RB	Polarity=Neg	23	advmod	_	_
-22	debería	deber	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	aux	_	_
+22	debería	deber	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	23	aux	_	_
 23	ocupar	ocupar	VERB	VB	VerbForm=Inf	17	ccomp	_	_
 24	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	cargo	cargo	NOUN	NN	Gender=Masc|Number=Sing	23	obj	_	SpaceAfter=No
@@ -7795,7 +7795,7 @@
 15	de	de	ADP	IN	_	16	case	_	_
 16	Avro	Avro	PROPN	NNP	Number=Sing	14	nmod	_	_
 17	Energy	energy	NOUN	NN	Number=Sing	16	flat:name	_	Proper=True
-18	pagarían	pagar	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	conj	_	_
+18	pagarían	pagar	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	8	conj	_	_
 19	unas	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
 20	760	760	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	21	nummod	_	_
 21	libras	libra	NOUN	NN	Gender=Fem|Number=Plur	18	obj	_	_
@@ -7839,7 +7839,7 @@
 8	libras	libra	NOUN	NN	Gender=Fem|Number=Plur	4	conj	_	_
 9	en	en	ADP	IN	_	10	case	_	_
 10	obligaciones	obligación	NOUN	NN	Gender=Fem|Number=Plur	8	nmod	_	_
-11	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	aux	_	_
+11	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	12	aux	_	_
 12	esperar	esperar	VERB	VB	VerbForm=Inf	0	root	_	_
 13	recibir	recibir	VERB	VB	VerbForm=Inf	12	xcomp	_	_
 14	125	125	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	15	nummod	_	_
@@ -7863,7 +7863,7 @@
 7	con	con	ADP	IN	_	8	case	_	_
 8	prima	prima	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
 9	no	no	ADV	RB	Polarity=Neg	11	advmod	_	_
-10	serían	ser	AUX	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+10	serían	ser	AUX	VBC	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	11	cop	_	_
 11	diferentes	diferente	ADJ	JJ	Gender=Fem|Number=Plur	0	root	_	_
 12	de	de	ADP	IN	_	14	case	_	_
 13	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
@@ -8346,7 +8346,7 @@
 14	¿	¿	PUNCT	.	PunctSide=Ini|PunctType=Qest	17	punct	_	SpaceAfter=No
 15	quién	quién	PRON	WP	Number=Sing|PronType=Int	17	nsubj	_	_
 16	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	17	obl:arg	_	_
-17	echaría	echar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+17	echaría	echar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	culpa	culpa	NOUN	NN	Gender=Fem|Number=Sing	17	obj	_	SpaceAfter=No
 20	?	?	PUNCT	.	PunctSide=Fin|PunctType=Qest	17	punct	_	_
@@ -8636,7 +8636,7 @@
 7	hecho	hecho	NOUN	NN	Gender=Masc|Number=Sing	5	obl	_	_
 8	que	que	SCONJ	IN	_	10	mark	_	_
 9	tampoco	tampoco	ADV	RB	_	10	advmod	_	_
-10	volveríamos	volver	VERB	VBC	Mood=Cnd|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
+10	volveríamos	volver	VERB	VBC	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	5	ccomp	_	_
 11	a	a	ADP	IN	_	10	fixed	_	_
 12	ver	ver	VERB	VB	VerbForm=Inf	10	xcomp	_	_
 13-14	al	_	_	_	_	_	_	_	_
@@ -10803,7 +10803,7 @@
 3	de	de	ADP	IN	_	4	case	_	_
 4	isla	isla	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	_
 5	desértica	desértico	ADJ	JJ	Gender=Fem|Number=Sing	4	amod	_	_
-6	serían	ser	AUX	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
+6	serían	ser	AUX	VBC	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	2	cop	_	_
 7	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
 8	pequeñas	pequeño	ADJ	JJ	Gender=Fem|Number=Plur	9	amod	_	_
 9	islas	isla	NOUN	NN	Gender=Fem|Number=Plur	2	nsubj	_	_
@@ -13183,7 +13183,7 @@
 21	por	por	ADP	IN	_	24	discourse	_	_
 22	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	21	fixed	_	_
 23	menos	menos	ADV	RBR	Degree=Cmp	21	fixed	_	_
-24	mitigaría	mitigar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	conj	_	_
+24	mitigaría	mitigar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	11	conj	_	_
 25	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
 26	impactos	impacto	NOUN	NN	Gender=Masc|Number=Plur	24	obj	_	_
 27	adversos	adverso	ADJ	JJ	Gender=Masc|Number=Plur	26	amod	_	SpaceAfter=No
@@ -15024,7 +15024,7 @@
 4	él	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 5	o	o	CCONJ	CC	ExtPos=CCONJ	7	cc:preconj	_	_
 6	bien	bien	ADV	RB	_	5	fixed	_	_
-7	moriría	morir	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	csubj:pass	_	_
+7	moriría	morir	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	2	csubj:pass	_	_
 8	viejo	viejo	ADJ	JJ	Gender=Masc|Number=Sing	7	xcomp	_	_
 9	después	después	ADV	RB	_	7	advmod	_	_
 10	de	de	ADP	IN	_	12	case	_	_
@@ -18789,7 +18789,7 @@
 11	de	de	ADP	IN	_	13	case	_	_
 12	otra	otro	DET	DT	Gender=Fem|Number=Sing|PronType=Ind	13	det	_	_
 13	manera	manera	NOUN	NN	Gender=Fem|Number=Sing	16	obl	_	_
-14	sería	ser	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	cop	_	_
+14	sería	ser	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	16	cop	_	_
 15	muy	muy	ADV	RB	_	16	advmod	_	_
 16	caluroso	caluroso	ADJ	JJ	Gender=Masc|Number=Sing	8	acl:relcl	_	SpaceAfter=No
 17	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
@@ -19267,12 +19267,12 @@
 10	solución	solución	NOUN	NN	Gender=Fem|Number=Sing	8	obj	_	_
 11	intermedia	intermedio	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No
 12	:	:	PUNCT	:	PunctType=Colo	13	punct	_	_
-13	asistiría	asistir	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	parataxis	_	_
+13	asistiría	asistir	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	8	parataxis	_	_
 14	a	a	ADP	IN	_	16	case	_	_
 15	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	universidad	universidad	NOUN	NN	Gender=Fem|Number=Sing	13	obl	_	_
 17	pero	pero	CCONJ	CC	_	18	cc	_	_
-18	estudiaría	estudiar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	conj	_	_
+18	estudiaría	estudiar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	13	conj	_	_
 19	literatura	literatura	NOUN	NN	Gender=Fem|Number=Sing	18	obj	_	SpaceAfter=No
 20	.	.	PUNCT	.	PunctType=Peri	8	punct	_	_
 
@@ -21081,7 +21081,7 @@
 22	cómo	cómo	ADV	WRB	_	26	advmod	_	_
 23	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	24	det	_	_
 24	laboratorio	laboratorio	NOUN	NN	Gender=Masc|Number=Sing	26	nsubj	_	_
-25	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	26	aux	_	_
+25	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	26	aux	_	_
 26	hacer	hacer	VERB	VB	VerbForm=Inf	21	ccomp	_	_
 27	muestras	muestra	NOUN	NN	Gender=Fem|Number=Plur	26	obj	_	_
 28	de	de	ADP	IN	_	29	case	_	_
@@ -21619,7 +21619,7 @@
 6	teología	teología	NOUN	NN	Gender=Fem|Number=Sing	9	nsubj:pass	_	_
 7	apropiada	apropiado	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pass	_	_
-9	tendría	tener	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+9	tendría	tener	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 10	que	que	ADP	IN	_	9	fixed	_	_
 11	construir	construir	VERB	VB	VerbForm=Inf	9	xcomp	_	_
 12	a	a	ADP	IN	_	14	case	_	_
@@ -21911,7 +21911,7 @@
 5	decidieron	decidir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	que	que	SCONJ	IN	_	8	mark	_	_
 7	Albania	Albania	PROPN	NNP	Number=Sing	8	nsubj	_	_
-8	estaría	estar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
+8	estaría	estar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	5	ccomp	_	_
 9	bajo	bajo	ADP	IN	_	10	case	_	_
 10	protectorado	protectorado	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	_
 11	otomano	otomano	ADJ	JJ	Gender=Masc|Number=Sing	10	amod	_	Proper=True
@@ -21937,7 +21937,7 @@
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	Imperio	imperio	NOUN	NN	Gender=Masc|Number=Sing	12	nsubj	_	Proper=True
 11	otomano	otomano	ADJ	JJ	Gender=Masc|Number=Sing	10	amod	_	Proper=True
-12	perdería	perder	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	csubj:pass	_	_
+12	perdería	perder	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	5	csubj:pass	_	_
 13	a	a	ADP	IN	_	14	case	_	_
 14	Macedonia	Macedonia	PROPN	NNP	Number=Sing	12	obl	_	_
 15	en	en	ADP	IN	_	17	case	_	_
@@ -22354,7 +22354,7 @@
 5	condiciones	condición	NOUN	NN	Gender=Fem|Number=Plur	3	obj	_	_
 6	cuyo	cuyo	DET	DTP$	Gender=Masc|Number=Sing|Poss=Yes|PronType=Rel	7	det	_	_
 7	cumplimiento	cumplimiento	NOUN	NN	Gender=Masc|Number=Sing	9	nsubj	_	_
-8	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
+8	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	9	aux	_	_
 9	hacer	hacer	VERB	VB	VerbForm=Inf	5	acl:relcl	_	_
 10	que	que	SCONJ	IN	_	13	mark	_	_
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
@@ -22366,7 +22366,7 @@
 17	:	:	PUNCT	:	PunctType=Colo	20	punct	_	_
 18	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
 19	EUA	EUA	PROPN	NNP	Gender=Masc|Number=Plur	20	nsubj	_	_
-20	tendrían	tener	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	appos	_	_
+20	tendrían	tener	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	5	appos	_	_
 21	que	que	ADP	IN	_	20	fixed	_	_
 22	retirar	retirar	VERB	VB	VerbForm=Inf	20	xcomp	_	_
 23	todas	todo	DET	PDT	Gender=Fem|Number=Plur|PronType=Tot	25	det	_	_
@@ -22857,7 +22857,7 @@
 3	:	:	PUNCT	:	PunctType=Colo	7	punct	_	_
 4	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	hombres	hombre	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj	_	_
-6	podrían	poder	AUX	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
+6	podrían	poder	AUX	VBC	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	7	aux	_	_
 7	tener	tener	VERB	VB	VerbForm=Inf	2	parataxis	_	_
 8	mayor	mayor	ADJ	JJR	Degree=Cmp|Gender=Fem|Number=Sing	9	amod	_	_
 9	responsabilidad	responsabilidad	NOUN	NN	Gender=Fem|Number=Sing	7	obj	_	_
@@ -23485,7 +23485,7 @@
 9	aseguró	asegurar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	que	que	SCONJ	IN	_	12	mark	_	_
 11	ella	él	PRON	PRP	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
-12	estaría	estar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	ccomp	_	SpaceAfter=No
+12	estaría	estar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	9	ccomp	_	SpaceAfter=No
 13	:	:	PUNCT	:	PunctType=Colo	16	punct	_	_
 14	"	"	PUNCT	``	PunctType=Quot	16	punct	_	SpaceAfter=No
 15	bajo	bajo	ADP	IN	_	16	case	_	_
@@ -23550,7 +23550,7 @@
 5	Unidos	unido	ADJ	JJ	Gender=Masc|Number=Plur	4	amod	_	Proper=True
 6	de	de	ADP	IN	_	7	case	_	Proper=True
 7	América	América	PROPN	NNP	Number=Sing	4	nmod	_	_
-8	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
+8	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	9	aux	_	_
 9	elegir	elegir	VERB	VB	VerbForm=Inf	0	root	_	_
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 11	primera	primero	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	_
@@ -23774,7 +23774,7 @@
 4	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	limitaciones	limitación	NOUN	NN	Gender=Fem|Number=Plur	0	root	_	_
 6	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	8	nsubj	_	_
-7	podrían	poder	AUX	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	_
+7	podrían	poder	AUX	VBC	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	8	aux	_	_
 8	inhibir	inhibir	VERB	VB	VerbForm=Inf	5	acl:relcl	_	_
 9	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
 10	expresiones	expresión	NOUN	NN	Gender=Fem|Number=Plur	8	obj	_	_
@@ -24038,7 +24038,7 @@
 7	de	de	ADP	IN	_	9	case	_	_
 8	dicho	dicho	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	_
 9	documento	documento	NOUN	NN	Gender=Masc|Number=Sing	6	nmod	_	_
-10	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	_
+10	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	11	aux	_	_
 11	tener	tener	VERB	VB	VerbForm=Inf	2	ccomp	_	_
 12	consecuencias	consecuencia	NOUN	NN	Gender=Fem|Number=Plur	11	obj	_	_
 13	tan	tan	ADV	RB	_	14	advmod	_	_
@@ -24071,7 +24071,7 @@
 17	digital	digital	ADJ	JJ	Gender=Fem|Number=Sing	16	amod	_	SpaceAfter=No
 18	,	,	PUNCT	,	PunctType=Comm	7	punct	_	_
 19	también	también	ADV	RB	_	21	advmod	_	_
-20	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	21	aux	_	_
+20	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	21	aux	_	_
 21-22	examinarlo	_	_	_	_	_	_	_	SpaceAfter=No
 21	examinar	examinar	VERB	VB	VerbForm=Inf	0	root	_	_
 22	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	21	obj	_	_
@@ -24090,7 +24090,7 @@
 6	,	,	PUNCT	,	PunctType=Comm	4	punct	_	_
 7	este	este	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
 8	gobierno	gobierno	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
-9	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
+9	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	10	aux	_	_
 10	liberar	liberar	VERB	VB	VerbForm=Inf	0	root	_	_
 11	hasta	hasta	ADV	RB	_	13	advmod	_	_
 12	42	42	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	13	nummod	_	_
@@ -24103,7 +24103,7 @@
 19	cuales	cual	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	21	nmod	_	_
 20	15,5	15,5	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	21	nummod	_	_
 21	millones	millón	NOUN	NN	Gender=Masc|Number=Plur	22	nsubj	_	_
-22	irían	ir	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	acl:relcl	_	_
+22	irían	ir	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	13	acl:relcl	_	_
 23	hacia	hacia	ADP	IN	_	25	case	_	_
 24	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	seguridad	seguridad	NOUN	NN	Gender=Fem|Number=Sing	22	obl	_	SpaceAfter=No
@@ -24531,7 +24531,7 @@
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	BCE	BCE	PROPN	NNP	Gender=Masc|Number=Sing	10	nmod	_	_
 14	y	y	CCONJ	CC	_	16	cc	_	_
-15	sería	ser	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	cop	_	_
+15	sería	ser	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	16	cop	_	_
 16	inapropiado	inapropiado	ADJ	JJ	Gender=Masc|Number=Sing	10	conj	_	_
 17	por	por	ADP	IN	ExtPos=ADP	21	case	_	_
 18	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	17	fixed	_	_
@@ -27639,7 +27639,7 @@
 4	apoya	apoyar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 5	esta	este	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
 6	hipótesis	hipótesis	NOUN	NN	Gender=Fem|Number=Sing	4	obj	_	_
-7	sería	ser	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
+7	sería	ser	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	2	cop	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 9	intensa	intenso	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	_
 10	dedicación	dedicación	NOUN	NN	Gender=Fem|Number=Sing	2	nsubj	_	_
@@ -28073,7 +28073,7 @@
 8	contundente	contundente	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	_
 9	en	en	ADP	IN	_	10	case	_	_
 10	Austerlitz	Austerlitz	PROPN	NNP	Number=Sing	7	nmod	_	_
-11	llevaría	llevar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	xcomp	_	_
+11	llevaría	llevar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	3	xcomp	_	_
 12	a	a	ADP	IN	_	14	case	_	_
 13	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	tratado	tratado	NOUN	NN	Gender=Masc|Number=Sing	11	obl	_	_
@@ -28944,7 +28944,7 @@
 22	grabar	grabar	VERB	VB	VerbForm=Inf	4	xcomp	_	_
 23	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	24	det	_	_
 24	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	27	nsubj	_	_
-25	sería	ser	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	27	cop	_	_
+25	sería	ser	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	27	cop	_	_
 26	otro	otro	DET	DT	Gender=Masc|Number=Sing|PronType=Ind	27	det	_	_
 27	sencillo	sencillo	NOUN	NN	Gender=Masc|Number=Sing	22	ccomp	_	_
 28	exitoso	exitoso	ADJ	JJ	Gender=Masc|Number=Sing	27	amod	_	_

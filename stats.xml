@@ -98,7 +98,7 @@
     <feat name="PunctType" value="Semi" upos="PUNCT">20</feat><!-- ; -->
     <feat name="Reflex" value="Yes" upos="PRON">314</feat><!-- se, me, nos, sí, consigo -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">43</feat><!-- será, habrá, tendrá, hará, reducirá, Evaluaremos, Jugarán, asistirán, cambiará, contendrán -->
-    <feat name="Tense" value="Imp" upos="AUX,VERB">331</feat><!-- era, estaba, podría, estaban, eran, tenía, tenían, podía, sería, consideraba -->
+    <feat name="Tense" value="Imp" upos="AUX,VERB">278</feat><!-- era, estaba, estaban, eran, tenía, tenían, podía, consideraba, debía, decía -->
     <feat name="Tense" value="Past" upos="AUX,VERB">1171</feat><!-- fue, ha, había, dijo, fueron, han, habían, sido, debido, hecho -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">762</feat><!-- es, está, son, puede, tiene, están, hay, hace, tienen, pueden -->
     <feat name="VerbForm" value="Fin" upos="AUX,VERB">1924</feat><!-- es, fue, ha, está, había, era, dijo, son, puede, tiene -->
