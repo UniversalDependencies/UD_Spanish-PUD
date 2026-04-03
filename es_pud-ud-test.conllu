@@ -8179,7 +8179,7 @@
 14	tiempo	tiempo	NOUN	NN	Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	,	PunctType=Comm	22	punct	_	_
 16	mientras	mientras	SCONJ	IN	ExtPos=SCONJ	22	mark	_	_
-17	que	que	ADP	IN	_	16	fixed	_	_
+17	que	que	SCONJ	IN	_	16	fixed	_	_
 18	nueve	nueve	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	22	nsubj	_	_
 19	de	de	ADP	IN	_	21	case	_	_
 20	cada	cada	DET	DT	Gender=Masc|Number=Plur|PronType=Tot	21	det	_	_
@@ -16589,7 +16589,7 @@
 31	%	%	SYM	SYM	_	20	obl	_	SpaceAfter=No
 32	,	,	PUNCT	,	PunctType=Comm	50	punct	_	_
 33	mientras	mientras	SCONJ	IN	ExtPos=SCONJ	50	mark	_	_
-34	que	que	ADP	IN	_	33	fixed	_	_
+34	que	que	SCONJ	IN	_	33	fixed	_	_
 35	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
 36	tasa	tasa	NOUN	NN	Gender=Fem|Number=Sing	50	nsubj	_	_
 37	de	de	ADP	IN	_	38	case	_	_
@@ -24853,7 +24853,7 @@
 16	conservadores	conservador	NOUN	NN	Gender=Masc|Number=Plur	12	obl	_	SpaceAfter=No
 17	,	,	PUNCT	,	PunctType=Comm	33	punct	_	_
 18	mientras	mientras	SCONJ	IN	ExtPos=SCONJ	33	mark	_	_
-19	que	que	ADP	IN	_	18	fixed	_	_
+19	que	que	SCONJ	IN	_	18	fixed	_	_
 20	otros	otro	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	21	det	_	_
 21	líderes	líder	NOUN	NN	Gender=Masc|Number=Plur	33	nsubj	_	_
 22-23	del	_	_	_	_	_	_	_	_
