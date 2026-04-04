@@ -11011,7 +11011,7 @@
 16	1916	1916	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	conj	_	SpaceAfter=No
 17	,	,	PUNCT	,	PunctType=Comm	18	punct	_	_
 18	Asty	Asty	PROPN	NNP	Number=Sing	16	orphan	_	_
-19	Film	Film	PROPN	NNP	Number=Sing	18	flat:name	_	orig_deprel=nsubj:pass|Proper=True|SpaceAfter=No
+19	Film	Film	PROPN	NNP	Number=Sing	18	flat:name	_	Proper=True|SpaceAfter=No|orig_deprel=nsubj:pass
 20	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
 # sent_id = w01006081
