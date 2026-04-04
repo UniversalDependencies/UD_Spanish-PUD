@@ -2567,7 +2567,7 @@
 # text = A pesar de la publicación de una foto esta mañana, la policía de Columbia Británica afirma que todavía tiene más preguntas que respuestas sobre el supuesto sin techo que ha sido acusado del apuñalamiento mortal de una adolescente en su instituto en Abbotsford.
 # text_en = Despite the release of a photo this morning, police in B.C. say they have more questions than answers about an apparently homeless man charged in the fatal stabbing of a teen girl at her Abbotsford high school.
 1	A	a	ADP	IN	ExtPos=ADP	5	case	_	_
-2	pesar	pesar	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	_
+2	pesar	pesar	VERB	VB	VerbForm=Inf	1	fixed	_	_
 3	de	de	ADP	IN	_	1	fixed	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	publicación	publicación	NOUN	NN	Gender=Fem|Number=Sing	17	obl	_	_
@@ -15841,7 +15841,7 @@
 # text = A pesar de esto, parece que ambos mantuvieron al menos partes del Bajo Egipto.
 # text_en = Despite this, they both seem to have held at least parts of lower Egypt.
 1	A	a	ADP	IN	ExtPos=ADP	4	case	_	_
-2	pesar	pesar	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	_
+2	pesar	pesar	VERB	VB	VerbForm=Inf	1	fixed	_	_
 3	de	de	ADP	IN	_	1	fixed	_	_
 4	esto	esto	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	6	obl	_	SpaceAfter=No
 5	,	,	PUNCT	,	PunctType=Comm	4	punct	_	_
@@ -15963,7 +15963,7 @@
 1	Carlos	Carlos	PROPN	NNP	Gender=Masc|Number=Sing	12	nsubj:pass	_	SpaceAfter=No
 2	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 3	a	a	ADP	IN	ExtPos=ADP	8	case	_	_
-4	pesar	pesar	NOUN	NN	Gender=Masc|Number=Sing	3	fixed	_	_
+4	pesar	pesar	VERB	VB	VerbForm=Inf	3	fixed	_	_
 5	de	de	ADP	IN	_	3	fixed	_	_
 6	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
 7	duras	duro	ADJ	JJ	Gender=Fem|Number=Plur	8	amod	_	_
@@ -25054,7 +25054,7 @@
 # text = A pesar de ellos, no todos en el partido entendieron ayer los mensajes que el presidente pretende enviar a los suyos.
 # text_en = In spite of them, not everyone in the party understood the messages that the president tried to send to them yesterday.
 1	A	a	ADP	IN	ExtPos=ADP	4	case	_	_
-2	pesar	pesar	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	_
+2	pesar	pesar	VERB	VB	VerbForm=Inf	1	fixed	_	_
 3	de	de	ADP	IN	_	1	fixed	_	_
 4	ellos	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	obl	_	SpaceAfter=No
 5	,	,	PUNCT	,	PunctType=Comm	4	punct	_	_
@@ -27365,7 +27365,7 @@
 # text = A pesar de ser el principal distribuidor de equipamiento y tejidos del mundo, la empresa alemana pasaba por dificultades financieras.
 # text_en = Despite being the number one distributor of equipment and textiles worldwide, the German company was in financial trouble.
 1	A	a	ADP	IN	ExtPos=ADP	7	case	_	_
-2	pesar	pesar	NOUN	NN	Gender=Masc|Number=Sing	1	fixed	_	_
+2	pesar	pesar	VERB	VB	VerbForm=Inf	1	fixed	_	_
 3	de	de	ADP	IN	_	1	fixed	_	_
 4	ser	ser	AUX	VB	VerbForm=Inf	7	cop	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
