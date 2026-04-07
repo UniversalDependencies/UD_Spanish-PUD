@@ -2926,7 +2926,7 @@
 # text = Mientras tanto, Clinton y sus aliados intentan que Trump siga siendo el centro de atención y denuncian que sus comentarios denigrantes sobre las mujeres y las minorías y su temperamento hacen que no sea apto para la presidencia.
 # text_en = Clinton and allies, meanwhile, are seeking to keep the spotlight on Trump, charging that his disparaging comments about women and minorities, and his temperament make him unfit for office.
 1	Mientras	mientras	SCONJ	IN	ExtPos=ADV	8	discourse	_	_
-2	tanto	tanto	PRON	RB	_	1	fixed	_	SpaceAfter=No
+2	tanto	tanto	PRON	RB	PronType=Dem	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 4	Clinton	Clinton	PROPN	NNP	Gender=Fem|Number=Sing	8	nsubj	_	_
 5	y	y	CCONJ	CC	_	7	cc	_	_
@@ -5135,7 +5135,7 @@
 # text = Mientras tanto, la mujer que está separada de un jefe de grupo parlamentario ha lanzado su campaña para quedarse con el puesto.
 # text_en = Meanwhile, the estranged wife of a government whip has launched her campaign to take the seat.
 1	Mientras	mientras	SCONJ	IN	ExtPos=ADV	16	discourse	_	_
-2	tanto	tanto	PRON	RB	_	1	fixed	_	SpaceAfter=No
+2	tanto	tanto	PRON	RB	PronType=Dem	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	mujer	mujer	NOUN	NN	Gender=Fem|Number=Sing	16	nsubj	_	_
@@ -5966,7 +5966,7 @@
 # text = Mientras tanto, los clientes del Bank of Scotland ganan el 3% sobre saldos de 3.000 a 5.000 libras al añadir la opción gratuita Vantage a su cuenta.
 # text_en = Meanwhile, Bank of Scotland customers earn 3% on balances of £3,000-£5,000 when they add the free Vantage option to their account.
 1	Mientras	mientras	SCONJ	IN	ExtPos=ADV	11	discourse	_	_
-2	tanto	tanto	PRON	RB	_	1	fixed	_	SpaceAfter=No
+2	tanto	tanto	PRON	RB	PronType=Dem	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 4	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	clientes	cliente	NOUN	NN	Gender=Masc|Number=Plur	11	nsubj	_	_
@@ -7276,7 +7276,7 @@
 # text = Mientras tanto, Hong Kong parece estarse preparando para una oleada de protestas.
 # text_en = Hong Kong, meanwhile, appears to be bracing for a wave of protests.
 1	Mientras	mientras	SCONJ	IN	ExtPos=ADV	6	discourse	_	_
-2	tanto	tanto	PRON	RB	_	1	fixed	_	SpaceAfter=No
+2	tanto	tanto	PRON	RB	PronType=Dem	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 4	Hong	Hong	PROPN	NNP	_	6	nsubj	_	_
 5	Kong	Kong	PROPN	NNP	_	4	flat:name	_	_
@@ -8538,7 +8538,7 @@
 # text_en = The result, then, is hardly the cat's pyjamas.
 1	Por	por	ADP	IN	_	10	discourse	_	_
 2	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	fixed	_	_
-3	tanto	tanto	ADV	RB	_	1	fixed	_	SpaceAfter=No
+3	tanto	tanto	ADV	RB	PronType=Dem	1	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	resultado	resultado	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
@@ -8603,7 +8603,7 @@
 10	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	12	nsubj	_	_
 11	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	_
 12	hace	hacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
-13	tanto	tanto	ADV	RB	_	14	advmod	_	_
+13	tanto	tanto	ADV	RB	PronType=Dem	14	advmod	_	_
 14	más	más	ADV	RBR	Degree=Cmp	12	advmod	_	_
 15	atractivo	atractivo	ADJ	JJ	Gender=Masc|Number=Sing	12	xcomp	_	SpaceAfter=No
 16	.	.	PUNCT	.	PunctType=Peri	6	punct	_	_
@@ -9665,7 +9665,7 @@
 # text = En tanto que uno de los primeros espadas de Negan (Jeffrey Dean Morgan), se le permiten ciertas libertades.
 # text_en = As one of Negan's (Jeffrey Dean Morgan) top guys, he's afforded certain freedoms.
 1	En	en	ADP	IN	ExtPos=ADP	4	case	_	_
-2	tanto	tanto	ADV	RB	_	1	fixed	_	_
+2	tanto	tanto	ADV	RB	PronType=Dem	1	fixed	_	_
 3	que	que	ADP	IN	_	1	fixed	_	_
 4	uno	uno	NOUN	NN	Gender=Masc|Number=Sing	19	obl	_	_
 5	de	de	ADP	IN	_	8	case	_	_
@@ -13047,7 +13047,7 @@
 # parallel_id = pud/w01033061
 # text = Tanto la investigación como las expediciones a la isla continúan.
 # text_en = Investigation and expeditions to the island continue.
-1	Tanto	tanto	ADV	RB	_	3	cc:preconj	_	_
+1	Tanto	tanto	ADV	RB	PronType=Dem	3	cc:preconj	_	_
 2	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	investigación	investigación	NOUN	NN	Gender=Fem|Number=Sing	10	nsubj	_	_
 4	como	como	ADP	IN	_	6	cc	_	_
@@ -13825,7 +13825,7 @@
 # text = Mientras tanto, controles adicionales del Nilo propiciaron el desarrollo en la isla Gezira y a lo largo de la ribera de la ciudad.
 # text_en = Meanwhile, additional controls of the Nile fostered development within Gezira Island and along the city's waterfront.
 1	Mientras	mientras	SCONJ	IN	ExtPos=ADV	9	discourse	_	_
-2	tanto	tanto	PRON	RB	_	1	fixed	_	SpaceAfter=No
+2	tanto	tanto	PRON	RB	PronType=Dem	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 4	controles	control	NOUN	NN	Gender=Masc|Number=Plur	9	nsubj	_	_
 5	adicionales	adicional	ADJ	JJ	Gender=Masc|Number=Plur	4	amod	_	_
@@ -14538,7 +14538,7 @@
 4	que	que	SCONJ	IN	_	13	mark	_	_
 5	ambos	ambos	NOUN	NN	Gender=Masc|Number=Plur	13	nsubj:pass	_	SpaceAfter=No
 6	,	,	PUNCT	,	PunctType=Comm	8	punct	_	_
-7	tanto	tanto	ADV	RB	_	8	cc:preconj	_	_
+7	tanto	tanto	ADV	RB	PronType=Dem	8	cc:preconj	_	_
 8	Mongolia	Mongolia	PROPN	NNP	Number=Sing	5	appos	_	_
 9	como	como	ADP	IN	_	10	cc	_	_
 10	China	China	PROPN	NNP	Number=Sing	8	conj	_	_
@@ -16338,7 +16338,7 @@
 2	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	compound:prt	_	_
 3	habían	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
 4	impactado	impactar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-5	tanto	tanto	ADV	RB	_	4	advmod	_	_
+5	tanto	tanto	ADV	RB	PronType=Dem	4	advmod	_	_
 6	por	por	ADP	IN	_	8	case	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	belleza	belleza	NOUN	NN	Gender=Fem|Number=Sing	4	obl:agent	_	_
@@ -16640,7 +16640,7 @@
 16	,	,	PUNCT	,	PunctType=Comm	25	punct	_	_
 17	y	y	CCONJ	CC	_	25	cc	_	_
 18	por	por	ADP	IN	_	25	discourse	_	_
-19	tanto	tanto	ADV	RB	_	18	fixed	_	_
+19	tanto	tanto	ADV	RB	PronType=Dem	18	fixed	_	_
 20	que	que	SCONJ	IN	_	25	mark	_	_
 21	unas	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
 22	ganancias	ganancia	NOUN	NN	Gender=Fem|Number=Plur	25	nsubj	_	_
@@ -17926,7 +17926,7 @@
 21	de	de	ADP	IN	_	22	case	_	_
 22	pila	pila	NOUN	NN	Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
 23	,	,	PUNCT	,	PunctType=Comm	27	punct	_	_
-24	tanto	tanto	ADV	RB	_	27	cc:preconj	_	_
+24	tanto	tanto	ADV	RB	PronType=Dem	27	cc:preconj	_	_
 25	cuando	cuando	ADV	WRB	PronType=Rel	27	advmod	_	_
 26	estaban	estar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	27	cop	_	_
 27	vivos	vivo	ADJ	JJ	Gender=Masc|Number=Plur	17	advcl	_	_
@@ -17997,7 +17997,7 @@
 14	tuvieron	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 15	significativas	significativo	ADJ	JJ	Gender=Fem|Number=Plur	16	amod	_	_
 16	ventajas	ventaja	NOUN	NN	Gender=Fem|Number=Plur	14	obj	_	_
-17	tanto	tanto	ADV	RB	_	19	cc:preconj	_	_
+17	tanto	tanto	ADV	RB	PronType=Dem	19	cc:preconj	_	_
 18	a	a	ADP	IN	_	19	case	_	_
 19	nivel	nivel	NOUN	NN	Gender=Masc|Number=Sing	14	obl	_	_
 20	de	de	ADP	IN	_	21	case	_	_
@@ -18151,7 +18151,7 @@
 2	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	humanos	humano	NOUN	NN	Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
-5	tanto	tanto	ADV	RB	_	7	cc:preconj	_	_
+5	tanto	tanto	ADV	RB	PronType=Dem	7	cc:preconj	_	_
 6	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
 7	varones	varón	NOUN	NN	Gender=Masc|Number=Plur	12	nsubj	_	_
 8	como	como	ADP	IN	_	10	cc	_	_
@@ -20933,7 +20933,7 @@
 23	echó	echar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 24	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	culpa	culpa	NOUN	NN	Gender=Fem|Number=Sing	23	obj	_	_
-26	tanto	tanto	ADV	RB	_	28	cc:preconj	_	_
+26	tanto	tanto	ADV	RB	PronType=Dem	28	cc:preconj	_	_
 27	a	a	ADP	IN	_	28	case	_	_
 28	Alemania	Alemania	PROPN	NNP	Number=Sing	23	obl	_	_
 29	como	como	ADP	IN	_	30	cc	_	_
@@ -21613,7 +21613,7 @@
 # text_en = A proper theology would therefore have to be constructed in the light of its future goal.
 1	Por	por	ADP	IN	_	9	discourse	_	_
 2	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	fixed	_	_
-3	tanto	tanto	ADV	RB	_	1	fixed	_	SpaceAfter=No
+3	tanto	tanto	ADV	RB	PronType=Dem	1	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 5	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	teología	teología	NOUN	NN	Gender=Fem|Number=Sing	9	nsubj:pass	_	_
@@ -23308,7 +23308,7 @@
 # text = Por tanto los irritantes signos no desaparecerán completamente: Según los informes de la agencia de noticias dpa, sólo serán activados si, por ejemplo, el artista o el sello discográfico no son miembros de GEMA o no tienen un acuerdo con Youtube.
 # text_en = Therefore the irksome signs will not completely disappear: According to information from the news agency dpa, they will only be activated if, for instance, the artist or record label is not a member of GEMA and does not have an agreement with YouTube.
 1	Por	por	ADP	IN	_	7	discourse	_	_
-2	tanto	tanto	ADV	RB	_	1	fixed	_	_
+2	tanto	tanto	ADV	RB	PronType=Dem	1	fixed	_	_
 3	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 4	irritantes	irritante	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
 5	signos	signo	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj	_	_
@@ -23400,7 +23400,7 @@
 2	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	sorprendente	sorprendente	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
 4	que	que	SCONJ	IN	_	13	mark	_	_
-5	tanto	tanto	ADV	RB	_	7	cc:preconj	_	_
+5	tanto	tanto	ADV	RB	PronType=Dem	7	cc:preconj	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	gobierno	gobierno	NOUN	NN	Gender=Masc|Number=Sing	13	nsubj	_	_
 8	federal	federal	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	_
@@ -25922,7 +25922,7 @@
 # parallel_id = pud/w02007008
 # text = Tanto el momento como la secuencia de eventos de este incidente fueron discutidos enérgicamente.
 # text_en = Both the time and the sequence of events of this incident were vigorously discussed.
-1	Tanto	tanto	ADV	RB	_	3	cc:preconj	_	_
+1	Tanto	tanto	ADV	RB	PronType=Dem	3	cc:preconj	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	momento	momento	NOUN	NN	Gender=Masc|Number=Sing	13	nsubj:pass	_	_
 4	como	como	ADP	IN	_	6	cc	_	_
@@ -28243,7 +28243,7 @@
 4	varias	vario	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	5	det	_	_
 5	pistas	pista	NOUN	NN	Gender=Fem|Number=Plur	2	obl	_	_
 6	cinematográficas	cinematográfico	ADJ	JJ	Gender=Fem|Number=Plur	5	amod	_	_
-7	tanto	tanto	ADV	RB	_	9	cc:preconj	_	_
+7	tanto	tanto	ADV	RB	PronType=Dem	9	cc:preconj	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	Morricone	Morricone	PROPN	NNP	Gender=Masc|Number=Sing	5	nmod	_	_
 10	como	como	ADP	IN	_	11	cc	_	_
@@ -29032,7 +29032,7 @@
 # text = Mientras tanto, su puesto de tribuno fue ocupado por Marco Antonio, que lo desempeñó hasta diciembre.
 # text_en = Meanwhile, his place in tribune was occupied by Marco Antonio, who held the position until December.
 1	Mientras	mientras	SCONJ	IN	ExtPos=ADV	9	discourse	_	_
-2	tanto	tanto	PRON	RB	_	1	fixed	_	SpaceAfter=No
+2	tanto	tanto	PRON	RB	PronType=Dem	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 4	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
 5	puesto	puesto	NOUN	NN	Gender=Masc|Number=Sing	9	nsubj:pass	_	_
