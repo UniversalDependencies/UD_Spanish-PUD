@@ -4927,7 +4927,7 @@
 2	revelar	revelar	VERB	VB	VerbForm=Inf	1	xcomp	_	_
 3	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	étimo	étimo	NOUN	NN	Gender=Masc|Number=Sing	2	obj	_	_
-5	mientras	mientras	SCONJ	WRB	_	6	advmod	_	_
+5	mientras	mientras	SCONJ	WRB	_	6	mark	_	_
 6	hablaba	hablar	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	1	advcl	_	_
 7	con	con	ADP	IN	_	8	case	_	_
 8	Woods	Woods	PROPN	NNP	Gender=Masc|Number=Sing	6	obl	_	_
@@ -13532,7 +13532,7 @@
 # parallel_id = pud/w01039058
 # text = Mientras Brisbane crecía, la condición del río empeoraba hasta que en su peor momento no era más que una alcantarilla y un vertedero de basura.
 # text_en = As Brisbane grew, the condition of the river worsened until at its worst it was no more than an open sewer and waste dump.
-1	Mientras	mientras	SCONJ	WRB	_	3	advmod	_	_
+1	Mientras	mientras	SCONJ	WRB	_	3	mark	_	_
 2	Brisbane	Brisbane	PROPN	NNP	Number=Sing	3	nsubj	_	_
 3	crecía	crecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
@@ -15231,7 +15231,7 @@
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	sur	sur	NOUN	NN	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	,	PunctType=Comm	17	punct	_	_
-16	mientras	mientras	SCONJ	WRB	_	17	advmod	_	_
+16	mientras	mientras	SCONJ	WRB	_	17	mark	_	_
 17	manipulaban	manipular	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	advcl	_	_
 18	a	a	ADP	IN	_	20	case	_	_
 19	muchos	mucho	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	20	det	_	_
@@ -19036,7 +19036,7 @@
 6	,	,	PUNCT	,	PunctType=Comm	7	punct	_	_
 7	Elaine	Elaine	PROPN	NNP	Gender=Fem|Number=Sing	5	appos	_	SpaceAfter=No
 8	,	,	PUNCT	,	PunctType=Comm	10	punct	_	_
-9	mientras	mientras	SCONJ	WRB	_	10	advmod	_	_
+9	mientras	mientras	SCONJ	WRB	_	10	mark	_	_
 10	rodaban	rodar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
 11	That	that	DET	DT	Number=Sing|PronType=Ind	12	det	_	Proper=True
 12	Summer	summer	NOUN	NN	Number=Sing	10	obj	_	Proper=True
@@ -19431,7 +19431,7 @@
 7	de	de	ADP	IN	_	8	case	_	_
 8	Tolle	Tolle	PROPN	NNP	Number=Sing	6	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	,	PunctType=Comm	13	punct	_	_
-10	mientras	mientras	SCONJ	WRB	_	13	advmod	_	_
+10	mientras	mientras	SCONJ	WRB	_	13	mark	_	_
 11	otros	otro	NOUN	NN	Gender=Masc|Number=Plur	13	nsubj	_	_
 12	las	él	PRON	PRP	Case=Acc|Gender=Fem|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	13	obj	_	_
 13	elogian	elogiar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	SpaceAfter=No
@@ -20984,7 +20984,7 @@
 2	este	este	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 3	tiempo	tiempo	NOUN	NN	Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
-5	mientras	mientras	SCONJ	WRB	_	9	advmod	_	_
+5	mientras	mientras	SCONJ	WRB	_	9	mark	_	_
 6	Piaf	Piaf	PROPN	NNP	Gender=Fem|Number=Sing	9	nsubj	_	_
 7	y	y	CCONJ	CC	_	8	cc	_	_
 8	Mômone	Mômone	PROPN	NNP	Gender=Fem|Number=Sing	6	conj	_	_
@@ -22163,7 +22163,7 @@
 21	de	de	ADP	IN	_	22	case	_	_
 22	pie	pie	NOUN	NN	Gender=Masc|Number=Sing	20	obl	_	_
 23	mirando	mirar	VERB	VBG	VerbForm=Ger	20	advcl	_	_
-24	mientras	mientras	SCONJ	WRB	_	28	advmod	_	_
+24	mientras	mientras	SCONJ	WRB	_	28	mark	_	_
 25	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	jubilado	jubilado	NOUN	NN	Gender=Masc|Number=Sing	28	nsubj	_	_
 27	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	28	compound:prt	_	_
