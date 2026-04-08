@@ -19434,7 +19434,7 @@
 10	mientras	mientras	SCONJ	WRB	_	13	mark	_	_
 11	otros	otro	NOUN	NN	Gender=Masc|Number=Plur	13	nsubj	_	_
 12	las	él	PRON	PRP	Case=Acc|Gender=Fem|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	13	obj	_	_
-13	elogian	elogiar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	SpaceAfter=No
+13	elogian	elogiar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	SpaceAfter=No
 14	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
 # newdoc id = w01117
