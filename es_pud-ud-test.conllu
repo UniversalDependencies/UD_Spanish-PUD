@@ -18700,7 +18700,7 @@
 4	que	que	ADP	IN	_	8	mark	_	_
 5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	fuerzas	fuerza	NOUN	NN	Gender=Fem|Number=Plur	8	nsubj	_	_
-7	armadas	armada	ADJ	JJ	Gender=Fem|Number=Plur	6	amod	_	_
+7	armadas	armado	ADJ	JJ	Gender=Fem|Number=Plur	6	amod	_	_
 8	continuaron	continuar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	advcl	_	_
 9-10	usándolo	_	_	_	_	_	_	_	_
 9	usando	usar	VERB	VBG	VerbForm=Ger	8	xcomp	_	_
