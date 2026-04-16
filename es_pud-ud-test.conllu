@@ -7694,9 +7694,9 @@
 # text_en = Retail and wholesale businesses expanded as shoppers remained upbeat, and consumer services companies also grew.
 1	Las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
 2	empresas	empresa	NOUN	NN	Gender=Fem|Number=Plur	7	nsubj	_	_
-3	minoristas	minoristo	ADJ	JJ	Gender=Fem|Number=Plur	2	amod	_	_
+3	minoristas	minorista	ADJ	JJ	Number=Plur	2	amod	_	_
 4	y	y	CCONJ	CC	_	5	cc	_	_
-5	mayoristas	mayorista	NOUN	NN	Gender=Fem|Number=Plur	3	conj	_	_
+5	mayoristas	mayorista	ADJ	JJ	Number=Plur	3	conj	_	_
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	compound:prt	_	_
 7	expandieron	expandir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	,	PunctType=Comm	13	punct	_	_
@@ -13195,7 +13195,7 @@
 # text_en = Agricultural land can actually suffer from the destruction of the surrounding landscape.
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	tierra	tierra	NOUN	NN	Gender=Fem|Number=Sing	6	nsubj	_	_
-3	agrícola	agrícolo	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	_
+3	agrícola	agrícola	ADJ	JJ	Number=Sing	2	amod	_	_
 4	actualmente	actualmente	ADV	RB	_	6	advmod	_	_
 5	puede	poder	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 6	sufrir	sufrir	VERB	VB	VerbForm=Inf	0	root	_	_
@@ -13229,7 +13229,7 @@
 13	rodea	rodear	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	terreno	terreno	NOUN	NN	Gender=Masc|Number=Sing	13	obj	_	_
-16	agrícola	agrícola	ADJ	JJ	Gender=Masc|Number=Sing	15	amod	_	_
+16	agrícola	agrícola	ADJ	JJ	Number=Sing	15	amod	_	_
 17	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	aux	_	_
 18	degradado	degradar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 19	aproximadamente	aproximadamente	ADV	RB	_	18	advmod	_	_
@@ -13240,7 +13240,7 @@
 23	de	de	ADP	INDT	_	25	case	_	_
 24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	terreno	terreno	NOUN	NN	Gender=Masc|Number=Sing	22	nmod	_	_
-26	agrícola	agrícola	ADJ	JJ	Gender=Masc|Number=Sing	25	amod	_	_
+26	agrícola	agrícola	ADJ	JJ	Number=Sing	25	amod	_	_
 27	a	a	ADP	IN	_	28	case	_	_
 28	nivel	nivel	NOUN	NN	Gender=Masc|Number=Sing	18	obl	_	_
 29	mundial	mundial	ADJ	JJ	Gender=Masc|Number=Sing	28	amod	_	_
@@ -23477,7 +23477,7 @@
 1	Si	si	SCONJ	IN	_	6	mark	_	_
 2	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	oponente	oponente	NOUN	NN	Gender=Fem|Number=Sing	6	nsubj:pass	_	_
-4	demócrata	demócrato	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	_
+4	demócrata	demócrata	ADJ	JJ	Number=Sing	3	amod	_	_
 5	fuera	ser	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	aux:pass	_	_
 6	elegida	elegir	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	SpaceAfter=No
 7	,	,	PUNCT	,	PunctType=Comm	6	punct	_	_
@@ -24143,7 +24143,7 @@
 16	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	familia	familia	NOUN	NN	Gender=Fem|Number=Sing	14	obl	_	_
 18	católica	católico	ADJ	JJ	Gender=Fem|Number=Sing	17	amod	_	Proper=True
-19	antifascista	antifascisto	ADJ	JJ	Gender=Fem|Number=Sing	17	amod	_	SpaceAfter=No
+19	antifascista	antifascista	ADJ	JJ	Number=Sing	17	amod	_	SpaceAfter=No
 20	,	,	PUNCT	,	PunctType=Comm	22	punct	_	_
 21	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	22	nsubj	_	_
 22	vivió	vivir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	acl:relcl	_	_
@@ -24872,7 +24872,7 @@
 34	a	a	ADP	IN	_	37	case	_	_
 35	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	37	det	_	_
 36	más	más	ADV	RBR	Degree=Cmp	37	advmod	_	_
-37	progresistas	progresista	NOUN	NN	Gender=Masc|Number=Plur	33	obl	_	SpaceAfter=No
+37	progresistas	progresista	NOUN	NN	Number=Plur	33	obl	_	SpaceAfter=No
 38	.	.	PUNCT	.	PunctType=Peri	12	punct	_	_
 
 # sent_id = n05001008
@@ -28472,7 +28472,7 @@
 11	de	de	ADP	IN	_	13	case	_	_
 12	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	línea	línea	NOUN	NN	Gender=Fem|Number=Sing	10	nmod	_	_
-14	progresista	progresisto	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	SpaceAfter=No
+14	progresista	progresista	ADJ	JJ	Number=Sing	13	amod	_	SpaceAfter=No
 15	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
 16	provocaron	provocar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 17	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
