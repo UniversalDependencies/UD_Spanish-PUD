@@ -22888,7 +22888,7 @@
 12	en	en	ADP	IN	_	14	case	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	piedra	piedra	NOUN	NN	Gender=Fem|Number=Sing	11	obl	_	_
-15	caliza	caliza	ADJ	JJ	Number=Sing	14	amod	_	_
+15	caliza	calizo	ADJ	JJ	Number=Sing	14	amod	_	_
 16	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	cop	_	_
 17	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 18	última	último	ADJ	JJ	Gender=Fem|Number=Sing	19	amod	_	_
