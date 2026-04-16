@@ -10981,7 +10981,7 @@
 6	élite	élite	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	_
 7	macedonia	macedonio	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	Proper=True
 8	y	y	CCONJ	CC	_	9	cc	_	_
-9	persa	perso	ADJ	JJ	Gender=Fem|Number=Sing	7	conj	_	Proper=True
+9	persa	persa	ADJ	JJ	Number=Sing	7	conj	_	Proper=True
 10	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	compound:prt	_	_
 11	casaban	casar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 12	entre	entre	ADP	IN	_	13	case	_	_
