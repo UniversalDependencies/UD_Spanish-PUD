@@ -10949,7 +10949,7 @@
 32	de	de	ADP	INDT	_	34	case	_	_
 33	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
 34	Imperio	imperio	NOUN	NN	Gender=Masc|Number=Sing	30	nmod	_	Proper=True
-35	persa	persa	ADJ	JJ	Gender=Masc|Number=Sing	34	amod	_	Proper=True|SpaceAfter=No
+35	persa	perso	ADJ	JJ	Gender=Masc|Number=Sing	34	amod	_	Proper=True|SpaceAfter=No
 36	.	.	PUNCT	.	PunctType=Peri	18	punct	_	_
 
 # sent_id = w01005023
@@ -15492,7 +15492,7 @@
 15	hayan	haber	AUX	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	aux	_	_
 16	constituido	constituir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	conj	_	_
 17	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
-18	cananita	cananita	ADJ	JJ	Gender=Masc|Number=Sing	21	amod	_	Proper=True
+18	cananita	cananito	ADJ	JJ	Gender=Masc|Number=Sing	21	amod	_	Proper=True
 19	"	"	PUNCT	``	PunctType=Quot	21	punct	_	SpaceAfter=No
 20	gran	gran	ADJ	JJ	Gender=Masc|Number=Sing	21	amod	_	_
 21	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	16	obj	_	SpaceAfter=No
