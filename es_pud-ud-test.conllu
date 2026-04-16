@@ -3259,7 +3259,7 @@
 7	proactiva	proactivo	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	_
 8	sobre	sobre	ADP	IN	_	9	case	_	_
 9	remuneraciones	remuneración	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
-10	extra	extro	ADJ	JJ	Gender=Fem|Number=Plur	9	amod	_	_
+10	extra	extra	ADJ	JJ	Number=Plur	9	amod	_	_
 11	por	por	ADP	IN	_	12	case	_	_
 12	rendimiento	rendimiento	NOUN	NN	Gender=Masc|Number=Sing	9	nmod	_	_
 13	y	y	CCONJ	CC	_	16	cc	_	_
