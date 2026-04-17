@@ -13168,7 +13168,7 @@
 6	ecosistema	ecosistema	NOUN	NN	Gender=Masc|Number=Sing	11	nsubj	_	_
 7	sano	sano	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	_
 8	con	con	ADP	IN	_	10	case	_	_
-9	buena	bueno	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	_
+9	buena	buen	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	_
 10	administración	administración	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
 11	reducirá	reducir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 12	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
@@ -17525,7 +17525,7 @@
 11	ahí	ahí	ADV	RB	_	10	advmod	_	_
 12	con	con	ADP	IN	_	15	case	_	_
 13	suficientes	suficiente	ADJ	JJ	Gender=Fem|Number=Plur	15	amod	_	_
-14	buenas	bueno	ADJ	JJ	Gender=Fem|Number=Plur	15	amod	_	_
+14	buenas	buen	ADJ	JJ	Gender=Fem|Number=Plur	15	amod	_	_
 15	tierras	tierra	NOUN	NN	Gender=Fem|Number=Plur	10	obl	_	_
 16	para	para	ADP	IN	_	17	case	_	_
 17	pastoreo	pastoreo	NOUN	NN	Gender=Masc|Number=Sing	15	nmod	_	_
@@ -19805,7 +19805,7 @@
 12	,	,	PUNCT	,	PunctType=Comm	14	punct	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	bruja	bruja	NOUN	NN	Gender=Fem|Number=Sing	11	appos	_	_
-15	buena	bueno	ADJ	JJ	Gender=Fem|Number=Sing	14	amod	_	SpaceAfter=No
+15	buena	buen	ADJ	JJ	Gender=Fem|Number=Sing	14	amod	_	SpaceAfter=No
 16	,	,	PUNCT	,	PunctType=Comm	19	punct	_	_
 17	en	en	ADP	IN	_	19	case	_	_
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
@@ -23245,7 +23245,7 @@
 # text = Los buenos números en Asia impulsaron rápidamente los mercados.
 # text_en = The good numbers in Asia promptly pushed the stock markets up.
 1	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
-2	buenos	bueno	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	_
+2	buenos	buen	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	_
 3	números	número	NOUN	NN	Gender=Masc|Number=Plur	6	nsubj	_	_
 4	en	en	ADP	IN	_	5	case	_	_
 5	Asia	Asia	PROPN	NNP	Number=Sing	3	nmod	_	_
@@ -24116,7 +24116,7 @@
 1	Francia	Francia	PROPN	NNP	Number=Sing	3	nsubj	_	_
 2	no	no	ADV	RB	Polarity=Neg	3	advmod	_	_
 3	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	buena	bueno	ADJ	JJ	Gender=Fem|Number=Sing	5	amod	_	_
+4	buena	buen	ADJ	JJ	Gender=Fem|Number=Sing	5	amod	_	_
 5	reputación	reputación	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
 6	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
@@ -25837,7 +25837,7 @@
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	jardín	jardín	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj:pass	_	_
 3	Yerba	yerba	NOUN	NN	Gender=Fem|Number=Sing	2	appos	_	Proper=True
-4	Buena	bueno	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	Proper=True
+4	Buena	buen	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	Proper=True
 5	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
 6	construido	construir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 7	a	a	ADP	IN	_	8	case	_	_
