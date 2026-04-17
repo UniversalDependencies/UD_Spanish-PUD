@@ -20900,7 +20900,7 @@
 23	a	a	ADP	IN	_	25	case	_	_
 24	otros	otro	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	25	det	_	_
 25	oficiales	oficial	NOUN	NN	Gender=Masc|Number=Plur	21	conj	_	_
-26	alemanes	aleman	ADJ	JJ	Gender=Masc|Number=Plur	25	amod	_	Proper=True|SpaceAfter=No
+26	alemanes	alemán	ADJ	JJ	Gender=Masc|Number=Plur	25	amod	_	Proper=True|SpaceAfter=No
 27	.	.	PUNCT	.	PunctType=Peri	11	punct	_	_
 
 # sent_id = w01137068
@@ -20956,7 +20956,7 @@
 10	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	11	nummod	_	_
 11	granjeros	granjero	NOUN	NN	Gender=Masc|Number=Plur	8	obl	_	_
 12	sudetes	sudete	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	Proper=True
-13	alemanes	aleman	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	Proper=True
+13	alemanes	alemán	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	Proper=True
 14	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	16	nsubj	_	_
 15	estaban	estar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	16	aux	_	_
 16	intentando	intentar	VERB	VBG	VerbForm=Ger	11	acl:relcl	_	_
@@ -27382,7 +27382,7 @@
 15	,	,	PUNCT	,	PunctType=Comm	7	punct	_	_
 16	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	empresa	empresa	NOUN	NN	Gender=Fem|Number=Sing	19	nsubj	_	_
-18	alemana	alemano	ADJ	JJ	Gender=Fem|Number=Sing	17	amod	_	Proper=True
+18	alemana	alemán	ADJ	JJ	Gender=Fem|Number=Sing	17	amod	_	Proper=True
 19	pasaba	pasar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 20	por	por	ADP	IN	_	21	case	_	_
 21	dificultades	dificultad	NOUN	NN	Gender=Fem|Number=Plur	19	obl	_	_
