@@ -20350,7 +20350,7 @@
 8	a	a	ADP	IN	_	9	case	_	_
 9	formar	formar	VERB	VB	VerbForm=Inf	5	xcomp	_	_
 10	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
-11	propia	proprio	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	_
+11	propia	propio	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	_
 12	red	red	NOUN	NN	Gender=Fem|Number=Sing	9	obj	_	_
 13	dentro	dentro	ADV	RB	_	9	advmod	_	_
 14	de	de	ADP	IN	_	16	case	_	_
