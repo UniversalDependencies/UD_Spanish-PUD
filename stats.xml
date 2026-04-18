@@ -10,22 +10,22 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>1000</sentences><tokens>22816</tokens><words>23283</words><fused>467</fused></test>
   </size>
-  <lemmas unique="4484" /><!-- el, de, ,, ., en, a, que, él, uno, y, ser, su, por, haber, con -->
+  <lemmas unique="4483" /><!-- el, de, ,, ., en, a, que, él, uno, y, ser, su, por, haber, con -->
   <forms unique="5937" /><!-- de, el, ,, ., la, en, a, que, y, los, se, un, las, una, por -->
   <fusions unique="63" /><!-- del, al, verlo, beneficiarse, convirtiéndose, hacerlo, recuperarlo, Didn't, Don't, admitiéndolo, alejarse, aplicándolo, centrarse, centrándose, comprometerse -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="17">
-    <tag name="ADJ">1481</tag><!-- nuevo, gran, primero, último, mayor, unido, británico, nacional, grande, propio -->
+    <tag name="ADJ">1482</tag><!-- nuevo, gran, primero, último, mayor, unido, británico, nacional, grande, propio -->
     <tag name="ADP">3955</tag><!-- de, en, a, por, con, para, como, que, entre, durante -->
     <tag name="ADV">879</tag><!-- no, más, también, cuando, antes, después, ya, muy, donde, solo -->
     <tag name="AUX">634</tag><!-- ser, haber, estar, poder, deber, do, soler -->
     <tag name="CCONJ">582</tag><!-- y, pero, o, e, ni, and -->
     <tag name="DET">3338</tag><!-- el, uno, este, otro, todo, ese, mucho, esto, cada, vario -->
     <tag name="INTJ">1</tag><!-- yum -->
-    <tag name="NOUN">4811</tag><!-- año, parte, estado, ciudad, vez, guerra, lugar, día, gobierno, persona -->
+    <tag name="NOUN">4809</tag><!-- año, parte, estado, ciudad, vez, guerra, lugar, día, gobierno, persona -->
     <tag name="NUM">435</tag><!-- dos, tres, 1, 10, cuatro, 3, mil, seis, 70, 100 -->
     <tag name="PART">2</tag><!-- not -->
-    <tag name="PRON">1045</tag><!-- él, que, su, yo, cual, quien, tanto, tú, cuál, qué -->
+    <tag name="PRON">1046</tag><!-- él, que, su, yo, cual, quien, tanto, tú, cuál, qué -->
     <tag name="PROPN">1253</tag><!-- Cristo, China, Trump, mediterráneo, Europa, Hong, Italia, Kong, Albania, Australia -->
     <tag name="PUNCT">2290</tag><!-- ,, ., ", (, ), :, ;, -, ?, ¿ -->
     <tag name="SCONJ">279</tag><!-- que, si, mientras, como, aunque, porque, a, de, hasta, para -->
@@ -53,8 +53,8 @@
     <feat name="ExtPos" value="CCONJ" upos="ADP,ADV,CCONJ">9</feat><!-- así, a, o -->
     <feat name="ExtPos" value="SCONJ" upos="ADV,DET,SCONJ,VERB">34</feat><!-- ya, a, mientras, hasta, como, dado, de, debido, para, una -->
     <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,AUX,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,PUNCT,SCONJ,VERB,X">67</feat><!-- The, My, News, Really, You, cápita, per, -, American, Anyway -->
-    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">4514</feat><!-- la, las, una, su, que, esta, sus, guerra, parte, ciudad -->
-    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">7131</feat><!-- el, los, un, que, lo, su, años, este, año, lugar -->
+    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">4512</feat><!-- la, las, una, su, que, esta, sus, guerra, parte, ciudad -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">7127</feat><!-- el, los, un, que, lo, su, años, este, año, lugar -->
     <feat name="Hyph" value="Yes" upos="ADJ">4</feat><!-- austro, co, franco, multi -->
     <feat name="Mood" value="Cnd" upos="AUX,VERB">54</feat><!-- podría, sería, debería, podrían, aplicaría, estaría, serían, asistiría, ayudaría, conocerían -->
     <feat name="Mood" value="Imp" upos="AUX,VERB">2</feat><!-- Do, Knuck -->
@@ -78,7 +78,7 @@
     <feat name="PrepCase" value="Pre" upos="PRON">3</feat><!-- sí, mí -->
     <feat name="PronType" value="Art" upos="DET">2989</feat><!-- el, la, los, un, las, una, unos, unas, The, Le -->
     <feat name="PronType" value="Dem" upos="ADV,DET,PRON">172</feat><!-- este, esta, tanto, esto, ese, eso, estos, esos, estas, esa -->
-    <feat name="PronType" value="Ind" upos="DET,PRON">116</feat><!-- muchos, muchas, otros, varios, otra, otro, algunos, varias, otras, algunas -->
+    <feat name="PronType" value="Ind" upos="DET,PRON">117</feat><!-- muchos, muchas, otros, varios, otra, otro, algunos, varias, otras, algunas -->
     <feat name="PronType" value="Int" upos="DET,PRON">13</feat><!-- qué, cuál, quién, Cuáles, Quiénes -->
     <feat name="PronType" value="Int,Rel" upos="PRON">2</feat><!-- cuanto -->
     <feat name="PronType" value="Neg" upos="DET">2</feat><!-- ninguna, ningún -->
