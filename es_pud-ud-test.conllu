@@ -20405,7 +20405,7 @@
 25	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	_	_
 26	tierras	tierra	NOUN	NN	Gender=Fem|Number=Plur	22	nmod	_	_
 27	bajas	bajo	ADJ	JJ	Gender=Fem|Number=Plur	26	amod	_	_
-28	mayas	mayo	ADJ	JJ	Gender=Fem|Number=Plur	26	amod	_	Proper=True|SpaceAfter=No
+28	mayas	maya	ADJ	JJ	Gender=Fem|Number=Plur	26	amod	_	Proper=True|SpaceAfter=No
 29	.	.	PUNCT	.	PunctType=Peri	14	punct	_	_
 
 # sent_id = w01132056
