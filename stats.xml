@@ -71,7 +71,7 @@
     <feat name="Person" value="1" upos="AUX,DET,PRON,VERB">129</feat><!-- me, nos, yo, estamos, nuestro, debemos, he, mi, creo, hemos -->
     <feat name="Person" value="2" upos="AUX,DET,PRON,VERB">21</feat><!-- You, te, tienes, Buck, Do, Knew, Knuck, Terminas, Ya, habéis -->
     <feat name="Person" value="3" upos="AUX,PRON,VERB">2534</feat><!-- se, su, es, lo, fue, ha, sus, está, había, le -->
-    <feat name="Polarity" value="Neg" upos="ADV,PART">128</feat><!-- no, nunca, n't, tampoco -->
+    <feat name="Polarity" value="Neg" upos="ADV,PART">130</feat><!-- no, nunca, n't, tampoco -->
     <feat name="Polite" value="Form" upos="PRON">2</feat><!-- usted, ustedes -->
     <feat name="Poss" value="Yes" upos="DET,PRON">249</feat><!-- su, sus, nuestro, mi, nuestra, cuyo, nuestras, nuestros, cuya, cuyos -->
     <feat name="PrepCase" value="Npr" upos="PRON">428</feat><!-- se, lo, me, nos, la, los, te, las, os -->
