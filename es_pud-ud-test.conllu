@@ -1273,7 +1273,7 @@
 3	como	como	ADP	IN	_	7	case	_	_
 4	China	China	PROPN	NNP	Number=Sing	5	nsubj	_	_
 5	va	ir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	xcomp	_	_
-6	a	a	ADP	IN	_	5	fixed	_	_
+6	a	a	ADP	IN	_	7	mark	_	_
 7-8	convertirse	_	_	_	_	_	_	_	_
 7	convertir	convertir	VERB	VB	VerbForm=Inf	5	xcomp	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	compound:prt	_	_
@@ -4502,7 +4502,7 @@
 15	reconocido	reconocer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl:relcl	_	_
 16	que	que	SCONJ	IN	_	17	mark	_	_
 17	tenemos	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	15	ccomp	_	_
-18	que	que	ADP	IN	_	17	fixed	_	_
+18	que	que	ADP	IN	_	19	mark	_	_
 19	hacer	hacer	VERB	VB	VerbForm=Inf	17	xcomp	_	_
 20	algo	algo	NOUN	NN	Gender=Masc|Number=Sing	17	obj	_	_
 21	diferente	diferente	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	SpaceAfter=No
@@ -5254,7 +5254,7 @@
 12	Delhi	Delhi	PROPN	NNP	Number=Sing	10	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	,	PunctType=Comm	10	punct	_	_
 14	dejará	dejar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
-15	de	de	ADP	IN	_	14	fixed	_	_
+15	de	de	ADP	IN	_	16	mark	_	_
 16	funcionar	funcionar	VERB	VB	VerbForm=Inf	14	xcomp	_	_
 17	durante	durante	ADP	IN	_	19	case	_	_
 18	10	10	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	19	nummod	_	_
@@ -5387,7 +5387,7 @@
 # text = Van a ir a por todas y a intentar ganar a Inglaterra.
 # text_en = They have one crack at redemption, beating England.
 1	Van	ir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	a	a	ADP	IN	_	1	fixed	_	_
+2	a	a	ADP	IN	_	3	mark	_	_
 3	ir	ir	VERB	VB	VerbForm=Inf	1	xcomp	_	_
 4	a	a	ADP	IN	ExtPos=ADP	6	case	_	_
 5	por	por	ADP	IN	_	4	fixed	_	_
@@ -6265,7 +6265,7 @@
 # text_en = Catalano moved back to the area after living in London and then Glasgow, where he had studied jewellery design at Glasgow School of Art.
 1	Catalano	Catalano	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
 2	volvió	volver	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	a	a	ADP	IN	_	2	fixed	_	_
+3	a	a	ADP	IN	_	4	mark	_	_
 4	vivir	vivir	VERB	VB	VerbForm=Inf	2	xcomp	_	_
 5	a	a	ADP	IN	_	7	case	_	_
 6	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -6496,7 +6496,7 @@
 24	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	25	det	_	_
 25	armas	arma	NOUN	NN	Gender=Fem|Number=Plur	18	nmod	_	_
 26	vuelvan	volver	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	ccomp	_	_
-27	a	a	ADP	IN	_	26	fixed	_	_
+27	a	a	ADP	IN	_	28	mark	_	_
 28	evitar	evitar	VERB	VB	VerbForm=Inf	26	xcomp	_	_
 29	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	30	det	_	_
 30	responsabilidades	responsabilidad	NOUN	NN	Gender=Fem|Number=Plur	26	obj	_	SpaceAfter=No
@@ -8637,7 +8637,7 @@
 8	que	que	SCONJ	IN	_	10	mark	_	_
 9	tampoco	tampoco	ADV	RB	_	10	advmod	_	_
 10	volveríamos	volver	VERB	VBC	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	5	ccomp	_	_
-11	a	a	ADP	IN	_	10	fixed	_	_
+11	a	a	ADP	IN	_	12	mark	_	_
 12	ver	ver	VERB	VB	VerbForm=Inf	10	xcomp	_	_
 13-14	al	_	_	_	_	_	_	_	_
 13	a	a	ADP	INDT	_	18	case	_	_
@@ -9278,7 +9278,7 @@
 1	Martin	Martin	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	todavía	todavía	ADV	RB	_	3	advmod	_	_
 3	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	que	que	ADP	IN	_	3	fixed	_	_
+4	que	que	ADP	IN	_	5	mark	_	_
 5	terminar	terminar	VERB	VB	VerbForm=Inf	3	xcomp	_	_
 6	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	3	obj	_	_
 7	de	de	ADP	IN	_	10	case	_	_
@@ -9320,11 +9320,11 @@
 3	holandeses	holandés	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	Proper=True
 4	todavía	todavía	ADV	RB	_	5	advmod	_	_
 5	tienen	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	que	que	ADP	IN	_	5	fixed	_	_
+6	que	que	ADP	IN	_	7	mark	_	_
 7	decidir	decidir	VERB	VB	VerbForm=Inf	5	xcomp	_	_
 8	si	si	SCONJ	IN	_	9	mark	_	_
 9	van	ir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
-10	a	a	ADP	IN	_	9	fixed	_	_
+10	a	a	ADP	IN	_	11	mark	_	_
 11	comercializar	comercializar	VERB	VB	VerbForm=Inf	9	xcomp	_	_
 12	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
 13	motocicleta	motocicleta	NOUN	NN	Gender=Fem|Number=Sing	9	obj	_	_
@@ -9526,7 +9526,7 @@
 8	Libertades	libertad	NOUN	NN	Gender=Fem|Number=Plur	5	nmod	_	Proper=True
 9	Civiles	civil	ADJ	JJ	Gender=Fem|Number=Plur	8	amod	_	Proper=True
 10	llegaron	llegar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-11	a	a	ADP	IN	_	10	fixed	_	_
+11	a	a	ADP	IN	_	12	mark	_	_
 12	desafiar	desafiar	VERB	VB	VerbForm=Inf	10	xcomp	_	_
 13-14	al	_	_	_	_	_	_	_	_
 13	a	a	ADP	INDT	_	15	case	_	_
@@ -9653,7 +9653,7 @@
 9	mi	mi	DET	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
 10	teléfono	teléfono	NOUN	NN	Gender=Masc|Number=Sing	11	nsubj	_	_
 11	empezó	empezar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	_
-12	a	a	ADP	IN	_	11	fixed	_	_
+12	a	a	ADP	IN	_	13	mark	_	_
 13-14	iluminarse	_	_	_	_	_	_	_	SpaceAfter=No
 13	iluminar	iluminar	VERB	VB	VerbForm=Inf	11	xcomp	_	_
 14	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	compound:prt	_	_
@@ -9920,7 +9920,7 @@
 11	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
 12	usuarios	usuario	NOUN	NN	Gender=Masc|Number=Plur	13	nsubj	_	_
 13	empezasen	empezar	VERB	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	xcomp	_	_
-14	a	a	ADP	IN	_	13	fixed	_	_
+14	a	a	ADP	IN	_	15	mark	_	_
 15	pensar	pensar	VERB	VB	VerbForm=Inf	13	xcomp	_	_
 16	en	en	ADP	IN	_	18	case	_	_
 17	sus	su	PRON	DTP$	Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	det	_	_
@@ -10228,7 +10228,7 @@
 6	espera	esperar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
 7	que	que	SCONJ	IN	_	8	mark	_	_
 8	llegue	llegar	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
-9	a	a	ADP	IN	_	8	fixed	_	_
+9	a	a	ADP	IN	_	10	mark	_	_
 10	competir	competir	VERB	VB	VerbForm=Inf	8	xcomp	_	_
 11	con	con	ADP	IN	_	13	case	_	_
 12	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
@@ -11219,7 +11219,7 @@
 21	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
 22	climatólogos	climatólogo	NOUN	NN	Gender=Masc|Number=Plur	23	nsubj	_	_
 23	empezaron	empezar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-24	a	a	ADP	IN	_	23	fixed	_	_
+24	a	a	ADP	IN	_	25	mark	_	_
 25	establecer	establecer	VERB	VB	VerbForm=Inf	23	xcomp	_	_
 26	climatologías	climatología	NOUN	NN	Gender=Fem|Number=Plur	23	obj	_	_
 27	sinópticas	sinóptico	ADJ	JJ	Gender=Fem|Number=Plur	26	amod	_	_
@@ -13270,7 +13270,7 @@
 3	humanos	humano	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	_
 4	también	también	ADV	RB	_	5	advmod	_	_
 5	dejan	dejar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	de	de	ADP	IN	_	5	fixed	_	_
+6	de	de	ADP	IN	_	7	mark	_	_
 7-8	beneficiarse	_	_	_	_	_	_	_	_
 7	beneficiar	beneficiar	VERB	VB	VerbForm=Inf	5	xcomp	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	compound:prt	_	_
@@ -13672,7 +13672,7 @@
 14	expuestas	exponer	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	13	xcomp	_	_
 15	y	y	CCONJ	CC	_	16	cc	_	_
 16	comienzan	comenzar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
-17	a	a	ADP	IN	_	16	fixed	_	_
+17	a	a	ADP	IN	_	18	mark	_	_
 18	vibrar	vibrar	VERB	VB	VerbForm=Inf	16	xcomp	_	SpaceAfter=No
 19	.	.	PUNCT	.	PunctType=Peri	13	punct	_	_
 
@@ -14330,7 +14330,7 @@
 20	dinastía	dinastía	NOUN	NN	Gender=Fem|Number=Sing	22	nsubj	_	_
 21	Yuan	Yuan	PROPN	NNP	Number=Sing	20	appos	_	_
 22	empezó	empezar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	advcl	_	_
-23	a	a	ADP	IN	_	22	fixed	_	_
+23	a	a	ADP	IN	_	24	mark	_	_
 24	flaquear	flaquear	VERB	VB	VerbForm=Inf	22	xcomp	_	SpaceAfter=No
 25	.	.	PUNCT	.	PunctType=Peri	11	punct	_	_
 
@@ -16703,7 +16703,7 @@
 45	asumir	asumir	VERB	VB	VerbForm=Inf	24	conj	_	_
 46	que	que	SCONJ	IN	_	47	mark	_	_
 47	van	ir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	45	ccomp	_	_
-48	a	a	ADP	IN	_	47	fixed	_	_
+48	a	a	ADP	IN	_	49	mark	_	_
 49	prosperar	prosperar	VERB	VB	VerbForm=Inf	47	xcomp	_	_
 50	en	en	ADP	IN	_	52	case	_	_
 51	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	52	det	_	_
@@ -20494,7 +20494,7 @@
 11	conspirador	conspirador	NOUN	NN	Gender=Masc|Number=Sing	9	nmod	_	_
 12	y	y	CCONJ	CC	_	13	cc	_	_
 13	comenzó	comenzar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
-14	a	a	ADP	IN	_	13	fixed	_	_
+14	a	a	ADP	IN	_	15	mark	_	_
 15	desarrollar	desarrollar	VERB	VB	VerbForm=Inf	13	xcomp	_	_
 16	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 17	elaborado	elaborado	ADJ	JJ	Gender=Masc|Number=Sing	18	amod	_	_
@@ -20581,7 +20581,7 @@
 3	,	,	PUNCT	,	PunctType=Comm	2	punct	_	_
 4	Mishima	Mishima	PROPN	NNP	Gender=Masc|Number=Sing	5	nsubj	_	_
 5	comenzó	comenzar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-6	a	a	ADP	IN	_	5	fixed	_	_
+6	a	a	ADP	IN	_	7	mark	_	_
 7	hacer	hacer	VERB	VB	VerbForm=Inf	5	xcomp	_	_
 8	levantamiento	levantamiento	NOUN	NN	Gender=Masc|Number=Sing	5	obj	_	_
 9	de	de	ADP	IN	_	10	case	_	_
@@ -21037,7 +21037,7 @@
 6	de	de	ADP	IN	_	7	case	_	_
 7	Skylark	Skylark	PROPN	NNP	Number=Sing	5	nmod	_	_
 8	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-9	que	que	ADP	IN	_	8	fixed	_	_
+9	que	que	ADP	IN	_	10	mark	_	_
 10	ver	ver	VERB	VB	VerbForm=Inf	8	xcomp	_	_
 11	con	con	ADP	IN	_	13	case	_	_
 12	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
@@ -21620,7 +21620,7 @@
 7	apropiada	apropiado	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pass	_	_
 9	tendría	tener	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
-10	que	que	ADP	IN	_	9	fixed	_	_
+10	que	que	ADP	IN	_	11	mark	_	_
 11	construir	construir	VERB	VB	VerbForm=Inf	9	xcomp	_	_
 12	a	a	ADP	IN	_	14	case	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
@@ -21958,7 +21958,7 @@
 30	cuenta	cuenta	NOUN	NN	Gender=Fem|Number=Sing	29	obj	_	_
 31	que	que	SCONJ	IN	_	32	mark	_	_
 32	tenían	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	30	acl	_	_
-33	que	que	ADP	IN	_	32	fixed	_	_
+33	que	que	ADP	IN	_	34	mark	_	_
 34	cambiar	cambiar	VERB	VB	VerbForm=Inf	32	xcomp	_	_
 35	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	36	det	_	_
 36	posición	posición	NOUN	NN	Gender=Fem|Number=Sing	32	obj	_	SpaceAfter=No
@@ -22360,14 +22360,14 @@
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	acuerdo	acuerdo	NOUN	NN	Gender=Masc|Number=Sing	13	nsubj	_	_
 13	vuelva	volver	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
-14	a	a	ADP	IN	_	13	fixed	_	_
+14	a	a	ADP	IN	_	15	mark	_	_
 15	tomar	tomar	VERB	VB	VerbForm=Inf	13	xcomp	_	_
 16	efecto	efecto	NOUN	NN	Gender=Masc|Number=Sing	13	obj	_	SpaceAfter=No
 17	:	:	PUNCT	:	PunctType=Colo	20	punct	_	_
 18	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
 19	EUA	EUA	PROPN	NNP	Gender=Masc|Number=Plur	20	nsubj	_	_
 20	tendrían	tener	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	5	appos	_	_
-21	que	que	ADP	IN	_	20	fixed	_	_
+21	que	que	ADP	IN	_	22	mark	_	_
 22	retirar	retirar	VERB	VB	VerbForm=Inf	20	xcomp	_	_
 23	todas	todo	DET	PDT	Gender=Fem|Number=Plur|PronType=Tot	25	det	_	_
 24	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	25	det	_	_
@@ -25000,7 +25000,7 @@
 3	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	Gobierno	gobierno	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj	_	_
 5	tendrá	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
-6	que	que	ADP	IN	_	5	fixed	_	_
+6	que	que	ADP	IN	_	7	mark	_	_
 7	lidiar	lidiar	VERB	VB	VerbForm=Inf	5	xcomp	_	_
 8	con	con	ADP	IN	_	10	case	_	_
 9	otra	otro	DET	DT	Gender=Fem|Number=Sing|PronType=Ind	10	det	_	_
@@ -25190,7 +25190,7 @@
 12	fondo	fondo	NOUN	NN	Gender=Masc|Number=Sing	10	fixed	_	SpaceAfter=No
 13	,	,	PUNCT	,	PunctType=Comm	10	punct	_	_
 14	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
-15	que	que	ADP	IN	_	14	fixed	_	_
+15	que	que	ADP	IN	_	16	mark	_	_
 16	sacar	sacar	VERB	VB	VerbForm=Inf	14	xcomp	_	_
 17	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	det	_	_
 18	mejor	mejor	NOUN	NN	Gender=Masc|Number=Sing	14	obj	_	_
@@ -27035,7 +27035,7 @@
 7	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
 8	Grecia	Grecia	PROPN	NNP	Number=Sing	9	nsubj	_	_
 9	comenzó	comenzar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-10	a	a	ADP	IN	_	9	fixed	_	_
+10	a	a	ADP	IN	_	11	mark	_	_
 11	surgir	surgir	VERB	VB	VerbForm=Inf	9	xcomp	_	_
 12	desde	desde	ADP	IN	_	14	case	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
@@ -27102,7 +27102,7 @@
 10	textos	texto	NOUN	NN	Gender=Masc|Number=Plur	12	nsubj	_	_
 11	griegos	griego	ADJ	JJ	Gender=Masc|Number=Plur	10	amod	_	Proper=True
 12	empezaron	empezar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-13	a	a	ADP	IN	_	12	fixed	_	_
+13	a	a	ADP	IN	_	14	mark	_	_
 14	aparecer	aparecer	VERB	VB	VerbForm=Inf	12	xcomp	_	SpaceAfter=No
 15	.	.	PUNCT	.	PunctType=Peri	12	punct	_	_
 
@@ -27170,7 +27170,7 @@
 13	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
 14	ciudades	ciudad	NOUN	NN	Gender=Fem|Number=Plur	11	nmod	_	_
 15	empezaron	empezar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-16	a	a	ADP	IN	_	15	fixed	_	_
+16	a	a	ADP	IN	_	17	mark	_	_
 17	aparecer	aparecer	VERB	VB	VerbForm=Inf	15	xcomp	_	SpaceAfter=No
 18	:	:	PUNCT	:	PunctType=Colo	20	punct	_	_
 19	pequeños	pequeño	ADJ	JJ	Gender=Masc|Number=Plur	20	amod	_	_
@@ -28597,7 +28597,7 @@
 1	Las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
 2	cosas	cosa	NOUN	NN	Gender=Fem|Number=Plur	3	nsubj	_	_
 3	empezaron	empezar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	a	a	ADP	IN	_	3	fixed	_	_
+4	a	a	ADP	IN	_	5	mark	_	_
 5	cambiar	cambiar	VERB	VB	VerbForm=Inf	3	xcomp	_	_
 6	en	en	ADP	IN	_	7	case	_	_
 7	octubre	octubre	NOUN	NN	Gender=Masc|Number=Sing	3	obl	_	_
@@ -28718,7 +28718,7 @@
 5	interceptados	interceptar	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 6	y	y	CCONJ	CC	_	7	cc	_	_
 7	tuvieron	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
-8	que	que	ADP	IN	_	7	fixed	_	_
+8	que	que	ADP	IN	_	9	mark	_	_
 9	presentar	presentar	VERB	VB	VerbForm=Inf	7	xcomp	_	_
 10	batalla	batalla	NOUN	NN	Gender=Fem|Number=Sing	7	obj	_	_
 11	en	en	ADP	IN	_	12	case	_	_
@@ -28979,7 +28979,7 @@
 9	Capua	Capua	PROPN	NNP	Number=Sing	2	obl	_	_
 10	y	y	CCONJ	CC	_	11	cc	_	_
 11	empezó	empezar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
-12	a	a	ADP	IN	_	11	fixed	_	_
+12	a	a	ADP	IN	_	13	mark	_	_
 13	reclutar	reclutar	VERB	VB	VerbForm=Inf	11	xcomp	_	_
 14	levas	leva	NOUN	NN	Gender=Fem|Number=Plur	11	obj	_	_
 15	ilegalmente	ilegalmente	ADV	RB	_	11	advmod	_	SpaceAfter=No

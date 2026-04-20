@@ -133,10 +133,10 @@
     <dep name="expl">1</dep>
     <dep name="expl:pass">120</dep>
     <dep name="expl:pv">3</dep>
-    <dep name="fixed">369</dep>
+    <dep name="fixed">335</dep>
     <dep name="flat">1</dep>
     <dep name="flat:name">200</dep>
-    <dep name="mark">315</dep>
+    <dep name="mark">349</dep>
     <dep name="nmod">1804</dep>
     <dep name="nsubj">1190</dep>
     <dep name="nsubj:pass">165</dep>
