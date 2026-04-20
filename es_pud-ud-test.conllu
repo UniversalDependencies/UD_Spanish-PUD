@@ -17841,7 +17841,7 @@
 5	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	compound:prt	_	_
 7	acostumbra	acostumbrar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	a	a	ADP	IN	_	7	fixed	_	_
+8	a	a	ADP	IN	_	9	mark	_	_
 9	tener	tener	VERB	VB	VerbForm=Inf	7	xcomp	_	_
 10	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	era	era	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj:pass	_	_
