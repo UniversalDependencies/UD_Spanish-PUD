@@ -2925,7 +2925,7 @@
 # parallel_id = pud/n01039013
 # text = Mientras tanto, Clinton y sus aliados intentan que Trump siga siendo el centro de atención y denuncian que sus comentarios denigrantes sobre las mujeres y las minorías y su temperamento hacen que no sea apto para la presidencia.
 # text_en = Clinton and allies, meanwhile, are seeking to keep the spotlight on Trump, charging that his disparaging comments about women and minorities, and his temperament make him unfit for office.
-1	Mientras	mientras	SCONJ	IN	ExtPos=ADV	8	discourse	_	_
+1	Mientras	mientras	SCONJ	IN	ExtPos=ADV	8	advmod	_	_
 2	tanto	tanto	PRON	RB	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 4	Clinton	Clinton	PROPN	NNP	Gender=Fem|Number=Sing	8	nsubj	_	_
@@ -5134,7 +5134,7 @@
 # parallel_id = pud/n01069014
 # text = Mientras tanto, la mujer que está separada de un jefe de grupo parlamentario ha lanzado su campaña para quedarse con el puesto.
 # text_en = Meanwhile, the estranged wife of a government whip has launched her campaign to take the seat.
-1	Mientras	mientras	SCONJ	IN	ExtPos=ADV	16	discourse	_	_
+1	Mientras	mientras	SCONJ	IN	ExtPos=ADV	16	advmod	_	_
 2	tanto	tanto	PRON	RB	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -5965,7 +5965,7 @@
 # parallel_id = pud/n01084023
 # text = Mientras tanto, los clientes del Bank of Scotland ganan el 3% sobre saldos de 3.000 a 5.000 libras al añadir la opción gratuita Vantage a su cuenta.
 # text_en = Meanwhile, Bank of Scotland customers earn 3% on balances of £3,000-£5,000 when they add the free Vantage option to their account.
-1	Mientras	mientras	SCONJ	IN	ExtPos=ADV	11	discourse	_	_
+1	Mientras	mientras	SCONJ	IN	ExtPos=ADV	11	advmod	_	_
 2	tanto	tanto	PRON	RB	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 4	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
@@ -7275,7 +7275,7 @@
 # parallel_id = pud/n01101017
 # text = Mientras tanto, Hong Kong parece estarse preparando para una oleada de protestas.
 # text_en = Hong Kong, meanwhile, appears to be bracing for a wave of protests.
-1	Mientras	mientras	SCONJ	IN	ExtPos=ADV	6	discourse	_	_
+1	Mientras	mientras	SCONJ	IN	ExtPos=ADV	6	advmod	_	_
 2	tanto	tanto	PRON	RB	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 4	Hong	Hong	PROPN	NNP	_	6	nsubj	_	_
@@ -13824,7 +13824,7 @@
 # parallel_id = pud/w01043065
 # text = Mientras tanto, controles adicionales del Nilo propiciaron el desarrollo en la isla Gezira y a lo largo de la ribera de la ciudad.
 # text_en = Meanwhile, additional controls of the Nile fostered development within Gezira Island and along the city's waterfront.
-1	Mientras	mientras	SCONJ	IN	ExtPos=ADV	9	discourse	_	_
+1	Mientras	mientras	SCONJ	IN	ExtPos=ADV	9	advmod	_	_
 2	tanto	tanto	PRON	RB	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 4	controles	control	NOUN	NN	Gender=Masc|Number=Plur	9	nsubj	_	_
@@ -29031,7 +29031,7 @@
 # parallel_id = pud/w05010025
 # text = Mientras tanto, su puesto de tribuno fue ocupado por Marco Antonio, que lo desempeñó hasta diciembre.
 # text_en = Meanwhile, his place in tribune was occupied by Marco Antonio, who held the position until December.
-1	Mientras	mientras	SCONJ	IN	ExtPos=ADV	9	discourse	_	_
+1	Mientras	mientras	SCONJ	IN	ExtPos=ADV	9	advmod	_	_
 2	tanto	tanto	PRON	RB	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 4	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
