@@ -2899,7 +2899,7 @@
 6	fin	fin	NOUN	NN	Gender=Masc|Number=Sing	3	obl	_	_
 7	de	de	ADP	IN	_	10	case	_	_
 8	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
-9	primer	primer	ADJ	JJ	Gender=Masc|Number=Sing	10	amod	_	_
+9	primer	primero	ADJ	JJ	Gender=Masc|Number=Sing	10	amod	_	_
 10	término	término	NOUN	NN	Gender=Masc|Number=Sing	6	nmod	_	_
 11	para	para	ADP	IN	_	12	case	_	_
 12	utilizar	utilizar	VERB	VB	VerbForm=Inf	3	xcomp	_	_
@@ -8994,7 +8994,7 @@
 # text = En primer lugar, debemos educar a las personas sobre como protegerse mejor en línea.
 # text_en = First, we must educate people on how to protect themselves better online.
 1	En	en	ADP	IN	_	3	case	_	_
-2	primer	primer	ADJ	JJ	Gender=Masc|Number=Sing	3	amod	_	_
+2	primer	primero	ADJ	JJ	Gender=Masc|Number=Sing	3	amod	_	_
 3	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
 5	debemos	deber	AUX	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
@@ -11378,7 +11378,7 @@
 # text = Su primer rey fue Mojmír I (reinó del 830-846).
 # text_en = Their first king was Mojmír I (ruled 830–846).
 1	Su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
-2	primer	primer	ADJ	JJ	Gender=Masc|Number=Sing	3	amod	_	_
+2	primer	primero	ADJ	JJ	Gender=Masc|Number=Sing	3	amod	_	_
 3	rey	rey	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 4	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
 5	Mojmír	Mojmír	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -13988,7 +13988,7 @@
 # text_en = During the first century of development, Spanish dominance in the region remained undisputed.
 1	Durante	durante	ADP	IN	_	4	case	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-3	primer	primer	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
+3	primer	primero	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
 4	siglo	siglo	NOUN	NN	Gender=Masc|Number=Sing	15	obl	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	desarrollo	desarrollo	NOUN	NN	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
@@ -14636,7 +14636,7 @@
 2	hecho	hecho	NOUN	NN	Gender=Masc|Number=Sing	20	discourse	_	SpaceAfter=No
 3	,	,	PUNCT	,	PunctType=Comm	2	punct	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-5	primer	primer	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	_
+5	primer	primero	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	_
 6	reporte	reporte	NOUN	NN	Gender=Masc|Number=Sing	20	nsubj	_	_
 7	erudito	erudito	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	_
 8	de	de	ADP	IN	_	10	case	_	_
@@ -16354,7 +16354,7 @@
 16	que	que	ADP	IN	_	24	case	_	_
 17	cuando	cuando	ADV	WRB	PronType=Rel	21	advmod	_	_
 18	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
-19	primer	primer	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	_
+19	primer	primero	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	_
 20	hijo	hijo	NOUN	NN	Gender=Masc|Number=Sing	21	nsubj	_	_
 21	nació	nacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	advcl	_	SpaceAfter=No
 22	,	,	PUNCT	,	PunctType=Comm	21	punct	_	_
@@ -18083,7 +18083,7 @@
 21	luego	luego	ADV	RB	_	16	advmod	_	_
 22	de	de	ADP	IN	_	26	case	_	_
 23	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	26	det	_	_
-24	primer	primer	ADJ	JJ	Gender=Masc|Number=Sing	26	amod	_	_
+24	primer	primero	ADJ	JJ	Gender=Masc|Number=Sing	26	amod	_	_
 25	épico	épico	ADJ	JJ	Gender=Masc|Number=Sing	26	amod	_	_
 26	ataque	ataque	NOUN	NN	Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
 27	.	.	PUNCT	.	PunctType=Peri	9	punct	_	_
@@ -19673,7 +19673,7 @@
 22	"	"	PUNCT	''	PunctType=Quot	21	punct	_	SpaceAfter=No
 23	,	,	PUNCT	,	PunctType=Comm	26	punct	_	_
 24	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
-25	primer	primer	ADJ	JJ	Gender=Masc|Number=Sing	26	amod	_	_
+25	primer	primero	ADJ	JJ	Gender=Masc|Number=Sing	26	amod	_	_
 26	single	single	NOUN	NN	Gender=Masc|Number=Sing	21	appos	_	SpaceAfter=No
 27	,	,	PUNCT	,	PunctType=Comm	26	punct	_	_
 28	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	29	expl:pass	_	_
@@ -21537,7 +21537,7 @@
 17	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	compound:prt	_	_
 18	en	en	ADP	IN	_	21	case	_	_
 19	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
-20	primer	primer	ADJ	JJ	Gender=Masc|Number=Sing	21	amod	_	_
+20	primer	primero	ADJ	JJ	Gender=Masc|Number=Sing	21	amod	_	_
 21	presidente	presidente	NOUN	NN	Gender=Masc|Number=Sing	16	obl	_	_
 22	de	de	ADP	IN	_	23	case	_	_
 23	E.E.UU	E.E.UU	PROPN	NNP	Number=Sing	21	nmod	_	_
@@ -25949,7 +25949,7 @@
 5	Erdogan	Erdogan	PROPN	NNP	Gender=Masc|Number=Sing	12	nsubj	_	SpaceAfter=No
 6	,	,	PUNCT	,	PunctType=Comm	9	punct	_	_
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-8	Primer	primer	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	_
+8	Primer	primero	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	_
 9	Ministro	ministro	NOUN	NN	Gender=Masc|Number=Sing	5	appos	_	_
 10	turco	turco	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	Proper=True|SpaceAfter=No
 11	,	,	PUNCT	,	PunctType=Comm	9	punct	_	_
@@ -28091,7 +28091,7 @@
 26	:	:	PUNCT	:	PunctType=Colo	36	punct	_	_
 27	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
 28	nuevo	nuevo	ADJ	JJ	Gender=Masc|Number=Sing	30	amod	_	_
-29	primer	primer	ADJ	JJ	Gender=Masc|Number=Sing	30	amod	_	_
+29	primer	primero	ADJ	JJ	Gender=Masc|Number=Sing	30	amod	_	_
 30	ministro	ministro	NOUN	NN	Gender=Masc|Number=Sing	36	nsubj	_	_
 31	británico	británico	ADJ	JJ	Gender=Masc|Number=Sing	30	amod	_	Proper=True|SpaceAfter=No
 32	,	,	PUNCT	,	PunctType=Comm	33	punct	_	_
