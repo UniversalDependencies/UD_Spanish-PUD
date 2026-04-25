@@ -2066,7 +2066,7 @@
 22	como	como	ADP	IN	_	25	case	_	_
 23	"	"	PUNCT	``	PunctType=Quot	25	punct	_	SpaceAfter=No
 24	muy	muy	ADV	RB	_	25	advmod	_	_
-25	razonables	razonabl	ADJ	JJ	Gender=Fem|Number=Plur	7	obl	_	SpaceAfter=No
+25	razonables	razonable	ADJ	JJ	Gender=Fem|Number=Plur	7	obl	_	SpaceAfter=No
 26	"	"	PUNCT	''	PunctType=Quot	25	punct	_	SpaceAfter=No
 27	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
 
@@ -6659,7 +6659,7 @@
 2	pensando	pensar	VERB	VBG	VerbForm=Ger	0	root	_	_
 3	activamente	activamente	ADV	RB	_	2	advmod	_	_
 4	en	en	ADP	IN	_	6	case	_	_
-5	posibles	posibl	ADJ	JJ	Gender=Masc|Number=Plur	6	amod	_	_
+5	posibles	posible	ADJ	JJ	Gender=Masc|Number=Plur	6	amod	_	_
 6	modos	modo	NOUN	NN	Gender=Masc|Number=Plur	2	obl	_	_
 7	de	de	ADP	IN	_	8	case	_	_
 8	limitar	limitar	VERB	VB	VerbForm=Inf	6	xcomp	_	_
@@ -6920,7 +6920,7 @@
 9	entre	entre	ADP	IN	_	11	case	_	_
 10	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 11	sistemas	sistema	NOUN	NN	Gender=Masc|Number=Plur	6	obl	_	_
-12	sensibles	sensibl	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	_
+12	sensibles	sensible	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	_
 13	y	y	CCONJ	CC	_	15	cc	_	_
 14	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
 15	potencias	potencia	NOUN	NN	Gender=Fem|Number=Plur	11	conj	_	_
@@ -7231,7 +7231,7 @@
 9	liderado	liderar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	_
 10	por	por	ADP	IN	_	11	case	_	_
 11	legisladores	legislador	NOUN	NN	Gender=Masc|Number=Plur	9	obl:agent	_	_
-12	favorables	favorabl	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	_
+12	favorables	favorable	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	_
 13	a	a	ADP	IN	_	14	case	_	_
 14	Pekín	Pekín	PROPN	NNP	Number=Sing	12	obl	_	SpaceAfter=No
 15	,	,	PUNCT	,	PunctType=Comm	9	punct	_	_
@@ -9929,7 +9929,7 @@
 20	algo	algo	NOUN	NN	Gender=Masc|Number=Sing	13	obl	_	_
 21	más	más	ADV	RBR	Degree=Cmp	20	advmod	_	_
 22	que	que	ADP	IN	_	24	case	_	_
-23	simples	simpl	ADJ	JJ	Gender=Fem|Number=Plur	24	amod	_	_
+23	simples	simple	ADJ	JJ	Gender=Fem|Number=Plur	24	amod	_	_
 24	herramientas	herramienta	NOUN	NN	Gender=Fem|Number=Plur	21	obl	_	_
 25	de	de	ADP	IN	_	26	case	_	_
 26	productividad	productividad	NOUN	NN	Gender=Fem|Number=Sing	24	nmod	_	SpaceAfter=No
@@ -10070,7 +10070,7 @@
 3	que	que	PRON	REL	Gender=Masc|Number=Plur|PronType=Rel	4	nsubj	_	_
 4	admiten	admitir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 5	ser	ser	AUX	VB	VerbForm=Inf	7	cop	_	_
-6	terribles	terribl	ADJ	JJ	Gender=Masc|Number=Plur	7	amod	_	_
+6	terribles	terrible	ADJ	JJ	Gender=Masc|Number=Plur	7	amod	_	_
 7	jugadores	jugador	NOUN	NN	Gender=Masc|Number=Plur	4	xcomp	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	golf	golf	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	_
@@ -15700,7 +15700,7 @@
 3	,	,	PUNCT	,	PunctType=Comm	2	punct	_	_
 4	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	colores	color	NOUN	NN	Gender=Masc|Number=Plur	11	nsubj:pass	_	_
-6	favorables	favorabl	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
+6	favorables	favorable	ADJ	JJ	Gender=Masc|Number=Plur	5	amod	_	_
 7-8	del	_	_	_	_	_	_	_	_
 7	de	de	ADP	INDT	_	9	case	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
@@ -23195,7 +23195,7 @@
 12	para	para	ADP	IN	_	14	case	_	Proper=True
 13	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	Proper=True
 14	Energías	energía	NOUN	NN	Gender=Fem|Number=Plur	10	nmod	_	Proper=True
-15	Renovables	renovabl	ADJ	JJ	Gender=Fem|Number=Plur	14	amod	_	Proper=True
+15	Renovables	renovable	ADJ	JJ	Gender=Fem|Number=Plur	14	amod	_	Proper=True
 16	(	(	PUNCT	(	PunctSide=Ini|PunctType=Brck	17	punct	_	SpaceAfter=No
 17	IRENA	IRENA	PROPN	NNP	Gender=Fem|Number=Sing	10	appos	_	SpaceAfter=No
 18	,	,	PUNCT	,	PunctType=Comm	21	punct	_	_
@@ -24042,9 +24042,9 @@
 11	tener	tener	VERB	VB	VerbForm=Inf	2	ccomp	_	_
 12	consecuencias	consecuencia	NOUN	NN	Gender=Fem|Number=Plur	11	obj	_	_
 13	tan	tan	ADV	RB	_	14	advmod	_	_
-14	probables	probabl	ADJ	JJ	Gender=Fem|Number=Plur	12	amod	_	_
+14	probables	probable	ADJ	JJ	Gender=Fem|Number=Plur	12	amod	_	_
 15	como	como	ADP	IN	_	16	case	_	_
-16	inaceptables	inaceptabl	ADJ	JJ	Gender=Fem|Number=Plur	13	obl	_	SpaceAfter=No
+16	inaceptables	inaceptable	ADJ	JJ	Gender=Fem|Number=Plur	13	obl	_	SpaceAfter=No
 17	"	"	PUNCT	''	PunctType=Quot	11	punct	_	SpaceAfter=No
 18	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
 
@@ -26252,7 +26252,7 @@
 10	y	y	CCONJ	CC	_	12	cc	_	_
 11	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	_	_
 12	reconocido	reconocer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
-13	múltiples	múltipl	ADJ	JJ	Gender=Fem|Number=Plur	14	amod	_	_
+13	múltiples	múltiple	ADJ	JJ	Gender=Fem|Number=Plur	14	amod	_	_
 14	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	12	obl	_	_
 15	durante	durante	ADP	IN	_	17	case	_	_
 16	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
@@ -26643,7 +26643,7 @@
 6	todas	todo	DET	PDT	Gender=Fem|Number=Plur|PronType=Tot	8	det	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	opiniones	opinión	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
-9	indeseables	indeseabl	ADJ	JJ	Gender=Fem|Number=Plur	8	amod	_	SpaceAfter=No
+9	indeseables	indeseable	ADJ	JJ	Gender=Fem|Number=Plur	8	amod	_	SpaceAfter=No
 10	;	;	PUNCT	:	PunctType=Semi	19	punct	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	participación	participación	NOUN	NN	Gender=Fem|Number=Sing	19	nsubj	_	_
