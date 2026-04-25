@@ -16203,7 +16203,7 @@
 5	en	en	ADP	IN	_	6	case	_	_
 6	Yucatán	Yucatán	PROPN	NNP	Number=Sing	3	nmod	_	_
 7	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-8	tercer	tercer	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	_
+8	tercer	tercero	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	_
 9	sistema	sistema	NOUN	NN	Gender=Masc|Number=Sing	11	nsubj:pass	_	_
 10	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux:pass	_	_
 11	utilizado	utilizar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
@@ -21297,7 +21297,7 @@
 8	Plantagenet	Plantagenet	PROPN	NNP	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 9	,	,	PUNCT	,	PunctType=Comm	12	punct	_	_
 10	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-11	tercer	tercer	ADJ	JJ	Gender=Masc|Number=Sing	12	amod	_	_
+11	tercer	tercero	ADJ	JJ	Gender=Masc|Number=Sing	12	amod	_	_
 12	duque	duque	NOUN	NN	Gender=Masc|Number=Sing	8	appos	_	_
 13	de	de	ADP	IN	_	14	case	_	_
 14	York	York	PROPN	NNP	Number=Sing	12	nmod	_	_
@@ -21434,7 +21434,7 @@
 3	ir	ir	VERB	VB	VerbForm=Inf	1	xcomp	_	_
 4	tras	tras	ADP	IN	_	7	case	_	_
 5	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-6	tercer	tercer	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	_
+6	tercer	tercero	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	_
 7	período	período	NOUN	NN	Gender=Masc|Number=Sing	3	obl	_	_
 8	en	en	ADP	IN	_	7	case	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
@@ -21719,7 +21719,7 @@
 12	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
 13	próximo	próximo	ADJ	JJ	Gender=Masc|Number=Sing	16	amod	_	_
 14	y	y	CCONJ	CC	_	15	cc	_	_
-15	tercer	tercer	ADJ	JJ	Gender=Masc|Number=Sing	13	conj	_	_
+15	tercer	tercero	ADJ	JJ	Gender=Masc|Number=Sing	13	conj	_	_
 16	álbum	álbum	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
 17	de	de	ADP	IN	_	18	case	_	_
 18	estudio	estudio	NOUN	NN	Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
