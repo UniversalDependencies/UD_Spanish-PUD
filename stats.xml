@@ -10,12 +10,12 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>1000</sentences><tokens>22816</tokens><words>23283</words><fused>467</fused></test>
   </size>
-  <lemmas unique="4483" /><!-- el, de, ,, ., en, a, que, él, uno, y, ser, su, por, haber, con -->
+  <lemmas unique="4480" /><!-- el, de, ,, ., en, a, que, él, uno, y, ser, su, por, haber, con -->
   <forms unique="5937" /><!-- de, el, ,, ., la, en, a, que, y, los, se, un, las, una, por -->
   <fusions unique="63" /><!-- del, al, verlo, beneficiarse, convirtiéndose, hacerlo, recuperarlo, Didn't, Don't, admitiéndolo, alejarse, aplicándolo, centrarse, centrándose, comprometerse -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="17">
-    <tag name="ADJ">1482</tag><!-- nuevo, gran, primero, último, mayor, unido, británico, nacional, grande, propio -->
+    <tag name="ADJ">1482</tag><!-- grande, nuevo, primero, último, mayor, unido, británico, nacional, propio, antiguo -->
     <tag name="ADP">3955</tag><!-- de, en, a, por, con, para, como, que, entre, durante -->
     <tag name="ADV">879</tag><!-- no, más, también, cuando, antes, después, ya, muy, donde, solo -->
     <tag name="AUX">634</tag><!-- ser, haber, estar, poder, deber, do, soler -->
@@ -34,7 +34,7 @@
     <tag name="X">7</tag><!-- bjórr, ey, kven, maiorum, meänkieli, mos, oblast -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="70">
+  <feats unique="71">
     <feat name="Abbr" value="Yes" upos="ADJ,ADV,NOUN,PROPN">33</feat><!-- a., C., C, d., EE., UU, ca. -->
     <feat name="Case" value="Acc" upos="PRON">105</feat><!-- lo, la, me, los, sí, las, mí, te -->
     <feat name="Case" value="Acc,Dat" upos="PRON">322</feat><!-- se, me, nos, os, te -->
@@ -51,10 +51,10 @@
     <feat name="ExtPos" value="ADP" upos="ADP,ADV,NOUN,VERB">77</feat><!-- a, en, debido, acerca, por, junto, De, con, frente, para -->
     <feat name="ExtPos" value="ADV" upos="ADJ,ADP,ADV,SCONJ,VERB">49</feat><!-- a, Mientras, alrededor, en, hoy, per, por, puede, sobre, Claro -->
     <feat name="ExtPos" value="CCONJ" upos="ADP,ADV,CCONJ">9</feat><!-- así, a, o -->
-    <feat name="ExtPos" value="SCONJ" upos="ADV,DET,SCONJ,VERB">34</feat><!-- ya, a, mientras, hasta, como, dado, de, debido, para, una -->
+    <feat name="ExtPos" value="SCONJ" upos="ADV,DET,SCONJ,VERB">32</feat><!-- ya, a, mientras, hasta, como, de, debido, para, una, En -->
     <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,AUX,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,PUNCT,SCONJ,VERB,X">67</feat><!-- The, My, News, Really, You, cápita, per, -, American, Anyway -->
-    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">4512</feat><!-- la, las, una, su, que, esta, sus, guerra, parte, ciudad -->
-    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">7133</feat><!-- el, los, un, que, lo, su, años, este, año, lugar -->
+    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">4503</feat><!-- la, las, una, su, que, esta, sus, guerra, parte, ciudad -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">7116</feat><!-- el, los, un, que, lo, su, años, este, año, lugar -->
     <feat name="Hyph" value="Yes" upos="ADJ">4</feat><!-- austro, co, franco, multi -->
     <feat name="Mood" value="Cnd" upos="AUX,VERB">54</feat><!-- podría, sería, debería, podrían, aplicaría, estaría, serían, asistiría, ayudaría, conocerían -->
     <feat name="Mood" value="Imp" upos="AUX,VERB">2</feat><!-- Do, Knuck -->
@@ -68,6 +68,7 @@
     <feat name="NumForm" value="Roman" upos="NUM">11</feat><!-- III, XVI, XX, V, VIII, XIII, XV -->
     <feat name="NumForm" value="Word" upos="NUM">111</feat><!-- dos, tres, cuatro, mil, seis, cinco, diez, siete, treinta, un -->
     <feat name="NumType" value="Card" upos="DET,NUM,PRON">483</feat><!-- dos, tres, muchos, muchas, 1, 10, cuatro, 3, mil, seis -->
+    <feat name="NumType" value="Ord" upos="ADJ">43</feat><!-- primera, primer, primeros, tercer, primeras, tercera -->
     <feat name="Person" value="1" upos="AUX,DET,PRON,VERB">129</feat><!-- me, nos, yo, estamos, nuestro, debemos, he, mi, creo, hemos -->
     <feat name="Person" value="2" upos="AUX,DET,PRON,VERB">21</feat><!-- You, te, tienes, Buck, Do, Knew, Knuck, Terminas, Ya, habéis -->
     <feat name="Person" value="3" upos="AUX,PRON,VERB">2534</feat><!-- se, su, es, lo, fue, ha, sus, está, había, le -->
@@ -111,7 +112,7 @@
     <dep name="acl">116</dep>
     <dep name="acl:relcl">244</dep>
     <dep name="advcl">180</dep>
-    <dep name="advmod">812</dep>
+    <dep name="advmod">818</dep>
     <dep name="amod">1311</dep>
     <dep name="appos">320</dep>
     <dep name="aux">301</dep>
@@ -119,7 +120,7 @@
     <dep name="case">3697</dep>
     <dep name="cc">570</dep>
     <dep name="cc:preconj">12</dep>
-    <dep name="ccomp">148</dep>
+    <dep name="ccomp">150</dep>
     <dep name="compound">15</dep>
     <dep name="compound:prt">194</dep>
     <dep name="conj">656</dep>
@@ -128,12 +129,12 @@
     <dep name="csubj:pass">16</dep>
     <dep name="dep">3</dep>
     <dep name="det">3503</dep>
-    <dep name="discourse">98</dep>
+    <dep name="discourse">92</dep>
     <dep name="dislocated">1</dep>
     <dep name="expl">1</dep>
     <dep name="expl:pass">120</dep>
     <dep name="expl:pv">3</dep>
-    <dep name="fixed">318</dep>
+    <dep name="fixed">316</dep>
     <dep name="flat">1</dep>
     <dep name="flat:name">200</dep>
     <dep name="mark">350</dep>
