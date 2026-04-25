@@ -107,7 +107,7 @@
 28	a	a	ADP	IN	_	32	case	_	_
 29	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
 30	"	"	PUNCT	``	PunctType=Quot	32	punct	_	SpaceAfter=No
-31	gran	grande	ADJ	JJ	Number=Sing	32	amod	_	_
+31	gran	gran	ADJ	JJ	Number=Sing	32	amod	_	_
 32	número	número	NOUN	NN	Gender=Masc|Number=Sing	27	obl	_	SpaceAfter=No
 33	"	"	PUNCT	''	PunctType=Quot	32	punct	_	_
 34	inmigrantes	inmigrante	NOUN	NN	Gender=Masc|Number=Plur	32	dep	_	_
@@ -180,7 +180,7 @@
 6	cargo	cargo	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	_
 7	de	de	ADP	IN	_	10	case	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-9	gran	grande	ADJ	JJ	Number=Sing	10	amod	_	_
+9	gran	gran	ADJ	JJ	Number=Sing	10	amod	_	_
 10	cuenta	cuenta	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
 11	bancaria	bancario	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	_
 12	de	de	ADP	IN	_	13	case	_	_
@@ -431,7 +431,7 @@
 2	enfrentamos	enfrentar	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	a	a	ADP	IN	_	6	case	_	_
 4	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-5	gran	grande	ADJ	JJ	Number=Sing	6	amod	_	_
+5	gran	gran	ADJ	JJ	Number=Sing	6	amod	_	_
 6	competición	competición	NOUN	NN	Gender=Fem|Number=Sing	2	obl	_	_
 7	y	y	CCONJ	CC	_	8	cc	_	_
 8	creemos	creer	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_
@@ -1946,7 +1946,7 @@
 # parallel_id = pud/n01027030
 # text = Gran parte del debate por parte de los Demócratas este año ha tratado sobre la identidad del varón blanco.
 # text_en = Much of the debate, from the Democratic side this year, has been about white male identity.
-1	Gran	grande	ADJ	JJ	Number=Sing	2	amod	_	_
+1	Gran	gran	ADJ	JJ	Number=Sing	2	amod	_	_
 2	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	14	nsubj	_	_
 3-4	del	_	_	_	_	_	_	_	_
 3	de	de	ADP	INDT	_	5	case	_	_
@@ -2252,7 +2252,7 @@
 15	que	que	SCONJ	IN	_	31	mark	_	_
 16	"	"	PUNCT	``	PunctType=Quot	19	punct	_	SpaceAfter=No
 17	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
-18	gran	grande	ADJ	JJ	Number=Sing	19	amod	_	_
+18	gran	gran	ADJ	JJ	Number=Sing	19	amod	_	_
 19	grupo	grupo	NOUN	NN	Gender=Masc|Number=Sing	31	nsubj	_	_
 20	de	de	ADP	IN	_	21	case	_	_
 21	gente	gente	NOUN	NN	Gender=Fem|Number=Sing	19	nmod	_	_
@@ -4748,7 +4748,7 @@
 5	llamada	llamada	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
 6	a	a	ADP	IN	_	9	case	_	_
 7	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-8	gran	grande	ADJ	JJ	Number=Sing	9	amod	_	_
+8	gran	gran	ADJ	JJ	Number=Sing	9	amod	_	_
 9	cambio	cambio	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	,	PunctType=Comm	15	punct	_	_
 11	si	si	SCONJ	IN	_	14	mark	_	_
@@ -5441,7 +5441,7 @@
 # text_en = We have a great squad and it is an opportunity for us to take the ship forward.
 1	Tenemos	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-3	gran	grande	ADJ	JJ	Number=Sing	4	amod	_	_
+3	gran	gran	ADJ	JJ	Number=Sing	4	amod	_	_
 4	equipo	equipo	NOUN	NN	Gender=Masc|Number=Sing	1	obj	_	_
 5	y	y	CCONJ	CC	_	8	cc	_	_
 6	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
@@ -9229,7 +9229,7 @@
 8	motivada	motivar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 9	por	por	ADP	IN	_	12	case	_	_
 10	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-11	gran	grande	ADJ	JJ	Number=Sing	12	amod	_	_
+11	gran	gran	ADJ	JJ	Number=Sing	12	amod	_	_
 12	número	número	NOUN	NN	Gender=Masc|Number=Sing	8	obl:agent	_	_
 13	de	de	ADP	IN	_	14	case	_	_
 14	abstenciones	abstención	NOUN	NN	Gender=Fem|Number=Plur	12	nmod	_	SpaceAfter=No
@@ -10400,7 +10400,7 @@
 1	Noviembre	noviembre	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj	_	_
 2	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-4	gran	grande	ADJ	JJ	Number=Sing	5	amod	_	_
+4	gran	gran	ADJ	JJ	Number=Sing	5	amod	_	_
 5	momento	momento	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 6	para	para	SCONJ	IN	ExtPos=SCONJ	8	mark	_	_
 7	que	que	ADP	IN	_	6	fixed	_	_
@@ -10727,7 +10727,7 @@
 12	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	13	nsubj	_	_
 13	cubre	cubrir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
 14	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-15	gran	grande	ADJ	JJ	Number=Sing	16	amod	_	_
+15	gran	gran	ADJ	JJ	Number=Sing	16	amod	_	_
 16	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	13	obj	_	_
 17	de	de	ADP	IN	_	19	case	_	_
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
@@ -11354,7 +11354,7 @@
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	estado	estado	NOUN	NN	Gender=Masc|Number=Sing	13	nsubj	_	_
 9	de	de	ADP	IN	_	11	case	_	_
-10	Gran	grande	ADJ	JJ	Number=Sing	11	amod	_	Proper=True
+10	Gran	gran	ADJ	JJ	Number=Sing	11	amod	_	Proper=True
 11	Moravia	Moravia	PROPN	NNP	Number=Sing	8	nmod	_	_
 12	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	compound:prt	_	_
 13	constituyó	constituir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -11680,7 +11680,7 @@
 11	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	12	nsubj	_	_
 12	crearon	crear	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	acl:relcl	_	_
 13	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-14	Gran	grande	ADJ	JJ	Number=Sing	15	amod	_	Proper=True
+14	Gran	gran	ADJ	JJ	Number=Sing	15	amod	_	Proper=True
 15	Valle	valle	NOUN	NN	Gender=Masc|Number=Sing	12	obj	_	Proper=True
 16-17	del	_	_	_	_	_	_	_	_
 16	de	de	ADP	INDT	_	18	case	_	_
@@ -12382,7 +12382,7 @@
 6	llegaron	llegar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	como	como	ADP	IN	_	10	case	_	_
 8	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-9	gran	grande	ADJ	JJ	Number=Sing	10	amod	_	_
+9	gran	gran	ADJ	JJ	Number=Sing	10	amod	_	_
 10	shock	shock	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	_
 11	para	para	ADP	IN	_	13	case	_	_
 12	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
@@ -12663,7 +12663,7 @@
 6	hojas	hoja	NOUN	NN	Gender=Fem|Number=Plur	7	nsubj	_	_
 7	muestran	mostrar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-9	gran	grande	ADJ	JJ	Number=Sing	10	amod	_	_
+9	gran	gran	ADJ	JJ	Number=Sing	10	amod	_	_
 10	variedad	variedad	NOUN	NN	Gender=Fem|Number=Sing	7	obj	_	_
 11	de	de	ADP	IN	_	12	case	_	_
 12	verdes	verde	NOUN	NN	Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No
@@ -15171,7 +15171,7 @@
 16	y	y	CCONJ	CC	_	17	cc	_	_
 17	demostró	demostrar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	_
 18	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
-19	gran	grande	ADJ	JJ	Number=Sing	20	amod	_	_
+19	gran	gran	ADJ	JJ	Number=Sing	20	amod	_	_
 20	valor	valor	NOUN	NN	Gender=Masc|Number=Sing	17	obj	_	_
 21	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	22	obj	_	_
 22	tenía	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	acl:relcl	_	_
@@ -15494,7 +15494,7 @@
 17	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 18	cananita	cananito	ADJ	JJ	Gender=Masc|Number=Sing	21	amod	_	Proper=True
 19	"	"	PUNCT	``	PunctType=Quot	21	punct	_	SpaceAfter=No
-20	gran	grande	ADJ	JJ	Number=Sing	21	amod	_	_
+20	gran	gran	ADJ	JJ	Number=Sing	21	amod	_	_
 21	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	16	obj	_	SpaceAfter=No
 22	"	"	PUNCT	''	PunctType=Quot	21	punct	_	_
 23	desde	desde	ADP	IN	_	25	case	_	_
@@ -16666,7 +16666,7 @@
 9	quienes	quien	PRON	REL	Number=Plur|PronType=Rel	10	nsubj	_	_
 10	hicieron	hacer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-12	gran	grande	ADJ	JJ	Number=Sing	13	amod	_	_
+12	gran	gran	ADJ	JJ	Number=Sing	13	amod	_	_
 13	mayoría	mayoría	NOUN	NN	Gender=Fem|Number=Sing	10	obj	_	_
 14	de	de	ADP	IN	_	16	case	_	_
 15	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
@@ -17074,7 +17074,7 @@
 9	Filipo	Filipo	PROPN	NNP	Gender=Masc|Number=Sing	10	nsubj	_	_
 10	reunió	reunir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-12	gran	grande	ADJ	JJ	Number=Sing	13	amod	_	_
+12	gran	gran	ADJ	JJ	Number=Sing	13	amod	_	_
 13	ejército	ejército	NOUN	NN	Gender=Masc|Number=Sing	10	obj	_	_
 14	macedonio	macedonio	ADJ	JJ	Gender=Masc|Number=Sing	13	amod	_	Proper=True
 15	y	y	CCONJ	CC	_	17	cc	_	_
@@ -18191,7 +18191,7 @@
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	Opio	opio	NOUN	NN	Gender=Masc|Number=Sing	11	nmod	_	Proper=True
 15	con	con	ADP	IN	_	17	case	_	_
-16	Gran	grande	ADJ	JJ	Number=Sing	17	amod	_	Proper=True
+16	Gran	gran	ADJ	JJ	Number=Sing	17	amod	_	Proper=True
 17	Bretaña	Bretaña	PROPN	NNP	Number=Sing	7	obl	_	_
 18	después	después	ADV	RB	_	6	advmod	_	_
 19	de	de	ADP	IN	_	28	case	_	_
@@ -18243,7 +18243,7 @@
 6	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
 7	cedida	ceder	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 8	a	a	ADP	IN	_	10	case	_	_
-9	Gran	grande	ADJ	JJ	Number=Sing	10	amod	_	Proper=True
+9	Gran	gran	ADJ	JJ	Number=Sing	10	amod	_	Proper=True
 10	Bretaña	Bretaña	PROPN	NNP	Number=Sing	7	obl	_	SpaceAfter=No
 11	,	,	PUNCT	,	PunctType=Comm	23	punct	_	_
 12	y	y	CCONJ	CC	_	23	cc	_	_
@@ -18580,7 +18580,7 @@
 16	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	aux	_	_
 17	jugado	jugar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	conj	_	_
 18	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
-19	gran	grande	ADJ	JJ	Number=Sing	20	amod	_	_
+19	gran	gran	ADJ	JJ	Number=Sing	20	amod	_	_
 20	rol	rol	NOUN	NN	Gender=Masc|Number=Sing	17	obj	_	_
 21	en	en	ADP	IN	_	23	case	_	_
 22	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
@@ -18777,7 +18777,7 @@
 # text = La gran altitud sirve para refrescar el clima, que de otra manera sería muy caluroso.
 # text_en = The high altitude serves to cool the climate, which would otherwise be very hot.
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-2	gran	grande	ADJ	JJ	Number=Sing	3	amod	_	_
+2	gran	gran	ADJ	JJ	Number=Sing	3	amod	_	_
 3	altitud	altitud	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	_
 4	sirve	servir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	para	para	ADP	IN	_	6	case	_	_
@@ -20186,7 +20186,7 @@
 17	como	como	ADP	IN	_	21	case	_	_
 18	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 19	"	"	PUNCT	``	PunctType=Quot	21	punct	_	SpaceAfter=No
-20	gran	grande	ADJ	JJ	Number=Sing	21	amod	_	_
+20	gran	gran	ADJ	JJ	Number=Sing	21	amod	_	_
 21	regreso	regreso	NOUN	NN	Gender=Masc|Number=Sing	16	obl	_	_
 22	en	en	ADP	IN	_	23	case	_	_
 23	forma	forma	NOUN	NN	Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
@@ -22309,7 +22309,7 @@
 3	,	,	PUNCT	,	PunctType=Comm	2	punct	_	_
 4	hay	haber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-6	gran	grande	ADJ	JJ	Number=Sing	7	amod	_	_
+6	gran	gran	ADJ	JJ	Number=Sing	7	amod	_	_
 7	número	número	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	agentes	agente	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	_
@@ -22321,7 +22321,7 @@
 14	ruso	ruso	ADJ	JJ	Gender=Masc|Number=Sing	12	amod	_	Proper=True
 15	activos	activo	ADJ	JJ	Gender=Masc|Number=Plur	9	amod	_	_
 16	en	en	ADP	IN	_	18	case	_	_
-17	Gran	grande	ADJ	JJ	Number=Sing	18	amod	_	Proper=True
+17	Gran	gran	ADJ	JJ	Number=Sing	18	amod	_	Proper=True
 18	Bretaña	Bretaña	PROPN	NNP	Number=Sing	4	obl	_	SpaceAfter=No
 19	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
@@ -23059,7 +23059,7 @@
 4	Barrosos	Barrosos	PROPN	NNP	Number=Sing	2	nmod	_	_
 5	causó	causar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	gran	grande	ADJ	JJ	Number=Sing	8	amod	_	_
+7	gran	gran	ADJ	JJ	Number=Sing	8	amod	_	_
 8	revuelo	revuelo	NOUN	NN	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
 9	.	.	PUNCT	.	PunctType=Peri	5	punct	_	_
 
@@ -25515,7 +25515,7 @@
 16	libre	libre	ADJ	JJ	Gender=Masc|Number=Sing	15	amod	_	_
 17	en	en	ADP	IN	_	20	case	_	_
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
-19	gran	grande	ADJ	JJ	Number=Sing	20	amod	_	_
+19	gran	gran	ADJ	JJ	Number=Sing	20	amod	_	_
 20	escalinata	escalinata	NOUN	NN	Gender=Fem|Number=Sing	12	nmod	_	_
 21	delante	delante	ADV	RB	_	20	advmod	_	_
 22	de	de	ADP	IN	_	24	case	_	_
@@ -25996,7 +25996,7 @@
 11	porque	porque	SCONJ	IN	_	12	mark	_	_
 12	tenían	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	_
 13	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-14	gran	grande	ADJ	JJ	Number=Sing	15	amod	_	_
+14	gran	gran	ADJ	JJ	Number=Sing	15	amod	_	_
 15	necesidad	necesidad	NOUN	NN	Gender=Fem|Number=Sing	12	obj	_	_
 16-17	del	_	_	_	_	_	_	_	_
 16	de	de	ADP	INDT	_	18	case	_	_
@@ -26321,7 +26321,7 @@
 4	tuvo	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
 6	en	en	ADP	IN	_	8	case	_	_
-7	Gran	grande	ADJ	JJ	Number=Sing	8	amod	_	Proper=True
+7	Gran	gran	ADJ	JJ	Number=Sing	8	amod	_	Proper=True
 8	Bretaña	Bretaña	PROPN	NNP	Number=Sing	4	obl	_	_
 9	antes	antes	ADV	RB	_	4	advmod	_	_
 10	que	que	ADP	IN	_	14	case	_	_
@@ -26349,7 +26349,7 @@
 12	coloniales	colonial	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	SpaceAfter=No
 13	,	,	PUNCT	,	PunctType=Comm	16	punct	_	_
 14	como	como	ADP	IN	_	16	case	_	_
-15	Gran	grande	ADJ	JJ	Number=Sing	16	amod	_	Proper=True
+15	Gran	gran	ADJ	JJ	Number=Sing	16	amod	_	Proper=True
 16	Bretaña	Bretaña	PROPN	NNP	Number=Sing	11	nmod	_	_
 17	y	y	CCONJ	CC	_	18	cc	_	_
 18	Francia	Francia	PROPN	NNP	Number=Sing	16	conj	_	SpaceAfter=No
@@ -26454,7 +26454,7 @@
 10	José	José	PROPN	NNP	Gender=Masc|Number=Sing	9	flat:name	_	_
 11	I	i	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	Proper=True
 12	puso	poner	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-13	gran	grande	ADJ	JJ	Number=Sing	14	amod	_	_
+13	gran	gran	ADJ	JJ	Number=Sing	14	amod	_	_
 14	cuidado	cuidado	NOUN	NN	Gender=Masc|Number=Sing	12	obj	_	_
 15	en	en	ADP	IN	_	16	case	_	_
 16	tratar	tratar	VERB	VB	VerbForm=Inf	12	xcomp	_	_
@@ -28391,7 +28391,7 @@
 9	intencionadamente	intencionadamente	ADV	RB	_	8	advmod	_	_
 10	por	por	ADP	IN	_	13	case	_	_
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-12	gran	grande	ADJ	JJ	Number=Sing	13	amod	_	_
+12	gran	gran	ADJ	JJ	Number=Sing	13	amod	_	_
 13	número	número	NOUN	NN	Gender=Masc|Number=Sing	8	obl:agent	_	_
 14	de	de	ADP	IN	_	15	case	_	_
 15	judíos	judío	NOUN	NN	Gender=Masc|Number=Plur	13	nmod	_	Proper=True
