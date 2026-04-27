@@ -22728,7 +22728,7 @@
 27	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
 28	situación	situación	NOUN	NN	Gender=Fem|Number=Sing	21	obl	_	_
 29	más	más	ADV	RBR	Degree=Cmp	30	advmod	_	_
-30	idiota	idioto	ADJ	JJ	Gender=Fem|Number=Sing	28	amod	_	SpaceAfter=No
+30	idiota	idiota	ADJ	JJ	Gender=Fem|Number=Sing	28	amod	_	SpaceAfter=No
 31	.	.	PUNCT	.	PunctType=Peri	7	punct	_	_
 
 # sent_id = n02042028
