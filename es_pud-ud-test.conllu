@@ -1254,7 +1254,7 @@
 5	mucho	mucho	ADV	RB	_	6	advmod	_	_
 6	más	más	ADV	RBR	Degree=Cmp	7	advmod	_	_
 7	hardware	hardware	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
-8	militare	militare	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
+8	militare	militar	ADJ	JJ	Number=Sing|Typo=Yes	7	amod	_	CorrectForm=militar|SpaceAfter=No
 9	,	,	PUNCT	,	PunctType=Comm	11	punct	_	_
 10	desde	desde	ADP	IN	_	11	case	_	_
 11	helicópteros	helicóptero	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
@@ -3613,7 +3613,7 @@
 24	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	25	nsubj	_	_
 25	indica	indicar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 26	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
-27	importate	importate	ADJ	JJ	Gender=Masc|Number=Sing	28	amod	_	_
+27	importate	importante	ADJ	JJ	Number=Sing|Typo=Yes	28	amod	_	CorrectForm=importante
 28	papel	papel	NOUN	NN	Gender=Masc|Number=Sing	25	obj	_	_
 29	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	30	obj	_	_
 30	desempeñan	desempeñar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	acl:relcl	_	_
