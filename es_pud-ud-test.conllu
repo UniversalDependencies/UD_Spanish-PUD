@@ -1245,7 +1245,7 @@
 
 # sent_id = n01020017
 # parallel_id = pud/n01020017
-# text = Evidentemente, China presentará mucho más hardware militare, desde helicópteros de ataque hasta hidroaviones.
+# text = Evidentemente, China presentará mucho más hardware militar, desde helicópteros de ataque hasta hidroaviones.
 # text_en = Naturally China will be presenting plenty of other military hardware this week from attack helicopters to seaplanes.
 1	Evidentemente	evidentemente	ADV	RB	_	4	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
@@ -1254,7 +1254,7 @@
 5	mucho	mucho	ADV	RB	_	6	advmod	_	_
 6	más	más	ADV	RBR	Degree=Cmp	7	advmod	_	_
 7	hardware	hardware	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
-8	militare	militar	ADJ	JJ	Number=Sing|Typo=Yes	7	amod	_	CorrectForm=militar|SpaceAfter=No
+8	militar	militar	ADJ	JJ	Number=Sing	7	amod	_	SpaceAfter=No
 9	,	,	PUNCT	,	PunctType=Comm	11	punct	_	_
 10	desde	desde	ADP	IN	_	11	case	_	_
 11	helicópteros	helicóptero	NOUN	NN	Gender=Masc|Number=Plur	4	obl	_	_
@@ -3584,7 +3584,7 @@
 # newdoc id = n01048
 # sent_id = n01048008
 # parallel_id = pud/n01048008
-# text = Estas estimaciones coinciden con los porcentajes de los nuevos apartamentos que se incorporan al mercado de alquiler tras su finalización, lo que indica el importate papel que desempeñan los inversores (nacionales) en el mercado inmobiliario del área metropolitana de Toronto.
+# text = Estas estimaciones coinciden con los porcentajes de los nuevos apartamentos que se incorporan al mercado de alquiler tras su finalización, lo que indica el importante papel que desempeñan los inversores (nacionales) en el mercado inmobiliario del área metropolitana de Toronto.
 # text_en = "These estimates coincide with the percentages of new condos entering the rental market upon completion, indicating the important role (domestic) investors play in the GTA housing market."
 1	Estas	este	DET	DT	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
 2	estimaciones	estimación	NOUN	NN	Gender=Fem|Number=Plur	3	nsubj	_	_
@@ -3613,7 +3613,7 @@
 24	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	25	nsubj	_	_
 25	indica	indicar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 26	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
-27	importate	importante	ADJ	JJ	Number=Sing|Typo=Yes	28	amod	_	CorrectForm=importante
+27	importante	importante	ADJ	JJ	Number=Sing	28	amod	_	_
 28	papel	papel	NOUN	NN	Gender=Masc|Number=Sing	25	obj	_	_
 29	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	30	obj	_	_
 30	desempeñan	desempeñar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	acl:relcl	_	_
