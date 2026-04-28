@@ -68,7 +68,7 @@
 15	esto	esto	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	17	nsubj	_	_
 16	será	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	17	cop	_	_
 17	algo	algo	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
-18	diferente	diferente	ADJ	JJ	Gender=Masc|Number=Sing	17	amod	_	SpaceAfter=No
+18	diferente	diferente	ADJ	JJ	Number=Sing	17	amod	_	SpaceAfter=No
 19	.	.	PUNCT	.	PunctType=Peri	17	punct	_	_
 
 # newdoc id = n01002
@@ -90,7 +90,7 @@
 11	con	con	ADP	IN	_	13	case	_	_
 12	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	retórica	retórica	NOUN	NN	Gender=Fem|Number=Sing	10	obl	_	_
-14	precedente	precedente	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	_
+14	precedente	precedente	ADJ	JJ	Number=Sing	13	amod	_	_
 15	sobre	sobre	ADP	IN	_	17	case	_	_
 16	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	restricción	restricción	NOUN	NN	Gender=Fem|Number=Sing	13	nmod	_	_
@@ -204,7 +204,7 @@
 11	mujer	mujer	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	_
 12	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 13	realmente	realmente	ADV	RB	_	14	advmod	_	_
-14	increíble	increíble	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+14	increíble	increíble	ADJ	JJ	Number=Sing	0	root	_	SpaceAfter=No
 15	.	.	PUNCT	.	PunctType=Peri	14	punct	_	_
 
 # newdoc id = n01003
@@ -347,7 +347,7 @@
 11	como	como	ADP	IN	_	13	case	_	_
 12	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	unidad	unidad	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
-14	aparte	aparte	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	SpaceAfter=No
+14	aparte	aparte	ADJ	JJ	Number=Sing	13	amod	_	SpaceAfter=No
 15	,	,	PUNCT	,	PunctType=Comm	7	punct	_	_
 16	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
 17	estudiantes	estudiante	NOUN	NN	Gender=Masc|Number=Plur	18	nsubj	_	_
@@ -414,7 +414,7 @@
 19	sobre	sobre	ADP	IN	_	21	case	_	_
 20	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	línea	línea	NOUN	NN	Gender=Fem|Number=Sing	18	obl	_	_
-22	existente	existente	ADJ	JJ	Gender=Fem|Number=Sing	21	amod	_	SpaceAfter=No
+22	existente	existente	ADJ	JJ	Number=Sing	21	amod	_	SpaceAfter=No
 23	,	,	PUNCT	,	PunctType=Comm	13	punct	_	_
 24	costó	costar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 25	103,7	103,7	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	26	nummod	_	_
@@ -704,7 +704,7 @@
 9	contra	contra	ADP	IN	_	11	case	_	_
 10	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	colchón	colchón	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	_
-12	inflable	inflable	ADJ	JJ	Gender=Masc|Number=Sing	11	amod	_	_
+12	inflable	inflable	ADJ	JJ	Number=Sing	11	amod	_	_
 13	en	en	ADP	IN	_	15	case	_	_
 14	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
 15	salón	salón	NOUN	NN	Gender=Masc|Number=Sing	11	nmod	_	_
@@ -783,7 +783,7 @@
 7	agencia	agencia	NOUN	NN	Gender=Fem|Number=Sing	4	nmod	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	oradores	orador	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	_
-10	estadounidense	estadounidense	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	Proper=True
+10	estadounidense	estadounidense	ADJ	JJ	Number=Sing	7	amod	_	Proper=True
 11	tras	tras	ADP	IN	_	13	case	_	_
 12	ser	ser	AUX	VB	VerbForm=Inf	13	aux:pass	_	_
 13	despedido	despedir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	xcomp	_	_
@@ -1047,12 +1047,12 @@
 17	no	no	ADV	RB	Polarity=Neg	20	advmod	_	_
 18	solía	soler	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	ccomp	_	_
 19	ser	ser	AUX	VB	VerbForm=Inf	20	cop	_	_
-20	fiable	fiable	ADJ	JJ	Gender=Masc|Number=Sing	18	xcomp	_	_
+20	fiable	fiable	ADJ	JJ	Number=Sing	18	xcomp	_	_
 21	y	y	CCONJ	CC	_	25	cc	_	_
 22	que	que	SCONJ	IN	_	25	mark	_	_
 23	era	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	25	cop	_	_
 24	poco	poco	ADV	RB	_	25	advmod	_	_
-25	probable	probable	ADJ	JJ	Gender=Masc|Number=Sing	20	conj	_	_
+25	probable	probable	ADJ	JJ	Number=Sing	20	conj	_	_
 26	que	que	SCONJ	IN	_	27	mark	_	_
 27	influenciase	influenciar	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	25	csubj	_	_
 28	a	a	ADP	IN	_	30	case	_	_
@@ -1083,7 +1083,7 @@
 11	ofrecer	ofrecer	VERB	VB	VerbForm=Inf	8	conj	_	_
 12	algo	algo	NOUN	NN	Gender=Masc|Number=Sing	11	obj	_	_
 13	relativamente	relativamente	ADV	RB	_	14	advmod	_	_
-14	fiable	fiable	ADJ	JJ	Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No
+14	fiable	fiable	ADJ	JJ	Number=Sing	12	amod	_	SpaceAfter=No
 15	.	.	PUNCT	.	PunctType=Peri	8	punct	_	_
 
 # sent_id = n01017010
@@ -1361,7 +1361,7 @@
 # text = Es probable que los "sucesos recientes" sean ataques producidos el 21 de octubre que cerraron sitios web populares como Reddit, Twitter y Spotify entre muchos otros.
 # text_en = The "recent events" are likely to be the attacks of 21 October that briefly took down popular websites such as Reddit, Twitter and Spotify as well as many others.
 1	Es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
-2	probable	probable	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
+2	probable	probable	ADJ	JJ	Number=Sing	0	root	_	_
 3	que	que	SCONJ	IN	_	10	mark	_	_
 4	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 5	"	"	PUNCT	``	PunctType=Quot	6	punct	_	SpaceAfter=No
@@ -1655,7 +1655,7 @@
 # text_en = A telltale of this meteoritic material will likely be high levels of the element iridium.
 1	Será	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	cop	_	_
 2	muy	muy	ADV	RB	_	3	advmod	_	_
-3	probable	probable	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
+3	probable	probable	ADJ	JJ	Number=Sing	0	root	_	_
 4	que	que	SCONJ	IN	_	12	mark	_	_
 5	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
 6	altos	alto	ADJ	JJ	Gender=Masc|Number=Plur	7	amod	_	_
@@ -2218,7 +2218,7 @@
 17	,	,	PUNCT	,	PunctType=Comm	9	punct	_	_
 18	no	no	ADV	RB	Polarity=Neg	20	advmod	_	_
 19	estaba	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	cop	_	_
-20	presente	presente	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
+20	presente	presente	ADJ	JJ	Number=Sing	0	root	_	_
 21	en	en	ADP	IN	_	23	case	_	_
 22	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	estudio	estudio	NOUN	NN	Gender=Masc|Number=Sing	20	obl	_	_
@@ -2839,7 +2839,7 @@
 26	día	día	NOUN	NN	Gender=Masc|Number=Sing	24	nmod	_	_
 27	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	humo	humo	NOUN	NN	Gender=Masc|Number=Sing	23	obj	_	_
-29	asfixiante	asfixiante	ADJ	JJ	Gender=Masc|Number=Sing	28	amod	_	SpaceAfter=No
+29	asfixiante	asfixiante	ADJ	JJ	Number=Sing	28	amod	_	SpaceAfter=No
 30	.	.	PUNCT	.	PunctType=Peri	11	punct	_	_
 
 # newdoc id = n01038
@@ -3428,14 +3428,14 @@
 9	a	a	ADP	IN	_	10	case	_	_
 10	organizaciones	organización	NOUN	NN	Gender=Fem|Number=Plur	7	conj	_	_
 11	acceso	acceso	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj:pass	_	_
-12	preferente	preferente	ADJ	JJ	Gender=Masc|Number=Sing	11	amod	_	_
+12	preferente	preferente	ADJ	JJ	Number=Sing	11	amod	_	_
 13-14	al	_	_	_	_	_	_	_	_
 13	a	a	ADP	INDT	_	15	case	_	_
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	gobierno	gobierno	NOUN	NN	Gender=Masc|Number=Sing	11	nmod	_	_
 16	o	o	CCONJ	CC	_	17	cc	_	_
 17	acceso	acceso	NOUN	NN	Gender=Masc|Number=Sing	11	conj	_	_
-18	preferente	preferente	ADJ	JJ	Gender=Masc|Number=Sing	17	amod	_	_
+18	preferente	preferente	ADJ	JJ	Number=Sing	17	amod	_	_
 19	a	a	ADP	IN	_	20	case	_	_
 20	compadecer	compadecer	VERB	VB	VerbForm=Inf	17	xcomp	_	_
 21	por	por	ADP	IN	_	23	case	_	_
@@ -3514,7 +3514,7 @@
 # text = Es increíble, afirmó la consumidora de los datos ilimitados de SaskTel Lindsay Gay el mes pasado.
 # text_en = "It is amazing," reported SaskTel unlimited data customer Lindsay Gay last month.
 1	Es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
-2	increíble	increíble	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	increíble	increíble	ADJ	JJ	Number=Sing	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	,	PunctType=Comm	4	punct	_	_
 4	afirmó	afirmar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
@@ -3746,7 +3746,7 @@
 24	y	y	CCONJ	CC	_	27	cc	_	_
 25	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	27	nsubj	_	_
 26	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	_
-27	responsable	responsable	ADJ	JJ	Gender=Fem|Number=Sing	19	conj	_	_
+27	responsable	responsable	ADJ	JJ	Number=Sing	19	conj	_	_
 28	de	de	ADP	IN	_	29	case	_	_
 29	transportar	transportar	VERB	VB	VerbForm=Inf	27	xcomp	_	_
 30	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
@@ -3912,7 +3912,7 @@
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	tumor	tumor	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	_
 6	más	más	ADV	RBR	Degree=Cmp	7	advmod	_	_
-7	frecuente	frecuente	ADJ	JJ	Gender=Masc|Number=Sing	5	amod	_	_
+7	frecuente	frecuente	ADJ	JJ	Number=Sing	5	amod	_	_
 8	en	en	ADP	IN	_	9	case	_	_
 9	bebés	bebé	NOUN	NN	Number=Plur	5	nmod	_	_
 10	y	y	CCONJ	CC	_	12	cc	_	_
@@ -4505,7 +4505,7 @@
 18	que	que	ADP	IN	_	19	mark	_	_
 19	hacer	hacer	VERB	VB	VerbForm=Inf	17	xcomp	_	_
 20	algo	algo	NOUN	NN	Gender=Masc|Number=Sing	17	obj	_	_
-21	diferente	diferente	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	SpaceAfter=No
+21	diferente	diferente	ADJ	JJ	Number=Sing	20	amod	_	SpaceAfter=No
 22	,	,	PUNCT	,	PunctType=Comm	27	punct	_	_
 23	en	en	ADP	IN	_	25	case	_	_
 24	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
@@ -4677,7 +4677,7 @@
 # text_en = In a recent interview, Zay and Zayion described recording their version of “Knuck If You Buck” on a home laptop.
 1	En	en	ADP	IN	_	4	case	_	_
 2	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-3	reciente	reciente	ADJ	JJ	Gender=Fem|Number=Sing	4	amod	_	_
+3	reciente	reciente	ADJ	JJ	Number=Sing	4	amod	_	_
 4	entrevista	entrevista	NOUN	NN	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
 5	,	,	PUNCT	,	PunctType=Comm	4	punct	_	_
 6	Zay	Zay	PROPN	NNP	Gender=Masc|Number=Sing	9	nsubj	_	_
@@ -4724,7 +4724,7 @@
 15	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	sistema	sistema	NOUN	NN	Gender=Masc|Number=Sing	14	obj	_	_
 17	nervioso	nervioso	ADJ	JJ	Gender=Masc|Number=Sing	16	amod	_	_
-18	trazable	trazable	ADJ	JJ	Gender=Masc|Number=Sing	16	amod	_	_
+18	trazable	trazable	ADJ	JJ	Number=Sing	16	amod	_	_
 19	y	y	CCONJ	CC	_	20	cc	_	_
 20	conectivo	conectivo	ADJ	JJ	Gender=Masc|Number=Sing	18	conj	_	_
 21-22	al	_	_	_	_	_	_	_	_
@@ -5167,7 +5167,7 @@
 # text_en = He was utterly gracious and took it like a man, I am beyond furious.
 1	Fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
 2	muy	muy	ADV	RB	_	3	advmod	_	_
-3	amable	amable	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
+3	amable	amable	ADJ	JJ	Number=Sing	0	root	_	_
 4	y	y	CCONJ	CC	_	6	cc	_	_
 5	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	obj	_	_
 6	aceptó	aceptar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
@@ -5554,9 +5554,9 @@
 12	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	_
 14	más	más	ADV	RBR	Degree=Cmp	15	advmod	_	_
-15	preocupante	preocupante	ADJ	JJ	Gender=Masc|Number=Sing	13	amod	_	_
+15	preocupante	preocupante	ADJ	JJ	Number=Sing	13	amod	_	_
 16	e	e	CCONJ	CC	_	17	cc	_	_
-17	inestable	inestable	ADJ	JJ	Gender=Masc|Number=Sing	15	conj	_	_
+17	inestable	inestable	ADJ	JJ	Number=Sing	15	conj	_	_
 18	de	de	ADP	IN	_	20	case	_	_
 19	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	20	det	_	_
 20	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	14	xcomp	_	_
@@ -5577,7 +5577,7 @@
 7	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	opinión	opinión	NOUN	NN	Gender=Fem|Number=Sing	15	nsubj	_	_
 9	pública	público	ADJ	JJ	Gender=Fem|Number=Sing	8	amod	_	_
-10	estadounidense	estadounidense	ADJ	JJ	Gender=Fem|Number=Sing	8	amod	_	Proper=True
+10	estadounidense	estadounidense	ADJ	JJ	Number=Sing	8	amod	_	Proper=True
 11	cansada	cansado	ADJ	JJ	Gender=Fem|Number=Sing	8	amod	_	_
 12	de	de	ADP	IN	_	14	case	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
@@ -5826,9 +5826,9 @@
 4	que	que	SCONJ	IN	_	22	mark	_	_
 5	alguien	alguien	NOUN	NN	Gender=Masc|Number=Sing	22	nsubj	_	_
 6	tan	tan	ADV	RB	_	7	advmod	_	_
-7	racista	racista	ADJ	JJ	Gender=Masc|Number=Sing	5	amod	_	SpaceAfter=No
+7	racista	racista	ADJ	JJ	Number=Sing	5	amod	_	SpaceAfter=No
 8	,	,	PUNCT	,	PunctType=Comm	9	punct	_	_
-9	sexista	sexista	ADJ	JJ	Gender=Masc|Number=Sing	7	conj	_	_
+9	sexista	sexista	ADJ	JJ	Number=Sing	7	conj	_	_
 10	y	y	CCONJ	CC	_	13	cc	_	_
 11	tan	tan	ADV	RB	_	12	advmod	_	_
 12	poco	poco	ADV	RB	_	13	advmod	_	_
@@ -5896,7 +5896,7 @@
 4	que	que	SCONJ	IN	_	6	mark	_	_
 5	no	no	ADV	RB	Polarity=Neg	6	advmod	_	_
 6	ofrece	ofrecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
-7	suficiente	suficiente	ADJ	JJ	Gender=Fem|Number=Sing	8	amod	_	_
+7	suficiente	suficiente	ADJ	JJ	Number=Sing	8	amod	_	_
 8	protección	protección	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	_
 9	a	a	ADP	IN	_	11	case	_	_
 10	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
@@ -6127,7 +6127,7 @@
 # text_en = Surprising as it may seem, even acid rain clouds can have a silver lining.
 1	Aunque	aunque	SCONJ	IN	_	2	mark	_	_
 2	parezca	parecer	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
-3	sorprendente	sorprendente	ADJ	JJ	Gender=Masc|Number=Sing	2	xcomp	_	SpaceAfter=No
+3	sorprendente	sorprendente	ADJ	JJ	Number=Sing	2	xcomp	_	SpaceAfter=No
 4	,	,	PUNCT	,	PunctType=Comm	2	punct	_	_
 5	incluso	incluso	ADV	RB	_	7	advmod	_	_
 6	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
@@ -6147,12 +6147,12 @@
 # text = Es posible que el mundo sea exasperante y absurdo, pero al menos hay alguien que tiene el amor propio necesario para seguir protestando contra ello.
 # text_en = The world may be enraging and absurd – yet at least someone has the self-respect to keep protesting against that fact.
 1	Es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
-2	posible	posible	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
+2	posible	posible	ADJ	JJ	Number=Sing	0	root	_	_
 3	que	que	SCONJ	IN	_	7	mark	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	mundo	mundo	NOUN	NN	Gender=Masc|Number=Sing	7	nsubj	_	_
 6	sea	ser	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
-7	exasperante	exasperante	ADJ	JJ	Gender=Masc|Number=Sing	2	csubj	_	_
+7	exasperante	exasperante	ADJ	JJ	Number=Sing	2	csubj	_	_
 8	y	y	CCONJ	CC	_	9	cc	_	_
 9	absurdo	absurdo	ADJ	JJ	Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
 10	,	,	PUNCT	,	PunctType=Comm	15	punct	_	_
@@ -6456,7 +6456,7 @@
 18	que	que	ADP	IN	_	17	fixed	_	_
 19	resulta	resultar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
 20	muy	muy	ADV	RB	_	19	advmod	_	_
-21	interesante	interesante	ADJ	JJ	Gender=Masc|Number=Sing	19	xcomp	_	_
+21	interesante	interesante	ADJ	JJ	Number=Sing	19	xcomp	_	_
 22	hacer	hacer	VERB	VB	VerbForm=Inf	19	csubj	_	_
 23	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
 24	colección	colección	NOUN	NN	Gender=Fem|Number=Sing	22	obj	_	_
@@ -7009,7 +7009,7 @@
 # text = Mi siguiente parada fue Bellingham, muy cerca de la frontera canadiense.
 # text_en = My next stop was Bellingham, right up near the Canadian border.
 1	Mi	mi	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
-2	siguiente	siguiente	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	_
+2	siguiente	siguiente	ADJ	JJ	Number=Sing	3	amod	_	_
 3	parada	parada	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
 4	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
 5	Bellingham	Bellingham	PROPN	NNP	Number=Sing	3	nsubj	_	SpaceAfter=No
@@ -7019,7 +7019,7 @@
 9	de	de	ADP	IN	_	11	case	_	_
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	frontera	frontera	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
-12	canadiense	canadiense	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	Proper=True|SpaceAfter=No
+12	canadiense	canadiense	ADJ	JJ	Number=Sing	11	amod	_	Proper=True|SpaceAfter=No
 13	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
 # newdoc id = n01098
@@ -7685,7 +7685,7 @@
 26	creciendo	crecer	VERB	VBG	VerbForm=Ger	25	xcomp	_	_
 27	de	de	ADP	IN	_	28	case	_	_
 28	forma	forma	NOUN	NN	Gender=Fem|Number=Sing	26	obl	_	_
-29	constante	constante	ADJ	JJ	Gender=Fem|Number=Sing	28	amod	_	SpaceAfter=No
+29	constante	constante	ADJ	JJ	Number=Sing	28	amod	_	SpaceAfter=No
 30	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
 # sent_id = n01108005
@@ -8053,7 +8053,7 @@
 # text = Un importante informe publicado en enero informó de que para 2050 los océanos contendrán más plástico que pescado, a no ser que la humanidad adopte acciones radicales para impedir que la basura termine en el mar.
 # text_en = A major report in January said oceans would contain more plastic than fish by 2050 unless the world took radical action to stop rubbish leaking into the seas.
 1	Un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-2	importante	importante	ADJ	JJ	Gender=Masc|Number=Sing	3	amod	_	_
+2	importante	importante	ADJ	JJ	Number=Sing	3	amod	_	_
 3	informe	informe	NOUN	NN	Gender=Masc|Number=Sing	7	nsubj	_	_
 4	publicado	publicar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	_
 5	en	en	ADP	IN	_	6	case	_	_
@@ -8107,7 +8107,7 @@
 9	muchas	mucho	DET	DT	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	10	det	_	_
 10	horas	hora	NOUN	NN	Gender=Fem|Number=Plur	3	conj	_	_
 11	de	de	ADP	IN	_	13	case	_	_
-12	exigente	exigente	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	_
+12	exigente	exigente	ADJ	JJ	Number=Sing	13	amod	_	_
 13	rehabilitación	rehabilitación	NOUN	NN	Gender=Fem|Number=Sing	10	nmod	_	_
 14	me	yo	PRON	SE	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	16	compound:prt	_	_
 15	he	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	16	aux	_	_
@@ -8138,7 +8138,7 @@
 16	"	"	PUNCT	``	PunctType=Quot	18	punct	_	SpaceAfter=No
 17	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	presión	presión	NOUN	NN	Gender=Fem|Number=Sing	14	obl	_	_
-19	enorme	enorme	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	SpaceAfter=No
+19	enorme	enorme	ADJ	JJ	Number=Sing	18	amod	_	SpaceAfter=No
 20	"	"	PUNCT	''	PunctType=Quot	18	punct	_	SpaceAfter=No
 21	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
 22	exhortó	exhortar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -8220,7 +8220,7 @@
 4	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
 5	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	año	año	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
-7	increíble	increíble	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	_
+7	increíble	increíble	ADJ	JJ	Number=Sing	6	amod	_	_
 8	y	y	CCONJ	CC	_	9	cc	_	_
 9	espero	esperar	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
 10	que	que	SCONJ	IN	_	13	mark	_	_
@@ -8289,7 +8289,7 @@
 15	puede	poder	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
 16	explotar	explotar	VERB	VB	VerbForm=Inf	12	acl:relcl	_	_
 17	con	con	ADP	IN	_	19	case	_	_
-18	suficiente	suficiente	ADJ	JJ	Gender=Fem|Number=Sing	19	amod	_	_
+18	suficiente	suficiente	ADJ	JJ	Number=Sing	19	amod	_	_
 19	fuerza	fuerza	NOUN	NN	Gender=Fem|Number=Sing	16	obl	_	_
 20	como	como	SCONJ	IN	ExtPos=SCONJ	22	mark	_	_
 21	para	para	ADP	IN	_	20	fixed	_	_
@@ -8340,7 +8340,7 @@
 8	Glenda	Glenda	PROPN	NNP	Gender=Fem|Number=Sing	9	nsubj	_	_
 9	marque	marcar	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
 10	con	con	ADP	IN	_	12	case	_	_
-11	semejante	semejante	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	_
+11	semejante	semejante	ADJ	JJ	Number=Sing	12	amod	_	_
 12	facilidad	facilidad	NOUN	NN	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
 13	,	,	PUNCT	,	PunctType=Comm	6	punct	_	_
 14	¿	¿	PUNCT	.	PunctSide=Ini|PunctType=Qest	17	punct	_	SpaceAfter=No
@@ -8467,7 +8467,7 @@
 18	,	,	PUNCT	,	PunctType=Comm	22	punct	_	_
 19	entre	entre	ADP	IN	_	22	case	_	_
 20	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
-21	alegre	alegre	ADJ	JJ	Gender=Fem|Number=Sing	22	amod	_	_
+21	alegre	alegre	ADJ	JJ	Number=Sing	22	amod	_	_
 22	gamberrada	gamberrada	NOUN	NN	Gender=Fem|Number=Sing	15	nmod	_	_
 23	para	para	ADP	IN	_	26	case	_	_
 24	toda	todo	DET	PDT	Gender=Fem|Number=Sing|PronType=Tot	26	det	_	_
@@ -8475,7 +8475,7 @@
 26	familia	familia	NOUN	NN	Gender=Fem|Number=Sing	22	nmod	_	_
 27	y	y	CCONJ	CC	_	30	cc	_	_
 28	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
-29	contundente	contundente	ADJ	JJ	Gender=Masc|Number=Sing	30	amod	_	_
+29	contundente	contundente	ADJ	JJ	Number=Sing	30	amod	_	_
 30	drama	drama	NOUN	NN	Gender=Masc|Number=Sing	22	conj	_	_
 31	social	social	ADJ	JJ	Gender=Masc|Number=Sing	30	amod	_	SpaceAfter=No
 32	.	.	PUNCT	.	PunctType=Peri	15	punct	_	_
@@ -8494,7 +8494,7 @@
 8	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 9	cordial	cordial	ADJ	JJ	Gender=Masc|Number=Sing	12	amod	_	_
 10	y	y	CCONJ	CC	_	11	cc	_	_
-11	reconfortante	reconfortante	ADJ	JJ	Gender=Masc|Number=Sing	9	conj	_	_
+11	reconfortante	reconfortante	ADJ	JJ	Number=Sing	9	conj	_	_
 12	producto	producto	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	_
 13	sin	sin	ADP	IN	_	14	case	_	_
 14	pretensiones	pretensión	NOUN	NN	Gender=Fem|Number=Plur	12	nmod	_	_
@@ -8527,7 +8527,7 @@
 8	,	,	PUNCT	,	PunctType=Comm	10	punct	_	_
 9	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	fuente	fuente	NOUN	NN	Gender=Fem|Number=Sing	7	appos	_	_
-11	constante	constante	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	_
+11	constante	constante	ADJ	JJ	Number=Sing	10	amod	_	_
 12	de	de	ADP	IN	_	13	case	_	_
 13	entretenimiento	entretenimiento	NOUN	NN	Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	.	PunctType=Peri	6	punct	_	_
@@ -8598,7 +8598,7 @@
 5	también	también	ADV	RB	_	6	advmod	_	_
 6	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-8	improbable	improbable	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	_
+8	improbable	improbable	ADJ	JJ	Number=Sing	9	amod	_	_
 9	calidad	calidad	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	_
 10	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	12	nsubj	_	_
 11	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	_
@@ -8838,7 +8838,7 @@
 12	con	con	ADP	IN	_	14	case	_	_
 13	nuestra	nuestro	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
 14	obsesión	obsesión	NOUN	NN	Gender=Fem|Number=Sing	11	obl	_	_
-15	creciente	creciente	ADJ	JJ	Gender=Fem|Number=Sing	14	amod	_	_
+15	creciente	creciente	ADJ	JJ	Number=Sing	14	amod	_	_
 16	por	por	ADP	IN	_	17	case	_	_
 17	fabricar	fabricar	VERB	VB	VerbForm=Inf	14	xcomp	_	_
 18	cosas	cosa	NOUN	NN	Gender=Fem|Number=Plur	17	obj	_	SpaceAfter=No
@@ -9116,7 +9116,7 @@
 # text_en = Enough of those, in a highly contested area, will lead to chaos election day.
 1	Una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	cantidad	cantidad	NOUN	NN	Gender=Fem|Number=Sing	13	nsubj	_	_
-3	suficiente	suficiente	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	_
+3	suficiente	suficiente	ADJ	JJ	Number=Sing	2	amod	_	_
 4	de	de	ADP	IN	_	5	case	_	_
 5	esos	ese	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	2	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	,	PunctType=Comm	2	punct	_	_
@@ -9168,7 +9168,7 @@
 5	persona	persona	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
 6	pomposa	pomposo	ADJ	JJ	Gender=Fem|Number=Sing	5	amod	_	SpaceAfter=No
 7	,	,	PUNCT	,	PunctType=Comm	8	punct	_	_
-8	arrogante	arrogante	ADJ	JJ	Gender=Fem|Number=Sing	6	conj	_	_
+8	arrogante	arrogante	ADJ	JJ	Number=Sing	6	conj	_	_
 9	y	y	CCONJ	CC	_	11	cc	_	_
 10	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	11	nsubj	_	_
 11	cree	creer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
@@ -9484,7 +9484,7 @@
 # text_en = China's insatiable appetite for fried chicken used to be a big reason why investors loved KFC-parent Yum Brands.
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	apetito	apetito	NOUN	NN	Gender=Masc|Number=Sing	11	nsubj	_	_
-3	insaciable	insaciable	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	_
+3	insaciable	insaciable	ADJ	JJ	Number=Sing	2	amod	_	_
 4	de	de	ADP	IN	_	5	case	_	_
 5	China	China	PROPN	NNP	Number=Sing	2	nmod	_	_
 6	por	por	ADP	IN	_	8	case	_	_
@@ -9597,7 +9597,7 @@
 14	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	17	nsubj	_	_
 15	hubiera	ser	AUX	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	aux	_	_
 16	sido	ser	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	cop	_	_
-17	interesante	interesante	ADJ	JJ	Gender=Masc|Number=Sing	13	acl:relcl	_	_
+17	interesante	interesante	ADJ	JJ	Number=Sing	13	acl:relcl	_	_
 18	de	de	ADP	IN	_	19	case	_	_
 19	ver	ver	VERB	VB	VerbForm=Inf	17	xcomp	_	SpaceAfter=No
 20	,	,	PUNCT	,	PunctType=Comm	23	punct	_	_
@@ -9710,7 +9710,7 @@
 16	emocional	emocional	ADJ	JJ	Gender=Masc|Number=Sing	15	amod	_	_
 17	era	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	19	cop	_	_
 18	muy	muy	ADV	RB	_	19	advmod	_	_
-19	desagradable	desagradable	ADJ	JJ	Gender=Masc|Number=Sing	3	advcl	_	SpaceAfter=No
+19	desagradable	desagradable	ADJ	JJ	Number=Sing	3	advcl	_	SpaceAfter=No
 20	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
 # sent_id = n01138026
@@ -10019,7 +10019,7 @@
 15	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
 16	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	logro	logro	NOUN	NN	Gender=Masc|Number=Sing	1	parataxis	_	_
-18	increíble	increíble	ADJ	JJ	Gender=Masc|Number=Sing	17	amod	_	SpaceAfter=No
+18	increíble	increíble	ADJ	JJ	Number=Sing	17	amod	_	SpaceAfter=No
 19	,	,	PUNCT	,	PunctType=Comm	20	punct	_	_
 20	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	_
 21	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
@@ -10079,7 +10079,7 @@
 12	admitidos	admitir	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	xcomp	_	_
 13	en	en	ADP	IN	_	16	case	_	_
 14	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-15	importante	importante	ADJ	JJ	Gender=Masc|Number=Sing	16	amod	_	_
+15	importante	importante	ADJ	JJ	Number=Sing	16	amod	_	_
 16	torneo	torneo	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	_
 17	de	de	ADP	IN	_	18	case	_	_
 18	golf	golf	NOUN	NN	Gender=Masc|Number=Sing	16	nmod	_	_
@@ -10836,7 +10836,7 @@
 11	C.	Cristo	PROPN	NNP	Abbr=Yes|Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
 12	,	,	PUNCT	,	PunctType=Comm	8	punct	_	_
 13	era	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	cop	_	_
-14	dependiente	dependiente	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
+14	dependiente	dependiente	ADJ	JJ	Number=Sing	0	root	_	_
 15	de	de	ADP	IN	_	17	case	_	_
 16	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
 17	granos	grano	NOUN	NN	Gender=Masc|Number=Plur	14	obl	_	_
@@ -10879,7 +10879,7 @@
 9	rey	rey	NOUN	NN	Gender=Masc|Number=Sing	4	nmod	_	_
 10	Darío	Darío	PROPN	NNP	Gender=Masc|Number=Sing	9	appos	_	_
 11	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	_
-12	responsable	responsable	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
+12	responsable	responsable	ADJ	JJ	Number=Sing	0	root	_	_
 13	de	de	ADP	IN	_	14	case	_	_
 14	completar	completar	VERB	VB	VerbForm=Inf	12	xcomp	_	_
 15	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
@@ -11241,7 +11241,7 @@
 4	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	viento	viento	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 6	estacional	estacional	ADJ	JJ	Gender=Masc|Number=Sing	5	amod	_	_
-7	dominante	dominante	ADJ	JJ	Gender=Masc|Number=Sing	5	amod	_	_
+7	dominante	dominante	ADJ	JJ	Number=Sing	5	amod	_	_
 8	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	9	nsubj	_	_
 9	dura	durar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
 10	varios	vario	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	11	det	_	_
@@ -11551,7 +11551,7 @@
 35	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
 36	historia	historia	NOUN	NN	Gender=Fem|Number=Sing	34	obj	_	_
 37	lingüística	lingüístico	ADJ	JJ	Gender=Fem|Number=Sing	36	amod	_	_
-38	diferente	diferente	ADJ	JJ	Gender=Fem|Number=Sing	36	amod	_	SpaceAfter=No
+38	diferente	diferente	ADJ	JJ	Number=Sing	36	amod	_	SpaceAfter=No
 39	.	.	PUNCT	.	PunctType=Peri	6	punct	_	_
 
 # newdoc id = w01014
@@ -11632,7 +11632,7 @@
 15	de	de	ADP	INDT	_	17	case	_	_
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	aire	aire	NOUN	NN	Gender=Masc|Number=Sing	12	nmod	_	_
-18	circundante	circundante	ADJ	JJ	Gender=Masc|Number=Sing	17	amod	_	SpaceAfter=No
+18	circundante	circundante	ADJ	JJ	Number=Sing	17	amod	_	SpaceAfter=No
 19	.	.	PUNCT	.	PunctType=Peri	9	punct	_	_
 
 # sent_id = w01016070
@@ -11640,7 +11640,7 @@
 # text = Un reciente ejemplo del control climático fue la preparación de China para los Juegos Olímpicos del 2008.
 # text_en = A recent example of weather control was China's preparation for the 2008 Summer Olympic Games.
 1	Un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-2	reciente	reciente	ADJ	JJ	Gender=Masc|Number=Sing	3	amod	_	_
+2	reciente	reciente	ADJ	JJ	Number=Sing	3	amod	_	_
 3	ejemplo	ejemplo	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 4-5	del	_	_	_	_	_	_	_	_
 4	de	de	ADP	INDT	_	6	case	_	_
@@ -12180,7 +12180,7 @@
 6	lagos	lago	NOUN	NN	Gender=Masc|Number=Plur	12	nsubj	_	_
 7	de	de	ADP	IN	_	8	case	_	_
 8	agua	agua	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
-9	dulce	dulce	ADJ	JJ	Gender=Fem|Number=Sing	8	amod	_	_
+9	dulce	dulce	ADJ	JJ	Number=Sing	8	amod	_	_
 10	normalmente	normalmente	ADV	RB	_	12	advmod	_	_
 11	son	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 12	profundos	profundo	ADJ	JJ	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
@@ -12204,7 +12204,7 @@
 11	(	(	PUNCT	(	PunctSide=Ini|PunctType=Brck	13	punct	_	SpaceAfter=No
 12	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	vino	vino	NOUN	NN	Gender=Masc|Number=Sing	10	appos	_	_
-14	fuerte	fuerte	ADJ	JJ	Gender=Masc|Number=Sing	13	amod	_	_
+14	fuerte	fuerte	ADJ	JJ	Number=Sing	13	amod	_	_
 15	de	de	ADP	IN	_	16	case	_	_
 16	frutas	fruta	NOUN	NN	Gender=Fem|Number=Plur	13	nmod	_	SpaceAfter=No
 17	)	)	PUNCT	)	PunctSide=Fin|PunctType=Brck	13	punct	_	_
@@ -12394,7 +12394,7 @@
 18	Danevirke	Danevirke	PROPN	NNP	Number=Sing	17	obj	_	_
 19	como	como	ADP	IN	_	20	case	_	_
 20	algo	algo	NOUN	NN	Gender=Masc|Number=Sing	17	obl	_	_
-21	inexpugnable	inexpugnable	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	SpaceAfter=No
+21	inexpugnable	inexpugnable	ADJ	JJ	Number=Sing	20	amod	_	SpaceAfter=No
 22	,	,	PUNCT	,	PunctType=Comm	30	punct	_	_
 23	y	y	CCONJ	CC	_	30	cc	_	_
 24	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
@@ -12538,7 +12538,7 @@
 12	característica	característica	NOUN	NN	Gender=Fem|Number=Sing	19	nsubj	_	_
 13	de	de	ADP	IN	_	16	case	_	_
 14	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
-15	prominente	prominente	ADJ	JJ	Gender=Fem|Number=Sing	16	amod	_	_
+15	prominente	prominente	ADJ	JJ	Number=Sing	16	amod	_	_
 16	topografía	topografía	NOUN	NN	Gender=Fem|Number=Sing	12	nmod	_	_
 17	no	no	ADV	RB	Polarity=Neg	19	advmod	_	_
 18	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
@@ -12619,12 +12619,12 @@
 18	como	como	ADP	IN	_	20	case	_	_
 19	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	estado	estado	NOUN	NN	Gender=Masc|Number=Sing	14	obl	_	_
-21	libre	libre	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	_
+21	libre	libre	ADJ	JJ	Number=Sing	20	amod	_	_
 22	o	o	CCONJ	CC	_	25	cc	_	_
 23	como	como	ADP	IN	_	25	case	_	_
 24	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	estado	estado	NOUN	NN	Gender=Masc|Number=Sing	20	conj	_	_
-26	esclavista	esclavista	ADJ	JJ	Gender=Masc|Number=Sing	25	amod	_	SpaceAfter=No
+26	esclavista	esclavista	ADJ	JJ	Number=Sing	25	amod	_	SpaceAfter=No
 27	.	.	PUNCT	.	PunctType=Peri	7	punct	_	_
 
 # sent_id = w01028069
@@ -12744,7 +12744,7 @@
 2	Alpes	Alpes	NOUN	NN	Gender=Masc|Number=Plur	3	nsubj	_	Proper=True
 3	proporcionan	proporcionar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	agua	agua	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
-5	potable	potable	ADJ	JJ	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
+5	potable	potable	ADJ	JJ	Number=Sing	4	amod	_	SpaceAfter=No
 6	,	,	PUNCT	,	PunctType=Comm	7	punct	_	_
 7	riego	riego	NOUN	NN	Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
 8	,	,	PUNCT	,	PunctType=Comm	10	punct	_	_
@@ -13206,7 +13206,7 @@
 10	de	de	ADP	INDT	_	12	case	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	paisaje	paisaje	NOUN	NN	Gender=Masc|Number=Sing	9	nmod	_	_
-13	circundante	circundante	ADJ	JJ	Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No
+13	circundante	circundante	ADJ	JJ	Number=Sing	12	amod	_	SpaceAfter=No
 14	.	.	PUNCT	.	PunctType=Peri	6	punct	_	_
 
 # sent_id = w01035082
@@ -13424,7 +13424,7 @@
 4	poseen	poseer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	territorio	territorio	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
-7	restante	restante	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
+7	restante	restante	ADJ	JJ	Number=Sing	6	amod	_	SpaceAfter=No
 8	,	,	PUNCT	,	PunctType=Comm	11	punct	_	_
 9	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	10	det	_	_
 10	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	11	nsubj	_	_
@@ -13659,7 +13659,7 @@
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	soplar	soplar	VERB	VB	VerbForm=Inf	14	xcomp	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-5	constante	constante	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	_
+5	constante	constante	ADJ	JJ	Number=Sing	6	amod	_	_
 6	viento	viento	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
 7	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
 8	finas	fino	ADJ	JJ	Gender=Fem|Number=Plur	9	amod	_	_
@@ -13811,7 +13811,7 @@
 17	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	ciudad	ciudad	NOUN	NN	Gender=Fem|Number=Sing	14	obl	_	_
 19	más	más	ADV	RBR	Degree=Cmp	20	advmod	_	_
-20	grande	grande	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	_
+20	grande	grande	ADJ	JJ	Number=Sing	18	amod	_	_
 21-22	al	_	_	_	_	_	_	_	_
 21	a	a	ADP	INDT	_	23	case	_	_
 22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
@@ -14001,7 +14001,7 @@
 13	región	región	NOUN	NN	Gender=Fem|Number=Sing	9	nmod	_	_
 14	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	compound:prt	_	_
 15	mantuvo	mantener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-16	indiscutible	indiscutible	ADJ	JJ	Gender=Masc|Number=Sing	15	xcomp	_	SpaceAfter=No
+16	indiscutible	indiscutible	ADJ	JJ	Number=Sing	15	xcomp	_	SpaceAfter=No
 17	.	.	PUNCT	.	PunctType=Peri	15	punct	_	_
 
 # sent_id = w01045005
@@ -14318,7 +14318,7 @@
 8	rey	rey	NOUN	NN	Gender=Masc|Number=Sing	11	nsubj	_	_
 9	Gongmin	Gongmin	PROPN	NNP	Gender=Masc|Number=Sing	8	appos	_	_
 10	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	cop	_	_
-11	libre	libre	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
+11	libre	libre	ADJ	JJ	Number=Sing	0	root	_	_
 12	de	de	ADP	IN	_	13	case	_	_
 13	reformar	reformar	VERB	VB	VerbForm=Inf	11	xcomp	_	_
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
@@ -14621,7 +14621,7 @@
 10	II	ii	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	Proper=True
 11	cometió	cometer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 12	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-13	grave	grave	ADJ	JJ	Gender=Masc|Number=Sing	14	amod	_	_
+13	grave	grave	ADJ	JJ	Number=Sing	14	amod	_	_
 14	error	error	NOUN	NN	Gender=Masc|Number=Sing	11	obj	_	_
 15	en	en	ADP	IN	_	17	case	_	_
 16	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
@@ -14880,7 +14880,7 @@
 # text = Es posible establecer la fase de la luna de un determinado día de hace dos mil años siempre y cuando no hubiera nubes o neblina.
 # text_en = It is possible to establish the phase of the moon on a particular day two thousand years ago but not whether it was obscured by clouds or haze.
 1	Es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
-2	posible	posible	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
+2	posible	posible	ADJ	JJ	Number=Sing	0	root	_	_
 3	establecer	establecer	VERB	VB	VerbForm=Inf	2	csubj	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	fase	fase	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
@@ -15031,7 +15031,7 @@
 11	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	vida	vida	NOUN	NN	Gender=Fem|Number=Sing	9	obl	_	_
 13	poco	poco	ADV	RB	_	14	advmod	_	_
-14	emocionante	emocionante	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	SpaceAfter=No
+14	emocionante	emocionante	ADJ	JJ	Number=Sing	12	amod	_	SpaceAfter=No
 15	,	,	PUNCT	,	PunctType=Comm	17	punct	_	_
 16	o	o	CCONJ	CC	_	17	cc	_	_
 17	joven	joven	ADJ	JJ	Gender=Masc|Number=Sing	8	conj	_	_
@@ -15654,7 +15654,7 @@
 34	de	de	ADP	INDT	_	36	case	_	_
 35	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
 36	animal	animal	NOUN	NN	Gender=Masc|Number=Sing	33	nmod	_	_
-37	correspondiente	correspondiente	ADJ	JJ	Gender=Masc|Number=Sing	36	amod	_	_
+37	correspondiente	correspondiente	ADJ	JJ	Number=Sing	36	amod	_	_
 38-39	del	_	_	_	_	_	_	_	_
 38	de	de	ADP	INDT	_	40	case	_	_
 39	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	40	det	_	_
@@ -16323,7 +16323,7 @@
 14	solo	solo	ADV	RB	_	15	advmod	_	_
 15	duró	durar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	acl:relcl	_	_
 16	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
-17	breve	breve	ADJ	JJ	Gender=Masc|Number=Sing	18	amod	_	_
+17	breve	breve	ADJ	JJ	Number=Sing	18	amod	_	_
 18	periodo	periodo	NOUN	NN	Gender=Masc|Number=Sing	15	obl:tmod	_	_
 19	de	de	ADP	IN	_	20	case	_	_
 20	tiempo	tiempo	NOUN	NN	Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
@@ -16428,7 +16428,7 @@
 17	de	de	ADP	IN	_	18	case	_	_
 18	escribir	escribir	VERB	VB	VerbForm=Inf	14	xcomp	_	_
 19	era	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	cop	_	_
-20	imparable	imparable	ADJ	JJ	Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
+20	imparable	imparable	ADJ	JJ	Number=Sing	7	conj	_	SpaceAfter=No
 21	.	.	PUNCT	.	PunctType=Peri	7	punct	_	_
 
 # sent_id = w01073067
@@ -16503,7 +16503,7 @@
 18	hacia	hacia	ADP	IN	_	20	case	_	_
 19	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	composición	composición	NOUN	NN	Gender=Fem|Number=Sing	15	nmod	_	_
-21	independiente	independiente	ADJ	JJ	Gender=Fem|Number=Sing	20	amod	_	_
+21	independiente	independiente	ADJ	JJ	Number=Sing	20	amod	_	_
 22	y	y	CCONJ	CC	_	23	cc	_	_
 23	preocupada	preocupado	ADJ	JJ	Gender=Fem|Number=Sing	21	conj	_	_
 24	por	por	ADP	IN	_	26	case	_	_
@@ -16723,7 +16723,7 @@
 7	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
 8	propuesto	proponer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 9	como	como	ADP	IN	_	11	case	_	_
-10	posible	posible	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	_
+10	posible	posible	ADJ	JJ	Number=Sing	11	amod	_	_
 11	causa	causa	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
 12	de	de	ADP	IN	_	13	case	_	_
 13	reivindicaciones	reivindicación	NOUN	NN	Gender=Fem|Number=Plur	11	nmod	_	SpaceAfter=No
@@ -16776,7 +16776,7 @@
 # text_en = The Arab Revolt which began in 1916 turned the tide against the Ottomans on the Middle Eastern front, where they initially seemed to have the upper hand during the first two years of the war.
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	revuelta	revuelta	NOUN	NN	Gender=Fem|Number=Sing	9	nsubj	_	_
-3	árabe	árabe	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	Proper=True
+3	árabe	árabe	ADJ	JJ	Number=Sing	2	amod	_	Proper=True
 4	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	5	nsubj	_	_
 5	comenzó	comenzar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
 6	en	en	ADP	IN	_	7	case	_	_
@@ -17124,7 +17124,7 @@
 10	Harbor	harbor	NOUN	NN	Number=Sing	9	flat:name	_	Proper=True
 11	como	como	ADP	IN	_	12	case	_	_
 12	propaganda	propaganda	NOUN	NN	Gender=Fem|Number=Sing	6	obl	_	_
-13	estadounidense	estadounidense	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	Proper=True|SpaceAfter=No
+13	estadounidense	estadounidense	ADJ	JJ	Number=Sing	12	amod	_	Proper=True|SpaceAfter=No
 14	.	.	PUNCT	.	PunctType=Peri	6	punct	_	_
 
 # newdoc id = w01083
@@ -17376,7 +17376,7 @@
 5-6	del	_	_	_	_	_	_	_	_
 5	de	de	ADP	INDT	_	3	fixed	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	enorme	enorme	ADJ	JJ	Gender=Masc|Number=Sing	8	amod	_	_
+7	enorme	enorme	ADJ	JJ	Number=Sing	8	amod	_	_
 8	ejército	ejército	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
 9	reclutado	reclutar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	_
 10	por	por	ADP	IN	_	11	case	_	_
@@ -17716,7 +17716,7 @@
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	coche	coche	NOUN	NN	Gender=Masc|Number=Sing	5	xcomp	_	_
 8	más	más	ADV	RBR	Degree=Cmp	9	advmod	_	_
-9	influyente	influyente	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	_
+9	influyente	influyente	ADJ	JJ	Number=Sing	7	amod	_	_
 10-11	del	_	_	_	_	_	_	_	_
 10	de	de	ADP	INDT	_	12	case	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
@@ -18012,7 +18012,7 @@
 # text_en = Land warfare changed from the static front lines of World War I to increased mobility and combined arms.
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	guerra	guerra	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	_
-3	terrestre	terrestre	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	_
+3	terrestre	terrestre	ADJ	JJ	Number=Sing	2	amod	_	_
 4	pasó	pasar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	IN	_	7	case	_	_
 6	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
@@ -18045,7 +18045,7 @@
 6	también	también	ADV	RB	_	7	advmod	_	_
 7	recibieron	recibir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-9	excelente	excelente	ADJ	JJ	Gender=Masc|Number=Sing	10	amod	_	_
+9	excelente	excelente	ADJ	JJ	Number=Sing	10	amod	_	_
 10	entrenamiento	entrenamiento	NOUN	NN	Gender=Masc|Number=Sing	7	obj	_	_
 11	para	para	ADP	IN	_	13	case	_	_
 12	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
@@ -18079,7 +18079,7 @@
 17	como	como	ADP	IN	_	19	case	_	_
 18	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	fuerza	fuerza	NOUN	NN	Gender=Fem|Number=Sing	16	obl	_	_
-20	viable	viable	ADJ	JJ	Gender=Fem|Number=Sing	19	amod	_	_
+20	viable	viable	ADJ	JJ	Number=Sing	19	amod	_	_
 21	luego	luego	ADV	RB	_	16	advmod	_	_
 22	de	de	ADP	IN	_	26	case	_	_
 23	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	26	det	_	_
@@ -18674,7 +18674,7 @@
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	sistema	sistema	NOUN	NN	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	era	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
-4	simple	simple	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	simple	simple	ADJ	JJ	Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	,	PunctType=Comm	6	punct	_	_
 6	directo	directo	ADJ	JJ	Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
 7	,	,	PUNCT	,	PunctType=Comm	9	punct	_	_
@@ -18965,7 +18965,7 @@
 2	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	soltero	soltero	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
-5	persistente	persistente	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
+5	persistente	persistente	ADJ	JJ	Number=Sing	4	amod	_	_
 6	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	_
 7	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
 8	mala	mal	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	_
@@ -19205,7 +19205,7 @@
 8	que	que	SCONJ	IN	_	13	mark	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	presidente	presidente	NOUN	NN	Gender=Masc|Number=Sing	13	nsubj	_	_
-11	saliente	saliente	ADJ	JJ	Gender=Masc|Number=Sing	10	amod	_	_
+11	saliente	saliente	ADJ	JJ	Number=Sing	10	amod	_	_
 12	Yudhoyono	Yudhoyono	PROPN	NNP	Gender=Masc|Number=Sing	10	appos	_	_
 13	tomara	tomar	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	ccomp	_	_
 14	responsabilidad	responsabilidad	NOUN	NN	Gender=Fem|Number=Sing	13	obj	_	_
@@ -19638,7 +19638,7 @@
 23	de	de	ADP	INDT	_	25	case	_	_
 24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	régimen	régimen	NOUN	NN	Gender=Masc|Number=Sing	22	obl	_	_
-26	comunista	comunista	ADJ	JJ	Gender=Masc|Number=Sing	25	amod	_	Proper=True
+26	comunista	comunista	ADJ	JJ	Number=Sing	25	amod	_	Proper=True
 27	en	en	ADP	IN	_	28	case	_	_
 28	Polonia	Polonia	PROPN	NNP	Number=Sing	25	nmod	_	SpaceAfter=No
 29	.	.	PUNCT	.	PunctType=Peri	5	punct	_	_
@@ -19955,7 +19955,7 @@
 20	a	a	ADP	INDT	_	22	case	_	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	año	año	NOUN	NN	Gender=Masc|Number=Sing	26	obl	_	_
-23	siguiente	siguiente	ADJ	JJ	Gender=Masc|Number=Sing	22	amod	_	_
+23	siguiente	siguiente	ADJ	JJ	Number=Sing	22	amod	_	_
 24	Cumberland	Cumberland	PROPN	NNP	Gender=Masc|Number=Sing	26	nsubj	_	_
 25	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	26	compound:prt	_	_
 26	casó	casar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	conj	_	_
@@ -20483,7 +20483,7 @@
 # text_en = Starlin took over as plotter the following issue, and began developing an elaborate story arc centered on the villainous Thanos, and spread across a number of Marvel titles.
 1	En	en	ADP	IN	_	4	case	_	_
 2	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-3	siguiente	siguiente	ADJ	JJ	Gender=Fem|Number=Sing	4	amod	_	_
+3	siguiente	siguiente	ADJ	JJ	Number=Sing	4	amod	_	_
 4	edición	edición	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
 5	,	,	PUNCT	,	PunctType=Comm	4	punct	_	_
 6	Starlin	Starlin	PROPN	NNP	Gender=Masc|Number=Sing	7	nsubj	_	_
@@ -20782,7 +20782,7 @@
 12	de	de	ADP	IN	_	13	case	_	_
 13	ciencia	ciencia	NOUN	NN	Gender=Fem|Number=Sing	11	nmod	_	_
 14	ficción	ficción	NOUN	NN	Gender=Fem|Number=Sing	13	nmod	_	_
-15	estadounidense	estadounidense	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	Proper=True
+15	estadounidense	estadounidense	ADJ	JJ	Number=Sing	11	amod	_	Proper=True
 16	llamada	llamar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	11	acl	_	_
 17	Looper	Looper	PROPN	NNP	Number=Sing	16	xcomp	_	SpaceAfter=No
 18	,	,	PUNCT	,	PunctType=Comm	19	punct	_	_
@@ -20832,7 +20832,7 @@
 11	de	de	ADP	IN	_	13	case	_	_
 12	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	hombre	hombre	NOUN	NN	Gender=Masc|Number=Sing	9	nmod	_	_
-14	árabe	árabe	ADJ	JJ	Gender=Masc|Number=Sing	13	amod	_	Proper=True|SpaceAfter=No
+14	árabe	árabe	ADJ	JJ	Number=Sing	13	amod	_	Proper=True|SpaceAfter=No
 15	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
 
 # sent_id = w01136074
@@ -21438,7 +21438,7 @@
 7	período	período	NOUN	NN	Gender=Masc|Number=Sing	3	obl	_	_
 8	en	en	ADP	IN	_	7	case	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-10	siguiente	siguiente	ADJ	JJ	Gender=Masc|Number=Sing	11	amod	_	_
+10	siguiente	siguiente	ADJ	JJ	Number=Sing	11	amod	_	_
 11	ciclo	ciclo	NOUN	NN	Gender=Masc|Number=Sing	1	obj	_	_
 12	de	de	ADP	IN	_	13	case	_	_
 13	elecciones	elección	NOUN	NN	Gender=Fem|Number=Plur	11	nmod	_	SpaceAfter=No
@@ -21600,7 +21600,7 @@
 17	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	humanismo	humanismo	NOUN	NN	Gender=Masc|Number=Sing	16	obj	_	_
 19	implícito	implícito	ADJ	JJ	Gender=Masc|Number=Sing	18	amod	_	_
-20	inherente	inherente	ADJ	JJ	Gender=Masc|Number=Sing	18	amod	_	_
+20	inherente	inherente	ADJ	JJ	Number=Sing	18	amod	_	_
 21	a	a	ADP	IN	_	23	case	_	_
 22	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	tradición	tradición	NOUN	NN	Gender=Fem|Number=Sing	20	obl	_	_
@@ -21897,7 +21897,7 @@
 24	establecer	establecer	VERB	VB	VerbForm=Inf	22	xcomp	_	_
 25	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
 26	Albania	Albania	PROPN	NNP	Gender=Fem|Number=Sing	24	obj	_	_
-27	independiente	independiente	ADJ	JJ	Gender=Fem|Number=Sing	26	amod	_	SpaceAfter=No
+27	independiente	independiente	ADJ	JJ	Number=Sing	26	amod	_	SpaceAfter=No
 28	.	.	PUNCT	.	PunctType=Peri	20	punct	_	_
 
 # sent_id = w01150046
@@ -21983,7 +21983,7 @@
 13	,	,	PUNCT	,	PunctType=Comm	6	punct	_	_
 14	dividió	dividir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 15	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	14	obj	_	_
-16	importante	importante	ADJ	JJ	Gender=Fem|Number=Sing	15	amod	_	_
+16	importante	importante	ADJ	JJ	Number=Sing	15	amod	_	_
 17-18	del	_	_	_	_	_	_	_	_
 17	de	de	ADP	INDT	_	19	case	_	_
 18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
@@ -22565,7 +22565,7 @@
 12	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	13	obl	_	_
 13	suena	sonar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-15	escalofriante	escalofriante	ADJ	JJ	Gender=Masc|Number=Sing	16	amod	_	_
+15	escalofriante	escalofriante	ADJ	JJ	Number=Sing	16	amod	_	_
 16	órgano	órgano	NOUN	NN	Gender=Masc|Number=Sing	13	nsubj	_	SpaceAfter=No
 17	,	,	PUNCT	,	PunctType=Comm	20	punct	_	_
 18	como	como	ADP	IN	_	20	case	_	_
@@ -22667,7 +22667,7 @@
 5	modelo	modelo	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
 6	de	de	ADP	IN	_	7	case	_	_
 7	teléfono	teléfono	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	_
-8	inteligente	inteligente	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	_
+8	inteligente	inteligente	ADJ	JJ	Number=Sing	7	amod	_	_
 9	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux:pass	_	_
 10	detenida	detener	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 11	completamente	completamente	ADV	RB	_	10	advmod	_	SpaceAfter=No
@@ -22718,7 +22718,7 @@
 17	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 18	mejor	mejor	ADJ	JJR	Degree=Cmp|Gender=Masc|Number=Sing	19	amod	_	_
 19	escenario	escenario	NOUN	NN	Gender=Masc|Number=Sing	21	nsubj	_	_
-20	posible	posible	ADJ	JJ	Gender=Masc|Number=Sing	19	amod	_	_
+20	posible	posible	ADJ	JJ	Number=Sing	19	amod	_	_
 21	daba	dar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	acl:relcl	_	_
 22	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	audiencia	audiencia	NOUN	NN	Gender=Fem|Number=Sing	21	obj	_	_
@@ -22728,7 +22728,7 @@
 27	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
 28	situación	situación	NOUN	NN	Gender=Fem|Number=Sing	21	obl	_	_
 29	más	más	ADV	RBR	Degree=Cmp	30	advmod	_	_
-30	idiota	idiota	ADJ	JJ	Gender=Fem|Number=Sing	28	amod	_	SpaceAfter=No
+30	idiota	idiota	ADJ	JJ	Number=Sing	28	amod	_	SpaceAfter=No
 31	.	.	PUNCT	.	PunctType=Peri	7	punct	_	_
 
 # sent_id = n02042028
@@ -22784,7 +22784,7 @@
 13	de	de	ADP	IN	_	15	case	_	_
 14	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	año	año	NOUN	NN	Gender=Masc|Number=Sing	12	nmod	_	_
-16	increíble	increíble	ADJ	JJ	Gender=Masc|Number=Sing	15	amod	_	SpaceAfter=No
+16	increíble	increíble	ADJ	JJ	Number=Sing	15	amod	_	SpaceAfter=No
 17	.	.	PUNCT	.	PunctType=Peri	10	punct	_	_
 
 # sent_id = n02044009
@@ -22957,7 +22957,7 @@
 3	,	,	PUNCT	,	PunctType=Comm	5	punct	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	investigador	investigador	NOUN	NN	Gender=Masc|Number=Sing	1	appos	_	_
-6	canadiense	canadiense	ADJ	JJ	Gender=Masc|Number=Sing	5	amod	_	Proper=True
+6	canadiense	canadiense	ADJ	JJ	Number=Sing	5	amod	_	Proper=True
 7-8	del	_	_	_	_	_	_	_	_
 7	de	de	ADP	INDT	_	9	case	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
@@ -23037,7 +23037,7 @@
 # text = Es posible que el asunto no se haya terminado para Barroso.
 # text_en = The issue might not be over for Barroso.
 1	Es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
-2	posible	posible	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
+2	posible	posible	ADJ	JJ	Number=Sing	0	root	_	_
 3	que	que	SCONJ	IN	_	9	mark	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	asunto	asunto	NOUN	NN	Gender=Masc|Number=Sing	9	nsubj	_	_
@@ -23385,7 +23385,7 @@
 22	de	de	ADP	INDT	_	24	case	_	_
 23	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	cerebro	cerebro	NOUN	NN	Gender=Masc|Number=Sing	21	nmod	_	_
-25	adolescente	adolescente	ADJ	JJ	Gender=Masc|Number=Sing	24	amod	_	_
+25	adolescente	adolescente	ADJ	JJ	Number=Sing	24	amod	_	_
 26	a	a	ADP	IN	_	28	case	_	_
 27	largo	largo	ADJ	JJ	Gender=Masc|Number=Sing	28	amod	_	_
 28	plazo	plazo	NOUN	NN	Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
@@ -23398,7 +23398,7 @@
 # text_en = It is no surprise that the federal and state governments have classified the National Natural Heritage as a nation-wide endeavor of the highest priority and have documented it starting in 2005 in a coalition contract.
 1	No	no	ADV	RB	Polarity=Neg	3	advmod	_	_
 2	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	sorprendente	sorprendente	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
+3	sorprendente	sorprendente	ADJ	JJ	Number=Sing	0	root	_	_
 4	que	que	SCONJ	IN	_	13	mark	_	_
 5	tanto	tanto	ADV	RB	PronType=Dem	7	cc:preconj	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
@@ -24156,7 +24156,7 @@
 29	padre	padre	NOUN	NN	Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
 30	,	,	PUNCT	,	PunctType=Comm	31	punct	_	_
 31	militante	militante	NOUN	NN	Gender=Masc|Number=Sing	29	appos	_	_
-32	socialista	socialista	ADJ	JJ	Gender=Masc|Number=Sing	31	amod	_	SpaceAfter=No
+32	socialista	socialista	ADJ	JJ	Number=Sing	31	amod	_	SpaceAfter=No
 33	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
 # sent_id = n04001013
@@ -24255,7 +24255,7 @@
 9	,	,	PUNCT	,	PunctType=Comm	13	punct	_	_
 10	a	a	ADP	IN	_	13	case	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-12	siguiente	siguiente	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	_
+12	siguiente	siguiente	ADJ	JJ	Number=Sing	13	amod	_	_
 13	sección	sección	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
 14	.	.	PUNCT	.	PunctType=Peri	1	punct	_	_
 
@@ -24702,7 +24702,7 @@
 18	también	también	ADV	RB	_	17	advmod	_	_
 19	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	robot	robot	NOUN	NN	Gender=Masc|Number=Sing	17	obj	_	_
-21	humanoide	humanoide	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	_
+21	humanoide	humanoide	ADJ	JJ	Number=Sing	20	amod	_	_
 22	para	para	ADP	IN	_	23	case	_	_
 23	competir	competir	VERB	VB	VerbForm=Inf	17	xcomp	_	_
 24	con	con	ADP	IN	_	25	case	_	_
@@ -25005,7 +25005,7 @@
 8	con	con	ADP	IN	_	10	case	_	_
 9	otra	otro	DET	DT	Gender=Fem|Number=Sing|PronType=Ind	10	det	_	_
 10	patata	patata	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
-11	caliente	caliente	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No
+11	caliente	caliente	ADJ	JJ	Number=Sing	10	amod	_	SpaceAfter=No
 12	.	.	PUNCT	.	PunctType=Peri	5	punct	_	_
 
 # newdoc id = n05003
@@ -25254,7 +25254,7 @@
 12	,	,	PUNCT	,	PunctType=Comm	14	punct	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	indirecta	indirecta	NOUN	NN	Gender=Fem|Number=Sing	7	conj	_	_
-15	contundente	contundente	ADJ	JJ	Gender=Fem|Number=Sing	14	amod	_	_
+15	contundente	contundente	ADJ	JJ	Number=Sing	14	amod	_	_
 16	y	y	CCONJ	CC	_	18	cc	_	_
 17	otros	otro	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	18	det	_	_
 18	recursos	recurso	NOUN	NN	Gender=Masc|Number=Plur	7	conj	_	_
@@ -25512,7 +25512,7 @@
 13	a	a	ADP	INDT	_	15	case	_	_
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	aire	aire	NOUN	NN	Gender=Masc|Number=Sing	12	nmod	_	_
-16	libre	libre	ADJ	JJ	Gender=Masc|Number=Sing	15	amod	_	_
+16	libre	libre	ADJ	JJ	Number=Sing	15	amod	_	_
 17	en	en	ADP	IN	_	20	case	_	_
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 19	gran	gran	ADJ	JJ	Number=Sing	20	amod	_	_
@@ -25534,7 +25534,7 @@
 # text = La alegre dedicatoria tuvo lugar el 30 de abril de 1995.
 # text_en = The festive dedication took place on April 30, 1955.
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-2	alegre	alegre	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	_
+2	alegre	alegre	ADJ	JJ	Number=Sing	3	amod	_	_
 3	dedicatoria	dedicatoria	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	_
 4	tuvo	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
@@ -25907,7 +25907,7 @@
 6	2010	2010	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	3	nmod	_	_
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	Partido	partido	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	Proper=True
-9	Laborista	laborista	ADJ	JJ	Gender=Masc|Number=Sing	8	amod	_	Proper=True
+9	Laborista	laborista	ADJ	JJ	Number=Sing	8	amod	_	Proper=True
 10	consiguió	conseguir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	vencer	vencer	VERB	VB	VerbForm=Inf	10	xcomp	_	_
 12	en	en	ADP	IN	_	15	case	_	_
@@ -26104,7 +26104,7 @@
 # text = Es probable que la persona más conocida de la Edad del Cobre sea Ötzi, la momia congelada que vivió en el 3300 a. C.
 # text_en = Likely the most well-known person from the Copper Age is Ötzi, the frozen mummy who lived during 3300 BC.
 1	Es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
-2	probable	probable	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
+2	probable	probable	ADJ	JJ	Number=Sing	0	root	_	_
 3	que	que	SCONJ	IN	_	5	mark	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	persona	persona	NOUN	NN	Gender=Fem|Number=Sing	2	csubj	_	_
@@ -26161,7 +26161,7 @@
 12	cobre	cobre	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	_
 13	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
 14	tecnológicamente	tecnológicamente	ADV	RB	_	15	advmod	_	_
-15	destacable	destacable	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+15	destacable	destacable	ADJ	JJ	Number=Sing	0	root	_	SpaceAfter=No
 16	.	.	PUNCT	.	PunctType=Peri	15	punct	_	_
 
 # newdoc id = w02009
@@ -26357,7 +26357,7 @@
 20	en	en	ADP	IN	_	22	case	_	_
 21	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	mundo	mundo	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	_
-23	cambiante	cambiante	ADJ	JJ	Gender=Masc|Number=Sing	22	amod	_	SpaceAfter=No
+23	cambiante	cambiante	ADJ	JJ	Number=Sing	22	amod	_	SpaceAfter=No
 24	.	.	PUNCT	.	PunctType=Peri	5	punct	_	_
 
 # sent_id = w02013076
@@ -26655,7 +26655,7 @@
 18	había	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	aux	_	_
 19	hecho	hacer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	parataxis	_	_
 20	prácticamente	prácticamente	ADV	RB	_	19	advmod	_	_
-21	imposible	imposible	ADJ	JJ	Gender=Fem|Number=Sing	19	xcomp	_	SpaceAfter=No
+21	imposible	imposible	ADJ	JJ	Number=Sing	19	xcomp	_	SpaceAfter=No
 22	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
 # sent_id = w02017061
@@ -26761,7 +26761,7 @@
 # text_en = In the following year, 1977, he received the distinction of the American Friendship Medal for the friendly position of his press toward the USA.
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	año	año	NOUN	NN	Gender=Masc|Number=Sing	8	obl:tmod	_	_
-3	siguiente	siguiente	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
+3	siguiente	siguiente	ADJ	JJ	Number=Sing	2	amod	_	SpaceAfter=No
 4	,	,	PUNCT	,	PunctType=Comm	5	punct	_	_
 5	1977	1977	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	appos	_	SpaceAfter=No
 6	,	,	PUNCT	,	PunctType=Comm	5	punct	_	_
@@ -27468,7 +27468,7 @@
 16	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
 17	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	artista	artista	NOUN	NN	Gender=Masc|Number=Sing	20	nsubj	_	_
-19	belga	belga	ADJ	JJ	Gender=Masc|Number=Sing	18	amod	_	Proper=True
+19	belga	belga	ADJ	JJ	Number=Sing	18	amod	_	Proper=True
 20	escribió	escribir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 21	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	carta	carta	NOUN	NN	Gender=Fem|Number=Sing	20	obj	_	_
@@ -27589,7 +27589,7 @@
 1	Además	además	ADV	RB	_	4	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 3	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-4	posible	posible	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
+4	posible	posible	ADJ	JJ	Number=Sing	0	root	_	_
 5	que	que	SCONJ	IN	_	9	mark	_	_
 6	en	en	ADP	IN	_	7	case	_	_
 7	verano	verano	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	_
@@ -27623,7 +27623,7 @@
 16	entre	entre	ADP	IN	_	18	case	_	_
 17	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
 18	placas	placa	NOUN	NN	Gender=Fem|Number=Plur	15	nmod	_	_
-19	hindú	hindú	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	Proper=True
+19	hindú	hindú	ADJ	JJ	Number=Sing	18	amod	_	Proper=True
 20	y	y	CCONJ	CC	_	21	cc	_	_
 21	australiana	australiano	ADJ	JJ	Gender=Fem|Number=Sing	19	conj	_	Proper=True|SpaceAfter=No
 22	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
@@ -28070,7 +28070,7 @@
 5	que	que	SCONJ	IN	_	11	mark	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	éxito	éxito	NOUN	NN	Gender=Masc|Number=Sing	11	nsubj	_	_
-8	contundente	contundente	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	_
+8	contundente	contundente	ADJ	JJ	Number=Sing	7	amod	_	_
 9	en	en	ADP	IN	_	10	case	_	_
 10	Austerlitz	Austerlitz	PROPN	NNP	Number=Sing	7	nmod	_	_
 11	llevaría	llevar	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	3	xcomp	_	_
@@ -28138,7 +28138,7 @@
 20	de	de	ADP	IN	_	22	case	_	_
 21	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	iglesia	iglesia	NOUN	NN	Gender=Fem|Number=Sing	19	nmod	_	_
-23	protestante	protestante	ADJ	JJ	Gender=Fem|Number=Sing	22	amod	_	Proper=True
+23	protestante	protestante	ADJ	JJ	Number=Sing	22	amod	_	Proper=True
 24	durante	durante	ADP	IN	_	27	case	_	_
 25	toda	todo	DET	PDT	Gender=Fem|Number=Sing|PronType=Tot	27	det	_	_
 26	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	27	det	_	_
@@ -28990,7 +28990,7 @@
 20	,	,	PUNCT	,	PunctType=Comm	19	punct	_	_
 21	como	como	SCONJ	IN	_	23	mark	_	_
 22	era	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	cop	_	_
-23	predecible	predecible	ADJ	JJ	Gender=Masc|Number=Sing	25	advcl	_	SpaceAfter=No
+23	predecible	predecible	ADJ	JJ	Number=Sing	25	advcl	_	SpaceAfter=No
 24	,	,	PUNCT	,	PunctType=Comm	23	punct	_	_
 25	aprovecharon	aprovechar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	18	acl:relcl	_	_
 26	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
