@@ -3522,7 +3522,7 @@
 7	de	de	ADP	IN	_	9	case	_	_
 8	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	datos	dato	NOUN	NN	Gender=Masc|Number=Plur	6	nmod	_	_
-10	ilimitados	ilimitado	ADJ	JJ	Gender=Masc|Number=Plur	9	amod	_	_
+10	ilimitados	ilimitado	ADJ	JJ	Gender=Masc|Number=Plur|VerbForm=Part	9	amod	_	_
 11	de	de	ADP	IN	_	12	case	_	_
 12	SaskTel	SaskTel	PROPN	NNP	Number=Sing	9	nmod	_	_
 13	Lindsay	Lindsay	PROPN	NNP	Gender=Fem|Number=Sing	6	appos	_	_
@@ -4734,7 +4734,7 @@
 24	conjunto	conjunto	NOUN	NN	Gender=Masc|Number=Sing	14	obl	_	_
 25	de	de	ADP	IN	_	26	case	_	_
 26	vídeos	vídeo	NOUN	NN	Gender=Masc|Number=Plur	24	nmod	_	_
-27	desenfocados	desenfocado	ADJ	JJ	Gender=Masc|Number=Plur	26	amod	_	SpaceAfter=No
+27	desenfocados	desenfocado	ADJ	JJ	Gender=Masc|Number=Plur|VerbForm=Part	26	amod	_	SpaceAfter=No
 28	.	.	PUNCT	.	PunctType=Peri	14	punct	_	_
 
 # sent_id = n01063051
@@ -7832,7 +7832,7 @@
 1	Un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	inversor	inversor	NOUN	NN	Gender=Masc|Number=Sing	12	nsubj	_	_
 3	medianamente	medianamente	ADV	RB	_	4	advmod	_	_
-4	afortunado	afortunado	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	_
+4	afortunado	afortunado	ADJ	JJ	Gender=Masc|Number=Sing|VerbForm=Part	2	amod	_	_
 5	y	y	CCONJ	CC	_	8	cc	_	_
 6	con	con	ADP	IN	_	8	case	_	_
 7	10.000	10000	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	8	nummod	_	_
@@ -8313,7 +8313,7 @@
 8	con	con	ADP	IN	_	10	case	_	_
 9	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
 10	venas	vena	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
-11	acentuadas	acentuado	ADJ	JJ	Gender=Fem|Number=Plur	10	amod	_	_
+11	acentuadas	acentuado	ADJ	JJ	Gender=Fem|Number=Plur|VerbForm=Part	10	amod	_	_
 12	en	en	ADP	IN	_	13	case	_	_
 13	actitud	actitud	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
 14	de	de	ADP	IN	_	15	case	_	_
@@ -10589,7 +10589,7 @@
 5	Salas	Salas	PROPN	NNP	Gender=Masc|Number=Sing	3	flat:name	_	SpaceAfter=No
 6	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-8	premiado	premiado	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	_
+8	premiado	premiado	ADJ	JJ	Gender=Masc|Number=Sing|VerbForm=Part	9	amod	_	_
 9	edificio	edificio	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
 10	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
@@ -16224,7 +16224,7 @@
 8	"	"	PUNCT	''	PunctType=Quot	7	punct	_	_
 9	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 10	muy	muy	ADV	RB	_	11	advmod	_	_
-11	discutido	discutido	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+11	discutido	discutido	ADJ	JJ	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	SpaceAfter=No
 12	,	,	PUNCT	,	PunctType=Comm	21	punct	_	_
 13	y	y	CCONJ	CC	_	21	cc	_	_
 14	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
@@ -17134,7 +17134,7 @@
 # text_en = This idealized vision of the Romanov monarchy blinded him to the actual state of his country.
 1	Esta	este	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
 2	visión	visión	NOUN	NN	Gender=Fem|Number=Sing	11	nsubj	_	_
-3	idealizada	idealizado	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	_
+3	idealizada	idealizado	ADJ	JJ	Gender=Fem|Number=Sing|VerbForm=Part	2	amod	_	_
 4	de	de	ADP	IN	_	6	case	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	monarquía	monarquía	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	_
@@ -18159,7 +18159,7 @@
 10	mujeres	mujer	NOUN	NN	Gender=Fem|Number=Plur	7	conj	_	_
 11	son	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 12	cantantes	cantante	NOUN	NN	Gender=Masc|Number=Plur	0	root	_	_
-13	apasionados	apasionado	ADJ	JJ	Gender=Masc|Number=Plur	12	amod	_	_
+13	apasionados	apasionado	ADJ	JJ	Gender=Masc|Number=Plur|VerbForm=Part	12	amod	_	_
 14	y	y	CCONJ	CC	_	20	cc	_	_
 15	hacer	hacer	VERB	VB	VerbForm=Inf	20	csubj	_	_
 16	música	música	NOUN	NN	Gender=Fem|Number=Sing	15	obj	_	_
@@ -18383,7 +18383,7 @@
 19	crear	crear	VERB	VB	VerbForm=Inf	15	xcomp	_	_
 20	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	bebida	bebida	NOUN	NN	Gender=Fem|Number=Sing	19	obj	_	_
-22	carbonatada	carbonatado	ADJ	JJ	Gender=Fem|Number=Sing	21	amod	_	SpaceAfter=No
+22	carbonatada	carbonatado	ADJ	JJ	Gender=Fem|Number=Sing|VerbForm=Part	21	amod	_	SpaceAfter=No
 23	.	.	PUNCT	.	PunctType=Peri	6	punct	_	_
 
 # sent_id = w01101084
@@ -20444,7 +20444,7 @@
 2	velas	vela	NOUN	NN	Gender=Fem|Number=Plur	4	nsubj	_	_
 3	no	no	ADV	RB	Polarity=Neg	4	advmod	_	_
 4	aparecen	aparecer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	representadas	representado	ADJ	JJ	Gender=Fem|Number=Plur	4	xcomp	_	_
+5	representadas	representado	ADJ	JJ	Gender=Fem|Number=Plur|VerbForm=Part	4	xcomp	_	_
 6	en	en	ADP	IN	_	8	case	_	_
 7	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	iconografía	iconografía	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
@@ -22621,7 +22621,7 @@
 10-11	del	_	_	_	_	_	_	_	_
 10	de	de	ADP	INDT	_	8	fixed	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-12	desvencijado	desvencijado	ADJ	JJ	Gender=Masc|Number=Sing	15	amod	_	_
+12	desvencijado	desvencijado	ADJ	JJ	Gender=Masc|Number=Sing|VerbForm=Part	15	amod	_	_
 13	y	y	CCONJ	CC	_	14	cc	_	_
 14	siniestro	siniestro	ADJ	JJ	Gender=Masc|Number=Sing	12	conj	_	_
 15	barracón	barracón	NOUN	NN	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
@@ -25325,7 +25325,7 @@
 26	a	a	ADP	INDT	_	28	case	_	_
 27	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	agua	agua	NOUN	NN	Gender=Fem|Number=Sing	23	obl	_	_
-29	agavillada	agavillado	ADJ	JJ	Gender=Fem|Number=Sing	28	amod	_	SpaceAfter=No
+29	agavillada	agavillado	ADJ	JJ	Gender=Fem|Number=Sing|VerbForm=Part	28	amod	_	SpaceAfter=No
 30	.	.	PUNCT	.	PunctType=Peri	10	punct	_	_
 
 # sent_id = n05007025
@@ -25345,7 +25345,7 @@
 10	y	y	CCONJ	CC	_	12	cc	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	mente	mente	NOUN	NN	Gender=Fem|Number=Sing	8	conj	_	_
-13	despejada	despejado	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	_
+13	despejada	despejado	ADJ	JJ	Gender=Fem|Number=Sing|VerbForm=Part	12	amod	_	_
 14	porque	porque	SCONJ	IN	_	15	mark	_	_
 15	forman	formar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
 16	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
@@ -26532,7 +26532,7 @@
 # text_en = The displaced nuns were moved to the Eibingen cloister.
 1	Las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
 2	monjas	monja	NOUN	NN	Gender=Fem|Number=Plur	5	nsubj:pass	_	_
-3	desplazadas	desplazado	ADJ	JJ	Gender=Fem|Number=Plur	2	amod	_	_
+3	desplazadas	desplazado	ADJ	JJ	Gender=Fem|Number=Plur|VerbForm=Part	2	amod	_	_
 4	fueron	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
 5	trasladadas	trasladar	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 6-7	al	_	_	_	_	_	_	_	_
