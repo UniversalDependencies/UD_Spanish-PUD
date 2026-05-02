@@ -11414,7 +11414,7 @@
 16	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	compound:prt	_	_
 17	convirtió	convertir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_
 18	en	en	ADP	IN	_	20	case	_	_
-19	San	san	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	Proper=True
+19	San	santo	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	Proper=True
 20	Rastislav	Rastislav	PROPN	NNP	Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
 21	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
@@ -25519,7 +25519,7 @@
 20	escalinata	escalinata	NOUN	NN	Gender=Fem|Number=Sing	12	nmod	_	_
 21	delante	delante	ADV	RB	_	20	advmod	_	_
 22	de	de	ADP	IN	_	24	case	_	_
-23	San	san	ADJ	JJ	Gender=Masc|Number=Sing	24	amod	_	Proper=True
+23	San	santo	ADJ	JJ	Gender=Masc|Number=Sing	24	amod	_	Proper=True
 24	Miguel	Miguel	PROPN	NNP	Gender=Masc|Number=Sing	21	obl	_	_
 25	todavía	todavía	ADV	RB	_	26	advmod	_	_
 26	atrae	atraer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -25719,10 +25719,10 @@
 9	iglesia	iglesia	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
 10	abacial	abacial	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	_
 11	de	de	ADP	IN	_	13	case	_	_
-12	San	san	ADJ	JJ	Gender=Masc|Number=Sing	13	amod	_	Proper=True
+12	San	santo	ADJ	JJ	Gender=Masc|Number=Sing	13	amod	_	Proper=True
 13	Pedro	Pedro	PROPN	NNP	Gender=Masc|Number=Sing	9	nmod	_	_
 14	y	y	CCONJ	CC	_	16	cc	_	_
-15	San	san	ADJ	JJ	Gender=Masc|Number=Sing	16	amod	_	Proper=True
+15	San	santo	ADJ	JJ	Gender=Masc|Number=Sing	16	amod	_	Proper=True
 16	Pablo	Pablo	PROPN	NNP	Gender=Masc|Number=Sing	13	conj	_	SpaceAfter=No
 17	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
@@ -25826,7 +25826,7 @@
 13	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
 14	habitantes	habitante	NOUN	NN	Gender=Masc|Number=Plur	1	obl	_	_
 15	de	de	ADP	IN	_	17	case	_	_
-16	San	san	ADJ	JJ	Gender=Masc|Number=Sing	17	amod	_	Proper=True
+16	San	santo	ADJ	JJ	Gender=Masc|Number=Sing	17	amod	_	Proper=True
 17	Francisco	Francisco	PROPN	NNP	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
 18	.	.	PUNCT	.	PunctType=Peri	1	punct	_	_
 
@@ -27655,7 +27655,7 @@
 20	,	,	PUNCT	,	PunctType=Comm	22	punct	_	_
 21	en	en	ADP	IN	_	22	case	_	_
 22	Sesto	Sesto	PROPN	NNP	_	18	nmod	_	_
-23	San	San	PROPN	NNP	_	22	flat:name	_	_
+23	San	santo	ADJ	JJ	Gender=Masc|Number=Sing	22	flat:name	_	_
 24	Giovanni	Giovanni	PROPN	NNP	_	22	flat:name	_	SpaceAfter=No
 25	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
 
