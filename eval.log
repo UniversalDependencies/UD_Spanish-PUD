@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Spanish-PUD:
-commit d94d907e95e2fa1c11299fa86f33bd89e972357a
-Merge: fe1641f 9ecbc7e
+commit b1ae14f69ee505c2a2d8c3dc9a6d638e49a99915
+Merge: d73937d 8af7ac6
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'es_pud'
@@ -19,24 +19,24 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 17978 out of 23283 total words have one or more features.
+Features: 18009 out of 23283 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang es --max-err=10 UD_Spanish-PUD/es_pud-ud-test.conllu
-[Line 79 Sent n01002017]: [L3 Warning fixed-without-extpos] Fixed expression 'Sin embargo' does not have the 'ExtPos' feature
-[Line 337 Sent n01004009]: [L3 Warning fixed-without-extpos] Fixed expression 'Por ejemplo' does not have the 'ExtPos' feature
-[Line 738 Sent n01011017]: [L3 Warning fixed-without-extpos] Fixed expression 'de todas formas' does not have the 'ExtPos' feature
-[Line 1031 Sent n01017005]: [L3 Warning fixed-without-extpos] Fixed expression 'Sin embargo' does not have the 'ExtPos' feature
-[Line 1207 Sent n01019005]: [L3 Warning fixed-without-extpos] Fixed expression 'Sin embargo' does not have the 'ExtPos' feature
-[Line 1275 Sent n01020021]: [L3 Warning fixed-without-extpos] Fixed expression 'va a' does not have the 'ExtPos' feature
-[Line 2024 Sent n01028022]: [L3 Warning fixed-without-extpos] Fixed expression 'por cierto' does not have the 'ExtPos' feature
-[Line 2329 Sent n01032032]: [L3 Warning fixed-without-extpos] Fixed expression 'Sin embargo' does not have the 'ExtPos' feature
-[Line 2418 Sent n01033021]: [L3 Warning fixed-without-extpos] Fixed expression 'Sin embargo' does not have the 'ExtPos' feature
-[Line 2466 Sent n01033031]: [L3 Warning fixed-without-extpos] Fixed expression 'Sin embargo' does not have the 'ExtPos' feature
-...suppressing further errors regarding Warning
-Warnings: 115
+[Line 79 Sent n01002017]: [L3 WARNING fixed-without-extpos] Fixed expression 'Sin embargo' does not have the 'ExtPos' feature
+[Line 738 Sent n01011017]: [L3 WARNING fixed-without-extpos] Fixed expression 'de todas formas' does not have the 'ExtPos' feature
+[Line 1031 Sent n01017005]: [L3 WARNING fixed-without-extpos] Fixed expression 'Sin embargo' does not have the 'ExtPos' feature
+[Line 1207 Sent n01019005]: [L3 WARNING fixed-without-extpos] Fixed expression 'Sin embargo' does not have the 'ExtPos' feature
+[Line 2024 Sent n01028022]: [L3 WARNING fixed-without-extpos] Fixed expression 'por cierto' does not have the 'ExtPos' feature
+[Line 2329 Sent n01032032]: [L3 WARNING fixed-without-extpos] Fixed expression 'Sin embargo' does not have the 'ExtPos' feature
+[Line 2418 Sent n01033021]: [L3 WARNING fixed-without-extpos] Fixed expression 'Sin embargo' does not have the 'ExtPos' feature
+[Line 2466 Sent n01033031]: [L3 WARNING fixed-without-extpos] Fixed expression 'Sin embargo' does not have the 'ExtPos' feature
+[Line 2814 Sent n01037020]: [L3 WARNING fixed-without-extpos] Fixed expression 'Sin embargo' does not have the 'ExtPos' feature
+[Line 2859 Sent n01038021]: [L3 WARNING fixed-without-extpos] Fixed expression 'en especial' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+Warnings: 44
 *** PASSED ***
 Validity: 1
 (weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
