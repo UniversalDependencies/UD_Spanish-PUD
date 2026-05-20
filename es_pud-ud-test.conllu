@@ -344,7 +344,7 @@
 8	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	método	método	NOUN	NN	Gender=Masc|Number=Sing	7	obj	_	_
 10	científico	científico	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	_
-11	como	como	ADP	IN	_	13	case	_	_
+11	como	como	SCONJ	IN	_	13	case	_	_
 12	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	unidad	unidad	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
 14	aparte	aparte	ADJ	JJ	Number=Sing	13	amod	_	SpaceAfter=No
@@ -1012,7 +1012,7 @@
 10	de	de	ADP	IN	_	11	case	_	_
 11	inteligencia	inteligencia	NOUN	NN	Gender=Fem|Number=Sing	9	nmod	_	_
 12	artificial	artificial	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	_
-13	como	como	ADP	IN	_	15	case	_	_
+13	como	como	SCONJ	IN	_	15	case	_	_
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	Asistente	asistente	NOUN	NN	Gender=Masc|Number=Sing	9	nmod	_	_
 16	de	de	ADP	IN	_	17	case	_	_
@@ -1158,7 +1158,7 @@
 1	A	a	ADP	IN	ExtPos=ADV	3	advmod	_	_
 2	veces	vez	NOUN	NN	Gender=Fem|Number=Plur	1	fixed	_	_
 3	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	como	como	ADP	IN	_	6	case	_	_
+4	como	como	SCONJ	IN	_	6	case	_	_
 5	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	superpoder	superpoder	NOUN	NN	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
 7	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
@@ -1270,7 +1270,7 @@
 # text_en = And with China set to become the world's biggest aviation market in the next decade, the show is an opportunity for Beijing to demonstrate its ambitions in civil aviation as well as defence.
 1	y	y	CCONJ	CC	_	22	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
-3	como	como	ADP	IN	_	7	case	_	_
+3	como	como	SCONJ	IN	_	7	case	_	_
 4	China	China	PROPN	NNP	Number=Sing	5	nsubj	_	_
 5	va	ir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	xcomp	_	_
 6	a	a	ADP	IN	_	7	mark	_	_
@@ -1380,7 +1380,7 @@
 18	sitios	sitio	NOUN	NN	Gender=Masc|Number=Plur	17	nsubj	_	_
 19	web	web	NOUN	NN	Gender=Fem|Number=Sing	18	nmod	_	_
 20	populares	popular	ADJ	JJ	Gender=Masc|Number=Plur	18	amod	_	_
-21	como	como	ADP	IN	_	22	case	_	_
+21	como	como	SCONJ	IN	_	22	case	_	_
 22	Reddit	Reddit	PROPN	NNP	Number=Sing	18	nmod	_	SpaceAfter=No
 23	,	,	PUNCT	,	PunctType=Comm	24	punct	_	_
 24	Twitter	Twitter	PROPN	NNP	Number=Sing	22	conj	_	_
@@ -1514,7 +1514,7 @@
 25	Kigali	Kigali	PROPN	NNP	Number=Sing	23	nmod	_	_
 26	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	27	nsubj	_	_
 27	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	_
-28	como	como	ADP	IN	_	29	case	_	_
+28	como	como	SCONJ	IN	_	29	case	_	_
 29	objetivo	objetivo	NOUN	NN	Gender=Masc|Number=Sing	27	obl	_	_
 30	reducir	reducir	VERB	VB	VerbForm=Inf	27	xcomp	_	_
 31	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	32	det	_	_
@@ -2063,7 +2063,7 @@
 19	en	en	ADP	IN	_	20	case	_	_
 20	2014	2014	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	18	obl	_	SpaceAfter=No
 21	,	,	PUNCT	,	PunctType=Comm	25	punct	_	_
-22	como	como	ADP	IN	_	25	case	_	_
+22	como	como	SCONJ	IN	_	25	case	_	_
 23	"	"	PUNCT	``	PunctType=Quot	25	punct	_	SpaceAfter=No
 24	muy	muy	ADV	RB	_	25	advmod	_	_
 25	razonables	razonable	ADJ	JJ	Gender=Fem|Number=Plur	7	obl	_	SpaceAfter=No
@@ -2259,7 +2259,7 @@
 22	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	24	nsubj	_	_
 23	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	24	compound:prt	_	_
 24	definía	definir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	_
-25	como	como	ADP	IN	_	26	case	_	_
+25	como	como	SCONJ	IN	_	26	case	_	_
 26	autoridades	autoridad	NOUN	NN	Gender=Fem|Number=Plur	24	obl	_	_
 27-28	del	_	_	_	_	_	_	_	_
 27	de	de	ADP	INDT	_	29	case	_	_
@@ -2433,7 +2433,7 @@
 16	directamente	directamente	ADV	RB	_	17	advmod	_	_
 17	expuestos	exponer	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	12	acl:relcl	_	SpaceAfter=No
 18	,	,	PUNCT	,	PunctType=Comm	20	punct	_	_
-19	como	como	ADP	IN	_	20	case	_	_
+19	como	como	SCONJ	IN	_	20	case	_	_
 20	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	nmod	_	_
 21	de	de	ADP	IN	_	23	case	_	_
 22	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
@@ -2829,7 +2829,7 @@
 16	tóxico	tóxico	ADJ	JJ	Gender=Masc|Number=Sing	15	amod	_	_
 17	de	de	ADP	IN	_	18	case	_	_
 18	ciudades	ciudad	NOUN	NN	Gender=Fem|Number=Plur	15	nmod	_	_
-19	como	como	ADP	IN	_	20	case	_	_
+19	como	como	SCONJ	IN	_	20	case	_	_
 20	Pekín	Pekín	PROPN	NNP	Number=Sing	18	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	,	PunctType=Comm	23	punct	_	_
 22	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	23	nsubj	_	_
@@ -2861,7 +2861,7 @@
 12	,	,	PUNCT	,	PunctType=Comm	10	punct	_	_
 13	grandes	grande	ADJ	JJ	Gender=Masc|Number=Plur	14	amod	_	_
 14	emisores	emisor	NOUN	NN	Gender=Masc|Number=Plur	7	conj	_	_
-15	como	como	ADP	IN	_	16	case	_	_
+15	como	como	SCONJ	IN	_	16	case	_	_
 16	Brasil	Brasil	PROPN	NNP	Number=Sing	14	nmod	_	SpaceAfter=No
 17	,	,	PUNCT	,	PunctType=Comm	18	punct	_	_
 18	Sudáfrica	Sudáfrica	PROPN	NNP	Number=Sing	16	conj	_	SpaceAfter=No
@@ -3015,7 +3015,7 @@
 # text = Estudiantes como Rai han estado reuniéndose con consejeros en el colegio para hablar de lo que pasó, pero esta dice que el mayor consuelo lo obtiene viendo a sus amigos.
 # text_en = Students like Rai have been meeting with counsellors at the school to talk about what happened, but she said the biggest comfort has come from seeing her friends.
 1	Estudiantes	estudiante	NOUN	NN	Number=Plur	6	nsubj	_	_
-2	como	como	ADP	IN	_	3	case	_	_
+2	como	como	SCONJ	IN	_	3	case	_	_
 3	Rai	Rai	PROPN	NNP	Gender=Fem|Number=Sing	1	nmod	_	_
 4	han	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 5	estado	estar	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	aux	_	_
@@ -3190,7 +3190,7 @@
 4	recibieron	recibir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	conocidas	conocida	NOUN	NN	Gender=Fem|Number=Plur	4	obj	_	_
-7	como	como	ADP	IN	_	9	case	_	_
+7	como	como	SCONJ	IN	_	9	case	_	_
 8	"	"	PUNCT	``	PunctType=Quot	9	punct	_	SpaceAfter=No
 9	remuneraciones	remuneración	NOUN	NN	Gender=Fem|Number=Plur	6	nmod	_	_
 10	por	por	ADP	IN	_	11	case	_	_
@@ -3832,7 +3832,7 @@
 1	Lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	det	_	_
 2	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	_
 3	empezó	empezar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	csubj	_	_
-4	como	como	ADP	IN	_	6	case	_	_
+4	como	como	SCONJ	IN	_	6	case	_	_
 5	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	ecografía	ecografía	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	_
 7	rutinaria	rutinario	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	_
@@ -3942,7 +3942,7 @@
 # text_en = He described her as a "remarkable" and "loving and wonderful" woman who left her mark in the literary world with her stories.
 1	La	él	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
 2	describió	describir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	como	como	ADP	IN	_	5	case	_	_
+3	como	como	SCONJ	IN	_	5	case	_	_
 4	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	mujer	mujer	NOUN	NN	Gender=Fem|Number=Sing	2	obl	_	_
 6	"	"	PUNCT	``	PunctType=Quot	7	punct	_	SpaceAfter=No
@@ -4118,7 +4118,7 @@
 16	CRTC	CRTC	PROPN	NNP	Gender=Fem|Number=Sing	5	appos	_	SpaceAfter=No
 17	)	)	PUNCT	)	PunctSide=Fin|PunctType=Brck	16	punct	_	_
 18	tienen	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-19	como	como	ADP	IN	_	20	case	_	_
+19	como	como	SCONJ	IN	_	20	case	_	_
 20	propósito	propósito	NOUN	NN	Gender=Masc|Number=Sing	18	obl	_	_
 21	obtener	obtener	VERB	VB	VerbForm=Inf	18	xcomp	_	_
 22	respuestas	respuesta	NOUN	NN	Gender=Fem|Number=Plur	21	obj	_	_
@@ -4399,7 +4399,7 @@
 10	considerar	considerar	VERB	VB	VerbForm=Inf	4	xcomp	_	_
 11	esos	ese	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	12	det	_	_
 12	datos	dato	NOUN	NN	Gender=Masc|Number=Plur	10	nsubj:pass	_	_
-13	como	como	ADP	IN	_	14	case	_	_
+13	como	como	SCONJ	IN	_	14	case	_	_
 14	prueba	prueba	NOUN	NN	Gender=Fem|Number=Sing	10	obl	_	_
 15	de	de	ADP	IN	_	20	case	_	_
 16	que	que	SCONJ	IN	_	20	mark	_	_
@@ -4541,7 +4541,7 @@
 8	críticas	crítica	NOUN	NN	Gender=Fem|Number=Plur	6	nsubj	_	_
 9	hacia	hacia	ADP	IN	_	10	case	_	_
 10	Clinton	Clinton	PROPN	NNP	Gender=Fem|Number=Sing	8	nmod	_	_
-11	como	como	ADP	IN	_	13	case	_	_
+11	como	como	SCONJ	IN	_	13	case	_	_
 12	primera	primero	ADJ	JJ	Gender=Fem|Number=Sing|NumType=Ord	13	amod	_	_
 13	dama	dama	NOUN	NN	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	,	PunctType=Comm	6	punct	_	_
@@ -4793,7 +4793,7 @@
 # parallel_id = pud/n01064096
 # text = Como mucha gente que conozco, me he pasado los últimos meses en vela leyendo encuestas con miedo.
 # text_en = Like many people I know, I’ve spent recent months staying up late, reading polls in terror.
-1	Como	como	ADP	IN	_	3	case	_	_
+1	Como	como	SCONJ	IN	_	3	case	_	_
 2	mucha	mucho	DET	DT	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	3	det	_	_
 3	gente	gente	NOUN	NN	Gender=Fem|Number=Sing	9	obl	_	_
 4	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	5	obj	_	_
@@ -5171,7 +5171,7 @@
 4	y	y	CCONJ	CC	_	6	cc	_	_
 5	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	obj	_	_
 6	aceptó	aceptar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
-7	como	como	ADP	IN	_	9	case	_	_
+7	como	como	SCONJ	IN	_	9	case	_	_
 8	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	hombre	hombre	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 10	,	,	PUNCT	,	PunctType=Comm	11	punct	_	_
@@ -5372,7 +5372,7 @@
 8	derecho	derecho	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj	_	_
 9	a	a	ADP	IN	_	10	case	_	_
 10	quedar	quedar	VERB	VB	VerbForm=Inf	8	xcomp	_	_
-11	como	como	ADP	IN	_	13	case	_	_
+11	como	como	SCONJ	IN	_	13	case	_	_
 12	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
 13	mejores	mejor	NOUN	NN	Gender=Masc|Number=Plur	10	obl	_	_
 14-15	del	_	_	_	_	_	_	_	_
@@ -5625,7 +5625,7 @@
 2	existen	existir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
 4	conocidas	conocida	NOUN	NN	Gender=Fem|Number=Plur	2	nsubj	_	_
-5	como	como	ADP	IN	_	6	case	_	_
+5	como	como	SCONJ	IN	_	6	case	_	_
 6	historias	historia	NOUN	NN	Gender=Fem|Number=Plur	4	nmod	_	_
 7	reales	real	ADJ	JJ	Gender=Fem|Number=Plur	6	amod	_	_
 8	que	que	PRON	REL	Gender=Fem|Number=Plur|PronType=Rel	10	nsubj:pass	_	_
@@ -5838,7 +5838,7 @@
 16	Comandante	comandante	NOUN	NN	Gender=Masc|Number=Sing	13	xcomp	_	_
 17	en	en	ADP	IN	_	18	case	_	_
 18	Jefe	jefe	NOUN	NN	Gender=Masc|Number=Sing	16	nmod	_	_
-19	como	como	ADP	IN	_	20	case	_	_
+19	como	como	SCONJ	IN	_	20	case	_	_
 20	Donald	Donald	PROPN	NNP	Gender=Masc|Number=Sing	5	nmod	_	_
 21	Trump	Trump	PROPN	NNP	Gender=Masc|Number=Sing	20	flat:name	_	_
 22	gane	ganar	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
@@ -6952,7 +6952,7 @@
 13	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	concepto	concepto	NOUN	NN	Gender=Masc|Number=Sing	7	appos	_	_
 15	conocido	conocer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	acl	_	_
-16	como	como	ADP	IN	_	18	case	_	_
+16	como	como	SCONJ	IN	_	18	case	_	_
 17	"	"	PUNCT	``	PunctType=Quot	18	punct	_	SpaceAfter=No
 18	defensa	defensa	NOUN	NN	Gender=Fem|Number=Sing	15	obl	_	_
 19	activa	activo	ADJ	JJ	Gender=Fem|Number=Sing	18	amod	_	SpaceAfter=No
@@ -7206,7 +7206,7 @@
 9	a	a	ADP	IN	_	10	case	_	_
 10	Hong	Hong	PROPN	NNP	_	7	obl	_	_
 11	Kong	Kong	PROPN	NNP	_	10	flat:name	_	_
-12	como	como	ADP	IN	_	13	case	_	_
+12	como	como	SCONJ	IN	_	13	case	_	_
 13	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	7	obl	_	_
 14	de	de	ADP	IN	_	16	case	_	_
 15	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
@@ -7568,7 +7568,7 @@
 15	legales	legal	ADJ	JJ	Gender=Fem|Number=Plur	14	amod	_	SpaceAfter=No
 16	,	,	PUNCT	,	PunctType=Comm	22	punct	_	_
 17	así	así	ADV	RB	ExtPos=CCONJ	22	cc	_	_
-18	como	como	ADP	IN	_	17	fixed	_	_
+18	como	como	SCONJ	IN	_	17	fixed	_	_
 19	también	también	ADV	RB	_	22	advmod	_	_
 20	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	22	obj	_	_
 21	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	aux	_	_
@@ -8490,7 +8490,7 @@
 4	nivel	nivel	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 5	,	,	PUNCT	,	PunctType=Comm	4	punct	_	_
 6	funciona	funcionar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	como	como	ADP	IN	_	12	case	_	_
+7	como	como	SCONJ	IN	_	12	case	_	_
 8	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 9	cordial	cordial	ADJ	JJ	Gender=Masc|Number=Sing	12	amod	_	_
 10	y	y	CCONJ	CC	_	11	cc	_	_
@@ -8687,7 +8687,7 @@
 18	que	que	ADP	IN	_	16	fixed	_	_
 19	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	20	obj	_	_
 20	enfoqué	enfocar	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	advcl	_	_
-21	como	como	ADP	IN	_	23	case	_	_
+21	como	como	SCONJ	IN	_	23	case	_	_
 22	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	drama	drama	NOUN	NN	Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
 24	,	,	PUNCT	,	PunctType=Comm	25	punct	_	_
@@ -8936,7 +8936,7 @@
 4	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 5	nuestro	nuestro	DET	DTP$	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
 6	rendimiento	rendimiento	NOUN	NN	Gender=Masc|Number=Sing	11	nsubj:pass	_	_
-7	como	como	ADP	IN	_	8	case	_	_
+7	como	como	SCONJ	IN	_	8	case	_	_
 8	organización	organización	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
 9	raramente	raramente	ADV	RB	_	11	advmod	_	_
 10	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl:pass	_	_
@@ -8961,7 +8961,7 @@
 # parallel_id = pud/n01128021
 # text = Como resultado, mucha gente abre rápidamente los correos electrónicos o hace clic en enlaces y archivos adjuntos sin prestar atención ni pensar en las consecuencias.
 # text_en = As a result, many people quickly open emails or mindlessly click on links and attachments with nary a thought of its consequences.
-1	Como	como	ADP	IN	_	2	case	_	_
+1	Como	como	SCONJ	IN	_	2	case	_	_
 2	resultado	resultado	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 3	,	,	PUNCT	,	PunctType=Comm	2	punct	_	_
 4	mucha	mucho	DET	DT	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	5	det	_	_
@@ -9292,7 +9292,7 @@
 15	,	,	PUNCT	,	PunctType=Comm	17	punct	_	_
 16	actualmente	actualmente	ADV	RB	_	17	advmod	_	_
 17	presentados	presentar	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	acl	_	_
-18	como	como	ADP	IN	_	21	case	_	_
+18	como	como	SCONJ	IN	_	21	case	_	_
 19	"	"	PUNCT	``	PunctType=Quot	21	punct	_	SpaceAfter=No
 20	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
 21	vientos	viento	NOUN	NN	Gender=Masc|Number=Plur	17	obl	_	_
@@ -9925,7 +9925,7 @@
 16	en	en	ADP	IN	_	18	case	_	_
 17	sus	su	PRON	DTP$	Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	det	_	_
 18	productos	producto	NOUN	NN	Gender=Masc|Number=Plur	13	obl	_	_
-19	como	como	ADP	IN	_	20	case	_	_
+19	como	como	SCONJ	IN	_	20	case	_	_
 20	algo	algo	NOUN	NN	Gender=Masc|Number=Sing	13	obl	_	_
 21	más	más	ADV	RBR	Degree=Cmp	20	advmod	_	_
 22	que	que	ADP	IN	_	24	case	_	_
@@ -10273,7 +10273,7 @@
 29	presentar	presentar	VERB	VB	VerbForm=Inf	27	xcomp	_	_
 30	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
 31	espectáculo	espectáculo	NOUN	NN	Gender=Masc|Number=Sing	29	obj	_	_
-32	como	como	ADP	IN	_	33	case	_	_
+32	como	como	SCONJ	IN	_	33	case	_	_
 33	este	este	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	31	nmod	_	SpaceAfter=No
 34	.	.	PUNCT	.	PunctType=Peri	14	punct	_	_
 
@@ -10430,7 +10430,7 @@
 6	modernos	moderno	ADJ	JJ	Gender=Masc|Number=Plur	7	amod	_	_
 7	rascacielos	rascacielo	NOUN	NN	Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	,	PunctType=Comm	12	punct	_	_
-9	como	como	ADP	IN	_	12	case	_	_
+9	como	como	SCONJ	IN	_	12	case	_	_
 10	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 11	visionario	visionario	ADJ	JJ	Gender=Masc|Number=Sing	12	amod	_	_
 12	MahaNakhon	MahaNakhon	PROPN	NNP	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
@@ -10789,7 +10789,7 @@
 10	e	e	CCONJ	CC	_	11	cc	_	_
 11	islas	isla	NOUN	NN	Gender=Fem|Number=Plur	7	conj	_	_
 12	volcánicas	volcánico	ADJ	JJ	Gender=Fem|Number=Plur	11	amod	_	_
-13	como	como	ADP	IN	_	15	case	_	_
+13	como	como	SCONJ	IN	_	15	case	_	_
 14	Santa	santo	ADJ	JJ	Gender=Fem|Number=Sing	15	amod	_	Proper=True
 15	Helena	Helena	PROPN	NNP	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
 16	.	.	PUNCT	.	PunctType=Peri	5	punct	_	_
@@ -10854,7 +10854,7 @@
 29	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
 30	estrecho	estrecho	NOUN	NN	Gender=Masc|Number=Sing	28	obj	_	SpaceAfter=No
 31	,	,	PUNCT	,	PunctType=Comm	34	punct	_	_
-32	como	como	ADP	IN	_	34	case	_	_
+32	como	como	SCONJ	IN	_	34	case	_	_
 33	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
 34	colonia	colonia	NOUN	NN	Gender=Fem|Number=Sing	26	nmod	_	_
 35	Megara	Megara	PROPN	NNP	Number=Sing	34	appos	_	_
@@ -11075,7 +11075,7 @@
 7	ministro	ministro	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	Estado	estado	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	_
-10	como	como	ADP	IN	_	12	case	_	_
+10	como	como	SCONJ	IN	_	12	case	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	cabeza	cabeza	NOUN	NN	Gender=Fem|Number=Sing	7	nmod	_	_
 13	de	de	ADP	IN	_	14	case	_	_
@@ -11321,7 +11321,7 @@
 20	día	día	NOUN	NN	Gender=Masc|Number=Sing	18	fixed	_	_
 21	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	22	expl:pass	_	_
 22	conoce	conocer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	xcomp	_	_
-23	como	como	ADP	IN	_	24	case	_	_
+23	como	como	SCONJ	IN	_	24	case	_	_
 24	Moravia	Moravia	PROPN	NNP	Number=Sing	22	obl	_	_
 25-26	al	_	_	_	_	_	_	_	_
 25	a	a	ADP	INDT	_	27	case	_	_
@@ -11498,7 +11498,7 @@
 11	,	,	PUNCT	,	PunctType=Comm	13	punct	_	_
 12	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl:pass	_	_
 13	conocen	conocer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
-14	como	como	ADP	IN	_	15	case	_	_
+14	como	como	SCONJ	IN	_	15	case	_	_
 15	meänkieli	meänkieli	X	FW	_	13	obl	_	Proper=True
 16	en	en	ADP	IN	_	17	case	_	_
 17	Suecia	Suecia	PROPN	NNP	Number=Sing	15	nmod	_	_
@@ -11566,13 +11566,13 @@
 5	Cáucaso	Cáucaso	PROPN	NNP	Number=Sing	2	nmod	_	_
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pass	_	_
 7	conoce	conocer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	como	como	ADP	IN	_	9	case	_	_
+8	como	como	SCONJ	IN	_	9	case	_	_
 9	Ciscaucasia	Ciscaucasia	PROPN	NNP	Number=Sing	7	obl	_	_
 10	y	y	CCONJ	CC	_	12	cc	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	7	conj	_	_
 13	sur	sur	NOUN	NN	Gender=Masc|Number=Sing	12	appos	_	_
-14	como	como	ADP	IN	_	15	case	_	_
+14	como	como	SCONJ	IN	_	15	case	_	_
 15	Transcaucásica	Transcaucásica	PROPN	NNP	Number=Sing	12	orphan	_	SpaceAfter=No
 16	.	.	PUNCT	.	PunctType=Peri	7	punct	_	_
 
@@ -12106,7 +12106,7 @@
 14	a	a	ADP	INDT	_	16	case	_	_
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	Mediterráneo	Mediterráneo	PROPN	NNP	Gender=Masc|Number=Sing	13	obl	_	_
-17	como	como	ADP	IN	_	18	case	_	_
+17	como	como	SCONJ	IN	_	18	case	_	_
 18	Mare	Mare	PROPN	NNP	Number=Sing	13	obl	_	_
 19	Nostrum	Nostrum	PROPN	NNP	Number=Sing	18	flat:name	_	_
 20	(	(	PUNCT	(	PunctSide=Ini|PunctType=Brck	23	punct	_	SpaceAfter=No
@@ -12172,7 +12172,7 @@
 # parallel_id = pud/w01022092
 # text = Como los fiordos, los lagos de agua dulce normalmente son profundos.
 # text_en = Like fjords, freshwater lakes are often deep.
-1	Como	como	ADP	IN	_	3	case	_	_
+1	Como	como	SCONJ	IN	_	3	case	_	_
 2	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	fiordos	fiordo	NOUN	NN	Gender=Masc|Number=Plur	12	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
@@ -12194,7 +12194,7 @@
 1	Las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
 2	bebidas	bebida	NOUN	NN	Gender=Fem|Number=Plur	28	nsubj:pass	_	_
 3	alcohólicas	alcohólico	ADJ	JJ	Gender=Fem|Number=Plur	2	amod	_	_
-4	como	como	ADP	IN	_	6	case	_	_
+4	como	como	SCONJ	IN	_	6	case	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	cerveza	cerveza	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	PunctType=Comm	8	punct	_	_
@@ -12236,7 +12236,7 @@
 9	a	a	ADP	IN	ExtPos=ADV	11	advmod	_	_
 10	menudo	menudo	ADJ	JJ	Gender=Masc|Number=Sing	9	fixed	_	_
 11	tenían	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-12	como	como	ADP	IN	_	13	case	_	_
+12	como	como	SCONJ	IN	_	13	case	_	_
 13	resultado	resultado	NOUN	NN	Gender=Masc|Number=Sing	11	obl	_	_
 14	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	muerte	muerte	NOUN	NN	Gender=Fem|Number=Sing	11	obj	_	_
@@ -12380,7 +12380,7 @@
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	retirada	retirada	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	_
 6	llegaron	llegar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-7	como	como	ADP	IN	_	10	case	_	_
+7	como	como	SCONJ	IN	_	10	case	_	_
 8	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 9	gran	gran	ADJ	JJ	Number=Sing	10	amod	_	_
 10	shock	shock	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	_
@@ -12392,7 +12392,7 @@
 16	que	que	PRON	REL	Gender=Fem|Number=Sing|PronType=Rel	17	nsubj	_	_
 17	consideraba	considerar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	acl:relcl	_	_
 18	Danevirke	Danevirke	PROPN	NNP	Number=Sing	17	obj	_	_
-19	como	como	ADP	IN	_	20	case	_	_
+19	como	como	SCONJ	IN	_	20	case	_	_
 20	algo	algo	NOUN	NN	Gender=Masc|Number=Sing	17	obl	_	_
 21	inexpugnable	inexpugnable	ADJ	JJ	Number=Sing	20	amod	_	SpaceAfter=No
 22	,	,	PUNCT	,	PunctType=Comm	30	punct	_	_
@@ -12616,12 +12616,12 @@
 15	en	en	ADP	IN	_	17	case	_	_
 16	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	Unión	unión	NOUN	NN	Gender=Fem|Number=Sing	14	obl	_	Proper=True
-18	como	como	ADP	IN	_	20	case	_	_
+18	como	como	SCONJ	IN	_	20	case	_	_
 19	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	estado	estado	NOUN	NN	Gender=Masc|Number=Sing	14	obl	_	_
 21	libre	libre	ADJ	JJ	Number=Sing	20	amod	_	_
 22	o	o	CCONJ	CC	_	25	cc	_	_
-23	como	como	ADP	IN	_	25	case	_	_
+23	como	como	SCONJ	IN	_	25	case	_	_
 24	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	estado	estado	NOUN	NN	Gender=Masc|Number=Sing	20	conj	_	_
 26	esclavista	esclavista	ADJ	JJ	Number=Sing	25	amod	_	SpaceAfter=No
@@ -12693,7 +12693,7 @@
 7	dependían	depender	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	eso	eso	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	7	obl	_	_
-10	como	como	ADP	IN	_	11	case	_	_
+10	como	como	SCONJ	IN	_	11	case	_	_
 11	base	base	NOUN	NN	Gender=Fem|Number=Sing	9	nmod	_	_
 12	de	de	ADP	IN	_	14	case	_	_
 13	sus	su	PRON	DTP$	Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
@@ -12813,7 +12813,7 @@
 # text = Ciudades como Milán dependían un 80% del agua alpina.
 # text_en = Cities such as Milan depend on 80 percent of water from Alpine runoff.
 1	Ciudades	ciudad	NOUN	NN	Gender=Fem|Number=Plur	4	nsubj	_	_
-2	como	como	ADP	IN	_	3	case	_	_
+2	como	como	SCONJ	IN	_	3	case	_	_
 3	Milán	Milán	PROPN	NNP	Number=Sing	1	nmod	_	_
 4	dependían	depender	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 5	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
@@ -12863,7 +12863,7 @@
 5	en	en	ADP	IN	_	6	case	_	_
 6	Suiza	Suiza	PROPN	NNP	Number=Sing	4	obl	_	SpaceAfter=No
 7	,	,	PUNCT	,	PunctType=Comm	10	punct	_	_
-8	como	como	ADP	IN	_	10	case	_	_
+8	como	como	SCONJ	IN	_	10	case	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	Rin	Rin	PROPN	NNP	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 11	,	,	PUNCT	,	PunctType=Comm	13	punct	_	_
@@ -13050,7 +13050,7 @@
 1	Tanto	tanto	ADV	RB	PronType=Dem	3	cc:preconj	_	_
 2	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	investigación	investigación	NOUN	NN	Gender=Fem|Number=Sing	10	nsubj	_	_
-4	como	como	ADP	IN	_	6	cc	_	_
+4	como	como	SCONJ	IN	_	6	cc	_	_
 5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	expediciones	expedición	NOUN	NN	Gender=Fem|Number=Plur	3	conj	_	_
 7	a	a	ADP	IN	_	9	case	_	_
@@ -13104,14 +13104,14 @@
 11	Thomas	Thomas	PROPN	NNP	Gender=Masc|Number=Sing	13	nsubj	_	_
 12	Lincoln	Lincoln	PROPN	NNP	Gender=Masc|Number=Sing	11	flat:name	_	_
 13	trabajó	trabajar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-14	como	como	ADP	IN	_	15	case	_	_
+14	como	como	SCONJ	IN	_	15	case	_	_
 15	granjero	granjero	NOUN	NN	Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
 16	,	,	PUNCT	,	PunctType=Comm	17	punct	_	_
 17	creando	crear	VERB	VBG	VerbForm=Ger	15	conj	_	_
 18	muebles	mueble	NOUN	NN	Gender=Masc|Number=Plur	17	obj	_	SpaceAfter=No
 19	,	,	PUNCT	,	PunctType=Comm	22	punct	_	_
 20	y	y	CCONJ	CC	_	22	cc	_	_
-21	como	como	ADP	IN	_	22	case	_	_
+21	como	como	SCONJ	IN	_	22	case	_	_
 22	carpintero	carpintero	NOUN	NN	Gender=Masc|Number=Sing	15	conj	_	SpaceAfter=No
 23	.	.	PUNCT	.	PunctType=Peri	13	punct	_	_
 
@@ -13136,7 +13136,7 @@
 14	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
 15	desastres	desastre	NOUN	NN	Gender=Masc|Number=Plur	9	nmod	_	_
 16	naturales	natural	ADJ	JJ	Gender=Masc|Number=Plur	15	amod	_	_
-17	como	como	ADP	IN	_	18	case	_	_
+17	como	como	SCONJ	IN	_	18	case	_	_
 18	inundaciones	inundación	NOUN	NN	Gender=Fem|Number=Plur	15	nmod	_	_
 19	y	y	CCONJ	CC	_	20	cc	_	_
 20	sequías	sequía	NOUN	NN	Gender=Fem|Number=Plur	18	conj	_	SpaceAfter=No
@@ -13301,7 +13301,7 @@
 5	Guinea	Guinea	PROPN	NNP	Gender=Fem|Number=Sing	3	flat:name	_	_
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pass	_	_
 7	identifica	identificar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	como	como	ADP	IN	_	12	case	_	_
+8	como	como	SCONJ	IN	_	12	case	_	_
 9	posiblemente	posiblemente	ADV	RB	_	12	advmod	_	_
 10	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 11	peor	peor	ADJ	JJR	Degree=Cmp|Gender=Masc|Number=Sing	12	amod	_	_
@@ -13345,7 +13345,7 @@
 3	Sudamérica	Sudamérica	PROPN	NNP	Number=Sing	1	conj	_	_
 4	eran	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	aux:pass	_	_
 5	tratadas	tratar	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
-6	como	como	ADP	IN	_	7	case	_	_
+6	como	como	SCONJ	IN	_	7	case	_	_
 7	continentes	continente	NOUN	NN	Gender=Masc|Number=Plur	5	obl	_	_
 8	separados	separado	ADJ	JJ	Gender=Masc|Number=Plur|VerbForm=Part	7	amod	_	_
 9	en	en	ADP	IN	_	11	case	_	_
@@ -13756,7 +13756,7 @@
 19	de	de	ADP	IN	_	20	case	_	_
 20	problemas	problema	NOUN	NN	Gender=Masc|Number=Plur	17	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	,	PunctType=Comm	24	punct	_	_
-22	como	como	ADP	IN	_	24	case	_	_
+22	como	como	SCONJ	IN	_	24	case	_	_
 23	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
 24	obesidad	obesidad	NOUN	NN	Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
 25	.	.	PUNCT	.	PunctType=Peri	14	punct	_	_
@@ -14178,7 +14178,7 @@
 2	ensayo	ensayo	NOUN	NN	Gender=Masc|Number=Sing	13	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	,	PunctType=Comm	4	punct	_	_
 4	publicado	publicar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
-5	como	como	ADP	IN	_	7	case	_	_
+5	como	como	SCONJ	IN	_	7	case	_	_
 6	"	"	PUNCT	``	PunctType=Quot	7	punct	_	SpaceAfter=No
 7	Submarino	Submarino	PROPN	NNP	Number=Sing	4	obl	_	SpaceAfter=No
 8	"	"	PUNCT	''	PunctType=Quot	7	punct	_	SpaceAfter=No
@@ -14292,7 +14292,7 @@
 17	presión	presión	NOUN	NN	Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
 18	,	,	PUNCT	,	PunctType=Comm	24	punct	_	_
 19	así	así	ADV	RB	ExtPos=CCONJ	24	cc	_	_
-20	como	como	ADP	IN	_	19	fixed	_	_
+20	como	como	SCONJ	IN	_	19	fixed	_	_
 21	de	de	ADP	IN	_	24	case	_	_
 22	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 23	amplio	amplio	ADJ	JJ	Gender=Masc|Number=Sing	24	amod	_	_
@@ -14377,7 +14377,7 @@
 6	de	de	ADP	IN	_	7	case	_	_
 7	desarrollo	desarrollo	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	,	PunctType=Comm	12	punct	_	_
-9	como	como	ADP	IN	_	12	case	_	_
+9	como	como	SCONJ	IN	_	12	case	_	_
 10	en	en	ADP	IN	_	12	case	_	_
 11	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
 12	áreas	área	NOUN	NN	Gender=Fem|Number=Plur	2	obl	_	_
@@ -14413,7 +14413,7 @@
 16	mundo	mundo	NOUN	NN	Gender=Masc|Number=Sing	13	nmod	_	_
 17	oficialmente	oficialmente	ADV	RB	_	18	advmod	_	_
 18	establecido	establecer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	acl	_	_
-19	como	como	ADP	IN	_	20	case	_	_
+19	como	como	SCONJ	IN	_	20	case	_	_
 20	parque	parque	NOUN	NN	Gender=Masc|Number=Sing	18	obl	_	_
 21	nacional	nacional	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	SpaceAfter=No
 22	.	.	PUNCT	.	PunctType=Peri	13	punct	_	_
@@ -14493,7 +14493,7 @@
 8	consideraba	considerar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 9	a	a	ADP	IN	_	10	case	_	_
 10	Mongolia	Mongolia	PROPN	NNP	Number=Sing	8	obl	_	_
-11	como	como	ADP	IN	_	12	case	_	_
+11	como	como	SCONJ	IN	_	12	case	_	_
 12	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
 13	de	de	ADP	IN	_	16	case	_	_
 14	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
@@ -14540,7 +14540,7 @@
 6	,	,	PUNCT	,	PunctType=Comm	8	punct	_	_
 7	tanto	tanto	ADV	RB	PronType=Dem	8	cc:preconj	_	_
 8	Mongolia	Mongolia	PROPN	NNP	Number=Sing	5	appos	_	_
-9	como	como	ADP	IN	_	10	cc	_	_
+9	como	como	SCONJ	IN	_	10	cc	_	_
 10	China	China	PROPN	NNP	Number=Sing	8	conj	_	_
 11	habían	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
 12	sido	ser	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	aux:pass	_	_
@@ -15107,7 +15107,7 @@
 8	con	con	ADP	IN	_	10	case	_	_
 9	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
 10	habilidades	habilidad	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
-11	como	como	ADP	IN	_	12	case	_	_
+11	como	como	SCONJ	IN	_	12	case	_	_
 12	administrador	administrador	NOUN	NN	Gender=Masc|Number=Sing	10	nmod	_	_
 13	y	y	CCONJ	CC	_	14	cc	_	_
 14	asistente	asistente	NOUN	NN	Gender=Masc|Number=Sing	12	conj	_	_
@@ -15177,7 +15177,7 @@
 22	tenía	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	acl:relcl	_	_
 23	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	lodo	lodo	NOUN	NN	Gender=Masc|Number=Sing	22	nsubj	_	_
-25	como	como	ADP	IN	_	26	case	_	_
+25	como	como	SCONJ	IN	_	26	case	_	_
 26	fertilizante	fertilizante	NOUN	NN	Gender=Masc|Number=Sing	22	obl	_	SpaceAfter=No
 27	.	.	PUNCT	.	PunctType=Peri	10	punct	_	_
 
@@ -15197,7 +15197,7 @@
 10	que	que	ADP	IN	_	8	fixed	_	_
 11	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	_	_
 12	enviado	enviar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
-13	como	como	ADP	IN	_	14	case	_	_
+13	como	como	SCONJ	IN	_	14	case	_	_
 14	mensajero	mensajero	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	_
 15	en	en	ADP	IN	_	17	case	_	_
 16	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
@@ -15380,7 +15380,7 @@
 23	y	y	CCONJ	CC	_	24	cc	_	_
 24	ofrendas	ofrenda	NOUN	NN	Gender=Fem|Number=Plur	22	conj	_	_
 25	consideradas	considerar	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	24	acl	_	_
-26	como	como	ADP	IN	_	28	case	_	_
+26	como	como	SCONJ	IN	_	28	case	_	_
 27	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	28	det	_	_
 28	apropiadas	apropiada	NOUN	NN	Gender=Fem|Number=Plur	25	obl	_	SpaceAfter=No
 29	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
@@ -15430,7 +15430,7 @@
 22	vertical	vertical	ADJ	JJ	Gender=Fem|Number=Sing	21	amod	_	SpaceAfter=No
 23	,	,	PUNCT	,	PunctType=Comm	24	punct	_	_
 24	conocidas	conocer	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	18	acl	_	_
-25	como	como	ADP	IN	_	26	case	_	_
+25	como	como	SCONJ	IN	_	26	case	_	_
 26	menhires	menhir	NOUN	NN	Gender=Masc|Number=Plur	24	obl	_	SpaceAfter=No
 27	,	,	PUNCT	,	PunctType=Comm	28	punct	_	_
 28	orientadas	orientar	VERB	VBN	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	18	acl	_	_
@@ -15972,7 +15972,7 @@
 10	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	expl:pass	_	_
 11	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	_
 12	considerado	considerar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-13	como	como	ADP	IN	_	15	case	_	_
+13	como	como	SCONJ	IN	_	15	case	_	_
 14	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	gobernante	gobernante	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	_
 16	más	más	ADV	RBR	Degree=Cmp	17	advmod	_	_
@@ -16360,7 +16360,7 @@
 22	,	,	PUNCT	,	PunctType=Comm	21	punct	_	_
 23	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	24	obj	_	_
 24	llamaron	llamar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	xcomp	_	_
-25	como	como	ADP	IN	_	26	case	_	_
+25	como	como	SCONJ	IN	_	26	case	_	_
 26	él	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	obl	_	SpaceAfter=No
 27	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
@@ -16628,7 +16628,7 @@
 4	estos	este	DET	DT	Gender=Masc|Number=Plur|PronType=Dem	6	det	_	_
 5	tres	tres	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	6	nummod	_	_
 6	factores	factor	NOUN	NN	Gender=Masc|Number=Plur	3	obj	_	_
-7	como	como	ADP	IN	_	9	case	_	_
+7	como	como	SCONJ	IN	_	9	case	_	_
 8	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	indicadores	indicador	NOUN	NN	Gender=Masc|Number=Plur	6	nmod	_	_
 10	de	de	ADP	IN	_	11	case	_	_
@@ -16722,7 +16722,7 @@
 6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pass	_	_
 7	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
 8	propuesto	proponer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-9	como	como	ADP	IN	_	11	case	_	_
+9	como	como	SCONJ	IN	_	11	case	_	_
 10	posible	posible	ADJ	JJ	Number=Sing	11	amod	_	_
 11	causa	causa	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
 12	de	de	ADP	IN	_	13	case	_	_
@@ -17122,7 +17122,7 @@
 8	a	a	ADP	IN	_	9	case	_	_
 9	Pearl	pearl	NOUN	NN	Number=Sing	6	obl	_	Proper=True
 10	Harbor	harbor	NOUN	NN	Number=Sing	9	flat:name	_	Proper=True
-11	como	como	ADP	IN	_	12	case	_	_
+11	como	como	SCONJ	IN	_	12	case	_	_
 12	propaganda	propaganda	NOUN	NN	Gender=Fem|Number=Sing	6	obl	_	_
 13	estadounidense	estadounidense	ADJ	JJ	Number=Sing	12	amod	_	Proper=True|SpaceAfter=No
 14	.	.	PUNCT	.	PunctType=Peri	6	punct	_	_
@@ -17690,7 +17690,7 @@
 7	Esparta	Esparta	PROPN	NNP	Number=Sing	9	nsubj	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	compound:prt	_	_
 9	estableció	establecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-10	como	como	ADP	IN	_	12	case	_	_
+10	como	como	SCONJ	IN	_	12	case	_	_
 11	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	poder	poder	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	_
 13	local	local	ADJ	JJ	Gender=Masc|Number=Sing	12	amod	_	_
@@ -17930,7 +17930,7 @@
 25	cuando	cuando	ADV	WRB	PronType=Rel	27	advmod	_	_
 26	estaban	estar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	27	cop	_	_
 27	vivos	vivo	ADJ	JJ	Gender=Masc|Number=Plur	17	advcl	_	_
-28	como	como	ADP	IN	_	30	cc	_	_
+28	como	como	SCONJ	IN	_	30	cc	_	_
 29	de	de	ADP	IN	_	30	case	_	_
 30	manera	manera	NOUN	NN	Gender=Fem|Number=Sing	27	conj	_	_
 31	póstuma	póstumo	ADJ	JJ	Gender=Fem|Number=Sing	30	amod	_	SpaceAfter=No
@@ -18002,7 +18002,7 @@
 19	nivel	nivel	NOUN	NN	Gender=Masc|Number=Sing	14	obl	_	_
 20	de	de	ADP	IN	_	21	case	_	_
 21	población	población	NOUN	NN	Gender=Fem|Number=Sing	19	nmod	_	_
-22	como	como	ADP	IN	_	23	cc	_	_
+22	como	como	SCONJ	IN	_	23	cc	_	_
 23	económico	económico	ADJ	JJ	Gender=Masc|Number=Sing	19	conj	_	SpaceAfter=No
 24	.	.	PUNCT	.	PunctType=Peri	14	punct	_	_
 
@@ -18063,7 +18063,7 @@
 1	Algunos	alguno	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
 2	historiadores	historiador	NOUN	NN	Gender=Masc|Number=Plur	9	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	,	PunctType=Comm	5	punct	_	_
-4	como	como	ADP	IN	_	5	case	_	_
+4	como	como	SCONJ	IN	_	5	case	_	_
 5	Chandler	Chandler	PROPN	NNP	Gender=Masc|Number=Sing	2	nmod	_	_
 6	y	y	CCONJ	CC	_	7	cc	_	_
 7	Weller	Weller	PROPN	NNP	Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
@@ -18076,7 +18076,7 @@
 14	británica	británico	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	Proper=True
 15	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	aux:pass	_	_
 16	destruida	destruir	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	ccomp	_	_
-17	como	como	ADP	IN	_	19	case	_	_
+17	como	como	SCONJ	IN	_	19	case	_	_
 18	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	fuerza	fuerza	NOUN	NN	Gender=Fem|Number=Sing	16	obl	_	_
 20	viable	viable	ADJ	JJ	Number=Sing	19	amod	_	_
@@ -18154,7 +18154,7 @@
 5	tanto	tanto	ADV	RB	PronType=Dem	7	cc:preconj	_	_
 6	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
 7	varones	varón	NOUN	NN	Gender=Masc|Number=Plur	12	nsubj	_	_
-8	como	como	ADP	IN	_	10	cc	_	_
+8	como	como	SCONJ	IN	_	10	cc	_	_
 9	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
 10	mujeres	mujer	NOUN	NN	Gender=Fem|Number=Plur	7	conj	_	_
 11	son	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
@@ -18499,7 +18499,7 @@
 14	vida	vida	NOUN	NN	Gender=Fem|Number=Sing	11	conj	_	_
 15	de	de	ADP	IN	_	16	case	_	_
 16	Carangi	Carangi	PROPN	NNP	Gender=Masc|Number=Sing	14	nmod	_	_
-17	como	como	ADP	IN	_	18	case	_	_
+17	como	como	SCONJ	IN	_	18	case	_	_
 18	resultado	resultado	NOUN	NN	Gender=Masc|Number=Sing	8	nmod	_	_
 19	de	de	ADP	IN	_	21	case	_	_
 20	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	det	_	_
@@ -18857,7 +18857,7 @@
 9	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
 10	época	época	NOUN	NN	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	,	PunctType=Comm	14	punct	_	_
-12	como	como	ADP	IN	_	14	case	_	_
+12	como	como	SCONJ	IN	_	14	case	_	_
 13	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
 14	diseñadores	diseñador	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	_
 15	de	de	ADP	IN	_	16	case	_	_
@@ -18898,7 +18898,7 @@
 10	deseo	deseo	NOUN	NN	Gender=Masc|Number=Sing	3	conj	_	_
 11	de	de	ADP	IN	_	12	case	_	_
 12	actuar	actuar	VERB	VB	VerbForm=Inf	10	xcomp	_	_
-13	como	como	ADP	IN	_	14	case	_	_
+13	como	como	SCONJ	IN	_	14	case	_	_
 14	figura	figura	NOUN	NN	Gender=Fem|Number=Sing	12	obl	_	_
 15	pública	público	ADJ	JJ	Gender=Fem|Number=Sing	14	amod	_	SpaceAfter=No
 16	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
@@ -18951,7 +18951,7 @@
 5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	compound:prt	_	_
 6	le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	7	obl:arg	_	_
 7	muestra	mostrar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	como	como	ADP	IN	_	10	case	_	_
+8	como	como	SCONJ	IN	_	10	case	_	_
 9	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	guitarrista	guitarrista	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	_
 11	experto	experto	ADJ	JJ	Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No
@@ -19140,7 +19140,7 @@
 18	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	colegio	colegio	NOUN	NN	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	,	PunctType=Comm	22	punct	_	_
-21	como	como	ADP	IN	_	22	case	_	_
+21	como	como	SCONJ	IN	_	22	case	_	_
 22	libros	libro	NOUN	NN	Gender=Masc|Number=Plur	15	nmod	_	_
 23	y	y	CCONJ	CC	_	24	cc	_	_
 24	uniformes	uniforme	NOUN	NN	Gender=Masc|Number=Plur	22	conj	_	SpaceAfter=No
@@ -19345,7 +19345,7 @@
 19	año	año	NOUN	NN	Gender=Masc|Number=Sing	16	obl	_	_
 20	y	y	CCONJ	CC	_	21	cc	_	_
 21	medio	medio	NOUN	NN	Gender=Masc|Number=Sing	19	conj	_	_
-22	como	como	ADP	IN	_	23	case	_	_
+22	como	como	SCONJ	IN	_	23	case	_	_
 23	periodista	periodista	NOUN	NN	Gender=Masc|Number=Sing	16	obl	_	_
 24	de	de	ADP	IN	_	25	case	_	_
 25	planta	planta	NOUN	NN	Gender=Fem|Number=Sing	23	nmod	_	_
@@ -19594,7 +19594,7 @@
 14	jerarquía	jerarquía	NOUN	NN	Gender=Fem|Number=Sing	7	conj	_	_
 15	social	social	ADJ	JJ	Gender=Fem|Number=Sing	14	amod	_	SpaceAfter=No
 16	,	,	PUNCT	,	PunctType=Comm	20	punct	_	_
-17	como	como	ADP	IN	_	20	case	_	_
+17	como	como	SCONJ	IN	_	20	case	_	_
 18	también	también	ADV	RB	_	20	advmod	_	_
 19	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	vida	vida	NOUN	NN	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
@@ -19923,7 +19923,7 @@
 6	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	8	obj	_	_
 7	el	el	DET	PRP	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	nsubj	_	_
 8	consideraba	considerar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	xcomp	_	_
-9	como	como	ADP	IN	_	10	case	_	_
+9	como	como	SCONJ	IN	_	10	case	_	_
 10	moral	moral	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
 11	laxa	laxo	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No
 12	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
@@ -19948,7 +19948,7 @@
 14	Strathearn	Strathearn	PROPN	NNP	Number=Sing	12	conj	_	_
 15	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	aux:pass	_	_
 16	expuesto	exponer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-17	como	como	ADP	IN	_	18	case	_	_
+17	como	como	SCONJ	IN	_	18	case	_	_
 18	adúltero	adúltero	NOUN	NN	Gender=Masc|Number=Sing	16	obl	_	_
 19	y	y	CCONJ	CC	_	26	cc	_	_
 20-21	al	_	_	_	_	_	_	_	_
@@ -20183,7 +20183,7 @@
 14	Tom	Tom	PROPN	NNP	Gender=Masc|Number=Sing	13	appos	_	_
 15	Robinson	Robinson	PROPN	NNP	Gender=Masc|Number=Sing	14	flat:name	_	_
 16	describió	describir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl:relcl	_	_
-17	como	como	ADP	IN	_	21	case	_	_
+17	como	como	SCONJ	IN	_	21	case	_	_
 18	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 19	"	"	PUNCT	``	PunctType=Quot	21	punct	_	SpaceAfter=No
 20	gran	gran	ADJ	JJ	Number=Sing	21	amod	_	_
@@ -20468,7 +20468,7 @@
 26	mayas	maya	NOUN	NN	Gender=Masc|Number=Plur	27	nsubj	_	Proper=True
 27	utilizaban	utilizar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	21	xcomp	_	_
 28	canoas	canoa	NOUN	NN	Gender=Fem|Number=Plur	27	obj	_	_
-29	como	como	ADP	IN	_	31	case	_	_
+29	como	como	SCONJ	IN	_	31	case	_	_
 30	principal	principal	ADJ	JJ	Gender=Masc|Number=Sing	31	amod	_	_
 31	medio	medio	NOUN	NN	Gender=Masc|Number=Sing	27	obl	_	_
 32	de	de	ADP	IN	_	33	case	_	_
@@ -20718,7 +20718,7 @@
 7	Los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	Proper=True
 8	Muppets	Muppets	PROPN	NNP	Gender=Masc|Number=Plur	4	obl	_	SpaceAfter=No
 9	,	,	PUNCT	,	PunctType=Comm	12	punct	_	_
-10	como	como	ADP	IN	_	12	case	_	_
+10	como	como	SCONJ	IN	_	12	case	_	_
 11	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	recepcionista	recepcionista	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
 13	de	de	ADP	IN	_	14	case	_	_
@@ -20727,7 +20727,7 @@
 16	,	,	PUNCT	,	PunctType=Comm	18	punct	_	_
 17	también	también	ADV	RB	_	18	advmod	_	_
 18	conocida	conocer	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	14	acl	_	_
-19	como	como	ADP	IN	_	21	case	_	_
+19	como	como	SCONJ	IN	_	21	case	_	_
 20	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	cerdita	cerdita	NOUN	NN	Gender=Fem|Number=Sing	18	obl	_	_
 22	Piggy	Piggy	PROPN	NNP	Gender=Fem|Number=Sing	21	appos	_	SpaceAfter=No
@@ -20936,7 +20936,7 @@
 26	tanto	tanto	ADV	RB	PronType=Dem	28	cc:preconj	_	_
 27	a	a	ADP	IN	_	28	case	_	_
 28	Alemania	Alemania	PROPN	NNP	Number=Sing	23	obl	_	_
-29	como	como	ADP	IN	_	30	cc	_	_
+29	como	como	SCONJ	IN	_	30	cc	_	_
 30	Austria	Austria	PROPN	NNP	Number=Sing	28	conj	_	SpaceAfter=No
 31	.	.	PUNCT	.	PunctType=Peri	23	punct	_	_
 
@@ -21159,7 +21159,7 @@
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	ganar	ganar	VERB	VB	VerbForm=Inf	12	xcomp	_	_
 4	reconocimiento	reconocimiento	NOUN	NN	Gender=Masc|Number=Sing	3	obj	_	_
-5	como	como	ADP	IN	_	7	case	_	_
+5	como	como	SCONJ	IN	_	7	case	_	_
 6	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	experta	experta	NOUN	NN	Gender=Fem|Number=Sing	4	nmod	_	_
 8	en	en	ADP	IN	_	10	case	_	_
@@ -21235,7 +21235,7 @@
 13	televisión	televisión	NOUN	NN	Gender=Fem|Number=Sing	11	nmod	_	_
 14	CTV	CTV	PROPN	NNP	Number=Sing	11	appos	_	_
 15	Montreal	Montreal	PROPN	NNP	Number=Sing	14	appos	_	_
-16	como	como	ADP	IN	_	17	case	_	_
+16	como	como	SCONJ	IN	_	17	case	_	_
 17	presentadora	presentadora	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
 18-19	del	_	_	_	_	_	_	_	_
 18	de	de	ADP	INDT	_	20	case	_	_
@@ -21394,7 +21394,7 @@
 # text = Aparecía como coprotagonista, haciendo el papel de hermano menor de Humphrey Bogart, un mujeriego sin preocupaciones, en Sabrina (1954), interpretada por Audrey Hepburn.
 # text_en = He co-starred as Humphrey Bogart's younger brother, a carefree playboy, in Sabrina (1954), played by Audrey Hepburn.
 1	Aparecía	aparecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-2	como	como	ADP	IN	_	3	case	_	_
+2	como	como	SCONJ	IN	_	3	case	_	_
 3	coprotagonista	coprotagonista	NOUN	NN	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	PunctType=Comm	5	punct	_	_
 5	haciendo	hacer	VERB	VBG	VerbForm=Ger	1	advcl	_	_
@@ -21588,7 +21588,7 @@
 5	establecer	establecer	VERB	VB	VerbForm=Inf	4	xcomp	_	_
 6	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	esperanza	esperanza	NOUN	NN	Gender=Fem|Number=Sing	5	obj	_	_
-8	como	como	ADP	IN	_	10	case	_	_
+8	como	como	SCONJ	IN	_	10	case	_	_
 9	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	principio	principio	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	_
 11	rector	rector	ADJ	JJ	Gender=Masc|Number=Sing	10	amod	_	_
@@ -22088,7 +22088,7 @@
 8	productos	producto	NOUN	NN	Gender=Masc|Number=Plur	2	conj	_	_
 9	alimenticios	alimenticio	ADJ	JJ	Gender=Masc|Number=Plur	8	amod	_	SpaceAfter=No
 10	,	,	PUNCT	,	PunctType=Comm	13	punct	_	_
-11	como	como	ADP	IN	_	13	case	_	_
+11	como	como	SCONJ	IN	_	13	case	_	_
 12	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	trigo	trigo	NOUN	NN	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	,	PunctType=Comm	13	punct	_	_
@@ -22397,14 +22397,14 @@
 47	Rusia	Rusia	PROPN	NNP	Number=Sing	45	nmod	_	SpaceAfter=No
 48	,	,	PUNCT	,	PunctType=Comm	52	punct	_	_
 49	así	así	ADV	RB	ExtPos=CCONJ	52	cc	_	_
-50	como	como	ADP	IN	_	49	fixed	_	_
+50	como	como	SCONJ	IN	_	49	fixed	_	_
 51	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	52	det	_	_
 52	reembolso	reembolso	NOUN	NN	Gender=Masc|Number=Sing	22	conj	_	_
 53	de	de	ADP	IN	_	55	case	_	_
 54	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	55	det	_	_
 55	costes	coste	NOUN	NN	Gender=Masc|Number=Plur	52	nmod	_	_
 56	incurridos	incurrir	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	55	acl	_	_
-57	como	como	ADP	IN	_	58	case	_	_
+57	como	como	SCONJ	IN	_	58	case	_	_
 58	resultado	resultado	NOUN	NN	Gender=Masc|Number=Sing	56	obl	_	_
 59	de	de	ADP	IN	_	61	case	_	_
 60	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	61	det	_	_
@@ -22568,7 +22568,7 @@
 15	escalofriante	escalofriante	ADJ	JJ	Number=Sing	16	amod	_	_
 16	órgano	órgano	NOUN	NN	Gender=Masc|Number=Sing	13	nsubj	_	SpaceAfter=No
 17	,	,	PUNCT	,	PunctType=Comm	20	punct	_	_
-18	como	como	ADP	IN	_	20	case	_	_
+18	como	como	SCONJ	IN	_	20	case	_	_
 19	en	en	ADP	IN	_	20	case	_	_
 20	Monster	monster	NOUN	NN	Number=Sing	13	obl	_	Proper=True
 21	Mash	mash	NOUN	NN	Number=Sing	20	flat:name	_	Proper=True|SpaceAfter=No
@@ -22593,7 +22593,7 @@
 5	incrementos	incremento	NOUN	NN	Gender=Masc|Number=Plur	3	obj	_	_
 6	de	de	ADP	IN	_	7	case	_	_
 7	precio	precio	NOUN	NN	Gender=Masc|Number=Sing	5	nmod	_	_
-8	como	como	ADP	IN	_	10	case	_	_
+8	como	como	SCONJ	IN	_	10	case	_	_
 9	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	resultado	resultado	NOUN	NN	Gender=Masc|Number=Sing	3	obl	_	_
 11	de	de	ADP	IN	_	13	case	_	_
@@ -22644,7 +22644,7 @@
 10	milagros	milagro	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	,	PunctType=Comm	15	punct	_	_
 12	así	así	ADV	RB	ExtPos=CCONJ	15	cc	_	_
-13	como	como	ADP	IN	_	12	fixed	_	_
+13	como	como	SCONJ	IN	_	12	fixed	_	_
 14	cada	cada	DET	DT	Gender=Masc|Number=Sing|PronType=Tot	15	det	_	_
 15	distrito	distrito	NOUN	NN	Gender=Masc|Number=Sing	4	conj	_	_
 16	especializado	especializado	ADJ	JJ	Gender=Masc|Number=Sing|VerbForm=Part	15	amod	_	SpaceAfter=No
@@ -23404,7 +23404,7 @@
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	gobierno	gobierno	NOUN	NN	Gender=Masc|Number=Sing	13	nsubj	_	_
 8	federal	federal	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	_
-9	como	como	ADP	IN	_	11	cc	_	_
+9	como	como	SCONJ	IN	_	11	cc	_	_
 10	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	estatal	estatal	NOUN	NN	Gender=Masc|Number=Sing	7	conj	_	_
 12	hayan	haber	AUX	VBC	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
@@ -23415,7 +23415,7 @@
 16	Patrimonio	patrimonio	NOUN	NN	Gender=Masc|Number=Sing	13	obl	_	_
 17	Natural	natural	ADJ	JJ	Gender=Masc|Number=Sing	16	amod	_	_
 18	Nacional	nacional	ADJ	JJ	Gender=Masc|Number=Sing	16	amod	_	_
-19	como	como	ADP	IN	_	21	case	_	_
+19	como	como	SCONJ	IN	_	21	case	_	_
 20	una	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	empeño	empeño	NOUN	NN	Gender=Masc|Number=Sing	13	obl	_	_
 22	nacional	nacional	ADJ	JJ	Gender=Masc|Number=Sing	21	amod	_	_
@@ -23607,7 +23607,7 @@
 9	tomado	tomar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 10	este	este	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
 11	rechazo	rechazo	NOUN	NN	Gender=Masc|Number=Sing	9	obj	_	_
-12	como	como	ADP	IN	_	14	case	_	_
+12	como	como	SCONJ	IN	_	14	case	_	_
 13	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	justificación	justificación	NOUN	NN	Gender=Fem|Number=Sing	9	obl	_	_
 15	de	de	ADP	IN	_	17	case	_	_
@@ -23951,7 +23951,7 @@
 # text = Tiene como objetivo tener en cuenta el tiempo de desplazamiento deduciéndolo de las horas reales trabajadas, sin que sea capaz de calcular el tiempo real de trayecto.
 # text_en = It aims to take the journey time into account after deducting this from the working hours actually completed, without being able to measure the real journey time.
 1	Tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	como	como	ADP	IN	_	3	case	_	_
+2	como	como	SCONJ	IN	_	3	case	_	_
 3	objetivo	objetivo	NOUN	NN	Gender=Masc|Number=Sing	1	obl	_	_
 4	tener	tener	VERB	VB	VerbForm=Inf	1	xcomp	_	_
 5	en	en	ADP	IN	_	6	case	_	_
@@ -24043,7 +24043,7 @@
 12	consecuencias	consecuencia	NOUN	NN	Gender=Fem|Number=Plur	11	obj	_	_
 13	tan	tan	ADV	RB	_	14	advmod	_	_
 14	probables	probable	ADJ	JJ	Gender=Fem|Number=Plur	12	amod	_	_
-15	como	como	ADP	IN	_	16	case	_	_
+15	como	como	SCONJ	IN	_	16	case	_	_
 16	inaceptables	inaceptable	ADJ	JJ	Gender=Fem|Number=Plur	13	obl	_	SpaceAfter=No
 17	"	"	PUNCT	''	PunctType=Quot	11	punct	_	SpaceAfter=No
 18	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
@@ -24806,7 +24806,7 @@
 2	directores	director	NOUN	NN	Gender=Masc|Number=Plur	13	nsubj	_	_
 3	de	de	ADP	IN	_	4	case	_	_
 4	empresas	empresa	NOUN	NN	Gender=Fem|Number=Plur	2	nmod	_	_
-5	como	como	ADP	IN	_	6	case	_	_
+5	como	como	SCONJ	IN	_	6	case	_	_
 6	Spotify	Spotify	PROPN	NNP	Number=Sing	4	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	PunctType=Comm	8	punct	_	_
 8	Tesla	Tesla	PROPN	NNP	Number=Sing	6	conj	_	SpaceAfter=No
@@ -24861,7 +24861,7 @@
 23	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	partido	partido	NOUN	NN	Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
 25	,	,	PUNCT	,	PunctType=Comm	28	punct	_	_
-26	como	como	ADP	IN	_	28	case	_	_
+26	como	como	SCONJ	IN	_	28	case	_	_
 27	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	vicesecretario	vicesecretario	NOUN	NN	Gender=Masc|Number=Sing	21	nmod	_	_
 29	sectorial	sectorial	ADJ	JJ	Gender=Masc|Number=Sing	28	amod	_	_
@@ -25022,7 +25022,7 @@
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	momento	momento	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 9	,	,	PUNCT	,	PunctType=Comm	11	punct	_	_
-10	como	como	ADP	IN	_	11	case	_	_
+10	como	como	SCONJ	IN	_	11	case	_	_
 11	secretaria	secretaria	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
 12	general	general	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	_
 13-14	del	_	_	_	_	_	_	_	_
@@ -25103,7 +25103,7 @@
 1	Pedro	Pedro	PROPN	NNP	Gender=Masc|Number=Sing	9	nsubj	_	_
 2	Sánchez	Sánchez	PROPN	NNP	Gender=Masc|Number=Sing	1	flat:name	_	SpaceAfter=No
 3	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
-4	como	como	ADP	IN	_	7	case	_	_
+4	como	como	SCONJ	IN	_	7	case	_	_
 5	otros	otro	DET	PDT	Gender=Masc|Number=Plur|PronType=Ind	7	det	_	_
 6	muchos	mucho	DET	DT	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	7	det	_	_
 7	socialistas	socialista	NOUN	NN	Gender=Masc|Number=Plur	9	obl	_	Proper=True|SpaceAfter=No
@@ -25499,7 +25499,7 @@
 1	Fundado	fundar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	acl	_	_
 2	en	en	ADP	IN	_	3	case	_	_
 3	1925	1925	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	1	obl	_	_
-4	como	como	ADP	IN	_	5	case	_	_
+4	como	como	SCONJ	IN	_	5	case	_	_
 5	entretenimiento	entretenimiento	NOUN	NN	Gender=Masc|Number=Sing	1	obl	_	_
 6	para	para	ADP	IN	_	8	case	_	_
 7	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
@@ -25925,7 +25925,7 @@
 1	Tanto	tanto	ADV	RB	PronType=Dem	3	cc:preconj	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	momento	momento	NOUN	NN	Gender=Masc|Number=Sing	13	nsubj:pass	_	_
-4	como	como	ADP	IN	_	6	cc	_	_
+4	como	como	SCONJ	IN	_	6	cc	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	secuencia	secuencia	NOUN	NN	Gender=Fem|Number=Sing	3	conj	_	_
 7	de	de	ADP	IN	_	8	case	_	_
@@ -26348,7 +26348,7 @@
 11	poderes	poder	NOUN	NN	Gender=Masc|Number=Plur	7	nmod	_	_
 12	coloniales	colonial	ADJ	JJ	Gender=Masc|Number=Plur	11	amod	_	SpaceAfter=No
 13	,	,	PUNCT	,	PunctType=Comm	16	punct	_	_
-14	como	como	ADP	IN	_	16	case	_	_
+14	como	como	SCONJ	IN	_	16	case	_	_
 15	Gran	gran	ADJ	JJ	Number=Sing	16	amod	_	Proper=True
 16	Bretaña	Bretaña	PROPN	NNP	Number=Sing	11	nmod	_	_
 17	y	y	CCONJ	CC	_	18	cc	_	_
@@ -26399,7 +26399,7 @@
 7	algunos	alguno	DET	DT	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
 8	países	país	NOUN	NN	Gender=Masc|Number=Plur	19	nsubj	_	SpaceAfter=No
 9	,	,	PUNCT	,	PunctType=Comm	11	punct	_	_
-10	como	como	ADP	IN	_	11	case	_	_
+10	como	como	SCONJ	IN	_	11	case	_	_
 11	Finlandia	Finlandia	PROPN	NNP	Number=Sing	8	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	,	PunctType=Comm	13	punct	_	_
 13	Polonia	Polonia	PROPN	NNP	Number=Sing	11	conj	_	_
@@ -26482,7 +26482,7 @@
 9	en	en	ADP	IN	_	11	case	_	_
 10	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	ruina	ruina	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
-12	como	como	ADP	IN	_	13	case	_	_
+12	como	como	SCONJ	IN	_	13	case	_	_
 13	resultado	resultado	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	_
 14	de	de	ADP	IN	_	16	case	_	_
 15	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
@@ -26610,7 +26610,7 @@
 11	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
 12	Ulrich	Ulrich	PROPN	NNP	Gender=Masc|Number=Sing	22	nsubj	_	SpaceAfter=No
 13	,	,	PUNCT	,	PunctType=Comm	15	punct	_	_
-14	como	como	ADP	IN	_	15	case	_	_
+14	como	como	SCONJ	IN	_	15	case	_	_
 15	ganador	ganador	NOUN	NN	Gender=Masc|Number=Sing	12	nmod	_	_
 16	de	de	ADP	IN	_	18	case	_	_
 17	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
@@ -26722,7 +26722,7 @@
 2	privado	privado	NOUN	NN	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
 3	,	,	PUNCT	,	PunctType=Comm	8	punct	_	_
 4	así	así	ADV	RB	ExtPos=CCONJ	8	cc	_	_
-5	como	como	ADP	IN	_	4	fixed	_	_
+5	como	como	SCONJ	IN	_	4	fixed	_	_
 6	también	también	ADV	RB	_	8	advmod	_	_
 7	en	en	ADP	IN	_	8	case	_	_
 8	público	público	NOUN	NN	Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
@@ -27279,7 +27279,7 @@
 3	puede	poder	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 4	ser	ser	AUX	VB	VerbForm=Inf	5	aux:pass	_	_
 5	visto	ver	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-6	como	como	ADP	IN	_	8	case	_	_
+6	como	como	SCONJ	IN	_	8	case	_	_
 7	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	punto	punto	NOUN	NN	Gender=Masc|Number=Sing	5	obl	_	_
 9	de	de	ADP	IN	_	10	case	_	_
@@ -27287,7 +27287,7 @@
 11	en	en	ADP	IN	_	13	case	_	_
 12	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
 13	carrera	carrera	NOUN	NN	Gender=Fem|Number=Sing	8	nmod	_	_
-14	como	como	ADP	IN	_	16	case	_	_
+14	como	como	SCONJ	IN	_	16	case	_	_
 15	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	radical	radical	NOUN	NN	Gender=Masc|Number=Sing	13	nmod	_	_
 17	revolucionario	revolucionario	ADJ	JJ	Gender=Masc|Number=Sing	16	amod	_	SpaceAfter=No
@@ -28246,7 +28246,7 @@
 7	tanto	tanto	ADV	RB	PronType=Dem	9	cc:preconj	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	Morricone	Morricone	PROPN	NNP	Gender=Masc|Number=Sing	5	nmod	_	_
-10	como	como	ADP	IN	_	11	cc	_	_
+10	como	como	SCONJ	IN	_	11	cc	_	_
 11	Metti	Metti	PROPN	NNP	Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
 12	,	,	PUNCT	,	PunctType=Comm	13	punct	_	_
 13	juntos	junto	ADJ	JJ	Gender=Masc|Number=Plur	9	amod	_	_
@@ -28323,7 +28323,7 @@
 24	caracterizó	caracterizar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	20	acl:relcl	_	_
 25	a	a	ADP	IN	_	26	case	_	_
 26	ambos	ambos	NOUN	NN	Gender=Masc|Number=Plur	24	obl	_	_
-27	como	como	ADP	IN	_	28	case	_	_
+27	como	como	SCONJ	IN	_	28	case	_	_
 28	artistas	artista	NOUN	NN	Gender=Masc|Number=Plur	24	obl	_	_
 29	de	de	ADP	IN	_	30	case	_	_
 30	estilo	estilo	NOUN	NN	Gender=Masc|Number=Sing	28	nmod	_	SpaceAfter=No

@@ -16,7 +16,7 @@
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="17">
     <tag name="ADJ">1485</tag><!-- nuevo, primero, gran, último, mayor, unido, británico, nacional, grande, propio -->
-    <tag name="ADP">3955</tag><!-- de, en, a, por, con, para, como, que, entre, durante -->
+    <tag name="ADP">3830</tag><!-- de, en, a, por, con, para, que, entre, durante, sobre -->
     <tag name="ADV">879</tag><!-- no, más, también, cuando, antes, después, ya, muy, donde, solo -->
     <tag name="AUX">634</tag><!-- ser, haber, estar, poder, deber, do, soler -->
     <tag name="CCONJ">582</tag><!-- y, pero, o, e, ni, and -->
@@ -28,7 +28,7 @@
     <tag name="PRON">1046</tag><!-- él, que, su, yo, cual, quien, tanto, tú, cuál, qué -->
     <tag name="PROPN">1252</tag><!-- Cristo, China, Trump, mediterráneo, Europa, Hong, Italia, Kong, Albania, Australia -->
     <tag name="PUNCT">2290</tag><!-- ,, ., ", (, ), :, ;, -, ?, ¿ -->
-    <tag name="SCONJ">279</tag><!-- que, si, mientras, como, aunque, porque, a, de, hasta, para -->
+    <tag name="SCONJ">404</tag><!-- que, como, si, mientras, aunque, porque, a, de, hasta, para -->
     <tag name="SYM">21</tag><!-- % -->
     <tag name="VERB">2270</tag><!-- tener, hacer, decir, ser, estar, haber, dar, empezar, establecer, ir -->
     <tag name="X">7</tag><!-- bjórr, ey, kven, maiorum, meänkieli, mos, oblast -->
