@@ -22824,16 +22824,16 @@
 # text = Lo único que no está claro ahora es en cuál.
 # text_en = It is now only unclear, in which one.
 1	Lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	det	_	_
-2	único	único	ADJ	JJ	Gender=Masc|Number=Sing	8	nsubj	_	_
+2	único	único	ADJ	JJ	Gender=Masc|Number=Sing	10	nsubj	_	_
 3	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	_
 4	no	no	ADV	RB	Polarity=Neg	6	advmod	_	_
 5	está	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 6	claro	claro	ADJ	JJ	Gender=Masc|Number=Sing	2	acl:relcl	_	_
 7	ahora	ahora	ADV	RB	_	6	advmod	_	_
-8	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 9	en	en	ADP	IN	_	10	case	_	_
-10	cuál	cuál	PRON	WP	Number=Sing|PronType=Int	8	obl	_	SpaceAfter=No
-11	.	.	PUNCT	.	PunctType=Peri	8	punct	_	_
+10	cuál	cuál	PRON	WP	Number=Sing|PronType=Int	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	.	PunctType=Peri	10	punct	_	_
 
 # newdoc id = n02048
 # sent_id = n02048002
