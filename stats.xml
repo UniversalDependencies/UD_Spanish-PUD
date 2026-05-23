@@ -18,7 +18,7 @@
     <tag name="ADJ">1487</tag><!-- nuevo, primero, gran, último, mayor, unido, británico, nacional, grande, propio -->
     <tag name="ADP">3830</tag><!-- de, en, a, por, con, para, que, entre, durante, sobre -->
     <tag name="ADV">879</tag><!-- no, más, también, cuando, antes, después, ya, muy, donde, solo -->
-    <tag name="AUX">634</tag><!-- ser, haber, estar, poder, deber, do, soler -->
+    <tag name="AUX">635</tag><!-- ser, haber, estar, poder, deber, do, soler -->
     <tag name="CCONJ">582</tag><!-- y, pero, o, e, ni, and -->
     <tag name="DET">3338</tag><!-- el, uno, este, otro, todo, ese, mucho, esto, cada, vario -->
     <tag name="INTJ">1</tag><!-- yum -->
@@ -30,7 +30,7 @@
     <tag name="PUNCT">2290</tag><!-- ,, ., ", (, ), :, ;, -, ?, ¿ -->
     <tag name="SCONJ">404</tag><!-- que, como, si, mientras, aunque, porque, a, de, hasta, para -->
     <tag name="SYM">21</tag><!-- % -->
-    <tag name="VERB">2270</tag><!-- tener, hacer, decir, ser, estar, haber, dar, empezar, establecer, ir -->
+    <tag name="VERB">2269</tag><!-- tener, hacer, decir, ser, estar, haber, dar, empezar, establecer, ir -->
     <tag name="X">7</tag><!-- bjórr, ey, kven, maiorum, meänkieli, mos, oblast -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -49,7 +49,7 @@
     <feat name="Degree" value="Pos" upos="ADJ">2</feat><!-- American, Talking -->
     <feat name="Degree" value="Sup" upos="ADJ">5</feat><!-- máxima, pésimo -->
     <feat name="ExtPos" value="ADP" upos="ADP,ADV,NOUN,VERB">77</feat><!-- a, en, debido, acerca, por, junto, De, con, frente, para -->
-    <feat name="ExtPos" value="ADV" upos="ADJ,ADP,ADV,SCONJ,VERB">49</feat><!-- a, Mientras, alrededor, en, hoy, per, por, puede, sobre, Claro -->
+    <feat name="ExtPos" value="ADV" upos="ADJ,ADP,ADV,SCONJ,VERB">47</feat><!-- a, Mientras, alrededor, hoy, per, por, puede, sobre, Claro, Más -->
     <feat name="ExtPos" value="CCONJ" upos="ADP,ADV,CCONJ">9</feat><!-- así, a, o -->
     <feat name="ExtPos" value="SCONJ" upos="ADV,DET,SCONJ,VERB">32</feat><!-- ya, a, mientras, hasta, como, de, debido, para, una, En -->
     <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,AUX,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,PUNCT,SCONJ,VERB,X">67</feat><!-- The, My, News, Really, You, cápita, per, -, American, Anyway -->
@@ -112,33 +112,33 @@
     <dep name="acl">116</dep>
     <dep name="acl:relcl">244</dep>
     <dep name="advcl">180</dep>
-    <dep name="advmod">818</dep>
+    <dep name="advmod">816</dep>
     <dep name="amod">1311</dep>
     <dep name="appos">320</dep>
     <dep name="aux">301</dep>
     <dep name="aux:pass">94</dep>
-    <dep name="case">3697</dep>
+    <dep name="case">3706</dep>
     <dep name="cc">570</dep>
     <dep name="cc:preconj">12</dep>
     <dep name="ccomp">150</dep>
     <dep name="compound">15</dep>
     <dep name="compound:prt">194</dep>
     <dep name="conj">656</dep>
-    <dep name="cop">239</dep>
+    <dep name="cop">240</dep>
     <dep name="csubj">41</dep>
     <dep name="csubj:pass">16</dep>
     <dep name="dep">3</dep>
-    <dep name="det">3503</dep>
+    <dep name="det">3509</dep>
     <dep name="discourse">92</dep>
     <dep name="dislocated">1</dep>
     <dep name="expl">1</dep>
     <dep name="expl:pass">120</dep>
     <dep name="expl:pv">3</dep>
-    <dep name="fixed">316</dep>
+    <dep name="fixed">301</dep>
     <dep name="flat">1</dep>
     <dep name="flat:name">200</dep>
     <dep name="mark">350</dep>
-    <dep name="nmod">1805</dep>
+    <dep name="nmod">1806</dep>
     <dep name="nsubj">1190</dep>
     <dep name="nsubj:pass">165</dep>
     <dep name="nummod">191</dep>

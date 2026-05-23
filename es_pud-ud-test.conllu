@@ -735,9 +735,9 @@
 4	a	a	ADP	IN	_	6	case	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	cárcel	cárcel	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	_
-7	de	de	ADP	IN	_	3	discourse	_	_
-8	todas	todo	DET	DT	Gender=Fem|Number=Plur|PronType=Tot	7	fixed	_	_
-9	formas	forma	NOUN	NN	Gender=Fem|Number=Plur	7	fixed	_	SpaceAfter=No
+7	de	de	ADP	IN	_	9	case	_	_
+8	todas	todo	DET	DT	Gender=Fem|Number=Plur|PronType=Tot	9	det	_	_
+9	formas	forma	NOUN	NN	Gender=Fem|Number=Plur	3	discourse	_	SpaceAfter=No
 10	;	;	PUNCT	:	PunctType=Semi	11	punct	_	_
 11	espero	esperar	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 12	que	que	SCONJ	IN	_	13	mark	_	_
@@ -3792,8 +3792,8 @@
 11	niveles	nivel	NOUN	NN	Gender=Masc|Number=Plur	9	obj	_	_
 12	de	de	ADP	IN	_	13	case	_	_
 13	hierro	hierro	NOUN	NN	Gender=Masc|Number=Sing	11	nmod	_	_
-14	en	en	ADP	IN	ExtPos=ADV	11	advmod	_	_
-15	general	general	NOUN	NN	Number=Sing	14	fixed	_	SpaceAfter=No
+14	en	en	ADP	IN	_	15	case	_	_
+15	general	general	NOUN	NN	Number=Sing	11	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	,	PunctType=Comm	17	punct	_	_
 17	afirman	afirmar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 18	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
@@ -9565,8 +9565,8 @@
 9	Loving	Loving	PROPN	NNP	Gender=Masc|Number=Plur	17	nsubj	_	SpaceAfter=No
 10	,	,	PUNCT	,	PunctType=Comm	14	punct	_	_
 11	y	y	CCONJ	CC	_	14	cc	_	_
-12	en	en	ADP	IN	ExtPos=ADV	14	advmod	_	_
-13	particular	particular	NOUN	NN	Number=Sing	12	fixed	_	_
+12	en	en	ADP	IN	_	13	case	_	_
+13	particular	particular	NOUN	NN	Number=Sing	14	obl	_	_
 14	Richard	Richard	PROPN	NNP	Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
 15	,	,	PUNCT	,	PunctType=Comm	14	punct	_	_
 16	fueron	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	_
@@ -11145,10 +11145,10 @@
 # parallel_id = pud/w01008043
 # text = De todas maneras, hay diferencias relevantes entre las leyes y los trámites de Irlanda del Norte, Inglaterra y Gales.
 # text_en = However, there are important differences in law and procedure between Northern Ireland and England and Wales.
-1	De	de	ADP	IN	_	5	discourse	_	_
-2	todas	todo	DET	DT	Gender=Fem|Number=Plur|PronType=Tot	1	fixed	_	_
-3	maneras	manera	NOUN	NN	Gender=Fem|Number=Plur	1	fixed	_	SpaceAfter=No
-4	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
+1	De	de	ADP	IN	_	3	case	_	_
+2	todas	todo	DET	DT	Gender=Fem|Number=Plur|PronType=Tot	3	det	_	_
+3	maneras	manera	NOUN	NN	Gender=Fem|Number=Plur	5	discourse	_	SpaceAfter=No
+4	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
 5	hay	haber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	diferencias	diferencia	NOUN	NN	Gender=Fem|Number=Plur	5	obj	_	_
 7	relevantes	relevante	ADJ	JJ	Gender=Fem|Number=Plur	6	amod	_	_
@@ -15055,10 +15055,10 @@
 # parallel_id = pud/w01058009
 # text = De todas maneras, esto fue revertido cuando Julian murió en la batalla del 363.
 # text_en = However this was reversed when Julian was killed in battle in 363.
-1	De	de	ADP	IN	_	7	discourse	_	_
-2	todas	todo	DET	DT	Gender=Fem|Number=Plur|PronType=Tot	1	fixed	_	_
-3	maneras	manera	NOUN	NN	Gender=Fem|Number=Plur	1	fixed	_	SpaceAfter=No
-4	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
+1	De	de	ADP	IN	_	3	case	_	_
+2	todas	todo	DET	DT	Gender=Fem|Number=Plur|PronType=Tot	3	det	_	_
+3	maneras	manera	NOUN	NN	Gender=Fem|Number=Plur	7	discourse	_	SpaceAfter=No
+4	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
 5	esto	esto	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	7	nsubj:pass	_	_
 6	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
 7	revertido	revertir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -20422,8 +20422,8 @@
 8	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	mayas	maya	NOUN	NN	Gender=Masc|Number=Plur	14	nsubj	_	Proper=True
 10	eran	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	14	cop	_	_
-11	en	en	ADP	IN	_	14	discourse	_	_
-12	definitiva	definitiva	NOUN	NN	Gender=Fem|Number=Sing	11	fixed	_	_
+11	en	en	ADP	IN	_	12	case	_	_
+12	definitiva	definitiva	NOUN	NN	Gender=Fem|Number=Sing	14	discourse	_	_
 13	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	pueblo	pueblo	NOUN	NN	Gender=Masc|Number=Sing	6	ccomp	_	_
 15	"	"	PUNCT	``	PunctType=Quot	16	punct	_	SpaceAfter=No
@@ -24224,9 +24224,9 @@
 2	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	_
 3	recalcado	recalcar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	que	que	SCONJ	IN	_	9	mark	_	_
-5	de	de	ADP	IN	_	9	discourse	_	_
-6	ninguna	ninguno	DET	DT	Gender=Fem|Number=Sing|PronType=Neg	5	fixed	_	_
-7	manera	manera	NOUN	NN	Gender=Fem|Number=Sing	5	fixed	_	_
+5	de	de	ADP	IN	_	7	case	_	_
+6	ninguna	ninguno	DET	DT	Gender=Fem|Number=Sing|PronType=Neg	7	det	_	_
+7	manera	manera	NOUN	NN	Gender=Fem|Number=Sing	9	discourse	_	_
 8	podemos	poder	AUX	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
 9	continuar	continuar	VERB	VB	VerbForm=Inf	3	csubj:pass	_	_
 10	con	con	ADP	IN	_	11	case	_	_
@@ -27000,10 +27000,10 @@
 # parallel_id = pud/w03004107
 # text = De todas maneras, Pyrrhus fue forzado a dejar Sicilia para atender unos negocios en el sur de Italia.
 # text_en = However, Pyrrhus was forced to leave Sicily in order to attend to business in southern Italy.
-1	De	de	ADP	IN	_	7	discourse	_	_
-2	todas	todo	DET	DT	Gender=Fem|Number=Plur|PronType=Tot	1	fixed	_	_
-3	maneras	manera	NOUN	NN	Gender=Fem|Number=Plur	1	fixed	_	SpaceAfter=No
-4	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
+1	De	de	ADP	IN	_	3	case	_	_
+2	todas	todo	DET	DT	Gender=Fem|Number=Plur|PronType=Tot	3	det	_	_
+3	maneras	manera	NOUN	NN	Gender=Fem|Number=Plur	7	discourse	_	SpaceAfter=No
+4	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
 5	Pyrrhus	Pyrrhus	PROPN	NNP	Gender=Masc|Number=Sing	7	nsubj:pass	_	_
 6	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
 7	forzado	forzar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -27217,10 +27217,10 @@
 # parallel_id = pud/w03007008
 # text = De todas maneras, ellos no se expandieron hasta que barcos suficientemente grandes fueron construídos para cruzar los océanos.
 # text_en = However, they did not expand until ships big enough to cross seas were built.
-1	De	de	ADP	IN	_	8	discourse	_	_
-2	todas	todo	DET	DT	Gender=Fem|Number=Plur|PronType=Tot	1	fixed	_	_
-3	maneras	manera	NOUN	NN	Gender=Fem|Number=Plur	1	fixed	_	SpaceAfter=No
-4	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
+1	De	de	ADP	IN	_	3	case	_	_
+2	todas	todo	DET	DT	Gender=Fem|Number=Plur|PronType=Tot	3	det	_	_
+3	maneras	manera	NOUN	NN	Gender=Fem|Number=Plur	8	discourse	_	SpaceAfter=No
+4	,	,	PUNCT	,	PunctType=Comm	3	punct	_	_
 5	ellos	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
 6	no	no	ADV	RB	Polarity=Neg	8	advmod	_	_
 7	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	compound:prt	_	_
