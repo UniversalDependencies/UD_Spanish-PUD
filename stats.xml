@@ -15,14 +15,14 @@
   <fusions unique="63" /><!-- del, al, verlo, beneficiarse, convirtiéndose, hacerlo, recuperarlo, Didn't, Don't, admitiéndolo, alejarse, aplicándolo, centrarse, centrándose, comprometerse -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="17">
-    <tag name="ADJ">1485</tag><!-- nuevo, primero, gran, último, mayor, unido, británico, nacional, grande, propio -->
+    <tag name="ADJ">1487</tag><!-- nuevo, primero, gran, último, mayor, unido, británico, nacional, grande, propio -->
     <tag name="ADP">3830</tag><!-- de, en, a, por, con, para, que, entre, durante, sobre -->
     <tag name="ADV">879</tag><!-- no, más, también, cuando, antes, después, ya, muy, donde, solo -->
     <tag name="AUX">634</tag><!-- ser, haber, estar, poder, deber, do, soler -->
     <tag name="CCONJ">582</tag><!-- y, pero, o, e, ni, and -->
     <tag name="DET">3338</tag><!-- el, uno, este, otro, todo, ese, mucho, esto, cada, vario -->
     <tag name="INTJ">1</tag><!-- yum -->
-    <tag name="NOUN">4807</tag><!-- año, parte, estado, ciudad, vez, guerra, lugar, día, gobierno, persona -->
+    <tag name="NOUN">4805</tag><!-- año, parte, estado, ciudad, vez, guerra, lugar, día, gobierno, persona -->
     <tag name="NUM">435</tag><!-- dos, tres, 1, 10, cuatro, 3, mil, seis, 70, 100 -->
     <tag name="PART">2</tag><!-- not -->
     <tag name="PRON">1046</tag><!-- él, que, su, yo, cual, quien, tanto, tú, cuál, qué -->
