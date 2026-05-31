@@ -48,10 +48,10 @@
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">145</feat><!-- más, mayor, menos, mejores, mejor, mayores, peor, Stranger, menor, menores -->
     <feat name="Degree" value="Pos" upos="ADJ">2</feat><!-- American, Talking -->
     <feat name="Degree" value="Sup" upos="ADJ">5</feat><!-- máxima, pésimo -->
-    <feat name="ExtPos" value="ADP" upos="ADP,ADV,NOUN,VERB">77</feat><!-- a, en, debido, acerca, por, junto, De, con, frente, para -->
+    <feat name="ExtPos" value="ADP" upos="ADP,ADV,NOUN,VERB">43</feat><!-- a, debido, acerca, junto, en, De, frente, para -->
     <feat name="ExtPos" value="ADV" upos="ADJ,ADP,ADV,SCONJ,VERB">47</feat><!-- a, Mientras, alrededor, hoy, per, por, puede, sobre, Claro, Más -->
     <feat name="ExtPos" value="CCONJ" upos="ADP,ADV,CCONJ">9</feat><!-- así, a, o -->
-    <feat name="ExtPos" value="SCONJ" upos="ADV,DET,SCONJ,VERB">32</feat><!-- ya, a, mientras, hasta, como, de, debido, para, una, En -->
+    <feat name="ExtPos" value="SCONJ" upos="ADV,DET,SCONJ,VERB">27</feat><!-- ya, mientras, hasta, como, debido, para, una, En, a, así -->
     <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,AUX,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,PUNCT,SCONJ,VERB,X">67</feat><!-- The, My, News, Really, You, cápita, per, -, American, Anyway -->
     <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">4457</feat><!-- la, las, una, su, que, esta, sus, guerra, parte, ciudad -->
     <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">7032</feat><!-- el, los, un, que, lo, su, años, este, año, lugar -->
@@ -109,7 +109,7 @@
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="44">
-    <dep name="acl">116</dep>
+    <dep name="acl">122</dep>
     <dep name="acl:relcl">244</dep>
     <dep name="advcl">180</dep>
     <dep name="advmod">816</dep>
@@ -117,7 +117,7 @@
     <dep name="appos">320</dep>
     <dep name="aux">301</dep>
     <dep name="aux:pass">94</dep>
-    <dep name="case">3706</dep>
+    <dep name="case">3746</dep>
     <dep name="cc">570</dep>
     <dep name="cc:preconj">12</dep>
     <dep name="ccomp">150</dep>
@@ -129,16 +129,16 @@
     <dep name="csubj:pass">16</dep>
     <dep name="dep">3</dep>
     <dep name="det">3509</dep>
-    <dep name="discourse">92</dep>
+    <dep name="discourse">91</dep>
     <dep name="dislocated">1</dep>
     <dep name="expl">1</dep>
     <dep name="expl:pass">120</dep>
     <dep name="expl:pv">3</dep>
-    <dep name="fixed">301</dep>
+    <dep name="fixed">221</dep>
     <dep name="flat">1</dep>
     <dep name="flat:name">200</dep>
-    <dep name="mark">350</dep>
-    <dep name="nmod">1806</dep>
+    <dep name="mark">351</dep>
+    <dep name="nmod">1840</dep>
     <dep name="nsubj">1190</dep>
     <dep name="nsubj:pass">165</dep>
     <dep name="nummod">191</dep>
