@@ -3134,7 +3134,7 @@
 26	alarmantes	alarmante	ADJ	JJ	Gender=Fem|Number=Plur	25	amod	_	SpaceAfter=No
 27	"	"	PUNCT	''	PunctType=Quot	25	punct	_	_
 28	sobre	sobre	ADP	IN	_	32	case	_	_
-29	cómo	cómo	ADV	WRB	_	32	advmod	_	_
+29	cómo	cómo	ADV	WRB	PronType=Int	32	advmod	_	_
 30	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	31	det	_	_
 31	policías	policía	NOUN	NN	Gender=Masc|Number=Plur	32	nsubj	_	_
 32	interactúan	interactuar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	xcomp	_	_
@@ -4313,7 +4313,7 @@
 25	a	a	ADP	IN	_	27	case	_	_
 26	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
 27	gente	gente	NOUN	NN	Gender=Fem|Number=Sing	24	obl	_	_
-28	cómo	cómo	ADV	WRB	_	29	advmod	_	_
+28	cómo	cómo	ADV	WRB	PronType=Int	29	advmod	_	_
 29	solucionar	solucionar	VERB	VB	VerbForm=Inf	24	xcomp	_	_
 30	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	31	det	_	_
 31	problemas	problema	NOUN	NN	Gender=Masc|Number=Plur	29	obj	_	_
@@ -4684,7 +4684,7 @@
 7	y	y	CCONJ	CC	_	8	cc	_	_
 8	Zayion	Zayion	PROPN	NNP	Gender=Masc|Number=Sing	6	conj	_	_
 9	describieron	describir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-10	cómo	cómo	ADV	WRB	_	11	advmod	_	_
+10	cómo	cómo	ADV	WRB	PronType=Int	11	advmod	_	_
 11	grabaron	grabar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	ccomp	_	_
 12	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
 13	versión	versión	NOUN	NN	Gender=Fem|Number=Sing	11	obj	_	_
@@ -18136,7 +18136,7 @@
 8	música	música	NOUN	NN	Gender=Fem|Number=Sing	5	nmod	_	_
 9	dependen	depender	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	de	de	ADP	IN	_	13	case	_	_
-11	cómo	cómo	ADV	WRB	_	13	advmod	_	_
+11	cómo	cómo	ADV	WRB	PronType=Int	13	advmod	_	_
 12	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl:pass	_	_
 13	define	definir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	xcomp	_	_
 14	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
@@ -21078,7 +21078,7 @@
 19	ella	él	PRON	PRP	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obl	_	_
 20	para	para	ADP	IN	_	21	case	_	_
 21	aprender	aprender	VERB	VB	VerbForm=Inf	17	xcomp	_	_
-22	cómo	cómo	ADV	WRB	_	26	advmod	_	_
+22	cómo	cómo	ADV	WRB	PronType=Int	26	advmod	_	_
 23	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	24	det	_	_
 24	laboratorio	laboratorio	NOUN	NN	Gender=Masc|Number=Sing	26	nsubj	_	_
 25	podría	poder	AUX	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	26	aux	_	_
