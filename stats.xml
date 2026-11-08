@@ -22,10 +22,10 @@
     <tag name="CCONJ">582</tag><!-- y, pero, o, e, ni, and -->
     <tag name="DET">3338</tag><!-- el, uno, este, otro, todo, ese, mucho, esto, cada, vario -->
     <tag name="INTJ">1</tag><!-- yum -->
-    <tag name="NOUN">4805</tag><!-- año, parte, estado, ciudad, vez, guerra, lugar, día, gobierno, persona -->
+    <tag name="NOUN">4798</tag><!-- año, parte, estado, ciudad, vez, guerra, lugar, día, gobierno, persona -->
     <tag name="NUM">435</tag><!-- dos, tres, 1, 10, cuatro, 3, mil, seis, 70, 100 -->
     <tag name="PART">2</tag><!-- not -->
-    <tag name="PRON">1046</tag><!-- él, que, su, yo, cual, quien, tanto, tú, cuál, qué -->
+    <tag name="PRON">1053</tag><!-- él, que, su, yo, cual, quien, algo, tanto, tú, cuál -->
     <tag name="PROPN">1252</tag><!-- Cristo, China, Trump, mediterráneo, Europa, Hong, Italia, Kong, Albania, Australia -->
     <tag name="PUNCT">2290</tag><!-- ,, ., ", (, ), :, ;, -, ?, ¿ -->
     <tag name="SCONJ">404</tag><!-- que, como, si, mientras, aunque, porque, a, de, hasta, para -->
@@ -54,7 +54,7 @@
     <feat name="ExtPos" value="SCONJ" upos="ADV,DET,SCONJ,VERB">27</feat><!-- ya, mientras, hasta, como, debido, para, una, En, a, así -->
     <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,AUX,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,PUNCT,SCONJ,VERB,X">67</feat><!-- The, My, News, Really, You, cápita, per, -, American, Anyway -->
     <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">4457</feat><!-- la, las, una, su, que, esta, sus, guerra, parte, ciudad -->
-    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">7032</feat><!-- el, los, un, que, lo, su, años, este, año, lugar -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">7025</feat><!-- el, los, un, que, lo, su, años, este, año, lugar -->
     <feat name="Hyph" value="Yes" upos="ADJ">4</feat><!-- austro, co, franco, multi -->
     <feat name="Mood" value="Cnd" upos="AUX,VERB">54</feat><!-- podría, sería, debería, podrían, aplicaría, estaría, serían, asistiría, ayudaría, conocerían -->
     <feat name="Mood" value="Imp" upos="AUX,VERB">2</feat><!-- Do, Knuck -->
@@ -79,8 +79,8 @@
     <feat name="PrepCase" value="Pre" upos="PRON">3</feat><!-- sí, mí -->
     <feat name="PronType" value="Art" upos="DET">2989</feat><!-- el, la, los, un, las, una, unos, unas, The, Le -->
     <feat name="PronType" value="Dem" upos="ADV,DET,PRON">172</feat><!-- este, esta, tanto, esto, ese, eso, estos, esos, estas, esa -->
-    <feat name="PronType" value="Ind" upos="DET,PRON">117</feat><!-- muchos, muchas, otros, varios, otra, otro, algunos, varias, otras, algunas -->
-    <feat name="PronType" value="Int" upos="DET,PRON">13</feat><!-- qué, cuál, quién, Cuáles, Quiénes -->
+    <feat name="PronType" value="Ind" upos="DET,PRON">124</feat><!-- muchos, muchas, otros, varios, otra, otro, algunos, varias, algo, otras -->
+    <feat name="PronType" value="Int" upos="ADV,DET,PRON">18</feat><!-- cómo, qué, cuál, quién, Cuáles, Quiénes -->
     <feat name="PronType" value="Int,Rel" upos="PRON">2</feat><!-- cuanto -->
     <feat name="PronType" value="Neg" upos="DET">2</feat><!-- ninguna, ningún -->
     <feat name="PronType" value="Prs" upos="DET,PRON">777</feat><!-- se, su, lo, sus, le, me, ellos, él, les, ella -->
@@ -112,7 +112,7 @@
     <dep name="acl">125</dep>
     <dep name="acl:relcl">244</dep>
     <dep name="advcl">180</dep>
-    <dep name="advmod">816</dep>
+    <dep name="advmod">817</dep>
     <dep name="amod">1311</dep>
     <dep name="appos">320</dep>
     <dep name="aux">301</dep>
@@ -143,7 +143,7 @@
     <dep name="nsubj:pass">165</dep>
     <dep name="nummod">191</dep>
     <dep name="obj">783</dep>
-    <dep name="obl">1532</dep>
+    <dep name="obl">1531</dep>
     <dep name="obl:agent">62</dep>
     <dep name="obl:arg">53</dep>
     <dep name="obl:tmod">67</dep>
