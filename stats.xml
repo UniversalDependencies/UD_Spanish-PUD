@@ -15,22 +15,22 @@
   <fusions unique="63" /><!-- del, al, verlo, beneficiarse, convirtiéndose, hacerlo, recuperarlo, Didn't, Don't, admitiéndolo, alejarse, aplicándolo, centrarse, centrándose, comprometerse -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="17">
-    <tag name="ADJ">1485</tag><!-- nuevo, primero, gran, último, mayor, unido, británico, nacional, grande, propio -->
-    <tag name="ADP">3955</tag><!-- de, en, a, por, con, para, como, que, entre, durante -->
+    <tag name="ADJ">1487</tag><!-- nuevo, primero, gran, último, mayor, unido, británico, nacional, grande, propio -->
+    <tag name="ADP">3830</tag><!-- de, en, a, por, con, para, que, entre, durante, sobre -->
     <tag name="ADV">879</tag><!-- no, más, también, cuando, antes, después, ya, muy, donde, solo -->
-    <tag name="AUX">634</tag><!-- ser, haber, estar, poder, deber, do, soler -->
+    <tag name="AUX">635</tag><!-- ser, haber, estar, poder, deber, do, soler -->
     <tag name="CCONJ">582</tag><!-- y, pero, o, e, ni, and -->
     <tag name="DET">3338</tag><!-- el, uno, este, otro, todo, ese, mucho, esto, cada, vario -->
     <tag name="INTJ">1</tag><!-- yum -->
-    <tag name="NOUN">4807</tag><!-- año, parte, estado, ciudad, vez, guerra, lugar, día, gobierno, persona -->
+    <tag name="NOUN">4798</tag><!-- año, parte, estado, ciudad, vez, guerra, lugar, día, gobierno, persona -->
     <tag name="NUM">435</tag><!-- dos, tres, 1, 10, cuatro, 3, mil, seis, 70, 100 -->
     <tag name="PART">2</tag><!-- not -->
-    <tag name="PRON">1046</tag><!-- él, que, su, yo, cual, quien, tanto, tú, cuál, qué -->
+    <tag name="PRON">1053</tag><!-- él, que, su, yo, cual, quien, algo, tanto, tú, cuál -->
     <tag name="PROPN">1252</tag><!-- Cristo, China, Trump, mediterráneo, Europa, Hong, Italia, Kong, Albania, Australia -->
     <tag name="PUNCT">2290</tag><!-- ,, ., ", (, ), :, ;, -, ?, ¿ -->
-    <tag name="SCONJ">279</tag><!-- que, si, mientras, como, aunque, porque, a, de, hasta, para -->
+    <tag name="SCONJ">404</tag><!-- que, como, si, mientras, aunque, porque, a, de, hasta, para -->
     <tag name="SYM">21</tag><!-- % -->
-    <tag name="VERB">2270</tag><!-- tener, hacer, decir, ser, estar, haber, dar, empezar, establecer, ir -->
+    <tag name="VERB">2269</tag><!-- tener, hacer, decir, ser, estar, haber, dar, empezar, establecer, ir -->
     <tag name="X">7</tag><!-- bjórr, ey, kven, maiorum, meänkieli, mos, oblast -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -48,13 +48,13 @@
     <feat name="Degree" value="Cmp" upos="ADJ,ADV">145</feat><!-- más, mayor, menos, mejores, mejor, mayores, peor, Stranger, menor, menores -->
     <feat name="Degree" value="Pos" upos="ADJ">2</feat><!-- American, Talking -->
     <feat name="Degree" value="Sup" upos="ADJ">5</feat><!-- máxima, pésimo -->
-    <feat name="ExtPos" value="ADP" upos="ADP,ADV,NOUN,VERB">77</feat><!-- a, en, debido, acerca, por, junto, De, con, frente, para -->
-    <feat name="ExtPos" value="ADV" upos="ADJ,ADP,ADV,SCONJ,VERB">49</feat><!-- a, Mientras, alrededor, en, hoy, per, por, puede, sobre, Claro -->
+    <feat name="ExtPos" value="ADP" upos="ADP,ADV,NOUN,VERB">36</feat><!-- a, debido, acerca, junto, en, De, frente, para -->
+    <feat name="ExtPos" value="ADV" upos="ADJ,ADP,ADV,SCONJ,VERB">47</feat><!-- a, Mientras, alrededor, hoy, per, por, puede, sobre, Claro, Más -->
     <feat name="ExtPos" value="CCONJ" upos="ADP,ADV,CCONJ">9</feat><!-- así, a, o -->
-    <feat name="ExtPos" value="SCONJ" upos="ADV,DET,SCONJ,VERB">32</feat><!-- ya, a, mientras, hasta, como, de, debido, para, una, En -->
+    <feat name="ExtPos" value="SCONJ" upos="ADV,DET,SCONJ,VERB">27</feat><!-- ya, mientras, hasta, como, debido, para, una, En, a, así -->
     <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,AUX,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,PUNCT,SCONJ,VERB,X">67</feat><!-- The, My, News, Really, You, cápita, per, -, American, Anyway -->
     <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">4457</feat><!-- la, las, una, su, que, esta, sus, guerra, parte, ciudad -->
-    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">7032</feat><!-- el, los, un, que, lo, su, años, este, año, lugar -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">7025</feat><!-- el, los, un, que, lo, su, años, este, año, lugar -->
     <feat name="Hyph" value="Yes" upos="ADJ">4</feat><!-- austro, co, franco, multi -->
     <feat name="Mood" value="Cnd" upos="AUX,VERB">54</feat><!-- podría, sería, debería, podrían, aplicaría, estaría, serían, asistiría, ayudaría, conocerían -->
     <feat name="Mood" value="Imp" upos="AUX,VERB">2</feat><!-- Do, Knuck -->
@@ -79,8 +79,8 @@
     <feat name="PrepCase" value="Pre" upos="PRON">3</feat><!-- sí, mí -->
     <feat name="PronType" value="Art" upos="DET">2989</feat><!-- el, la, los, un, las, una, unos, unas, The, Le -->
     <feat name="PronType" value="Dem" upos="ADV,DET,PRON">172</feat><!-- este, esta, tanto, esto, ese, eso, estos, esos, estas, esa -->
-    <feat name="PronType" value="Ind" upos="DET,PRON">117</feat><!-- muchos, muchas, otros, varios, otra, otro, algunos, varias, otras, algunas -->
-    <feat name="PronType" value="Int" upos="DET,PRON">13</feat><!-- qué, cuál, quién, Cuáles, Quiénes -->
+    <feat name="PronType" value="Ind" upos="DET,PRON">124</feat><!-- muchos, muchas, otros, varios, otra, otro, algunos, varias, algo, otras -->
+    <feat name="PronType" value="Int" upos="ADV,DET,PRON">18</feat><!-- cómo, qué, cuál, quién, Cuáles, Quiénes -->
     <feat name="PronType" value="Int,Rel" upos="PRON">2</feat><!-- cuanto -->
     <feat name="PronType" value="Neg" upos="DET">2</feat><!-- ninguna, ningún -->
     <feat name="PronType" value="Prs" upos="DET,PRON">777</feat><!-- se, su, lo, sus, le, me, ellos, él, les, ella -->
@@ -109,41 +109,41 @@
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="44">
-    <dep name="acl">116</dep>
+    <dep name="acl">125</dep>
     <dep name="acl:relcl">244</dep>
     <dep name="advcl">180</dep>
-    <dep name="advmod">818</dep>
+    <dep name="advmod">817</dep>
     <dep name="amod">1311</dep>
     <dep name="appos">320</dep>
     <dep name="aux">301</dep>
     <dep name="aux:pass">94</dep>
-    <dep name="case">3697</dep>
+    <dep name="case">3750</dep>
     <dep name="cc">570</dep>
     <dep name="cc:preconj">12</dep>
     <dep name="ccomp">150</dep>
     <dep name="compound">15</dep>
     <dep name="compound:prt">194</dep>
     <dep name="conj">656</dep>
-    <dep name="cop">239</dep>
+    <dep name="cop">240</dep>
     <dep name="csubj">41</dep>
     <dep name="csubj:pass">16</dep>
     <dep name="dep">3</dep>
-    <dep name="det">3503</dep>
-    <dep name="discourse">92</dep>
+    <dep name="det">3516</dep>
+    <dep name="discourse">91</dep>
     <dep name="dislocated">1</dep>
     <dep name="expl">1</dep>
     <dep name="expl:pass">120</dep>
     <dep name="expl:pv">3</dep>
-    <dep name="fixed">316</dep>
+    <dep name="fixed">200</dep>
     <dep name="flat">1</dep>
     <dep name="flat:name">200</dep>
-    <dep name="mark">350</dep>
-    <dep name="nmod">1805</dep>
+    <dep name="mark">354</dep>
+    <dep name="nmod">1844</dep>
     <dep name="nsubj">1190</dep>
     <dep name="nsubj:pass">165</dep>
     <dep name="nummod">191</dep>
     <dep name="obj">783</dep>
-    <dep name="obl">1532</dep>
+    <dep name="obl">1531</dep>
     <dep name="obl:agent">62</dep>
     <dep name="obl:arg">53</dep>
     <dep name="obl:tmod">67</dep>
