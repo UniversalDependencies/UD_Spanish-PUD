@@ -129,7 +129,7 @@
 2	me	yo	PRON	PRP	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obj	_	_
 3	complace	complacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	tener	tener	VERB	VB	VerbForm=Inf	3	csubj	_	_
-5	que	que	ADP	IN	_	6	mark	_	_
+5	que	que	SCONJ	IN	_	6	mark	_	_
 6-7	presionarles	_	_	_	_	_	_	_	SpaceAfter=No
 6	presionar	presionar	VERB	VB	VerbForm=Inf	4	xcomp	_	_
 7	les	él	PRON	PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	6	obl:arg	_	_
@@ -2506,7 +2506,7 @@
 9	gobierno	gobierno	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
 10	seguirá	seguir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 11	teniendo	tener	VERB	VBG	VerbForm=Ger	10	xcomp	_	_
-12	que	que	ADP	IN	_	13	mark	_	_
+12	que	que	SCONJ	IN	_	13	mark	_	_
 13	trabajar	trabajar	VERB	VB	VerbForm=Inf	11	xcomp	_	_
 14	con	con	ADP	IN	_	15	case	_	_
 15	él	él	PRON	PRP	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obl	_	_
@@ -4502,7 +4502,7 @@
 15	reconocido	reconocer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl:relcl	_	_
 16	que	que	SCONJ	IN	_	17	mark	_	_
 17	tenemos	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	15	ccomp	_	_
-18	que	que	ADP	IN	_	19	mark	_	_
+18	que	que	SCONJ	IN	_	19	mark	_	_
 19	hacer	hacer	VERB	VB	VerbForm=Inf	17	xcomp	_	_
 20	algo	algo	PRON	NN	Number=Sing|PronType=Ind	17	obj	_	_
 21	diferente	diferente	ADJ	JJ	Number=Sing	20	amod	_	SpaceAfter=No
@@ -9278,7 +9278,7 @@
 1	Martin	Martin	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	todavía	todavía	ADV	RB	_	3	advmod	_	_
 3	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	que	que	ADP	IN	_	5	mark	_	_
+4	que	que	SCONJ	IN	_	5	mark	_	_
 5	terminar	terminar	VERB	VB	VerbForm=Inf	3	xcomp	_	_
 6	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	3	obj	_	_
 7	de	de	ADP	IN	_	10	case	_	_
@@ -9320,7 +9320,7 @@
 3	holandeses	holandés	ADJ	JJ	Gender=Masc|Number=Plur	2	amod	_	Proper=True
 4	todavía	todavía	ADV	RB	_	5	advmod	_	_
 5	tienen	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	que	que	ADP	IN	_	7	mark	_	_
+6	que	que	SCONJ	IN	_	7	mark	_	_
 7	decidir	decidir	VERB	VB	VerbForm=Inf	5	xcomp	_	_
 8	si	si	SCONJ	IN	_	9	mark	_	_
 9	van	ir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
@@ -11011,7 +11011,7 @@
 16	1916	1916	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	conj	_	SpaceAfter=No
 17	,	,	PUNCT	,	PunctType=Comm	18	punct	_	_
 18	Asty	Asty	PROPN	NNP	Number=Sing	16	orphan	_	_
-19	Film	Film	PROPN	NNP	Number=Sing	18	flat:name	_	Proper=True|SpaceAfter=No|orig_deprel=nsubj:pass
+19	Film	Film	PROPN	NNP	Number=Sing	18	flat:name	_	orig_deprel=nsubj:pass|Proper=True|SpaceAfter=No
 20	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
 # sent_id = w01006081
@@ -19505,7 +19505,7 @@
 20	aprendizaje	aprendizaje	NOUN	NN	Gender=Masc|Number=Sing	18	nmod	_	_
 21	y	y	CCONJ	CC	_	27	cc	_	_
 22	tienes	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	conj	_	_
-23	que	que	ADP	IN	_	24	mark	_	_
+23	que	que	SCONJ	IN	_	24	mark	_	_
 24	mantener	mantener	VERB	VB	VerbForm=Inf	22	xcomp	_	_
 25	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
 26	mente	mente	NOUN	NN	Gender=Fem|Number=Sing	24	obj	_	_
@@ -21037,7 +21037,7 @@
 6	de	de	ADP	IN	_	7	case	_	_
 7	Skylark	Skylark	PROPN	NNP	Number=Sing	5	nmod	_	_
 8	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-9	que	que	ADP	IN	_	10	mark	_	_
+9	que	que	SCONJ	IN	_	10	mark	_	_
 10	ver	ver	VERB	VB	VerbForm=Inf	8	xcomp	_	_
 11	con	con	ADP	IN	_	13	case	_	_
 12	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
@@ -21620,7 +21620,7 @@
 7	apropiada	apropiado	ADJ	JJ	Gender=Fem|Number=Sing|VerbForm=Part	6	amod	_	_
 8	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pass	_	_
 9	tendría	tener	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
-10	que	que	ADP	IN	_	11	mark	_	_
+10	que	que	SCONJ	IN	_	11	mark	_	_
 11	construir	construir	VERB	VB	VerbForm=Inf	9	xcomp	_	_
 12	a	a	ADP	IN	_	14	case	_	_
 13	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
@@ -21958,7 +21958,7 @@
 30	cuenta	cuenta	NOUN	NN	Gender=Fem|Number=Sing	29	obj	_	_
 31	que	que	SCONJ	IN	_	32	mark	_	_
 32	tenían	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	30	acl	_	_
-33	que	que	ADP	IN	_	34	mark	_	_
+33	que	que	SCONJ	IN	_	34	mark	_	_
 34	cambiar	cambiar	VERB	VB	VerbForm=Inf	32	xcomp	_	_
 35	su	su	PRON	DTP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	36	det	_	_
 36	posición	posición	NOUN	NN	Gender=Fem|Number=Sing	32	obj	_	SpaceAfter=No
@@ -22367,7 +22367,7 @@
 18	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
 19	EUA	EUA	PROPN	NNP	Gender=Masc|Number=Plur	20	nsubj	_	_
 20	tendrían	tener	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	5	appos	_	_
-21	que	que	ADP	IN	_	22	mark	_	_
+21	que	que	SCONJ	IN	_	22	mark	_	_
 22	retirar	retirar	VERB	VB	VerbForm=Inf	20	xcomp	_	_
 23	todas	todo	DET	PDT	Gender=Fem|Number=Plur|PronType=Tot	25	det	_	_
 24	sus	su	PRON	DTP$	Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	25	det	_	_
@@ -25000,7 +25000,7 @@
 3	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	Gobierno	gobierno	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj	_	_
 5	tendrá	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
-6	que	que	ADP	IN	_	7	mark	_	_
+6	que	que	SCONJ	IN	_	7	mark	_	_
 7	lidiar	lidiar	VERB	VB	VerbForm=Inf	5	xcomp	_	_
 8	con	con	ADP	IN	_	10	case	_	_
 9	otra	otro	DET	DT	Gender=Fem|Number=Sing|PronType=Ind	10	det	_	_
@@ -25190,7 +25190,7 @@
 12	fondo	fondo	NOUN	NN	Gender=Masc|Number=Sing	10	fixed	_	SpaceAfter=No
 13	,	,	PUNCT	,	PunctType=Comm	10	punct	_	_
 14	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
-15	que	que	ADP	IN	_	16	mark	_	_
+15	que	que	SCONJ	IN	_	16	mark	_	_
 16	sacar	sacar	VERB	VB	VerbForm=Inf	14	xcomp	_	_
 17	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	det	_	_
 18	mejor	mejor	NOUN	NN	Gender=Masc|Number=Sing	14	obj	_	_
@@ -28718,7 +28718,7 @@
 5	interceptados	interceptar	VERB	VBN	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 6	y	y	CCONJ	CC	_	7	cc	_	_
 7	tuvieron	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	_
-8	que	que	ADP	IN	_	9	mark	_	_
+8	que	que	SCONJ	IN	_	9	mark	_	_
 9	presentar	presentar	VERB	VB	VerbForm=Inf	7	xcomp	_	_
 10	batalla	batalla	NOUN	NN	Gender=Fem|Number=Sing	7	obj	_	_
 11	en	en	ADP	IN	_	12	case	_	_
